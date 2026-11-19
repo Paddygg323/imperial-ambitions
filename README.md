@@ -1,6 +1,6 @@
 # Imperial Ambitions
 
-Standalone single-player strategy game for browsers and Android. This repository is the complete current phone-game and sprite-design handover, based on runtime **254**.
+Standalone single-player strategy game for browsers and Android. **This repository is the main source of the game and sprite library**, starting from runtime **254**.
 
 **The visual design is unfinished and the owner has rejected the current overall appearance.** This is a playable development build, not a store-ready release. The designer's task is to establish a coherent, professional sprite library and improve the presentation without changing the gameplay.
 
@@ -10,10 +10,15 @@ Standalone single-player strategy game for browsers and Android. This repository
 - [Latest terrain comparison](outputs/visual-review/sprites254/terrain-sheep.png)
 - [Current live sprite-to-source mapping](docs/live-sprite-map.json)
 - [Known limits and verification](docs/STATUS.md)
+- [Main-source workflow and automatic publishing](docs/DEVELOPMENT.md)
 
 ## Run locally
 
 Install Node.js 22 or newer. No dependencies or build step are needed to play:
+
+On Windows, double-click **Play Imperial Ambitions.cmd**, or use `npm run play`.
+This updates a clean main checkout from GitHub and launches the game from it.
+To serve your current local edits without pulling:
 
 ```sh
 npm start
@@ -35,7 +40,9 @@ Open **http://127.0.0.1:8790/**. Its search, enlargement and comparison controls
 npm test
 ```
 
-This runs the Node unit tests with bounded concurrency. For a portable browser smoke check:
+This runs the Node unit tests with bounded concurrency. Successful pushes to `main`
+automatically publish the game-only browser build; branch edits do not publish.
+For a portable browser smoke check:
 
 ```sh
 npm install

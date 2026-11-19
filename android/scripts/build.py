@@ -45,7 +45,8 @@ with zipfile.ZipFile(OUT/'unsigned.apk') as source,zipfile.ZipFile(OUT/'packaged
  for info in source.infolist():packaged.writestr(info.filename,source.read(info.filename),compress_type=info.compress_type)
  packaged.write(OUT/'dex/classes.dex','classes.dex',compress_type=zipfile.ZIP_DEFLATED)
 run(BUILD/'zipalign.exe','-f','4',OUT/'packaged.apk',OUT/'aligned.apk')
-key=OUT/'development.keystore'
+key=Path(os.environ.get('IMP_DEVELOPMENT_KEYSTORE',str(OUT/'development.keystore')))
+if os.environ.get('IMP_DEVELOPMENT_KEYSTORE') and not key.is_file():raise SystemExit('The configured development signing key is missing; refusing to create a different identity.')
 if not key.exists():run(JAVA/'keytool.exe','-genkeypair','-keystore',key,'-storepass','android','-keypass','android','-alias','development','-keyalg','RSA','-keysize','2048','-validity','10000','-dname','CN=Imperialism Rebuild Development')
 apk=ROOT/'outputs/Imperialism-Rebuild-development.apk'
 run(JAVA/'java.exe','-jar',BUILD/'lib/apksigner.jar','sign','--ks',key,'--ks-pass','pass:android','--key-pass','pass:android','--out',apk,OUT/'aligned.apk')

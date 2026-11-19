@@ -1,0 +1,22 @@
+{
+  "source": "game runtime only",
+  "publishedBaselineCommit": "937d93c7fdbfab26cd6eb4ef04d7ef1e24fc7680",
+  "runtimeFiles": 385,
+  "identicalToExistingPublicBuild": 381,
+  "changed": [
+    "boot.js",
+    "index.html",
+    "manifest.webmanifest",
+    "sw.js"
+  ],
+  "newRuntimePaths": [],
+  "excluded": [
+    "sprite library source and rejected revisions",
+    "docs and design references",
+    "game/test including extracted string fixture",
+    "Android sources and signing keys",
+    "work scripts, SDKs, personal saves, credentials"
+  ],
+  "addedBuildMetadata": "build-info.json",
+  "serviceWorkerChange": "Commit-specific offline cache name and complete runtime asset pre-cache list; game rules and sprites are unchanged."
+}

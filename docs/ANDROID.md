@@ -12,16 +12,16 @@ The Android shell embeds this project's own offline HTML/JavaScript game. The ex
 Build a local development APK from the repository root:
 
 ```powershell
-python -X utf8 android/scripts/build.py
+npm run android:apk
 ```
 
 Build and validate an unsigned AAB:
 
 ```powershell
-python -X utf8 android/scripts/bundle.py
+npm run android:bundle
 ```
 
-The scripts create local ignored staging files under `work/` and output packages under `outputs/`. Development signing uses a locally generated development key; no signing key is in Git.
+The scripts create local ignored staging files under `work/` and output packages under `outputs/`. Optional machine paths are read from ignored `work/android-local.json`; environment settings take precedence. Paddy's existing development key is retained locally. No signing key is in Git. A new developer must use their own key and separate test installation.
 
 Do not install over a player's existing package without a save backup and their approval. A fresh clone generates a different development signing key, so it cannot silently update an existing differently signed installation.
 

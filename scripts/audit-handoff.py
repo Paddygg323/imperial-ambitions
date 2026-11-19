@@ -1,5 +1,5 @@
 from pathlib import Path
-import re,json
+import re,json,subprocess
 root=Path(__file__).resolve().parents[1]
 rules={
  'github-token':r'(?:gh[pousr]_[A-Za-z0-9]{24,}|github_pat_[A-Za-z0-9_]{40,})',
@@ -8,7 +8,8 @@ rules={
  'literal-auth':r'(?i)(?:access_token|oauth_token|api_key|authorization)\s*[=:]\s*[\"\x27](?:Bearer )?[A-Za-z0-9_./+-]{30,}[\"\x27]'}
 forbidden={'.keystore','.jks','.pem','.key','.p12','.hprof','.exe','.dll','.apk','.aab'}
 findings=[];total=0;largest=[]
-for p in root.rglob('*'):
+paths=subprocess.run(['git','ls-files','--cached','--others','--exclude-standard','-z'],cwd=root,check=True,capture_output=True).stdout.decode('utf-8').split('\0')
+for p in (root/name for name in set(paths) if name):
  if not p.is_file() or '.git' in p.parts or 'node_modules' in p.parts:continue
  rel=p.relative_to(root).as_posix()
  if rel.startswith('work/handoff-'):continue
