@@ -7,6 +7,7 @@ The browser client is buildless JavaScript ES modules. `game/index.html` loads `
 | Area | Files |
 | --- | --- |
 | World map and draw order | `game/map.mjs` |
+| Province and national boundaries | `game/map-borders.mjs` |
 | Reviewed terrain/resource sprites | `game/reviewed-sprites.mjs`, `game/reviewed-sprite-data.mjs` |
 | Ground, coasts and roads | `landscape-art.mjs`, `landscape-detail.mjs`, `coastline.mjs` |
 | Towns and forts | `map-art249.mjs`, `assets/towns-forts.png` |
@@ -18,9 +19,21 @@ The browser client is buildless JavaScript ES modules. `game/index.html` loads `
 
 Paths in the table without `game/` are relative to that folder.
 
-## Runtime 254 sprite pipeline
+## Reviewed sprite pipeline
 
 The source library contains full images and contact sheets, including presentation borders. `reviewed-sprite-data.mjs` selects source regions. `prepareReviewedSprite` isolates their terrain content and feathers land edges into the continuous `grass-surface` texture. It is a runtime presentation transformation; original PNGs are preserved.
+
+Dense illustrations (hardwood/scrub forest, horses and all five grain levels) use
+`blend: 'contained'` and `inset: 0.9`. Their narrow perimeter mask preserves trees,
+animals and fields that the broad terrain feather previously erased. The inset
+keeps the artwork inside the map cell with shared grass around it. Keep these
+settings together; restoring a broad terrain feather cuts the silhouettes again.
+The source-library images and their crops remain unchanged.
+
+Province borders have a pale line over a dark keyline at local and strategic zoom.
+National frontiers remain wider, with each country's colour on its own side.
+Only boundaries between two visible land tiles are rendered; neither hidden
+provinces nor the ordinary tile lattice should become political boundaries.
 
 Terrain is drawn first, then rivers/roads, resources, development markers, towns, labels and units. Sheep use the normal hill terrain key and a separate transparent overlay. Mineral overlays are selected only from resources already visible to the player. Do not accidentally reveal hidden deposits.
 

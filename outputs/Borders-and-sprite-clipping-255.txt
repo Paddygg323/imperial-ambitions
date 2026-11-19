@@ -1,0 +1,32 @@
+Province borders and sprite clipping — 19 November 2026
+
+Changes
+- Province boundaries use pale ink with a dark keyline and remain visible in
+  local, nation and world views. National frontiers remain wider and carry each
+  country's colour on its own side.
+- Borders are only drawn between two surveyed land tiles in different
+  provinces. Coastlines, same-province tile edges and hidden provinces are not
+  added to the political outlines.
+- Hardwood/scrub forest, horses and grain levels 0–4 use a narrow perimeter mask
+  with a 10% inset. This preserves canopies, the horse enclosure and field edges
+  previously erased by the broad terrain/grass feather. Their outer margin still
+  exposes the same continuous grass as neighbouring tiles.
+- All source PNGs, library artwork, map coordinates, resources and gameplay
+  systems are unchanged. The new border module is included in the offline cache.
+
+Validation
+- 961 Node tests passed; no failures or skips.
+- 51 runtime mappings and 121 library entries validated.
+- Five delivery/publication-boundary tests passed.
+- Isolated Chromium review: desktop local/nation/world, hardwood at maximum
+  zoom, 412px phone local/nation and all affected resource illustrations at 210px
+  and 78px scale. No page errors, phone overflow or fixture-state mutation.
+- Actual game screenshots and before/after sprite comparisons are in
+  outputs/visual-review/borders-sprites/.
+- Reproduce the visual check with node game/test/borders-sprites-browser.mjs;
+  use CHROME_BIN and PLAYWRIGHT_MODULE_PATH for a locally installed browser.
+
+Scope
+This is a narrow graphics correction, not acceptance of the complete visual
+design or store readiness. No physical phone installation was requested.
+Public delivery uses the existing main-branch workflow and stable play URL.
