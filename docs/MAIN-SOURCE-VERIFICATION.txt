@@ -1,0 +1,30 @@
+Main-source migration — 19 November 2026
+
+Authoritative private repository: https://github.com/Paddygg323/imperial-ambitions
+Local checkout: C:/Users/paddy/Documents/Codex/2026-11-19/imperial-ambitions
+
+Verified locally:
+- Game and sprite servers identify this checkout as their source.
+- Desktop Play launcher points to this checkout; old server entry points forward here.
+- Browser smoke: desktop/412-pixel phone startup, all 51 reviewed sprite mappings,
+  no page errors. Gameplay and save-slot logic were not changed.
+- 958 gameplay tests passed at the starting snapshot; the main workflow reruns them.
+- Publication-boundary, local-server and proxy tests passed.
+- Existing signing key copied into ignored local build storage; SHA-256 matches the
+  previous key. No signing key is tracked in Git or sent to the web deployment.
+- Android APK built from this checkout, signature verified, 385 asset hashes verified.
+  APK SHA-256: b37dffa7ad8033825308a757eddfcdb9843d6f0ee4dde6f3656d436efb4cc6a4
+  This APK was not installed on the Pixel as part of this migration.
+- Development build reports are now ignored outputs; their runtime-254 snapshots
+  remain in docs/archive so building does not dirty the source checkout.
+
+Configured publishing path:
+  private main -> checks -> runtime-only dist -> public imperial-ambitions-web
+  -> GitHub Pages -> stable public play URL through deploy/proxy-worker.mjs.
+
+GitHub Pages on the private source repository is not supported by the account's
+current plan. A separate public runtime mirror avoids publishing designer sources.
+The mirror deploy key is encrypted in Actions and cannot write to the private repo.
+
+The Actions run, Pages build and Sites deployment must be verified separately before
+claiming this publishing path is live. See GitHub Actions and deployed build-info.json.

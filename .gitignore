@@ -16,6 +16,7 @@ __pycache__/
 *.pem
 *.key
 *.apk
+*.idsig
 *.aab
 *.zip
 *.tar
@@ -30,4 +31,8 @@ outputs/IMP-2-Phone/
 work/*/
 work/android-local.json
 work/handoff-*.txt
+work/main-source-*.txt
+outputs/Standalone-Android-build.json
+outputs/Android-bundle-validation.json
+outputs/Android-bundle-validation-log.txt
 !work/README.md
