@@ -1,0 +1,10241 @@
+{
+  "scope": "Original accepted-alliance branch50b7f6..50b864. Real war queries;\ntreaty setter/news/war orders captured. No outer offer deletion or notification.\n",
+  "cases": [
+    {
+      "wars": [],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            3,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": null,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 2,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 3,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "wars": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "absent": 6,
+      "calls": [
+        {
+          "kind": "treaty",
+          "args": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "news",
+          "args": [
+            4,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

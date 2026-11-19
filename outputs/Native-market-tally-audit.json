@@ -1,0 +1,3155 @@
+{
+  "scope": "Original647790 TallyTradeBids including native647da0 Power.\nActive-nation and order getters supplied; all tally/year-weight arithmetic native.\n",
+  "cases": [
+    {
+      "turn": 0,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 0,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 0,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [],
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 6.3797171000000015,
+      "quantity": 38
+    },
+    {
+      "turn": 0,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 1,
+      "offers": 3,
+      "adjustedOffers": 5.279717100000001,
+      "quantity": 36
+    },
+    {
+      "turn": 0,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 6.0,
+      "quantity": 1064
+    },
+    {
+      "turn": 0,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 2.0,
+      "quantity": 40
+    },
+    {
+      "turn": 0,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 0,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 0,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [],
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 0,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 4,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 0,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 7.715610000000002,
+      "quantity": 21
+    },
+    {
+      "turn": 0,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 4,
+      "adjustedOffers": 5.505610000000002,
+      "quantity": 17
+    },
+    {
+      "turn": 5,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 5,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 5,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [],
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 6.3797171000000015,
+      "quantity": 38
+    },
+    {
+      "turn": 5,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 1,
+      "offers": 3,
+      "adjustedOffers": 5.279717100000001,
+      "quantity": 36
+    },
+    {
+      "turn": 5,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 6.0,
+      "quantity": 1064
+    },
+    {
+      "turn": 5,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 2.0,
+      "quantity": 40
+    },
+    {
+      "turn": 5,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 5,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 5,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [],
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 5,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 4,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 5,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 7.715610000000002,
+      "quantity": 21
+    },
+    {
+      "turn": 5,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 4,
+      "adjustedOffers": 5.505610000000002,
+      "quantity": 17
+    },
+    {
+      "turn": 6,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 6,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 6,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [],
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 6.053536268779522,
+      "quantity": 38
+    },
+    {
+      "turn": 6,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 1,
+      "offers": 3,
+      "adjustedOffers": 4.973536268779521,
+      "quantity": 36
+    },
+    {
+      "turn": 6,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 6.0,
+      "quantity": 1064
+    },
+    {
+      "turn": 6,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 2.0,
+      "quantity": 40
+    },
+    {
+      "turn": 6,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 6,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 6,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [],
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 6,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 4,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 6,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 7.335929036800001,
+      "quantity": 21
+    },
+    {
+      "turn": 6,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 4,
+      "adjustedOffers": 5.169529036800001,
+      "quantity": 17
+    },
+    {
+      "turn": 10,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 10,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 10,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [],
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 6.053536268779522,
+      "quantity": 38
+    },
+    {
+      "turn": 10,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 1,
+      "offers": 3,
+      "adjustedOffers": 4.973536268779521,
+      "quantity": 36
+    },
+    {
+      "turn": 10,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 6.0,
+      "quantity": 1064
+    },
+    {
+      "turn": 10,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 2.0,
+      "quantity": 40
+    },
+    {
+      "turn": 10,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 10,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 10,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [],
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 10,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 4,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 10,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 7.335929036800001,
+      "quantity": 21
+    },
+    {
+      "turn": 10,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 4,
+      "adjustedOffers": 5.169529036800001,
+      "quantity": 17
+    },
+    {
+      "turn": 11,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 11,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 11,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [],
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 5.754646258991361,
+      "quantity": 38
+    },
+    {
+      "turn": 11,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 1,
+      "offers": 3,
+      "adjustedOffers": 4.6946462589913605,
+      "quantity": 36
+    },
+    {
+      "turn": 11,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 6.0,
+      "quantity": 1064
+    },
+    {
+      "turn": 11,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 2.0,
+      "quantity": 40
+    },
+    {
+      "turn": 11,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 11,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 11,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [],
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 11,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 4,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 11,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.975318537600001,
+      "quantity": 21
+    },
+    {
+      "turn": 11,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 4,
+      "adjustedOffers": 4.851718537600001,
+      "quantity": 17
+    },
+    {
+      "turn": 15,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 15,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 15,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [],
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 5.754646258991361,
+      "quantity": 38
+    },
+    {
+      "turn": 15,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 1,
+      "offers": 3,
+      "adjustedOffers": 4.6946462589913605,
+      "quantity": 36
+    },
+    {
+      "turn": 15,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 6.0,
+      "quantity": 1064
+    },
+    {
+      "turn": 15,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 2.0,
+      "quantity": 40
+    },
+    {
+      "turn": 15,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 15,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 15,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [],
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 15,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 4,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 15,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.975318537600001,
+      "quantity": 21
+    },
+    {
+      "turn": 15,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 4,
+      "adjustedOffers": 4.851718537600001,
+      "quantity": 17
+    },
+    {
+      "turn": 16,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 16,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 16,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [],
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 5.480795779235841,
+      "quantity": 38
+    },
+    {
+      "turn": 16,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 1,
+      "offers": 3,
+      "adjustedOffers": 4.44079577923584,
+      "quantity": 36
+    },
+    {
+      "turn": 16,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 6.0,
+      "quantity": 1064
+    },
+    {
+      "turn": 16,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 2.0,
+      "quantity": 40
+    },
+    {
+      "turn": 16,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 16,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 16,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [],
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 16,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 4,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 16,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.6329754624,
+      "quantity": 21
+    },
+    {
+      "turn": 16,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 4,
+      "adjustedOffers": 4.5513754624,
+      "quantity": 17
+    },
+    {
+      "turn": 20,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 20,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 20,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [],
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 5.480795779235841,
+      "quantity": 38
+    },
+    {
+      "turn": 20,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 1,
+      "offers": 3,
+      "adjustedOffers": 4.44079577923584,
+      "quantity": 36
+    },
+    {
+      "turn": 20,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 6.0,
+      "quantity": 1064
+    },
+    {
+      "turn": 20,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 2.0,
+      "quantity": 40
+    },
+    {
+      "turn": 20,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 20,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 20,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [],
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 20,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 4,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 20,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.6329754624,
+      "quantity": 21
+    },
+    {
+      "turn": 20,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 4,
+      "adjustedOffers": 4.5513754624,
+      "quantity": 17
+    },
+    {
+      "turn": 21,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 21,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 21,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [],
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 5.326187376551476,
+      "quantity": 38
+    },
+    {
+      "turn": 21,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 1,
+      "offers": 3,
+      "adjustedOffers": 4.296187376551476,
+      "quantity": 36
+    },
+    {
+      "turn": 21,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 5.920759533379817,
+      "quantity": 1064
+    },
+    {
+      "turn": 21,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.9735865111266058,
+      "quantity": 40
+    },
+    {
+      "turn": 21,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 21,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 21,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [],
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 21,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 4,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 21,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.468409884300001,
+      "quantity": 21
+    },
+    {
+      "turn": 21,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 4,
+      "adjustedOffers": 4.4075098843000005,
+      "quantity": 17
+    },
+    {
+      "turn": 25,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 25,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 25,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [],
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 5.326187376551476,
+      "quantity": 38
+    },
+    {
+      "turn": 25,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 1,
+      "offers": 3,
+      "adjustedOffers": 4.296187376551476,
+      "quantity": 36
+    },
+    {
+      "turn": 25,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 5.920759533379817,
+      "quantity": 1064
+    },
+    {
+      "turn": 25,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.9735865111266058,
+      "quantity": 40
+    },
+    {
+      "turn": 25,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 25,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 25,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [],
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 25,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 4,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 25,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.468409884300001,
+      "quantity": 21
+    },
+    {
+      "turn": 25,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 4,
+      "adjustedOffers": 4.4075098843000005,
+      "quantity": 17
+    },
+    {
+      "turn": 26,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 26,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 26,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [],
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.806792931840678,
+      "quantity": 38
+    },
+    {
+      "turn": 26,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 1,
+      "offers": 3,
+      "adjustedOffers": 3.7867929318406786,
+      "quantity": 36
+    },
+    {
+      "turn": 26,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 4.730697792574194,
+      "quantity": 1064
+    },
+    {
+      "turn": 26,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.5768992641913981,
+      "quantity": 40
+    },
+    {
+      "turn": 26,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 26,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 26,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [],
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 26,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 4,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 26,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.3081209632,
+      "quantity": 21
+    },
+    {
+      "turn": 26,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 4,
+      "adjustedOffers": 4.2677209632,
+      "quantity": 17
+    },
+    {
+      "turn": 30,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 30,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 30,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [],
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.806792931840678,
+      "quantity": 38
+    },
+    {
+      "turn": 30,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 1,
+      "offers": 3,
+      "adjustedOffers": 3.7867929318406786,
+      "quantity": 36
+    },
+    {
+      "turn": 30,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 4.730697792574194,
+      "quantity": 1064
+    },
+    {
+      "turn": 30,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.5768992641913981,
+      "quantity": 40
+    },
+    {
+      "turn": 30,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 30,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 30,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [],
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 30,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 4,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 30,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.3081209632,
+      "quantity": 21
+    },
+    {
+      "turn": 30,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 4,
+      "adjustedOffers": 4.2677209632,
+      "quantity": 17
+    },
+    {
+      "turn": 31,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 31,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 31,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [],
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.369599370455441,
+      "quantity": 38
+    },
+    {
+      "turn": 31,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 1,
+      "offers": 3,
+      "adjustedOffers": 3.3595993704554408,
+      "quantity": 36
+    },
+    {
+      "turn": 31,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.7714890550452913,
+      "quantity": 1064
+    },
+    {
+      "turn": 31,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.2571630183484304,
+      "quantity": 40
+    },
+    {
+      "turn": 31,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 31,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 31,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [],
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 31,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 4,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 31,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.1520150601,
+      "quantity": 21
+    },
+    {
+      "turn": 31,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 4,
+      "adjustedOffers": 4.1319150601,
+      "quantity": 17
+    },
+    {
+      "turn": 100,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 100,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 100,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [],
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.369599370455441,
+      "quantity": 38
+    },
+    {
+      "turn": 100,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 1,
+      "offers": 3,
+      "adjustedOffers": 3.3595993704554408,
+      "quantity": 36
+    },
+    {
+      "turn": 100,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.7714890550452913,
+      "quantity": 1064
+    },
+    {
+      "turn": 100,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.2571630183484304,
+      "quantity": 40
+    },
+    {
+      "turn": 100,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 100,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 100,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [],
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 100,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 4,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 100,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.1520150601,
+      "quantity": 21
+    },
+    {
+      "turn": 100,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 4,
+      "adjustedOffers": 4.1319150601,
+      "quantity": 17
+    },
+    {
+      "turn": 101,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 101,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 101,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [],
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.369599370455441,
+      "quantity": 38
+    },
+    {
+      "turn": 101,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 1,
+      "offers": 3,
+      "adjustedOffers": 3.3595993704554408,
+      "quantity": 36
+    },
+    {
+      "turn": 101,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.7714890550452913,
+      "quantity": 1064
+    },
+    {
+      "turn": 101,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 1,
+      "adjustedOffers": 1.2571630183484304,
+      "quantity": 40
+    },
+    {
+      "turn": 101,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 101,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 101,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [],
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 101,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 4,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 101,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [],
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.1520150601,
+      "quantity": 21
+    },
+    {
+      "turn": 101,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "inactive": [
+        0,
+        2
+      ],
+      "requests": 0,
+      "offers": 4,
+      "adjustedOffers": 4.1319150601,
+      "quantity": 17
+    }
+  ]
+}

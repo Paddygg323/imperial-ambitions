@@ -1,0 +1,1926 @@
+{
+  "function": "0x61c5d0",
+  "scope": "Native FireOn; supplied adjacency, open terrain, no generals, full HP, no medals. Captures arguments before application.",
+  "cases": [
+    {
+      "attacker": 0,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        50,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        50,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        50,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        50,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        2,
+        5,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        28,
+        56,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        28,
+        56,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        28,
+        56,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        33,
+        67,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        28,
+        56,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        33,
+        67,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        33,
+        67,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        2,
+        5,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        2,
+        5,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        2,
+        5,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        30,
+        61,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        30,
+        61,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        36,
+        72,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        36,
+        72,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        47,
+        95,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        47,
+        95,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        28,
+        56,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        28,
+        56,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        28,
+        56,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        2,
+        5,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        50,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        50,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        50,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        36,
+        72,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        36,
+        72,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        36,
+        72,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        47,
+        95,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "defenderState": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        47,
+        95,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "defenderState": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        47,
+        95,
+        1073741824,
+        0,
+        0
+      ]
+    }
+  ]
+}

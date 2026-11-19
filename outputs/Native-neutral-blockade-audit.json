@@ -1,0 +1,170 @@
+{
+  "scope": "Native neutral blockade strength threshold5a1a48..1a56, after strength sums.",
+  "cases": [
+    {
+      "raiders": 0,
+      "escorts": 0,
+      "cancel": false
+    },
+    {
+      "raiders": 1,
+      "escorts": 0,
+      "cancel": true
+    },
+    {
+      "raiders": 100000,
+      "escorts": 0,
+      "cancel": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 1,
+      "cancel": false
+    },
+    {
+      "raiders": 1,
+      "escorts": 1,
+      "cancel": false
+    },
+    {
+      "raiders": 2,
+      "escorts": 1,
+      "cancel": false
+    },
+    {
+      "raiders": 3,
+      "escorts": 1,
+      "cancel": false
+    },
+    {
+      "raiders": 4,
+      "escorts": 1,
+      "cancel": true
+    },
+    {
+      "raiders": 100000,
+      "escorts": 1,
+      "cancel": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 10,
+      "cancel": false
+    },
+    {
+      "raiders": 1,
+      "escorts": 10,
+      "cancel": false
+    },
+    {
+      "raiders": 29,
+      "escorts": 10,
+      "cancel": false
+    },
+    {
+      "raiders": 30,
+      "escorts": 10,
+      "cancel": false
+    },
+    {
+      "raiders": 31,
+      "escorts": 10,
+      "cancel": true
+    },
+    {
+      "raiders": 100000,
+      "escorts": 10,
+      "cancel": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 100,
+      "cancel": false
+    },
+    {
+      "raiders": 1,
+      "escorts": 100,
+      "cancel": false
+    },
+    {
+      "raiders": 299,
+      "escorts": 100,
+      "cancel": false
+    },
+    {
+      "raiders": 300,
+      "escorts": 100,
+      "cancel": false
+    },
+    {
+      "raiders": 301,
+      "escorts": 100,
+      "cancel": true
+    },
+    {
+      "raiders": 100000,
+      "escorts": 100,
+      "cancel": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 10000,
+      "cancel": false
+    },
+    {
+      "raiders": 1,
+      "escorts": 10000,
+      "cancel": false
+    },
+    {
+      "raiders": 29999,
+      "escorts": 10000,
+      "cancel": false
+    },
+    {
+      "raiders": 30000,
+      "escorts": 10000,
+      "cancel": false
+    },
+    {
+      "raiders": 30001,
+      "escorts": 10000,
+      "cancel": true
+    },
+    {
+      "raiders": 100000,
+      "escorts": 10000,
+      "cancel": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 32768,
+      "cancel": false
+    },
+    {
+      "raiders": 1,
+      "escorts": 32768,
+      "cancel": false
+    },
+    {
+      "raiders": 98303,
+      "escorts": 32768,
+      "cancel": false
+    },
+    {
+      "raiders": 98304,
+      "escorts": 32768,
+      "cancel": false
+    },
+    {
+      "raiders": 98305,
+      "escorts": 32768,
+      "cancel": true
+    },
+    {
+      "raiders": 100000,
+      "escorts": 32768,
+      "cancel": true
+    }
+  ]
+}

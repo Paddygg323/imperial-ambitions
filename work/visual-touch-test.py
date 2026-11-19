@@ -1,0 +1,2 @@
+from pathlib import Path
+p=Path('game/test/visual-review.mjs');s=p.read_text(encoding='utf-8').replace("await page.locator('[data-panel=civilians]').tap();assert.ok", "await page.touchscreen.tap(233,307);assert.match(await page.locator('#selection').innerText(),/Builder.*ready/s,'Map figure selects builder');await page.locator('[data-panel=civilians]').tap();assert.ok");p.write_text(s,encoding='utf-8')

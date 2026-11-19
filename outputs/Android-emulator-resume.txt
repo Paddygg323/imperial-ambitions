@@ -1,0 +1,3 @@
+INSTRUMENTATION_RESULT: checks=Campaign/market persisted across process death; pending native export completed from private disk data after Activity recreation. Picker-result delivery simulated; no physical Pixel tested.
+INSTRUMENTATION_RESULT: result=PASS
+INSTRUMENTATION_CODE: -1

@@ -1,0 +1,319 @@
+{
+  "scope": "Execute original starting fleet grant4feb8c..4febdd for six owners.\nLaunchShip is intercepted with a zero-initialized ship object (constructor597770\nsets+38 to zero). Name preparation, capital/mode eligibility and city zone lookup\nare outside this section and supplied, not tested. Records raw+38 without\nclaiming merchant assignment. Also execute actual home-roster selection pass\n59c9d8..59ca03 against the resulting three-ship linked list.\n",
+  "cases": [
+    {
+      "owner": 0,
+      "ships": [
+        {
+          "nativeType": 10,
+          "zone": 100,
+          "owner": 0,
+          "namePointer": 9633792
+        },
+        {
+          "nativeType": 10,
+          "zone": 100,
+          "owner": 0,
+          "namePointer": 9634048
+        },
+        {
+          "nativeType": 10,
+          "zone": 100,
+          "owner": 0,
+          "namePointer": 0
+        }
+      ],
+      "rawStatus38": [
+        2,
+        2,
+        0
+      ],
+      "rosterSelections": [
+        {
+          "includeFlag": 0,
+          "selected": [
+            false,
+            false,
+            true
+          ]
+        },
+        {
+          "includeFlag": 1,
+          "selected": [
+            true,
+            true,
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "owner": 1,
+      "ships": [
+        {
+          "nativeType": 10,
+          "zone": 101,
+          "owner": 1,
+          "namePointer": 9633792
+        },
+        {
+          "nativeType": 10,
+          "zone": 101,
+          "owner": 1,
+          "namePointer": 9634048
+        },
+        {
+          "nativeType": 10,
+          "zone": 101,
+          "owner": 1,
+          "namePointer": 0
+        }
+      ],
+      "rawStatus38": [
+        2,
+        2,
+        0
+      ],
+      "rosterSelections": [
+        {
+          "includeFlag": 0,
+          "selected": [
+            false,
+            false,
+            true
+          ]
+        },
+        {
+          "includeFlag": 1,
+          "selected": [
+            true,
+            true,
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "owner": 2,
+      "ships": [
+        {
+          "nativeType": 10,
+          "zone": 102,
+          "owner": 2,
+          "namePointer": 9633792
+        },
+        {
+          "nativeType": 10,
+          "zone": 102,
+          "owner": 2,
+          "namePointer": 9634048
+        },
+        {
+          "nativeType": 10,
+          "zone": 102,
+          "owner": 2,
+          "namePointer": 0
+        }
+      ],
+      "rawStatus38": [
+        2,
+        2,
+        0
+      ],
+      "rosterSelections": [
+        {
+          "includeFlag": 0,
+          "selected": [
+            false,
+            false,
+            true
+          ]
+        },
+        {
+          "includeFlag": 1,
+          "selected": [
+            true,
+            true,
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "owner": 3,
+      "ships": [
+        {
+          "nativeType": 10,
+          "zone": 103,
+          "owner": 3,
+          "namePointer": 9633792
+        },
+        {
+          "nativeType": 10,
+          "zone": 103,
+          "owner": 3,
+          "namePointer": 9634048
+        },
+        {
+          "nativeType": 10,
+          "zone": 103,
+          "owner": 3,
+          "namePointer": 0
+        }
+      ],
+      "rawStatus38": [
+        2,
+        2,
+        0
+      ],
+      "rosterSelections": [
+        {
+          "includeFlag": 0,
+          "selected": [
+            false,
+            false,
+            true
+          ]
+        },
+        {
+          "includeFlag": 1,
+          "selected": [
+            true,
+            true,
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "owner": 4,
+      "ships": [
+        {
+          "nativeType": 10,
+          "zone": 104,
+          "owner": 4,
+          "namePointer": 9633792
+        },
+        {
+          "nativeType": 10,
+          "zone": 104,
+          "owner": 4,
+          "namePointer": 9634048
+        },
+        {
+          "nativeType": 10,
+          "zone": 104,
+          "owner": 4,
+          "namePointer": 0
+        }
+      ],
+      "rawStatus38": [
+        2,
+        2,
+        0
+      ],
+      "rosterSelections": [
+        {
+          "includeFlag": 0,
+          "selected": [
+            false,
+            false,
+            true
+          ]
+        },
+        {
+          "includeFlag": 1,
+          "selected": [
+            true,
+            true,
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "owner": 5,
+      "ships": [
+        {
+          "nativeType": 10,
+          "zone": 105,
+          "owner": 5,
+          "namePointer": 9633792
+        },
+        {
+          "nativeType": 10,
+          "zone": 105,
+          "owner": 5,
+          "namePointer": 9634048
+        },
+        {
+          "nativeType": 10,
+          "zone": 105,
+          "owner": 5,
+          "namePointer": 0
+        }
+      ],
+      "rawStatus38": [
+        2,
+        2,
+        0
+      ],
+      "rosterSelections": [
+        {
+          "includeFlag": 0,
+          "selected": [
+            false,
+            false,
+            true
+          ]
+        },
+        {
+          "includeFlag": 1,
+          "selected": [
+            true,
+            true,
+            true
+          ]
+        }
+      ]
+    }
+  ],
+  "statusLifecycle": [
+    {
+      "temporary": 0,
+      "selected": [
+        true,
+        false,
+        true
+      ],
+      "before": [
+        2,
+        0,
+        2
+      ],
+      "after": [
+        2,
+        0,
+        2
+      ]
+    },
+    {
+      "temporary": 1,
+      "selected": [
+        true,
+        false,
+        true
+      ],
+      "before": [
+        1,
+        0,
+        1
+      ],
+      "after": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

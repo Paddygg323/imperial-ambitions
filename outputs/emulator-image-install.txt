@@ -1,0 +1,70 @@
+
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [..........]   0% (   2.2 KB/   1.8 GB) ETA: ----- 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [..........]   1% (  24.1 MB/   1.8 GB) ETA:   78s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [..........]   2% (  54.0 MB/   1.8 GB) ETA:   67s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [..........]   4% (  78.9 MB/   1.8 GB) ETA:   67s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [..........]   5% (  98.6 MB/   1.8 GB) ETA:   70s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [..........]   6% ( 125.3 MB/   1.8 GB) ETA:   68s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [..........]   8% ( 152.3 MB/   1.8 GB) ETA:   65s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#.........]  10% ( 182.2 MB/   1.8 GB) ETA:   63s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#.........]  11% ( 212.9 MB/   1.8 GB) ETA:   60s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#.........]  13% ( 243.7 MB/   1.8 GB) ETA:   58s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#.........]  15% ( 276.9 MB/   1.8 GB) ETA:   55s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#.........]  16% ( 299.9 MB/   1.8 GB) ETA:   55s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#.........]  17% ( 320.5 MB/   1.8 GB) ETA:   55s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#.........]  19% ( 349.3 MB/   1.8 GB) ETA:   54s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [##........]  20% ( 379.1 MB/   1.8 GB) ETA:   53s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [##........]  22% ( 408.4 MB/   1.8 GB) ETA:   51s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [##........]  24% ( 436.4 MB/   1.8 GB) ETA:   50s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [##........]  25% ( 466.6 MB/   1.8 GB) ETA:   49s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [##........]  27% ( 499.9 MB/   1.8 GB) ETA:   47s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [##........]  29% ( 529.2 MB/   1.8 GB) ETA:   46s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [###.......]  30% ( 559.8 MB/   1.8 GB) ETA:   44s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [###.......]  31% ( 571.6 MB/   1.8 GB) ETA:   45s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [###.......]  33% ( 604.0 MB/   1.8 GB) ETA:   43s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [###.......]  35% ( 634.6 MB/   1.8 GB) ETA:   42s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [###.......]  36% ( 658.9 MB/   1.8 GB) ETA:   41s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [###.......]  37% ( 685.0 MB/   1.8 GB) ETA:   41s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [###.......]  39% ( 713.0 MB/   1.8 GB) ETA:   40s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [####......]  40% ( 740.1 MB/   1.8 GB) ETA:   39s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [####......]  42% ( 772.6 MB/   1.8 GB) ETA:   37s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [####......]  44% ( 803.8 MB/   1.8 GB) ETA:   36s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [####......]  46% ( 835.4 MB/   1.8 GB) ETA:   35s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [####......]  47% ( 862.5 MB/   1.8 GB) ETA:   34s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [####......]  49% ( 890.7 MB/   1.8 GB) ETA:   33s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#####.....]  50% ( 918.7 MB/   1.8 GB) ETA:   32s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#####.....]  52% ( 949.8 MB/   1.8 GB) ETA:   30s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#####.....]  54% ( 979.8 MB/   1.8 GB) ETA:   29s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#####.....]  55% (1004.6 MB/   1.8 GB) ETA:   28s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#####.....]  56% (   1.0 GB/   1.8 GB) ETA:   28s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#####.....]  58% (   1.0 GB/   1.8 GB) ETA:   27s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#####.....]  59% (   1.1 GB/   1.8 GB) ETA:   26s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [######....]  61% (   1.1 GB/   1.8 GB) ETA:   25s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [######....]  63% (   1.1 GB/   1.8 GB) ETA:   24s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [######....]  64% (   1.1 GB/   1.8 GB) ETA:   23s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [######....]  66% (   1.2 GB/   1.8 GB) ETA:   21s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [######....]  68% (   1.2 GB/   1.8 GB) ETA:   20s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [######....]  69% (   1.2 GB/   1.8 GB) ETA:   19s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#######...]  71% (   1.3 GB/   1.8 GB) ETA:   18s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#######...]  73% (   1.3 GB/   1.8 GB) ETA:   17s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#######...]  75% (   1.3 GB/   1.8 GB) ETA:   15s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#######...]  76% (   1.4 GB/   1.8 GB) ETA:   14s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#######...]  78% (   1.4 GB/   1.8 GB) ETA:   13s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [########..]  80% (   1.4 GB/   1.8 GB) ETA:   12s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [########..]  81% (   1.4 GB/   1.8 GB) ETA:   11s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [########..]  83% (   1.5 GB/   1.8 GB) ETA:   10s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [########..]  85% (   1.5 GB/   1.8 GB) ETA:    9s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [########..]  86% (   1.5 GB/   1.8 GB) ETA:    8s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [########..]  88% (   1.6 GB/   1.8 GB) ETA:    7s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#########.]  90% (   1.6 GB/   1.8 GB) ETA:    6s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#########.]  92% (   1.6 GB/   1.8 GB) ETA:    5s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#########.]  93% (   1.6 GB/   1.8 GB) ETA:    4s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#########.]  94% (   1.7 GB/   1.8 GB) ETA:    3s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#########.]  95% (   1.7 GB/   1.8 GB) ETA:    2s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#########.]  97% (   1.7 GB/   1.8 GB) ETA:    1s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [#########.]  98% (   1.7 GB/   1.8 GB) ETA:    1s 
+...le.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip [##########] 100% (   1.8 GB/   1.8 GB) ETA: ----- 
+
+Unzipping system-images/android-36/google_apis/x86_64... [....................]   0% (  19.3 MB/   4.3 GB) ETA: ----- 
+Unzipping system-images/android-36/google_apis/x86_64... [###################.]  97% (   4.2 GB/   4.3 GB) ETA:    1s 
+Unzipping system-images/android-36/google_apis/x86_64... [####################] 100% (   4.3 GB/   4.3 GB) ETA: ----- 

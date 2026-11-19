@@ -1,0 +1,1505 @@
+{
+  "scope": "Execute original FormStacks destination gate and recovery block (4bb230..4bb3bc).\nStops before stack creation for moving units, and before country/UI side effects\nfor stationary units. Native health is0..500; phone health uses0..100.\nSetOrders6558e0 writes destination at+0xc; gate uses destination==-1,\nnot order enum. Full caller/UI lifecycle is not emulated in this capture.\n",
+  "cases": [
+    {
+      "hp": 1,
+      "destination": -1,
+      "result": 21.0
+    },
+    {
+      "hp": 1,
+      "destination": 0,
+      "result": 1.0
+    },
+    {
+      "hp": 1,
+      "destination": 151,
+      "result": 1.0
+    },
+    {
+      "hp": 2,
+      "destination": -1,
+      "result": 22.0
+    },
+    {
+      "hp": 2,
+      "destination": 0,
+      "result": 2.0
+    },
+    {
+      "hp": 2,
+      "destination": 151,
+      "result": 2.0
+    },
+    {
+      "hp": 3,
+      "destination": -1,
+      "result": 23.0
+    },
+    {
+      "hp": 3,
+      "destination": 0,
+      "result": 3.0
+    },
+    {
+      "hp": 3,
+      "destination": 151,
+      "result": 3.0
+    },
+    {
+      "hp": 4,
+      "destination": -1,
+      "result": 24.0
+    },
+    {
+      "hp": 4,
+      "destination": 0,
+      "result": 4.0
+    },
+    {
+      "hp": 4,
+      "destination": 151,
+      "result": 4.0
+    },
+    {
+      "hp": 5,
+      "destination": -1,
+      "result": 25.0
+    },
+    {
+      "hp": 5,
+      "destination": 0,
+      "result": 5.0
+    },
+    {
+      "hp": 5,
+      "destination": 151,
+      "result": 5.0
+    },
+    {
+      "hp": 6,
+      "destination": -1,
+      "result": 26.0
+    },
+    {
+      "hp": 6,
+      "destination": 0,
+      "result": 6.0
+    },
+    {
+      "hp": 6,
+      "destination": 151,
+      "result": 6.0
+    },
+    {
+      "hp": 7,
+      "destination": -1,
+      "result": 27.0
+    },
+    {
+      "hp": 7,
+      "destination": 0,
+      "result": 7.0
+    },
+    {
+      "hp": 7,
+      "destination": 151,
+      "result": 7.0
+    },
+    {
+      "hp": 8,
+      "destination": -1,
+      "result": 28.0
+    },
+    {
+      "hp": 8,
+      "destination": 0,
+      "result": 8.0
+    },
+    {
+      "hp": 8,
+      "destination": 151,
+      "result": 8.0
+    },
+    {
+      "hp": 9,
+      "destination": -1,
+      "result": 29.0
+    },
+    {
+      "hp": 9,
+      "destination": 0,
+      "result": 9.0
+    },
+    {
+      "hp": 9,
+      "destination": 151,
+      "result": 9.0
+    },
+    {
+      "hp": 10,
+      "destination": -1,
+      "result": 30.0
+    },
+    {
+      "hp": 10,
+      "destination": 0,
+      "result": 10.0
+    },
+    {
+      "hp": 10,
+      "destination": 151,
+      "result": 10.0
+    },
+    {
+      "hp": 11,
+      "destination": -1,
+      "result": 31.0
+    },
+    {
+      "hp": 11,
+      "destination": 0,
+      "result": 11.0
+    },
+    {
+      "hp": 11,
+      "destination": 151,
+      "result": 11.0
+    },
+    {
+      "hp": 12,
+      "destination": -1,
+      "result": 32.0
+    },
+    {
+      "hp": 12,
+      "destination": 0,
+      "result": 12.0
+    },
+    {
+      "hp": 12,
+      "destination": 151,
+      "result": 12.0
+    },
+    {
+      "hp": 13,
+      "destination": -1,
+      "result": 33.0
+    },
+    {
+      "hp": 13,
+      "destination": 0,
+      "result": 13.0
+    },
+    {
+      "hp": 13,
+      "destination": 151,
+      "result": 13.0
+    },
+    {
+      "hp": 14,
+      "destination": -1,
+      "result": 34.0
+    },
+    {
+      "hp": 14,
+      "destination": 0,
+      "result": 14.0
+    },
+    {
+      "hp": 14,
+      "destination": 151,
+      "result": 14.0
+    },
+    {
+      "hp": 15,
+      "destination": -1,
+      "result": 35.0
+    },
+    {
+      "hp": 15,
+      "destination": 0,
+      "result": 15.0
+    },
+    {
+      "hp": 15,
+      "destination": 151,
+      "result": 15.0
+    },
+    {
+      "hp": 16,
+      "destination": -1,
+      "result": 36.0
+    },
+    {
+      "hp": 16,
+      "destination": 0,
+      "result": 16.0
+    },
+    {
+      "hp": 16,
+      "destination": 151,
+      "result": 16.0
+    },
+    {
+      "hp": 17,
+      "destination": -1,
+      "result": 37.0
+    },
+    {
+      "hp": 17,
+      "destination": 0,
+      "result": 17.0
+    },
+    {
+      "hp": 17,
+      "destination": 151,
+      "result": 17.0
+    },
+    {
+      "hp": 18,
+      "destination": -1,
+      "result": 38.0
+    },
+    {
+      "hp": 18,
+      "destination": 0,
+      "result": 18.0
+    },
+    {
+      "hp": 18,
+      "destination": 151,
+      "result": 18.0
+    },
+    {
+      "hp": 19,
+      "destination": -1,
+      "result": 39.0
+    },
+    {
+      "hp": 19,
+      "destination": 0,
+      "result": 19.0
+    },
+    {
+      "hp": 19,
+      "destination": 151,
+      "result": 19.0
+    },
+    {
+      "hp": 20,
+      "destination": -1,
+      "result": 40.0
+    },
+    {
+      "hp": 20,
+      "destination": 0,
+      "result": 20.0
+    },
+    {
+      "hp": 20,
+      "destination": 151,
+      "result": 20.0
+    },
+    {
+      "hp": 21,
+      "destination": -1,
+      "result": 41.0
+    },
+    {
+      "hp": 21,
+      "destination": 0,
+      "result": 21.0
+    },
+    {
+      "hp": 21,
+      "destination": 151,
+      "result": 21.0
+    },
+    {
+      "hp": 22,
+      "destination": -1,
+      "result": 42.0
+    },
+    {
+      "hp": 22,
+      "destination": 0,
+      "result": 22.0
+    },
+    {
+      "hp": 22,
+      "destination": 151,
+      "result": 22.0
+    },
+    {
+      "hp": 23,
+      "destination": -1,
+      "result": 43.0
+    },
+    {
+      "hp": 23,
+      "destination": 0,
+      "result": 23.0
+    },
+    {
+      "hp": 23,
+      "destination": 151,
+      "result": 23.0
+    },
+    {
+      "hp": 24,
+      "destination": -1,
+      "result": 44.0
+    },
+    {
+      "hp": 24,
+      "destination": 0,
+      "result": 24.0
+    },
+    {
+      "hp": 24,
+      "destination": 151,
+      "result": 24.0
+    },
+    {
+      "hp": 25,
+      "destination": -1,
+      "result": 45.0
+    },
+    {
+      "hp": 25,
+      "destination": 0,
+      "result": 25.0
+    },
+    {
+      "hp": 25,
+      "destination": 151,
+      "result": 25.0
+    },
+    {
+      "hp": 26,
+      "destination": -1,
+      "result": 46.0
+    },
+    {
+      "hp": 26,
+      "destination": 0,
+      "result": 26.0
+    },
+    {
+      "hp": 26,
+      "destination": 151,
+      "result": 26.0
+    },
+    {
+      "hp": 27,
+      "destination": -1,
+      "result": 47.0
+    },
+    {
+      "hp": 27,
+      "destination": 0,
+      "result": 27.0
+    },
+    {
+      "hp": 27,
+      "destination": 151,
+      "result": 27.0
+    },
+    {
+      "hp": 28,
+      "destination": -1,
+      "result": 48.0
+    },
+    {
+      "hp": 28,
+      "destination": 0,
+      "result": 28.0
+    },
+    {
+      "hp": 28,
+      "destination": 151,
+      "result": 28.0
+    },
+    {
+      "hp": 29,
+      "destination": -1,
+      "result": 49.0
+    },
+    {
+      "hp": 29,
+      "destination": 0,
+      "result": 29.0
+    },
+    {
+      "hp": 29,
+      "destination": 151,
+      "result": 29.0
+    },
+    {
+      "hp": 30,
+      "destination": -1,
+      "result": 50.0
+    },
+    {
+      "hp": 30,
+      "destination": 0,
+      "result": 30.0
+    },
+    {
+      "hp": 30,
+      "destination": 151,
+      "result": 30.0
+    },
+    {
+      "hp": 31,
+      "destination": -1,
+      "result": 51.0
+    },
+    {
+      "hp": 31,
+      "destination": 0,
+      "result": 31.0
+    },
+    {
+      "hp": 31,
+      "destination": 151,
+      "result": 31.0
+    },
+    {
+      "hp": 32,
+      "destination": -1,
+      "result": 52.0
+    },
+    {
+      "hp": 32,
+      "destination": 0,
+      "result": 32.0
+    },
+    {
+      "hp": 32,
+      "destination": 151,
+      "result": 32.0
+    },
+    {
+      "hp": 33,
+      "destination": -1,
+      "result": 53.0
+    },
+    {
+      "hp": 33,
+      "destination": 0,
+      "result": 33.0
+    },
+    {
+      "hp": 33,
+      "destination": 151,
+      "result": 33.0
+    },
+    {
+      "hp": 34,
+      "destination": -1,
+      "result": 54.0
+    },
+    {
+      "hp": 34,
+      "destination": 0,
+      "result": 34.0
+    },
+    {
+      "hp": 34,
+      "destination": 151,
+      "result": 34.0
+    },
+    {
+      "hp": 35,
+      "destination": -1,
+      "result": 55.0
+    },
+    {
+      "hp": 35,
+      "destination": 0,
+      "result": 35.0
+    },
+    {
+      "hp": 35,
+      "destination": 151,
+      "result": 35.0
+    },
+    {
+      "hp": 36,
+      "destination": -1,
+      "result": 56.0
+    },
+    {
+      "hp": 36,
+      "destination": 0,
+      "result": 36.0
+    },
+    {
+      "hp": 36,
+      "destination": 151,
+      "result": 36.0
+    },
+    {
+      "hp": 37,
+      "destination": -1,
+      "result": 57.0
+    },
+    {
+      "hp": 37,
+      "destination": 0,
+      "result": 37.0
+    },
+    {
+      "hp": 37,
+      "destination": 151,
+      "result": 37.0
+    },
+    {
+      "hp": 38,
+      "destination": -1,
+      "result": 58.0
+    },
+    {
+      "hp": 38,
+      "destination": 0,
+      "result": 38.0
+    },
+    {
+      "hp": 38,
+      "destination": 151,
+      "result": 38.0
+    },
+    {
+      "hp": 39,
+      "destination": -1,
+      "result": 59.0
+    },
+    {
+      "hp": 39,
+      "destination": 0,
+      "result": 39.0
+    },
+    {
+      "hp": 39,
+      "destination": 151,
+      "result": 39.0
+    },
+    {
+      "hp": 40,
+      "destination": -1,
+      "result": 60.0
+    },
+    {
+      "hp": 40,
+      "destination": 0,
+      "result": 40.0
+    },
+    {
+      "hp": 40,
+      "destination": 151,
+      "result": 40.0
+    },
+    {
+      "hp": 41,
+      "destination": -1,
+      "result": 61.0
+    },
+    {
+      "hp": 41,
+      "destination": 0,
+      "result": 41.0
+    },
+    {
+      "hp": 41,
+      "destination": 151,
+      "result": 41.0
+    },
+    {
+      "hp": 42,
+      "destination": -1,
+      "result": 62.0
+    },
+    {
+      "hp": 42,
+      "destination": 0,
+      "result": 42.0
+    },
+    {
+      "hp": 42,
+      "destination": 151,
+      "result": 42.0
+    },
+    {
+      "hp": 43,
+      "destination": -1,
+      "result": 63.0
+    },
+    {
+      "hp": 43,
+      "destination": 0,
+      "result": 43.0
+    },
+    {
+      "hp": 43,
+      "destination": 151,
+      "result": 43.0
+    },
+    {
+      "hp": 44,
+      "destination": -1,
+      "result": 64.0
+    },
+    {
+      "hp": 44,
+      "destination": 0,
+      "result": 44.0
+    },
+    {
+      "hp": 44,
+      "destination": 151,
+      "result": 44.0
+    },
+    {
+      "hp": 45,
+      "destination": -1,
+      "result": 65.0
+    },
+    {
+      "hp": 45,
+      "destination": 0,
+      "result": 45.0
+    },
+    {
+      "hp": 45,
+      "destination": 151,
+      "result": 45.0
+    },
+    {
+      "hp": 46,
+      "destination": -1,
+      "result": 66.0
+    },
+    {
+      "hp": 46,
+      "destination": 0,
+      "result": 46.0
+    },
+    {
+      "hp": 46,
+      "destination": 151,
+      "result": 46.0
+    },
+    {
+      "hp": 47,
+      "destination": -1,
+      "result": 67.0
+    },
+    {
+      "hp": 47,
+      "destination": 0,
+      "result": 47.0
+    },
+    {
+      "hp": 47,
+      "destination": 151,
+      "result": 47.0
+    },
+    {
+      "hp": 48,
+      "destination": -1,
+      "result": 68.0
+    },
+    {
+      "hp": 48,
+      "destination": 0,
+      "result": 48.0
+    },
+    {
+      "hp": 48,
+      "destination": 151,
+      "result": 48.0
+    },
+    {
+      "hp": 49,
+      "destination": -1,
+      "result": 69.0
+    },
+    {
+      "hp": 49,
+      "destination": 0,
+      "result": 49.0
+    },
+    {
+      "hp": 49,
+      "destination": 151,
+      "result": 49.0
+    },
+    {
+      "hp": 50,
+      "destination": -1,
+      "result": 70.0
+    },
+    {
+      "hp": 50,
+      "destination": 0,
+      "result": 50.0
+    },
+    {
+      "hp": 50,
+      "destination": 151,
+      "result": 50.0
+    },
+    {
+      "hp": 51,
+      "destination": -1,
+      "result": 71.0
+    },
+    {
+      "hp": 51,
+      "destination": 0,
+      "result": 51.0
+    },
+    {
+      "hp": 51,
+      "destination": 151,
+      "result": 51.0
+    },
+    {
+      "hp": 52,
+      "destination": -1,
+      "result": 72.0
+    },
+    {
+      "hp": 52,
+      "destination": 0,
+      "result": 52.0
+    },
+    {
+      "hp": 52,
+      "destination": 151,
+      "result": 52.0
+    },
+    {
+      "hp": 53,
+      "destination": -1,
+      "result": 73.0
+    },
+    {
+      "hp": 53,
+      "destination": 0,
+      "result": 53.0
+    },
+    {
+      "hp": 53,
+      "destination": 151,
+      "result": 53.0
+    },
+    {
+      "hp": 54,
+      "destination": -1,
+      "result": 74.0
+    },
+    {
+      "hp": 54,
+      "destination": 0,
+      "result": 54.0
+    },
+    {
+      "hp": 54,
+      "destination": 151,
+      "result": 54.0
+    },
+    {
+      "hp": 55,
+      "destination": -1,
+      "result": 75.0
+    },
+    {
+      "hp": 55,
+      "destination": 0,
+      "result": 55.0
+    },
+    {
+      "hp": 55,
+      "destination": 151,
+      "result": 55.0
+    },
+    {
+      "hp": 56,
+      "destination": -1,
+      "result": 76.0
+    },
+    {
+      "hp": 56,
+      "destination": 0,
+      "result": 56.0
+    },
+    {
+      "hp": 56,
+      "destination": 151,
+      "result": 56.0
+    },
+    {
+      "hp": 57,
+      "destination": -1,
+      "result": 77.0
+    },
+    {
+      "hp": 57,
+      "destination": 0,
+      "result": 57.0
+    },
+    {
+      "hp": 57,
+      "destination": 151,
+      "result": 57.0
+    },
+    {
+      "hp": 58,
+      "destination": -1,
+      "result": 78.0
+    },
+    {
+      "hp": 58,
+      "destination": 0,
+      "result": 58.0
+    },
+    {
+      "hp": 58,
+      "destination": 151,
+      "result": 58.0
+    },
+    {
+      "hp": 59,
+      "destination": -1,
+      "result": 79.0
+    },
+    {
+      "hp": 59,
+      "destination": 0,
+      "result": 59.0
+    },
+    {
+      "hp": 59,
+      "destination": 151,
+      "result": 59.0
+    },
+    {
+      "hp": 60,
+      "destination": -1,
+      "result": 80.0
+    },
+    {
+      "hp": 60,
+      "destination": 0,
+      "result": 60.0
+    },
+    {
+      "hp": 60,
+      "destination": 151,
+      "result": 60.0
+    },
+    {
+      "hp": 61,
+      "destination": -1,
+      "result": 81.0
+    },
+    {
+      "hp": 61,
+      "destination": 0,
+      "result": 61.0
+    },
+    {
+      "hp": 61,
+      "destination": 151,
+      "result": 61.0
+    },
+    {
+      "hp": 62,
+      "destination": -1,
+      "result": 82.0
+    },
+    {
+      "hp": 62,
+      "destination": 0,
+      "result": 62.0
+    },
+    {
+      "hp": 62,
+      "destination": 151,
+      "result": 62.0
+    },
+    {
+      "hp": 63,
+      "destination": -1,
+      "result": 83.0
+    },
+    {
+      "hp": 63,
+      "destination": 0,
+      "result": 63.0
+    },
+    {
+      "hp": 63,
+      "destination": 151,
+      "result": 63.0
+    },
+    {
+      "hp": 64,
+      "destination": -1,
+      "result": 84.0
+    },
+    {
+      "hp": 64,
+      "destination": 0,
+      "result": 64.0
+    },
+    {
+      "hp": 64,
+      "destination": 151,
+      "result": 64.0
+    },
+    {
+      "hp": 65,
+      "destination": -1,
+      "result": 85.0
+    },
+    {
+      "hp": 65,
+      "destination": 0,
+      "result": 65.0
+    },
+    {
+      "hp": 65,
+      "destination": 151,
+      "result": 65.0
+    },
+    {
+      "hp": 66,
+      "destination": -1,
+      "result": 86.0
+    },
+    {
+      "hp": 66,
+      "destination": 0,
+      "result": 66.0
+    },
+    {
+      "hp": 66,
+      "destination": 151,
+      "result": 66.0
+    },
+    {
+      "hp": 67,
+      "destination": -1,
+      "result": 87.0
+    },
+    {
+      "hp": 67,
+      "destination": 0,
+      "result": 67.0
+    },
+    {
+      "hp": 67,
+      "destination": 151,
+      "result": 67.0
+    },
+    {
+      "hp": 68,
+      "destination": -1,
+      "result": 88.0
+    },
+    {
+      "hp": 68,
+      "destination": 0,
+      "result": 68.0
+    },
+    {
+      "hp": 68,
+      "destination": 151,
+      "result": 68.0
+    },
+    {
+      "hp": 69,
+      "destination": -1,
+      "result": 89.0
+    },
+    {
+      "hp": 69,
+      "destination": 0,
+      "result": 69.0
+    },
+    {
+      "hp": 69,
+      "destination": 151,
+      "result": 69.0
+    },
+    {
+      "hp": 70,
+      "destination": -1,
+      "result": 90.0
+    },
+    {
+      "hp": 70,
+      "destination": 0,
+      "result": 70.0
+    },
+    {
+      "hp": 70,
+      "destination": 151,
+      "result": 70.0
+    },
+    {
+      "hp": 71,
+      "destination": -1,
+      "result": 91.0
+    },
+    {
+      "hp": 71,
+      "destination": 0,
+      "result": 71.0
+    },
+    {
+      "hp": 71,
+      "destination": 151,
+      "result": 71.0
+    },
+    {
+      "hp": 72,
+      "destination": -1,
+      "result": 92.0
+    },
+    {
+      "hp": 72,
+      "destination": 0,
+      "result": 72.0
+    },
+    {
+      "hp": 72,
+      "destination": 151,
+      "result": 72.0
+    },
+    {
+      "hp": 73,
+      "destination": -1,
+      "result": 93.0
+    },
+    {
+      "hp": 73,
+      "destination": 0,
+      "result": 73.0
+    },
+    {
+      "hp": 73,
+      "destination": 151,
+      "result": 73.0
+    },
+    {
+      "hp": 74,
+      "destination": -1,
+      "result": 94.0
+    },
+    {
+      "hp": 74,
+      "destination": 0,
+      "result": 74.0
+    },
+    {
+      "hp": 74,
+      "destination": 151,
+      "result": 74.0
+    },
+    {
+      "hp": 75,
+      "destination": -1,
+      "result": 95.0
+    },
+    {
+      "hp": 75,
+      "destination": 0,
+      "result": 75.0
+    },
+    {
+      "hp": 75,
+      "destination": 151,
+      "result": 75.0
+    },
+    {
+      "hp": 76,
+      "destination": -1,
+      "result": 96.0
+    },
+    {
+      "hp": 76,
+      "destination": 0,
+      "result": 76.0
+    },
+    {
+      "hp": 76,
+      "destination": 151,
+      "result": 76.0
+    },
+    {
+      "hp": 77,
+      "destination": -1,
+      "result": 97.0
+    },
+    {
+      "hp": 77,
+      "destination": 0,
+      "result": 77.0
+    },
+    {
+      "hp": 77,
+      "destination": 151,
+      "result": 77.0
+    },
+    {
+      "hp": 78,
+      "destination": -1,
+      "result": 98.0
+    },
+    {
+      "hp": 78,
+      "destination": 0,
+      "result": 78.0
+    },
+    {
+      "hp": 78,
+      "destination": 151,
+      "result": 78.0
+    },
+    {
+      "hp": 79,
+      "destination": -1,
+      "result": 99.0
+    },
+    {
+      "hp": 79,
+      "destination": 0,
+      "result": 79.0
+    },
+    {
+      "hp": 79,
+      "destination": 151,
+      "result": 79.0
+    },
+    {
+      "hp": 80,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 80,
+      "destination": 0,
+      "result": 80.0
+    },
+    {
+      "hp": 80,
+      "destination": 151,
+      "result": 80.0
+    },
+    {
+      "hp": 81,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 81,
+      "destination": 0,
+      "result": 81.0
+    },
+    {
+      "hp": 81,
+      "destination": 151,
+      "result": 81.0
+    },
+    {
+      "hp": 82,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 82,
+      "destination": 0,
+      "result": 82.0
+    },
+    {
+      "hp": 82,
+      "destination": 151,
+      "result": 82.0
+    },
+    {
+      "hp": 83,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 83,
+      "destination": 0,
+      "result": 83.0
+    },
+    {
+      "hp": 83,
+      "destination": 151,
+      "result": 83.0
+    },
+    {
+      "hp": 84,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 84,
+      "destination": 0,
+      "result": 84.0
+    },
+    {
+      "hp": 84,
+      "destination": 151,
+      "result": 84.0
+    },
+    {
+      "hp": 85,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 85,
+      "destination": 0,
+      "result": 85.0
+    },
+    {
+      "hp": 85,
+      "destination": 151,
+      "result": 85.0
+    },
+    {
+      "hp": 86,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 86,
+      "destination": 0,
+      "result": 86.0
+    },
+    {
+      "hp": 86,
+      "destination": 151,
+      "result": 86.0
+    },
+    {
+      "hp": 87,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 87,
+      "destination": 0,
+      "result": 87.0
+    },
+    {
+      "hp": 87,
+      "destination": 151,
+      "result": 87.0
+    },
+    {
+      "hp": 88,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 88,
+      "destination": 0,
+      "result": 88.0
+    },
+    {
+      "hp": 88,
+      "destination": 151,
+      "result": 88.0
+    },
+    {
+      "hp": 89,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 89,
+      "destination": 0,
+      "result": 89.0
+    },
+    {
+      "hp": 89,
+      "destination": 151,
+      "result": 89.0
+    },
+    {
+      "hp": 90,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 90,
+      "destination": 0,
+      "result": 90.0
+    },
+    {
+      "hp": 90,
+      "destination": 151,
+      "result": 90.0
+    },
+    {
+      "hp": 91,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 91,
+      "destination": 0,
+      "result": 91.0
+    },
+    {
+      "hp": 91,
+      "destination": 151,
+      "result": 91.0
+    },
+    {
+      "hp": 92,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 92,
+      "destination": 0,
+      "result": 92.0
+    },
+    {
+      "hp": 92,
+      "destination": 151,
+      "result": 92.0
+    },
+    {
+      "hp": 93,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 93,
+      "destination": 0,
+      "result": 93.0
+    },
+    {
+      "hp": 93,
+      "destination": 151,
+      "result": 93.0
+    },
+    {
+      "hp": 94,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 94,
+      "destination": 0,
+      "result": 94.0
+    },
+    {
+      "hp": 94,
+      "destination": 151,
+      "result": 94.0
+    },
+    {
+      "hp": 95,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 95,
+      "destination": 0,
+      "result": 95.0
+    },
+    {
+      "hp": 95,
+      "destination": 151,
+      "result": 95.0
+    },
+    {
+      "hp": 96,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 96,
+      "destination": 0,
+      "result": 96.0
+    },
+    {
+      "hp": 96,
+      "destination": 151,
+      "result": 96.0
+    },
+    {
+      "hp": 97,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 97,
+      "destination": 0,
+      "result": 97.0
+    },
+    {
+      "hp": 97,
+      "destination": 151,
+      "result": 97.0
+    },
+    {
+      "hp": 98,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 98,
+      "destination": 0,
+      "result": 98.0
+    },
+    {
+      "hp": 98,
+      "destination": 151,
+      "result": 98.0
+    },
+    {
+      "hp": 99,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 99,
+      "destination": 0,
+      "result": 99.0
+    },
+    {
+      "hp": 99,
+      "destination": 151,
+      "result": 99.0
+    },
+    {
+      "hp": 100,
+      "destination": -1,
+      "result": 100.0
+    },
+    {
+      "hp": 100,
+      "destination": 0,
+      "result": 100.0
+    },
+    {
+      "hp": 100,
+      "destination": 151,
+      "result": 100.0
+    }
+  ]
+}

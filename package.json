@@ -1,0 +1,16 @@
+{
+  "name": "imperial-ambitions",
+  "version": "0.2.54",
+  "private": true,
+  "description": "Standalone strategy game and complete sprite-design handover",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node game/server.cjs",
+    "sprites": "node outputs/sprite-library-review/serve.cjs",
+    "test": "node scripts/test.mjs",
+    "test:smoke": "node scripts/smoke.mjs",
+    "check:assets": "node scripts/check-assets.mjs"
+  },
+  "devDependencies": { "playwright": "1.62.1" }
+}

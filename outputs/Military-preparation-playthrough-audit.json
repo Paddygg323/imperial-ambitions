@@ -1,0 +1,251 @@
+{
+  "scope": "Real campaign army upgrades and recruitment with source-defined full material costs and worker conversion",
+  "checks": 32,
+  "recruited": [
+    "halberdier",
+    "culverin"
+  ],
+  "armies": [
+    {
+      "id": "a21",
+      "owner": "england",
+      "type": "arquebusier",
+      "province": "e1-0",
+      "hp": 100,
+      "experience": 0,
+      "defending": true,
+      "order": null
+    },
+    {
+      "id": "a22",
+      "owner": "england",
+      "type": "lancer",
+      "province": "e1-0",
+      "hp": 100,
+      "experience": 0,
+      "defending": true,
+      "order": null
+    },
+    {
+      "id": "a23",
+      "owner": "england",
+      "type": "halberdier",
+      "province": "e1-0",
+      "hp": 100,
+      "experience": 0,
+      "defending": true,
+      "order": null
+    },
+    {
+      "id": "a884",
+      "owner": "england",
+      "type": "halberdier",
+      "province": "e1-0",
+      "hp": 100,
+      "experience": 0,
+      "order": null
+    },
+    {
+      "id": "a892",
+      "owner": "england",
+      "type": "culverin",
+      "province": "e1-0",
+      "hp": 100,
+      "experience": 0,
+      "order": null
+    }
+  ],
+  "final": {
+    "turn": 85,
+    "year": 1670,
+    "cash": 7326,
+    "workers": 11,
+    "workerDetails": [
+      {
+        "id": "w398",
+        "type": "peasant",
+        "fit": true,
+        "diet": "grain"
+      },
+      {
+        "id": "w409",
+        "type": "peasant",
+        "fit": true,
+        "diet": "meat"
+      },
+      {
+        "id": "w465",
+        "type": "peasant",
+        "fit": true,
+        "diet": "meat"
+      },
+      {
+        "id": "w471",
+        "type": "peasant",
+        "fit": true,
+        "diet": "meat"
+      },
+      {
+        "id": "w537",
+        "type": "peasant",
+        "fit": true,
+        "diet": "meat"
+      },
+      {
+        "id": "w564",
+        "type": "peasant",
+        "fit": true,
+        "diet": "grain"
+      },
+      {
+        "id": "w572",
+        "type": "peasant",
+        "fit": true,
+        "diet": "grain"
+      },
+      {
+        "id": "w586",
+        "type": "peasant",
+        "fit": true,
+        "diet": "grain"
+      },
+      {
+        "id": "w842",
+        "type": "apprentice",
+        "fit": true,
+        "diet": "grain"
+      },
+      {
+        "id": "w843",
+        "type": "peasant",
+        "fit": true,
+        "diet": "meat"
+      },
+      {
+        "id": "w849",
+        "type": "apprentice",
+        "fit": true,
+        "diet": "meat"
+      }
+    ],
+    "labour": 17,
+    "food": {
+      "grain": 9,
+      "protein": 10,
+      "total": 19
+    },
+    "incoming": {
+      "wool": 6,
+      "timber": 4,
+      "tin": 0,
+      "copper": 0,
+      "iron": 4,
+      "coal": 0,
+      "cotton": 0,
+      "sugarCane": 0,
+      "tobacco": 0,
+      "furs": 0,
+      "horses": 0,
+      "fabric": 0,
+      "lumber": 0,
+      "paper": 0,
+      "bronze": 0,
+      "castIron": 0,
+      "steel": 0,
+      "sugar": 0,
+      "cigars": 0,
+      "hats": 0,
+      "grain": 9,
+      "fish": 3,
+      "meat": 7,
+      "spices": 0,
+      "silver": 0,
+      "gold": 0,
+      "gems": 0,
+      "diamonds": 0
+    },
+    "stock": {
+      "wool": 106,
+      "timber": 62,
+      "tin": 0,
+      "copper": 0,
+      "iron": 104,
+      "coal": 0,
+      "cotton": 0,
+      "sugarCane": 11,
+      "tobacco": 0,
+      "furs": 0,
+      "horses": 3,
+      "fabric": 4,
+      "lumber": 10,
+      "paper": 6,
+      "bronze": 2,
+      "castIron": 10,
+      "steel": 0,
+      "sugar": 6,
+      "cigars": 0,
+      "hats": 0,
+      "grain": 96,
+      "fish": 71,
+      "meat": 0,
+      "spices": 0,
+      "silver": 0,
+      "gold": 0,
+      "gems": 0,
+      "diamonds": 0
+    },
+    "known": [
+      "8",
+      "11",
+      "7",
+      "9",
+      "26",
+      "38",
+      "30",
+      "35",
+      "27",
+      "36",
+      "39",
+      "22",
+      "45",
+      "10",
+      "31",
+      "0",
+      "61",
+      "12",
+      "47",
+      "50",
+      "13",
+      "46",
+      "29",
+      "23",
+      "51",
+      "57",
+      "41"
+    ],
+    "projects": [
+      {
+        "tech": "37",
+        "funding": 200,
+        "investment": 1200,
+        "progress": 0.2216005176305771
+      },
+      {
+        "tech": "56",
+        "funding": 300,
+        "investment": 600,
+        "progress": 0.11874810606241226
+      },
+      {
+        "tech": "48",
+        "funding": 300,
+        "investment": 600,
+        "progress": 0.12454831600189209
+      }
+    ]
+  },
+  "limits": [
+    "No English tactical battle or overseas invasion yet",
+    "Not a completed campaign or Pixel test"
+  ]
+}

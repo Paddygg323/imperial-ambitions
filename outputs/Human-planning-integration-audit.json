@@ -1,0 +1,14 @@
+{
+  "runtime": "3-182",
+  "nativeEvidence": "outputs/Native-human-minister-initialization-audit.json",
+  "focusedEvidence": "work/rebuild-v2/human-planning-tests.txt",
+  "fullEvidence": "work/rebuild-v2/tests-human-planning-full-r2.txt",
+  "passed": 778,
+  "browserEvidence": "work/rebuild-v2/android-browser-latest.txt",
+  "apkSha256": "bd9cb294362d8b8117bcdb754ebefdafc41f89ef5ed4c2521c2f8e98d160d52a",
+  "limitations": [
+    "New-game initialization verified, later human planning refresh scheduling not audited",
+    "No automatic legacy planning history reconstruction",
+    "No physical Pixel or complete campaign validation"
+  ]
+}

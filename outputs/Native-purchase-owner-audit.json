@@ -1,0 +1,2778 @@
+{
+  "scope": "CompletedOrders status14 merchant purchase writes tile+19, not sovereign\nowner+4. Executes original switch branch and its map-refresh call (supplied).\nPurchaseClick4f1bf4 assigns status14 after confirmation and later debits cash.\nThis audit does not prove price or purchase eligibility.\n",
+  "branch": "0x4f24f5",
+  "cases": [
+    {
+      "buyer": 0,
+      "owner": 0,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 0
+    },
+    {
+      "buyer": 0,
+      "owner": 0,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 0
+    },
+    {
+      "buyer": 0,
+      "owner": 0,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 0
+    },
+    {
+      "buyer": 0,
+      "owner": 1,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 1
+    },
+    {
+      "buyer": 0,
+      "owner": 1,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 1
+    },
+    {
+      "buyer": 0,
+      "owner": 1,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 1
+    },
+    {
+      "buyer": 0,
+      "owner": 2,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 2
+    },
+    {
+      "buyer": 0,
+      "owner": 2,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 2
+    },
+    {
+      "buyer": 0,
+      "owner": 2,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 2
+    },
+    {
+      "buyer": 0,
+      "owner": 3,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 3
+    },
+    {
+      "buyer": 0,
+      "owner": 3,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 3
+    },
+    {
+      "buyer": 0,
+      "owner": 3,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 3
+    },
+    {
+      "buyer": 0,
+      "owner": 4,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 4
+    },
+    {
+      "buyer": 0,
+      "owner": 4,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 4
+    },
+    {
+      "buyer": 0,
+      "owner": 4,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 4
+    },
+    {
+      "buyer": 0,
+      "owner": 5,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 5
+    },
+    {
+      "buyer": 0,
+      "owner": 5,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 5
+    },
+    {
+      "buyer": 0,
+      "owner": 5,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 5
+    },
+    {
+      "buyer": 0,
+      "owner": 6,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 6
+    },
+    {
+      "buyer": 0,
+      "owner": 6,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 6
+    },
+    {
+      "buyer": 0,
+      "owner": 6,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 6
+    },
+    {
+      "buyer": 0,
+      "owner": 7,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 7
+    },
+    {
+      "buyer": 0,
+      "owner": 7,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 7
+    },
+    {
+      "buyer": 0,
+      "owner": 7,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 7
+    },
+    {
+      "buyer": 0,
+      "owner": 8,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 8
+    },
+    {
+      "buyer": 0,
+      "owner": 8,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 8
+    },
+    {
+      "buyer": 0,
+      "owner": 8,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 8
+    },
+    {
+      "buyer": 0,
+      "owner": 9,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 9
+    },
+    {
+      "buyer": 0,
+      "owner": 9,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 9
+    },
+    {
+      "buyer": 0,
+      "owner": 9,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 9
+    },
+    {
+      "buyer": 0,
+      "owner": 10,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 10
+    },
+    {
+      "buyer": 0,
+      "owner": 10,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 10
+    },
+    {
+      "buyer": 0,
+      "owner": 10,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 10
+    },
+    {
+      "buyer": 0,
+      "owner": 11,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 11
+    },
+    {
+      "buyer": 0,
+      "owner": 11,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 11
+    },
+    {
+      "buyer": 0,
+      "owner": 11,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 11
+    },
+    {
+      "buyer": 0,
+      "owner": 12,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 12
+    },
+    {
+      "buyer": 0,
+      "owner": 12,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 12
+    },
+    {
+      "buyer": 0,
+      "owner": 12,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 12
+    },
+    {
+      "buyer": 0,
+      "owner": 13,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 13
+    },
+    {
+      "buyer": 0,
+      "owner": 13,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 13
+    },
+    {
+      "buyer": 0,
+      "owner": 13,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 13
+    },
+    {
+      "buyer": 0,
+      "owner": 14,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 14
+    },
+    {
+      "buyer": 0,
+      "owner": 14,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 14
+    },
+    {
+      "buyer": 0,
+      "owner": 14,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 14
+    },
+    {
+      "buyer": 0,
+      "owner": 15,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 15
+    },
+    {
+      "buyer": 0,
+      "owner": 15,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 15
+    },
+    {
+      "buyer": 0,
+      "owner": 15,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 15
+    },
+    {
+      "buyer": 0,
+      "owner": 16,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 16
+    },
+    {
+      "buyer": 0,
+      "owner": 16,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 16
+    },
+    {
+      "buyer": 0,
+      "owner": 16,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 16
+    },
+    {
+      "buyer": 0,
+      "owner": 17,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 17
+    },
+    {
+      "buyer": 0,
+      "owner": 17,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 17
+    },
+    {
+      "buyer": 0,
+      "owner": 17,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 17
+    },
+    {
+      "buyer": 0,
+      "owner": 18,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 18
+    },
+    {
+      "buyer": 0,
+      "owner": 18,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 18
+    },
+    {
+      "buyer": 0,
+      "owner": 18,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 18
+    },
+    {
+      "buyer": 0,
+      "owner": 19,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 19
+    },
+    {
+      "buyer": 0,
+      "owner": 19,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 19
+    },
+    {
+      "buyer": 0,
+      "owner": 19,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 19
+    },
+    {
+      "buyer": 0,
+      "owner": 20,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 20
+    },
+    {
+      "buyer": 0,
+      "owner": 20,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 20
+    },
+    {
+      "buyer": 0,
+      "owner": 20,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 20
+    },
+    {
+      "buyer": 0,
+      "owner": 21,
+      "previous": -1,
+      "result": 0,
+      "sovereign": 21
+    },
+    {
+      "buyer": 0,
+      "owner": 21,
+      "previous": 0,
+      "result": 0,
+      "sovereign": 21
+    },
+    {
+      "buyer": 0,
+      "owner": 21,
+      "previous": 5,
+      "result": 0,
+      "sovereign": 21
+    },
+    {
+      "buyer": 1,
+      "owner": 0,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 0
+    },
+    {
+      "buyer": 1,
+      "owner": 0,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 0
+    },
+    {
+      "buyer": 1,
+      "owner": 0,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 0
+    },
+    {
+      "buyer": 1,
+      "owner": 1,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 1
+    },
+    {
+      "buyer": 1,
+      "owner": 1,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 1
+    },
+    {
+      "buyer": 1,
+      "owner": 1,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 1
+    },
+    {
+      "buyer": 1,
+      "owner": 2,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 2
+    },
+    {
+      "buyer": 1,
+      "owner": 2,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 2
+    },
+    {
+      "buyer": 1,
+      "owner": 2,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 2
+    },
+    {
+      "buyer": 1,
+      "owner": 3,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 3
+    },
+    {
+      "buyer": 1,
+      "owner": 3,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 3
+    },
+    {
+      "buyer": 1,
+      "owner": 3,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 3
+    },
+    {
+      "buyer": 1,
+      "owner": 4,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 4
+    },
+    {
+      "buyer": 1,
+      "owner": 4,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 4
+    },
+    {
+      "buyer": 1,
+      "owner": 4,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 4
+    },
+    {
+      "buyer": 1,
+      "owner": 5,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 5
+    },
+    {
+      "buyer": 1,
+      "owner": 5,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 5
+    },
+    {
+      "buyer": 1,
+      "owner": 5,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 5
+    },
+    {
+      "buyer": 1,
+      "owner": 6,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 6
+    },
+    {
+      "buyer": 1,
+      "owner": 6,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 6
+    },
+    {
+      "buyer": 1,
+      "owner": 6,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 6
+    },
+    {
+      "buyer": 1,
+      "owner": 7,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 7
+    },
+    {
+      "buyer": 1,
+      "owner": 7,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 7
+    },
+    {
+      "buyer": 1,
+      "owner": 7,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 7
+    },
+    {
+      "buyer": 1,
+      "owner": 8,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 8
+    },
+    {
+      "buyer": 1,
+      "owner": 8,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 8
+    },
+    {
+      "buyer": 1,
+      "owner": 8,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 8
+    },
+    {
+      "buyer": 1,
+      "owner": 9,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 9
+    },
+    {
+      "buyer": 1,
+      "owner": 9,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 9
+    },
+    {
+      "buyer": 1,
+      "owner": 9,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 9
+    },
+    {
+      "buyer": 1,
+      "owner": 10,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 10
+    },
+    {
+      "buyer": 1,
+      "owner": 10,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 10
+    },
+    {
+      "buyer": 1,
+      "owner": 10,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 10
+    },
+    {
+      "buyer": 1,
+      "owner": 11,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 11
+    },
+    {
+      "buyer": 1,
+      "owner": 11,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 11
+    },
+    {
+      "buyer": 1,
+      "owner": 11,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 11
+    },
+    {
+      "buyer": 1,
+      "owner": 12,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 12
+    },
+    {
+      "buyer": 1,
+      "owner": 12,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 12
+    },
+    {
+      "buyer": 1,
+      "owner": 12,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 12
+    },
+    {
+      "buyer": 1,
+      "owner": 13,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 13
+    },
+    {
+      "buyer": 1,
+      "owner": 13,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 13
+    },
+    {
+      "buyer": 1,
+      "owner": 13,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 13
+    },
+    {
+      "buyer": 1,
+      "owner": 14,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 14
+    },
+    {
+      "buyer": 1,
+      "owner": 14,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 14
+    },
+    {
+      "buyer": 1,
+      "owner": 14,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 14
+    },
+    {
+      "buyer": 1,
+      "owner": 15,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 15
+    },
+    {
+      "buyer": 1,
+      "owner": 15,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 15
+    },
+    {
+      "buyer": 1,
+      "owner": 15,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 15
+    },
+    {
+      "buyer": 1,
+      "owner": 16,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 16
+    },
+    {
+      "buyer": 1,
+      "owner": 16,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 16
+    },
+    {
+      "buyer": 1,
+      "owner": 16,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 16
+    },
+    {
+      "buyer": 1,
+      "owner": 17,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 17
+    },
+    {
+      "buyer": 1,
+      "owner": 17,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 17
+    },
+    {
+      "buyer": 1,
+      "owner": 17,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 17
+    },
+    {
+      "buyer": 1,
+      "owner": 18,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 18
+    },
+    {
+      "buyer": 1,
+      "owner": 18,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 18
+    },
+    {
+      "buyer": 1,
+      "owner": 18,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 18
+    },
+    {
+      "buyer": 1,
+      "owner": 19,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 19
+    },
+    {
+      "buyer": 1,
+      "owner": 19,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 19
+    },
+    {
+      "buyer": 1,
+      "owner": 19,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 19
+    },
+    {
+      "buyer": 1,
+      "owner": 20,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 20
+    },
+    {
+      "buyer": 1,
+      "owner": 20,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 20
+    },
+    {
+      "buyer": 1,
+      "owner": 20,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 20
+    },
+    {
+      "buyer": 1,
+      "owner": 21,
+      "previous": -1,
+      "result": 1,
+      "sovereign": 21
+    },
+    {
+      "buyer": 1,
+      "owner": 21,
+      "previous": 0,
+      "result": 1,
+      "sovereign": 21
+    },
+    {
+      "buyer": 1,
+      "owner": 21,
+      "previous": 5,
+      "result": 1,
+      "sovereign": 21
+    },
+    {
+      "buyer": 2,
+      "owner": 0,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 0
+    },
+    {
+      "buyer": 2,
+      "owner": 0,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 0
+    },
+    {
+      "buyer": 2,
+      "owner": 0,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 0
+    },
+    {
+      "buyer": 2,
+      "owner": 1,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 1
+    },
+    {
+      "buyer": 2,
+      "owner": 1,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 1
+    },
+    {
+      "buyer": 2,
+      "owner": 1,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 1
+    },
+    {
+      "buyer": 2,
+      "owner": 2,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 2
+    },
+    {
+      "buyer": 2,
+      "owner": 2,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 2
+    },
+    {
+      "buyer": 2,
+      "owner": 2,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 2
+    },
+    {
+      "buyer": 2,
+      "owner": 3,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 3
+    },
+    {
+      "buyer": 2,
+      "owner": 3,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 3
+    },
+    {
+      "buyer": 2,
+      "owner": 3,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 3
+    },
+    {
+      "buyer": 2,
+      "owner": 4,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 4
+    },
+    {
+      "buyer": 2,
+      "owner": 4,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 4
+    },
+    {
+      "buyer": 2,
+      "owner": 4,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 4
+    },
+    {
+      "buyer": 2,
+      "owner": 5,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 5
+    },
+    {
+      "buyer": 2,
+      "owner": 5,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 5
+    },
+    {
+      "buyer": 2,
+      "owner": 5,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 5
+    },
+    {
+      "buyer": 2,
+      "owner": 6,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 6
+    },
+    {
+      "buyer": 2,
+      "owner": 6,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 6
+    },
+    {
+      "buyer": 2,
+      "owner": 6,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 6
+    },
+    {
+      "buyer": 2,
+      "owner": 7,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 7
+    },
+    {
+      "buyer": 2,
+      "owner": 7,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 7
+    },
+    {
+      "buyer": 2,
+      "owner": 7,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 7
+    },
+    {
+      "buyer": 2,
+      "owner": 8,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 8
+    },
+    {
+      "buyer": 2,
+      "owner": 8,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 8
+    },
+    {
+      "buyer": 2,
+      "owner": 8,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 8
+    },
+    {
+      "buyer": 2,
+      "owner": 9,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 9
+    },
+    {
+      "buyer": 2,
+      "owner": 9,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 9
+    },
+    {
+      "buyer": 2,
+      "owner": 9,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 9
+    },
+    {
+      "buyer": 2,
+      "owner": 10,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 10
+    },
+    {
+      "buyer": 2,
+      "owner": 10,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 10
+    },
+    {
+      "buyer": 2,
+      "owner": 10,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 10
+    },
+    {
+      "buyer": 2,
+      "owner": 11,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 11
+    },
+    {
+      "buyer": 2,
+      "owner": 11,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 11
+    },
+    {
+      "buyer": 2,
+      "owner": 11,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 11
+    },
+    {
+      "buyer": 2,
+      "owner": 12,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 12
+    },
+    {
+      "buyer": 2,
+      "owner": 12,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 12
+    },
+    {
+      "buyer": 2,
+      "owner": 12,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 12
+    },
+    {
+      "buyer": 2,
+      "owner": 13,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 13
+    },
+    {
+      "buyer": 2,
+      "owner": 13,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 13
+    },
+    {
+      "buyer": 2,
+      "owner": 13,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 13
+    },
+    {
+      "buyer": 2,
+      "owner": 14,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 14
+    },
+    {
+      "buyer": 2,
+      "owner": 14,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 14
+    },
+    {
+      "buyer": 2,
+      "owner": 14,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 14
+    },
+    {
+      "buyer": 2,
+      "owner": 15,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 15
+    },
+    {
+      "buyer": 2,
+      "owner": 15,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 15
+    },
+    {
+      "buyer": 2,
+      "owner": 15,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 15
+    },
+    {
+      "buyer": 2,
+      "owner": 16,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 16
+    },
+    {
+      "buyer": 2,
+      "owner": 16,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 16
+    },
+    {
+      "buyer": 2,
+      "owner": 16,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 16
+    },
+    {
+      "buyer": 2,
+      "owner": 17,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 17
+    },
+    {
+      "buyer": 2,
+      "owner": 17,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 17
+    },
+    {
+      "buyer": 2,
+      "owner": 17,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 17
+    },
+    {
+      "buyer": 2,
+      "owner": 18,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 18
+    },
+    {
+      "buyer": 2,
+      "owner": 18,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 18
+    },
+    {
+      "buyer": 2,
+      "owner": 18,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 18
+    },
+    {
+      "buyer": 2,
+      "owner": 19,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 19
+    },
+    {
+      "buyer": 2,
+      "owner": 19,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 19
+    },
+    {
+      "buyer": 2,
+      "owner": 19,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 19
+    },
+    {
+      "buyer": 2,
+      "owner": 20,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 20
+    },
+    {
+      "buyer": 2,
+      "owner": 20,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 20
+    },
+    {
+      "buyer": 2,
+      "owner": 20,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 20
+    },
+    {
+      "buyer": 2,
+      "owner": 21,
+      "previous": -1,
+      "result": 2,
+      "sovereign": 21
+    },
+    {
+      "buyer": 2,
+      "owner": 21,
+      "previous": 0,
+      "result": 2,
+      "sovereign": 21
+    },
+    {
+      "buyer": 2,
+      "owner": 21,
+      "previous": 5,
+      "result": 2,
+      "sovereign": 21
+    },
+    {
+      "buyer": 3,
+      "owner": 0,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 0
+    },
+    {
+      "buyer": 3,
+      "owner": 0,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 0
+    },
+    {
+      "buyer": 3,
+      "owner": 0,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 0
+    },
+    {
+      "buyer": 3,
+      "owner": 1,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 1
+    },
+    {
+      "buyer": 3,
+      "owner": 1,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 1
+    },
+    {
+      "buyer": 3,
+      "owner": 1,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 1
+    },
+    {
+      "buyer": 3,
+      "owner": 2,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 2
+    },
+    {
+      "buyer": 3,
+      "owner": 2,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 2
+    },
+    {
+      "buyer": 3,
+      "owner": 2,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 2
+    },
+    {
+      "buyer": 3,
+      "owner": 3,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 3
+    },
+    {
+      "buyer": 3,
+      "owner": 3,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 3
+    },
+    {
+      "buyer": 3,
+      "owner": 3,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 3
+    },
+    {
+      "buyer": 3,
+      "owner": 4,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 4
+    },
+    {
+      "buyer": 3,
+      "owner": 4,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 4
+    },
+    {
+      "buyer": 3,
+      "owner": 4,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 4
+    },
+    {
+      "buyer": 3,
+      "owner": 5,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 5
+    },
+    {
+      "buyer": 3,
+      "owner": 5,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 5
+    },
+    {
+      "buyer": 3,
+      "owner": 5,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 5
+    },
+    {
+      "buyer": 3,
+      "owner": 6,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 6
+    },
+    {
+      "buyer": 3,
+      "owner": 6,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 6
+    },
+    {
+      "buyer": 3,
+      "owner": 6,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 6
+    },
+    {
+      "buyer": 3,
+      "owner": 7,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 7
+    },
+    {
+      "buyer": 3,
+      "owner": 7,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 7
+    },
+    {
+      "buyer": 3,
+      "owner": 7,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 7
+    },
+    {
+      "buyer": 3,
+      "owner": 8,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 8
+    },
+    {
+      "buyer": 3,
+      "owner": 8,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 8
+    },
+    {
+      "buyer": 3,
+      "owner": 8,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 8
+    },
+    {
+      "buyer": 3,
+      "owner": 9,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 9
+    },
+    {
+      "buyer": 3,
+      "owner": 9,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 9
+    },
+    {
+      "buyer": 3,
+      "owner": 9,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 9
+    },
+    {
+      "buyer": 3,
+      "owner": 10,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 10
+    },
+    {
+      "buyer": 3,
+      "owner": 10,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 10
+    },
+    {
+      "buyer": 3,
+      "owner": 10,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 10
+    },
+    {
+      "buyer": 3,
+      "owner": 11,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 11
+    },
+    {
+      "buyer": 3,
+      "owner": 11,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 11
+    },
+    {
+      "buyer": 3,
+      "owner": 11,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 11
+    },
+    {
+      "buyer": 3,
+      "owner": 12,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 12
+    },
+    {
+      "buyer": 3,
+      "owner": 12,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 12
+    },
+    {
+      "buyer": 3,
+      "owner": 12,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 12
+    },
+    {
+      "buyer": 3,
+      "owner": 13,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 13
+    },
+    {
+      "buyer": 3,
+      "owner": 13,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 13
+    },
+    {
+      "buyer": 3,
+      "owner": 13,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 13
+    },
+    {
+      "buyer": 3,
+      "owner": 14,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 14
+    },
+    {
+      "buyer": 3,
+      "owner": 14,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 14
+    },
+    {
+      "buyer": 3,
+      "owner": 14,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 14
+    },
+    {
+      "buyer": 3,
+      "owner": 15,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 15
+    },
+    {
+      "buyer": 3,
+      "owner": 15,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 15
+    },
+    {
+      "buyer": 3,
+      "owner": 15,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 15
+    },
+    {
+      "buyer": 3,
+      "owner": 16,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 16
+    },
+    {
+      "buyer": 3,
+      "owner": 16,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 16
+    },
+    {
+      "buyer": 3,
+      "owner": 16,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 16
+    },
+    {
+      "buyer": 3,
+      "owner": 17,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 17
+    },
+    {
+      "buyer": 3,
+      "owner": 17,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 17
+    },
+    {
+      "buyer": 3,
+      "owner": 17,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 17
+    },
+    {
+      "buyer": 3,
+      "owner": 18,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 18
+    },
+    {
+      "buyer": 3,
+      "owner": 18,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 18
+    },
+    {
+      "buyer": 3,
+      "owner": 18,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 18
+    },
+    {
+      "buyer": 3,
+      "owner": 19,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 19
+    },
+    {
+      "buyer": 3,
+      "owner": 19,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 19
+    },
+    {
+      "buyer": 3,
+      "owner": 19,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 19
+    },
+    {
+      "buyer": 3,
+      "owner": 20,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 20
+    },
+    {
+      "buyer": 3,
+      "owner": 20,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 20
+    },
+    {
+      "buyer": 3,
+      "owner": 20,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 20
+    },
+    {
+      "buyer": 3,
+      "owner": 21,
+      "previous": -1,
+      "result": 3,
+      "sovereign": 21
+    },
+    {
+      "buyer": 3,
+      "owner": 21,
+      "previous": 0,
+      "result": 3,
+      "sovereign": 21
+    },
+    {
+      "buyer": 3,
+      "owner": 21,
+      "previous": 5,
+      "result": 3,
+      "sovereign": 21
+    },
+    {
+      "buyer": 4,
+      "owner": 0,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 0
+    },
+    {
+      "buyer": 4,
+      "owner": 0,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 0
+    },
+    {
+      "buyer": 4,
+      "owner": 0,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 0
+    },
+    {
+      "buyer": 4,
+      "owner": 1,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 1
+    },
+    {
+      "buyer": 4,
+      "owner": 1,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 1
+    },
+    {
+      "buyer": 4,
+      "owner": 1,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 1
+    },
+    {
+      "buyer": 4,
+      "owner": 2,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 2
+    },
+    {
+      "buyer": 4,
+      "owner": 2,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 2
+    },
+    {
+      "buyer": 4,
+      "owner": 2,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 2
+    },
+    {
+      "buyer": 4,
+      "owner": 3,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 3
+    },
+    {
+      "buyer": 4,
+      "owner": 3,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 3
+    },
+    {
+      "buyer": 4,
+      "owner": 3,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 3
+    },
+    {
+      "buyer": 4,
+      "owner": 4,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 4
+    },
+    {
+      "buyer": 4,
+      "owner": 4,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 4
+    },
+    {
+      "buyer": 4,
+      "owner": 4,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 4
+    },
+    {
+      "buyer": 4,
+      "owner": 5,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 5
+    },
+    {
+      "buyer": 4,
+      "owner": 5,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 5
+    },
+    {
+      "buyer": 4,
+      "owner": 5,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 5
+    },
+    {
+      "buyer": 4,
+      "owner": 6,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 6
+    },
+    {
+      "buyer": 4,
+      "owner": 6,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 6
+    },
+    {
+      "buyer": 4,
+      "owner": 6,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 6
+    },
+    {
+      "buyer": 4,
+      "owner": 7,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 7
+    },
+    {
+      "buyer": 4,
+      "owner": 7,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 7
+    },
+    {
+      "buyer": 4,
+      "owner": 7,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 7
+    },
+    {
+      "buyer": 4,
+      "owner": 8,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 8
+    },
+    {
+      "buyer": 4,
+      "owner": 8,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 8
+    },
+    {
+      "buyer": 4,
+      "owner": 8,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 8
+    },
+    {
+      "buyer": 4,
+      "owner": 9,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 9
+    },
+    {
+      "buyer": 4,
+      "owner": 9,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 9
+    },
+    {
+      "buyer": 4,
+      "owner": 9,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 9
+    },
+    {
+      "buyer": 4,
+      "owner": 10,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 10
+    },
+    {
+      "buyer": 4,
+      "owner": 10,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 10
+    },
+    {
+      "buyer": 4,
+      "owner": 10,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 10
+    },
+    {
+      "buyer": 4,
+      "owner": 11,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 11
+    },
+    {
+      "buyer": 4,
+      "owner": 11,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 11
+    },
+    {
+      "buyer": 4,
+      "owner": 11,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 11
+    },
+    {
+      "buyer": 4,
+      "owner": 12,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 12
+    },
+    {
+      "buyer": 4,
+      "owner": 12,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 12
+    },
+    {
+      "buyer": 4,
+      "owner": 12,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 12
+    },
+    {
+      "buyer": 4,
+      "owner": 13,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 13
+    },
+    {
+      "buyer": 4,
+      "owner": 13,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 13
+    },
+    {
+      "buyer": 4,
+      "owner": 13,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 13
+    },
+    {
+      "buyer": 4,
+      "owner": 14,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 14
+    },
+    {
+      "buyer": 4,
+      "owner": 14,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 14
+    },
+    {
+      "buyer": 4,
+      "owner": 14,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 14
+    },
+    {
+      "buyer": 4,
+      "owner": 15,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 15
+    },
+    {
+      "buyer": 4,
+      "owner": 15,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 15
+    },
+    {
+      "buyer": 4,
+      "owner": 15,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 15
+    },
+    {
+      "buyer": 4,
+      "owner": 16,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 16
+    },
+    {
+      "buyer": 4,
+      "owner": 16,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 16
+    },
+    {
+      "buyer": 4,
+      "owner": 16,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 16
+    },
+    {
+      "buyer": 4,
+      "owner": 17,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 17
+    },
+    {
+      "buyer": 4,
+      "owner": 17,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 17
+    },
+    {
+      "buyer": 4,
+      "owner": 17,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 17
+    },
+    {
+      "buyer": 4,
+      "owner": 18,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 18
+    },
+    {
+      "buyer": 4,
+      "owner": 18,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 18
+    },
+    {
+      "buyer": 4,
+      "owner": 18,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 18
+    },
+    {
+      "buyer": 4,
+      "owner": 19,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 19
+    },
+    {
+      "buyer": 4,
+      "owner": 19,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 19
+    },
+    {
+      "buyer": 4,
+      "owner": 19,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 19
+    },
+    {
+      "buyer": 4,
+      "owner": 20,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 20
+    },
+    {
+      "buyer": 4,
+      "owner": 20,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 20
+    },
+    {
+      "buyer": 4,
+      "owner": 20,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 20
+    },
+    {
+      "buyer": 4,
+      "owner": 21,
+      "previous": -1,
+      "result": 4,
+      "sovereign": 21
+    },
+    {
+      "buyer": 4,
+      "owner": 21,
+      "previous": 0,
+      "result": 4,
+      "sovereign": 21
+    },
+    {
+      "buyer": 4,
+      "owner": 21,
+      "previous": 5,
+      "result": 4,
+      "sovereign": 21
+    },
+    {
+      "buyer": 5,
+      "owner": 0,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 0
+    },
+    {
+      "buyer": 5,
+      "owner": 0,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 0
+    },
+    {
+      "buyer": 5,
+      "owner": 0,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 0
+    },
+    {
+      "buyer": 5,
+      "owner": 1,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 1
+    },
+    {
+      "buyer": 5,
+      "owner": 1,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 1
+    },
+    {
+      "buyer": 5,
+      "owner": 1,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 1
+    },
+    {
+      "buyer": 5,
+      "owner": 2,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 2
+    },
+    {
+      "buyer": 5,
+      "owner": 2,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 2
+    },
+    {
+      "buyer": 5,
+      "owner": 2,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 2
+    },
+    {
+      "buyer": 5,
+      "owner": 3,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 3
+    },
+    {
+      "buyer": 5,
+      "owner": 3,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 3
+    },
+    {
+      "buyer": 5,
+      "owner": 3,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 3
+    },
+    {
+      "buyer": 5,
+      "owner": 4,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 4
+    },
+    {
+      "buyer": 5,
+      "owner": 4,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 4
+    },
+    {
+      "buyer": 5,
+      "owner": 4,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 4
+    },
+    {
+      "buyer": 5,
+      "owner": 5,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 5
+    },
+    {
+      "buyer": 5,
+      "owner": 5,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 5
+    },
+    {
+      "buyer": 5,
+      "owner": 5,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 5
+    },
+    {
+      "buyer": 5,
+      "owner": 6,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 6
+    },
+    {
+      "buyer": 5,
+      "owner": 6,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 6
+    },
+    {
+      "buyer": 5,
+      "owner": 6,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 6
+    },
+    {
+      "buyer": 5,
+      "owner": 7,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 7
+    },
+    {
+      "buyer": 5,
+      "owner": 7,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 7
+    },
+    {
+      "buyer": 5,
+      "owner": 7,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 7
+    },
+    {
+      "buyer": 5,
+      "owner": 8,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 8
+    },
+    {
+      "buyer": 5,
+      "owner": 8,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 8
+    },
+    {
+      "buyer": 5,
+      "owner": 8,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 8
+    },
+    {
+      "buyer": 5,
+      "owner": 9,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 9
+    },
+    {
+      "buyer": 5,
+      "owner": 9,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 9
+    },
+    {
+      "buyer": 5,
+      "owner": 9,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 9
+    },
+    {
+      "buyer": 5,
+      "owner": 10,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 10
+    },
+    {
+      "buyer": 5,
+      "owner": 10,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 10
+    },
+    {
+      "buyer": 5,
+      "owner": 10,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 10
+    },
+    {
+      "buyer": 5,
+      "owner": 11,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 11
+    },
+    {
+      "buyer": 5,
+      "owner": 11,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 11
+    },
+    {
+      "buyer": 5,
+      "owner": 11,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 11
+    },
+    {
+      "buyer": 5,
+      "owner": 12,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 12
+    },
+    {
+      "buyer": 5,
+      "owner": 12,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 12
+    },
+    {
+      "buyer": 5,
+      "owner": 12,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 12
+    },
+    {
+      "buyer": 5,
+      "owner": 13,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 13
+    },
+    {
+      "buyer": 5,
+      "owner": 13,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 13
+    },
+    {
+      "buyer": 5,
+      "owner": 13,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 13
+    },
+    {
+      "buyer": 5,
+      "owner": 14,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 14
+    },
+    {
+      "buyer": 5,
+      "owner": 14,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 14
+    },
+    {
+      "buyer": 5,
+      "owner": 14,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 14
+    },
+    {
+      "buyer": 5,
+      "owner": 15,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 15
+    },
+    {
+      "buyer": 5,
+      "owner": 15,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 15
+    },
+    {
+      "buyer": 5,
+      "owner": 15,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 15
+    },
+    {
+      "buyer": 5,
+      "owner": 16,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 16
+    },
+    {
+      "buyer": 5,
+      "owner": 16,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 16
+    },
+    {
+      "buyer": 5,
+      "owner": 16,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 16
+    },
+    {
+      "buyer": 5,
+      "owner": 17,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 17
+    },
+    {
+      "buyer": 5,
+      "owner": 17,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 17
+    },
+    {
+      "buyer": 5,
+      "owner": 17,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 17
+    },
+    {
+      "buyer": 5,
+      "owner": 18,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 18
+    },
+    {
+      "buyer": 5,
+      "owner": 18,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 18
+    },
+    {
+      "buyer": 5,
+      "owner": 18,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 18
+    },
+    {
+      "buyer": 5,
+      "owner": 19,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 19
+    },
+    {
+      "buyer": 5,
+      "owner": 19,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 19
+    },
+    {
+      "buyer": 5,
+      "owner": 19,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 19
+    },
+    {
+      "buyer": 5,
+      "owner": 20,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 20
+    },
+    {
+      "buyer": 5,
+      "owner": 20,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 20
+    },
+    {
+      "buyer": 5,
+      "owner": 20,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 20
+    },
+    {
+      "buyer": 5,
+      "owner": 21,
+      "previous": -1,
+      "result": 5,
+      "sovereign": 21
+    },
+    {
+      "buyer": 5,
+      "owner": 21,
+      "previous": 0,
+      "result": 5,
+      "sovereign": 21
+    },
+    {
+      "buyer": 5,
+      "owner": 21,
+      "previous": 5,
+      "result": 5,
+      "sovereign": 21
+    }
+  ]
+}

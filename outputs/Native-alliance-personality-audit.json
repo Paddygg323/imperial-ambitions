@@ -1,0 +1,199 @@
+{
+  "scope": "Original call-to-war threshold getter50cdb0.\nRuns original getters with minister IDs supplied. Minister assignment and\ncampaign military-pressure inputs are not audited by this fixture.\n",
+  "fpuControlWord": 575,
+  "tables": {
+    "foreign": [
+      0.5,
+      0.6000000238418579,
+      0.6000000238418579,
+      0.6000000238418579,
+      0.699999988079071,
+      0.5,
+      0.5
+    ],
+    "defence": [
+      1.0,
+      1.0,
+      1.2000000476837158,
+      0.800000011920929,
+      0.8999999761581421
+    ]
+  },
+  "cases": [
+    {
+      "minister204": 0,
+      "minister20c": 0,
+      "threshold": 1.5
+    },
+    {
+      "minister204": 0,
+      "minister20c": 1,
+      "threshold": 1.5
+    },
+    {
+      "minister204": 0,
+      "minister20c": 2,
+      "threshold": 1.7000000476837158
+    },
+    {
+      "minister204": 0,
+      "minister20c": 3,
+      "threshold": 1.300000011920929
+    },
+    {
+      "minister204": 0,
+      "minister20c": 4,
+      "threshold": 1.399999976158142
+    },
+    {
+      "minister204": 1,
+      "minister20c": 0,
+      "threshold": 1.600000023841858
+    },
+    {
+      "minister204": 1,
+      "minister20c": 1,
+      "threshold": 1.600000023841858
+    },
+    {
+      "minister204": 1,
+      "minister20c": 2,
+      "threshold": 1.8000000715255737
+    },
+    {
+      "minister204": 1,
+      "minister20c": 3,
+      "threshold": 1.4000000357627869
+    },
+    {
+      "minister204": 1,
+      "minister20c": 4,
+      "threshold": 1.5
+    },
+    {
+      "minister204": 2,
+      "minister20c": 0,
+      "threshold": 1.600000023841858
+    },
+    {
+      "minister204": 2,
+      "minister20c": 1,
+      "threshold": 1.600000023841858
+    },
+    {
+      "minister204": 2,
+      "minister20c": 2,
+      "threshold": 1.8000000715255737
+    },
+    {
+      "minister204": 2,
+      "minister20c": 3,
+      "threshold": 1.4000000357627869
+    },
+    {
+      "minister204": 2,
+      "minister20c": 4,
+      "threshold": 1.5
+    },
+    {
+      "minister204": 3,
+      "minister20c": 0,
+      "threshold": 1.600000023841858
+    },
+    {
+      "minister204": 3,
+      "minister20c": 1,
+      "threshold": 1.600000023841858
+    },
+    {
+      "minister204": 3,
+      "minister20c": 2,
+      "threshold": 1.8000000715255737
+    },
+    {
+      "minister204": 3,
+      "minister20c": 3,
+      "threshold": 1.4000000357627869
+    },
+    {
+      "minister204": 3,
+      "minister20c": 4,
+      "threshold": 1.5
+    },
+    {
+      "minister204": 4,
+      "minister20c": 0,
+      "threshold": 1.699999988079071
+    },
+    {
+      "minister204": 4,
+      "minister20c": 1,
+      "threshold": 1.699999988079071
+    },
+    {
+      "minister204": 4,
+      "minister20c": 2,
+      "threshold": 1.9000000357627869
+    },
+    {
+      "minister204": 4,
+      "minister20c": 3,
+      "threshold": 1.5
+    },
+    {
+      "minister204": 4,
+      "minister20c": 4,
+      "threshold": 1.5999999642372131
+    },
+    {
+      "minister204": 5,
+      "minister20c": 0,
+      "threshold": 1.5
+    },
+    {
+      "minister204": 5,
+      "minister20c": 1,
+      "threshold": 1.5
+    },
+    {
+      "minister204": 5,
+      "minister20c": 2,
+      "threshold": 1.7000000476837158
+    },
+    {
+      "minister204": 5,
+      "minister20c": 3,
+      "threshold": 1.300000011920929
+    },
+    {
+      "minister204": 5,
+      "minister20c": 4,
+      "threshold": 1.399999976158142
+    },
+    {
+      "minister204": 6,
+      "minister20c": 0,
+      "threshold": 1.5
+    },
+    {
+      "minister204": 6,
+      "minister20c": 1,
+      "threshold": 1.5
+    },
+    {
+      "minister204": 6,
+      "minister20c": 2,
+      "threshold": 1.7000000476837158
+    },
+    {
+      "minister204": 6,
+      "minister20c": 3,
+      "threshold": 1.300000011920929
+    },
+    {
+      "minister204": 6,
+      "minister20c": 4,
+      "threshold": 1.399999976158142
+    }
+  ]
+}

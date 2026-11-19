@@ -1,0 +1,122 @@
+{
+  "scope": "Three complete economy turns, then a second Swedish attack; public commands and persisted battle",
+  "checks": 33,
+  "initialTurn": 142,
+  "finalTurn": 146,
+  "cash": -1021,
+  "completed": [
+    {
+      "turn": 143,
+      "tech": "43"
+    }
+  ],
+  "underfunded": [
+    {
+      "turn": 144,
+      "kind": "research",
+      "tech": "75",
+      "funded": 0,
+      "plannedFunding": 400,
+      "investment": 4000,
+      "completed": false,
+      "text": "Scientific Cattle Breeding: $0 funded of $400 planned",
+      "nation": "england"
+    },
+    {
+      "turn": 144,
+      "kind": "research",
+      "tech": "76",
+      "funded": 0,
+      "plannedFunding": 400,
+      "investment": 2800,
+      "completed": false,
+      "text": "Scientific Sheep Breeding: $0 funded of $400 planned",
+      "nation": "england"
+    }
+  ],
+  "returningShip": {
+    "id": "s26",
+    "owner": "england",
+    "type": "carrack",
+    "cargo": 3,
+    "location": "sea73",
+    "hp": 25,
+    "order": null,
+    "sleep": false
+  },
+  "cargoFree": 9,
+  "army": [
+    {
+      "id": "a22",
+      "owner": "england",
+      "type": "lancer",
+      "province": "e1-7",
+      "hp": 27,
+      "experience": 105,
+      "defending": false,
+      "order": null,
+      "medals": 1
+    },
+    {
+      "id": "a23",
+      "owner": "england",
+      "type": "regular",
+      "province": "e1-7",
+      "hp": 4,
+      "experience": 70,
+      "defending": false,
+      "order": null,
+      "medals": 0
+    },
+    {
+      "id": "a884",
+      "owner": "england",
+      "type": "regular",
+      "province": "e1-7",
+      "hp": 18,
+      "experience": 105,
+      "order": null,
+      "defending": false,
+      "medals": 1
+    },
+    {
+      "id": "a892",
+      "owner": "england",
+      "type": "culverin",
+      "province": "e1-7",
+      "hp": 48,
+      "experience": 105,
+      "order": null,
+      "defending": false,
+      "medals": 1
+    },
+    {
+      "id": "a1034",
+      "owner": "england",
+      "type": "regular",
+      "province": "e1-7",
+      "hp": 44,
+      "experience": 70,
+      "order": null,
+      "defending": false,
+      "medals": 0
+    },
+    {
+      "id": "a1035",
+      "owner": "england",
+      "type": "regular",
+      "province": "e1-7",
+      "hp": 48,
+      "experience": 70,
+      "order": null,
+      "defending": false,
+      "medals": 0
+    }
+  ],
+  "limits": [
+    "Both tactical sides use rebuild policy, not manual phone play",
+    "Return driver incorrectly ranked home arrival as distance2 and oscillated near home; corrected in next driver",
+    "Still no campaign outcome or Pixel evidence",
+    "Research was underfunded on turn144; not continuous healthy growth"
+  ]
+}

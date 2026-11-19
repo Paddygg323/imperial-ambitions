@@ -1,0 +1,693 @@
+{
+  "scope": "Full TCivUnit SetOrders656020 and MoveTo6561b0. Execute without\ncallbacks against supplied unit/map records. Verify persisted spying assignment\nat +30 is retained when issuing orders or moving; this does not establish all\nturn-boundary behavior or imply that detection uses the old assignment.\n Also actual completion4f291c..293c with display/deployment callback supplied and native SetOrders retained.",
+  "cases": [
+    {
+      "action": "order",
+      "assignment": -1,
+      "status": 0,
+      "retained": -1,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": -1,
+      "status": 1,
+      "retained": -1,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": -1,
+      "status": 2,
+      "retained": -1,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": -1,
+      "status": 3,
+      "retained": -1,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": -1,
+      "status": 4,
+      "retained": -1,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": -1,
+      "status": 5,
+      "retained": -1,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": -1,
+      "status": 6,
+      "retained": -1,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": -1,
+      "status": 7,
+      "retained": -1,
+      "duration": 2
+    },
+    {
+      "action": "order",
+      "assignment": -1,
+      "status": 8,
+      "retained": -1,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": -1,
+      "status": 9,
+      "retained": -1,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": -1,
+      "status": 10,
+      "retained": -1,
+      "duration": 2
+    },
+    {
+      "action": "order",
+      "assignment": -1,
+      "status": 11,
+      "retained": -1,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": -1,
+      "status": 12,
+      "retained": -1,
+      "duration": 2
+    },
+    {
+      "action": "order",
+      "assignment": -1,
+      "status": 13,
+      "retained": -1,
+      "duration": 2
+    },
+    {
+      "action": "order",
+      "assignment": -1,
+      "status": 14,
+      "retained": -1,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": -1,
+      "status": 15,
+      "retained": -1,
+      "duration": 1
+    },
+    {
+      "action": "move",
+      "assignment": -1,
+      "target": -1,
+      "retained": -1,
+      "tile": -1
+    },
+    {
+      "action": "move",
+      "assignment": -1,
+      "target": 0,
+      "retained": -1,
+      "tile": 0
+    },
+    {
+      "action": "move",
+      "assignment": -1,
+      "target": 1,
+      "retained": -1,
+      "tile": 1
+    },
+    {
+      "action": "move",
+      "assignment": -1,
+      "target": 21,
+      "retained": -1,
+      "tile": 21
+    },
+    {
+      "action": "order",
+      "assignment": 0,
+      "status": 0,
+      "retained": 0,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 0,
+      "status": 1,
+      "retained": 0,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 0,
+      "status": 2,
+      "retained": 0,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 0,
+      "status": 3,
+      "retained": 0,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 0,
+      "status": 4,
+      "retained": 0,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 0,
+      "status": 5,
+      "retained": 0,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": 0,
+      "status": 6,
+      "retained": 0,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": 0,
+      "status": 7,
+      "retained": 0,
+      "duration": 2
+    },
+    {
+      "action": "order",
+      "assignment": 0,
+      "status": 8,
+      "retained": 0,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": 0,
+      "status": 9,
+      "retained": 0,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 0,
+      "status": 10,
+      "retained": 0,
+      "duration": 2
+    },
+    {
+      "action": "order",
+      "assignment": 0,
+      "status": 11,
+      "retained": 0,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": 0,
+      "status": 12,
+      "retained": 0,
+      "duration": 2
+    },
+    {
+      "action": "order",
+      "assignment": 0,
+      "status": 13,
+      "retained": 0,
+      "duration": 2
+    },
+    {
+      "action": "order",
+      "assignment": 0,
+      "status": 14,
+      "retained": 0,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": 0,
+      "status": 15,
+      "retained": 0,
+      "duration": 1
+    },
+    {
+      "action": "move",
+      "assignment": 0,
+      "target": -1,
+      "retained": 0,
+      "tile": -1
+    },
+    {
+      "action": "move",
+      "assignment": 0,
+      "target": 0,
+      "retained": 0,
+      "tile": 0
+    },
+    {
+      "action": "move",
+      "assignment": 0,
+      "target": 1,
+      "retained": 0,
+      "tile": 1
+    },
+    {
+      "action": "move",
+      "assignment": 0,
+      "target": 21,
+      "retained": 0,
+      "tile": 21
+    },
+    {
+      "action": "order",
+      "assignment": 5,
+      "status": 0,
+      "retained": 5,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 5,
+      "status": 1,
+      "retained": 5,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 5,
+      "status": 2,
+      "retained": 5,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 5,
+      "status": 3,
+      "retained": 5,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 5,
+      "status": 4,
+      "retained": 5,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 5,
+      "status": 5,
+      "retained": 5,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": 5,
+      "status": 6,
+      "retained": 5,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": 5,
+      "status": 7,
+      "retained": 5,
+      "duration": 2
+    },
+    {
+      "action": "order",
+      "assignment": 5,
+      "status": 8,
+      "retained": 5,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": 5,
+      "status": 9,
+      "retained": 5,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 5,
+      "status": 10,
+      "retained": 5,
+      "duration": 2
+    },
+    {
+      "action": "order",
+      "assignment": 5,
+      "status": 11,
+      "retained": 5,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": 5,
+      "status": 12,
+      "retained": 5,
+      "duration": 2
+    },
+    {
+      "action": "order",
+      "assignment": 5,
+      "status": 13,
+      "retained": 5,
+      "duration": 2
+    },
+    {
+      "action": "order",
+      "assignment": 5,
+      "status": 14,
+      "retained": 5,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": 5,
+      "status": 15,
+      "retained": 5,
+      "duration": 1
+    },
+    {
+      "action": "move",
+      "assignment": 5,
+      "target": -1,
+      "retained": 5,
+      "tile": -1
+    },
+    {
+      "action": "move",
+      "assignment": 5,
+      "target": 0,
+      "retained": 5,
+      "tile": 0
+    },
+    {
+      "action": "move",
+      "assignment": 5,
+      "target": 1,
+      "retained": 5,
+      "tile": 1
+    },
+    {
+      "action": "move",
+      "assignment": 5,
+      "target": 21,
+      "retained": 5,
+      "tile": 21
+    },
+    {
+      "action": "order",
+      "assignment": 21,
+      "status": 0,
+      "retained": 21,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 21,
+      "status": 1,
+      "retained": 21,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 21,
+      "status": 2,
+      "retained": 21,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 21,
+      "status": 3,
+      "retained": 21,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 21,
+      "status": 4,
+      "retained": 21,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 21,
+      "status": 5,
+      "retained": 21,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": 21,
+      "status": 6,
+      "retained": 21,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": 21,
+      "status": 7,
+      "retained": 21,
+      "duration": 2
+    },
+    {
+      "action": "order",
+      "assignment": 21,
+      "status": 8,
+      "retained": 21,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": 21,
+      "status": 9,
+      "retained": 21,
+      "duration": 0
+    },
+    {
+      "action": "order",
+      "assignment": 21,
+      "status": 10,
+      "retained": 21,
+      "duration": 2
+    },
+    {
+      "action": "order",
+      "assignment": 21,
+      "status": 11,
+      "retained": 21,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": 21,
+      "status": 12,
+      "retained": 21,
+      "duration": 2
+    },
+    {
+      "action": "order",
+      "assignment": 21,
+      "status": 13,
+      "retained": 21,
+      "duration": 2
+    },
+    {
+      "action": "order",
+      "assignment": 21,
+      "status": 14,
+      "retained": 21,
+      "duration": 1
+    },
+    {
+      "action": "order",
+      "assignment": 21,
+      "status": 15,
+      "retained": 21,
+      "duration": 1
+    },
+    {
+      "action": "move",
+      "assignment": 21,
+      "target": -1,
+      "retained": 21,
+      "tile": -1
+    },
+    {
+      "action": "move",
+      "assignment": 21,
+      "target": 0,
+      "retained": 21,
+      "tile": 0
+    },
+    {
+      "action": "move",
+      "assignment": 21,
+      "target": 1,
+      "retained": 21,
+      "tile": 1
+    },
+    {
+      "action": "move",
+      "assignment": 21,
+      "target": 21,
+      "retained": 21,
+      "tile": 21
+    },
+    {
+      "action": "complete",
+      "assignment": -1,
+      "target": 0,
+      "assigned": 0,
+      "status": 11,
+      "duration": 1
+    },
+    {
+      "action": "complete",
+      "assignment": -1,
+      "target": 1,
+      "assigned": 1,
+      "status": 11,
+      "duration": 1
+    },
+    {
+      "action": "complete",
+      "assignment": -1,
+      "target": 5,
+      "assigned": 5,
+      "status": 11,
+      "duration": 1
+    },
+    {
+      "action": "complete",
+      "assignment": -1,
+      "target": 21,
+      "assigned": 21,
+      "status": 11,
+      "duration": 1
+    },
+    {
+      "action": "complete",
+      "assignment": 0,
+      "target": 0,
+      "assigned": 0,
+      "status": 11,
+      "duration": 1
+    },
+    {
+      "action": "complete",
+      "assignment": 0,
+      "target": 1,
+      "assigned": 1,
+      "status": 11,
+      "duration": 1
+    },
+    {
+      "action": "complete",
+      "assignment": 0,
+      "target": 5,
+      "assigned": 5,
+      "status": 11,
+      "duration": 1
+    },
+    {
+      "action": "complete",
+      "assignment": 0,
+      "target": 21,
+      "assigned": 21,
+      "status": 11,
+      "duration": 1
+    },
+    {
+      "action": "complete",
+      "assignment": 5,
+      "target": 0,
+      "assigned": 0,
+      "status": 11,
+      "duration": 1
+    },
+    {
+      "action": "complete",
+      "assignment": 5,
+      "target": 1,
+      "assigned": 1,
+      "status": 11,
+      "duration": 1
+    },
+    {
+      "action": "complete",
+      "assignment": 5,
+      "target": 5,
+      "assigned": 5,
+      "status": 11,
+      "duration": 1
+    },
+    {
+      "action": "complete",
+      "assignment": 5,
+      "target": 21,
+      "assigned": 21,
+      "status": 11,
+      "duration": 1
+    },
+    {
+      "action": "complete",
+      "assignment": 21,
+      "target": 0,
+      "assigned": 0,
+      "status": 11,
+      "duration": 1
+    },
+    {
+      "action": "complete",
+      "assignment": 21,
+      "target": 1,
+      "assigned": 1,
+      "status": 11,
+      "duration": 1
+    },
+    {
+      "action": "complete",
+      "assignment": 21,
+      "target": 5,
+      "assigned": 5,
+      "status": 11,
+      "duration": 1
+    },
+    {
+      "action": "complete",
+      "assignment": 21,
+      "target": 21,
+      "assigned": 21,
+      "status": 11,
+      "duration": 1
+    }
+  ]
+}

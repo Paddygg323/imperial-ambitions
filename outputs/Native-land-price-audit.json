@@ -1,0 +1,5225 @@
+{
+  "scope": "Original land purchase price557df0. Actual resource branches, diplomacy\nmatrix lookup and arithmetic; commodity price getter supplied.\nDoes not establish purchase permission or foreign transport rights.\n",
+  "cases": [
+    {
+      "good": -1,
+      "relation": 0,
+      "price": 259,
+      "town": true,
+      "buyer": 0,
+      "owner": 0,
+      "result": 4250
+    },
+    {
+      "good": 0,
+      "relation": 0,
+      "price": 348,
+      "town": false,
+      "buyer": 1,
+      "owner": 1,
+      "result": 2958
+    },
+    {
+      "good": 1,
+      "relation": 255,
+      "price": 452,
+      "town": false,
+      "buyer": 2,
+      "owner": 2,
+      "result": 0
+    },
+    {
+      "good": 2,
+      "relation": 255,
+      "price": 433,
+      "town": true,
+      "buyer": 3,
+      "owner": 3,
+      "result": 0
+    },
+    {
+      "good": 3,
+      "relation": 255,
+      "price": 327,
+      "town": false,
+      "buyer": 4,
+      "owner": 4,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "relation": 127,
+      "price": 208,
+      "town": false,
+      "buyer": 5,
+      "owner": 5,
+      "result": 887
+    },
+    {
+      "good": 5,
+      "relation": 255,
+      "price": 446,
+      "town": true,
+      "buyer": 0,
+      "owner": 6,
+      "result": 0
+    },
+    {
+      "good": 6,
+      "relation": 100,
+      "price": 305,
+      "town": false,
+      "buyer": 1,
+      "owner": 7,
+      "result": 1575
+    },
+    {
+      "good": 7,
+      "relation": 300,
+      "price": 393,
+      "town": false,
+      "buyer": 2,
+      "owner": 8,
+      "result": 0
+    },
+    {
+      "good": 8,
+      "relation": 100,
+      "price": 202,
+      "town": true,
+      "buyer": 3,
+      "owner": 9,
+      "result": 2583
+    },
+    {
+      "good": 9,
+      "relation": 0,
+      "price": 63,
+      "town": false,
+      "buyer": 4,
+      "owner": 10,
+      "result": 535
+    },
+    {
+      "good": 10,
+      "relation": 300,
+      "price": 71,
+      "town": false,
+      "buyer": 5,
+      "owner": 11,
+      "result": 0
+    },
+    {
+      "good": 11,
+      "relation": 127,
+      "price": 403,
+      "town": true,
+      "buyer": 0,
+      "owner": 12,
+      "result": 2133
+    },
+    {
+      "good": 12,
+      "relation": 100,
+      "price": 288,
+      "town": false,
+      "buyer": 1,
+      "owner": 13,
+      "result": 1488
+    },
+    {
+      "good": 13,
+      "relation": 0,
+      "price": 445,
+      "town": false,
+      "buyer": 2,
+      "owner": 14,
+      "result": 3782
+    },
+    {
+      "good": 14,
+      "relation": 254,
+      "price": 218,
+      "town": true,
+      "buyer": 3,
+      "owner": 15,
+      "result": 16
+    },
+    {
+      "good": 15,
+      "relation": 0,
+      "price": 262,
+      "town": false,
+      "buyer": 4,
+      "owner": 16,
+      "result": 2227
+    },
+    {
+      "good": 16,
+      "relation": 254,
+      "price": 337,
+      "town": false,
+      "buyer": 5,
+      "owner": 17,
+      "result": 11
+    },
+    {
+      "good": 17,
+      "relation": 255,
+      "price": 124,
+      "town": true,
+      "buyer": 0,
+      "owner": 18,
+      "result": 0
+    },
+    {
+      "good": 18,
+      "relation": 300,
+      "price": 76,
+      "town": false,
+      "buyer": 1,
+      "owner": 19,
+      "result": 0
+    },
+    {
+      "good": 19,
+      "relation": 0,
+      "price": 226,
+      "town": false,
+      "buyer": 2,
+      "owner": 20,
+      "result": 1921
+    },
+    {
+      "good": 20,
+      "relation": 127,
+      "price": 407,
+      "town": true,
+      "buyer": 3,
+      "owner": 21,
+      "result": 2133
+    },
+    {
+      "good": 21,
+      "relation": 255,
+      "price": 147,
+      "town": false,
+      "buyer": 4,
+      "owner": 0,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "relation": 300,
+      "price": 220,
+      "town": false,
+      "buyer": 5,
+      "owner": 1,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "relation": 255,
+      "price": 460,
+      "town": true,
+      "buyer": 0,
+      "owner": 2,
+      "result": 0
+    },
+    {
+      "good": 24,
+      "relation": 127,
+      "price": 453,
+      "town": false,
+      "buyer": 1,
+      "owner": 3,
+      "result": 426
+    },
+    {
+      "good": 25,
+      "relation": 127,
+      "price": 249,
+      "town": false,
+      "buyer": 2,
+      "owner": 4,
+      "result": 853
+    },
+    {
+      "good": 26,
+      "relation": 300,
+      "price": 431,
+      "town": true,
+      "buyer": 3,
+      "owner": 5,
+      "result": 0
+    },
+    {
+      "good": 27,
+      "relation": 127,
+      "price": 192,
+      "town": false,
+      "buyer": 4,
+      "owner": 6,
+      "result": 1706
+    },
+    {
+      "good": -1,
+      "relation": 0,
+      "price": 405,
+      "town": false,
+      "buyer": 5,
+      "owner": 7,
+      "result": 0
+    },
+    {
+      "good": 0,
+      "relation": 255,
+      "price": 492,
+      "town": true,
+      "buyer": 0,
+      "owner": 8,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "relation": 255,
+      "price": 71,
+      "town": false,
+      "buyer": 1,
+      "owner": 9,
+      "result": 0
+    },
+    {
+      "good": 2,
+      "relation": 100,
+      "price": 243,
+      "town": false,
+      "buyer": 2,
+      "owner": 10,
+      "result": 1255
+    },
+    {
+      "good": 3,
+      "relation": 300,
+      "price": 55,
+      "town": true,
+      "buyer": 3,
+      "owner": 11,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "relation": 254,
+      "price": 15,
+      "town": false,
+      "buyer": 4,
+      "owner": 12,
+      "result": 0
+    },
+    {
+      "good": 5,
+      "relation": 255,
+      "price": 16,
+      "town": false,
+      "buyer": 5,
+      "owner": 13,
+      "result": 0
+    },
+    {
+      "good": 6,
+      "relation": 100,
+      "price": 256,
+      "town": true,
+      "buyer": 0,
+      "owner": 14,
+      "result": 2583
+    },
+    {
+      "good": 7,
+      "relation": 100,
+      "price": 397,
+      "town": false,
+      "buyer": 1,
+      "owner": 15,
+      "result": 2051
+    },
+    {
+      "good": 8,
+      "relation": 254,
+      "price": 192,
+      "town": false,
+      "buyer": 2,
+      "owner": 16,
+      "result": 6
+    },
+    {
+      "good": 9,
+      "relation": 127,
+      "price": 138,
+      "town": true,
+      "buyer": 3,
+      "owner": 17,
+      "result": 2133
+    },
+    {
+      "good": 10,
+      "relation": 254,
+      "price": 472,
+      "town": false,
+      "buyer": 4,
+      "owner": 18,
+      "result": 15
+    },
+    {
+      "good": 11,
+      "relation": 300,
+      "price": 496,
+      "town": false,
+      "buyer": 5,
+      "owner": 19,
+      "result": 0
+    },
+    {
+      "good": 12,
+      "relation": 255,
+      "price": 272,
+      "town": true,
+      "buyer": 0,
+      "owner": 20,
+      "result": 0
+    },
+    {
+      "good": 13,
+      "relation": 300,
+      "price": 416,
+      "town": false,
+      "buyer": 1,
+      "owner": 21,
+      "result": 0
+    },
+    {
+      "good": 14,
+      "relation": 0,
+      "price": 2,
+      "town": false,
+      "buyer": 2,
+      "owner": 0,
+      "result": 17
+    },
+    {
+      "good": 15,
+      "relation": 0,
+      "price": 176,
+      "town": true,
+      "buyer": 3,
+      "owner": 1,
+      "result": 4250
+    },
+    {
+      "good": 16,
+      "relation": 300,
+      "price": 210,
+      "town": false,
+      "buyer": 4,
+      "owner": 2,
+      "result": 0
+    },
+    {
+      "good": 17,
+      "relation": 100,
+      "price": 392,
+      "town": false,
+      "buyer": 5,
+      "owner": 3,
+      "result": 2025
+    },
+    {
+      "good": 18,
+      "relation": 300,
+      "price": 422,
+      "town": true,
+      "buyer": 0,
+      "owner": 4,
+      "result": 0
+    },
+    {
+      "good": 19,
+      "relation": 0,
+      "price": 213,
+      "town": false,
+      "buyer": 1,
+      "owner": 5,
+      "result": 1810
+    },
+    {
+      "good": 20,
+      "relation": 0,
+      "price": 143,
+      "town": false,
+      "buyer": 2,
+      "owner": 6,
+      "result": 0
+    },
+    {
+      "good": 21,
+      "relation": 254,
+      "price": 347,
+      "town": true,
+      "buyer": 3,
+      "owner": 7,
+      "result": 16
+    },
+    {
+      "good": 22,
+      "relation": 255,
+      "price": 337,
+      "town": false,
+      "buyer": 4,
+      "owner": 8,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "relation": 254,
+      "price": 202,
+      "town": false,
+      "buyer": 5,
+      "owner": 9,
+      "result": 1
+    },
+    {
+      "good": 24,
+      "relation": 300,
+      "price": 352,
+      "town": true,
+      "buyer": 0,
+      "owner": 10,
+      "result": 0
+    },
+    {
+      "good": 25,
+      "relation": 300,
+      "price": 217,
+      "town": false,
+      "buyer": 1,
+      "owner": 11,
+      "result": 0
+    },
+    {
+      "good": 26,
+      "relation": 255,
+      "price": 165,
+      "town": false,
+      "buyer": 2,
+      "owner": 12,
+      "result": 0
+    },
+    {
+      "good": 27,
+      "relation": 100,
+      "price": 310,
+      "town": true,
+      "buyer": 3,
+      "owner": 13,
+      "result": 2583
+    },
+    {
+      "good": -1,
+      "relation": 100,
+      "price": 1,
+      "town": false,
+      "buyer": 4,
+      "owner": 14,
+      "result": 0
+    },
+    {
+      "good": 0,
+      "relation": 100,
+      "price": 275,
+      "town": false,
+      "buyer": 5,
+      "owner": 15,
+      "result": 1420
+    },
+    {
+      "good": 1,
+      "relation": 255,
+      "price": 120,
+      "town": true,
+      "buyer": 0,
+      "owner": 16,
+      "result": 0
+    },
+    {
+      "good": 2,
+      "relation": 127,
+      "price": 498,
+      "town": false,
+      "buyer": 1,
+      "owner": 17,
+      "result": 2124
+    },
+    {
+      "good": 3,
+      "relation": 254,
+      "price": 403,
+      "town": false,
+      "buyer": 2,
+      "owner": 18,
+      "result": 13
+    },
+    {
+      "good": 4,
+      "relation": 0,
+      "price": 71,
+      "town": true,
+      "buyer": 3,
+      "owner": 19,
+      "result": 4250
+    },
+    {
+      "good": 5,
+      "relation": 300,
+      "price": 301,
+      "town": false,
+      "buyer": 4,
+      "owner": 20,
+      "result": 0
+    },
+    {
+      "good": 6,
+      "relation": 254,
+      "price": 406,
+      "town": false,
+      "buyer": 5,
+      "owner": 21,
+      "result": 13
+    },
+    {
+      "good": 7,
+      "relation": 127,
+      "price": 374,
+      "town": true,
+      "buyer": 0,
+      "owner": 0,
+      "result": 2133
+    },
+    {
+      "good": 8,
+      "relation": 127,
+      "price": 69,
+      "town": false,
+      "buyer": 1,
+      "owner": 1,
+      "result": 294
+    },
+    {
+      "good": 9,
+      "relation": 127,
+      "price": 44,
+      "town": false,
+      "buyer": 2,
+      "owner": 2,
+      "result": 187
+    },
+    {
+      "good": 10,
+      "relation": 254,
+      "price": 440,
+      "town": true,
+      "buyer": 3,
+      "owner": 3,
+      "result": 16
+    },
+    {
+      "good": 11,
+      "relation": 254,
+      "price": 158,
+      "town": false,
+      "buyer": 4,
+      "owner": 4,
+      "result": 5
+    },
+    {
+      "good": 12,
+      "relation": 300,
+      "price": 344,
+      "town": false,
+      "buyer": 5,
+      "owner": 5,
+      "result": 0
+    },
+    {
+      "good": 13,
+      "relation": 254,
+      "price": 179,
+      "town": true,
+      "buyer": 0,
+      "owner": 6,
+      "result": 16
+    },
+    {
+      "good": 14,
+      "relation": 255,
+      "price": 41,
+      "town": false,
+      "buyer": 1,
+      "owner": 7,
+      "result": 0
+    },
+    {
+      "good": 15,
+      "relation": 300,
+      "price": 393,
+      "town": false,
+      "buyer": 2,
+      "owner": 8,
+      "result": 0
+    },
+    {
+      "good": 16,
+      "relation": 127,
+      "price": 36,
+      "town": true,
+      "buyer": 3,
+      "owner": 9,
+      "result": 2133
+    },
+    {
+      "good": 17,
+      "relation": 127,
+      "price": 413,
+      "town": false,
+      "buyer": 4,
+      "owner": 10,
+      "result": 1762
+    },
+    {
+      "good": 18,
+      "relation": 100,
+      "price": 334,
+      "town": false,
+      "buyer": 5,
+      "owner": 11,
+      "result": 1725
+    },
+    {
+      "good": 19,
+      "relation": 0,
+      "price": 258,
+      "town": true,
+      "buyer": 0,
+      "owner": 12,
+      "result": 4250
+    },
+    {
+      "good": 20,
+      "relation": 300,
+      "price": 471,
+      "town": false,
+      "buyer": 1,
+      "owner": 13,
+      "result": 0
+    },
+    {
+      "good": 21,
+      "relation": 0,
+      "price": 72,
+      "town": false,
+      "buyer": 2,
+      "owner": 14,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "relation": 255,
+      "price": 203,
+      "town": true,
+      "buyer": 3,
+      "owner": 15,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "relation": 100,
+      "price": 487,
+      "town": false,
+      "buyer": 4,
+      "owner": 16,
+      "result": 258
+    },
+    {
+      "good": 24,
+      "relation": 127,
+      "price": 107,
+      "town": false,
+      "buyer": 5,
+      "owner": 17,
+      "result": 426
+    },
+    {
+      "good": 25,
+      "relation": 255,
+      "price": 78,
+      "town": true,
+      "buyer": 0,
+      "owner": 18,
+      "result": 0
+    },
+    {
+      "good": 26,
+      "relation": 100,
+      "price": 494,
+      "town": false,
+      "buyer": 1,
+      "owner": 19,
+      "result": 1550
+    },
+    {
+      "good": 27,
+      "relation": 100,
+      "price": 213,
+      "town": false,
+      "buyer": 2,
+      "owner": 20,
+      "result": 2066
+    },
+    {
+      "good": -1,
+      "relation": 300,
+      "price": 487,
+      "town": true,
+      "buyer": 3,
+      "owner": 21,
+      "result": 0
+    },
+    {
+      "good": 0,
+      "relation": 0,
+      "price": 357,
+      "town": false,
+      "buyer": 4,
+      "owner": 0,
+      "result": 3034
+    },
+    {
+      "good": 1,
+      "relation": 255,
+      "price": 32,
+      "town": false,
+      "buyer": 5,
+      "owner": 1,
+      "result": 0
+    },
+    {
+      "good": 2,
+      "relation": 255,
+      "price": 357,
+      "town": true,
+      "buyer": 0,
+      "owner": 2,
+      "result": 0
+    },
+    {
+      "good": 3,
+      "relation": 0,
+      "price": 487,
+      "town": false,
+      "buyer": 1,
+      "owner": 3,
+      "result": 4139
+    },
+    {
+      "good": 4,
+      "relation": 254,
+      "price": 352,
+      "town": false,
+      "buyer": 2,
+      "owner": 4,
+      "result": 11
+    },
+    {
+      "good": 5,
+      "relation": 254,
+      "price": 329,
+      "town": true,
+      "buyer": 3,
+      "owner": 5,
+      "result": 16
+    },
+    {
+      "good": 6,
+      "relation": 0,
+      "price": 457,
+      "town": false,
+      "buyer": 4,
+      "owner": 6,
+      "result": 3884
+    },
+    {
+      "good": 7,
+      "relation": 254,
+      "price": 223,
+      "town": false,
+      "buyer": 5,
+      "owner": 7,
+      "result": 7
+    },
+    {
+      "good": 8,
+      "relation": 300,
+      "price": 136,
+      "town": true,
+      "buyer": 0,
+      "owner": 8,
+      "result": 0
+    },
+    {
+      "good": 9,
+      "relation": 255,
+      "price": 207,
+      "town": false,
+      "buyer": 1,
+      "owner": 9,
+      "result": 0
+    },
+    {
+      "good": 10,
+      "relation": 0,
+      "price": 497,
+      "town": false,
+      "buyer": 2,
+      "owner": 10,
+      "result": 4224
+    },
+    {
+      "good": 11,
+      "relation": 100,
+      "price": 471,
+      "town": true,
+      "buyer": 3,
+      "owner": 11,
+      "result": 2583
+    },
+    {
+      "good": 12,
+      "relation": 0,
+      "price": 358,
+      "town": false,
+      "buyer": 4,
+      "owner": 12,
+      "result": 3043
+    },
+    {
+      "good": 13,
+      "relation": 127,
+      "price": 238,
+      "town": false,
+      "buyer": 5,
+      "owner": 13,
+      "result": 1015
+    },
+    {
+      "good": 14,
+      "relation": 255,
+      "price": 52,
+      "town": true,
+      "buyer": 0,
+      "owner": 14,
+      "result": 0
+    },
+    {
+      "good": 15,
+      "relation": 0,
+      "price": 369,
+      "town": false,
+      "buyer": 1,
+      "owner": 15,
+      "result": 3136
+    },
+    {
+      "good": 16,
+      "relation": 255,
+      "price": 485,
+      "town": false,
+      "buyer": 2,
+      "owner": 16,
+      "result": 0
+    },
+    {
+      "good": 17,
+      "relation": 254,
+      "price": 276,
+      "town": true,
+      "buyer": 3,
+      "owner": 17,
+      "result": 16
+    },
+    {
+      "good": 18,
+      "relation": 0,
+      "price": 390,
+      "town": false,
+      "buyer": 4,
+      "owner": 18,
+      "result": 3315
+    },
+    {
+      "good": 19,
+      "relation": 100,
+      "price": 147,
+      "town": false,
+      "buyer": 5,
+      "owner": 19,
+      "result": 759
+    },
+    {
+      "good": 20,
+      "relation": 100,
+      "price": 298,
+      "town": true,
+      "buyer": 0,
+      "owner": 20,
+      "result": 2583
+    },
+    {
+      "good": 21,
+      "relation": 0,
+      "price": 362,
+      "town": false,
+      "buyer": 1,
+      "owner": 21,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "relation": 254,
+      "price": 367,
+      "town": false,
+      "buyer": 2,
+      "owner": 0,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "relation": 254,
+      "price": 393,
+      "town": true,
+      "buyer": 3,
+      "owner": 1,
+      "result": 16
+    },
+    {
+      "good": 24,
+      "relation": 254,
+      "price": 232,
+      "town": false,
+      "buyer": 4,
+      "owner": 2,
+      "result": 3
+    },
+    {
+      "good": 25,
+      "relation": 0,
+      "price": 362,
+      "town": false,
+      "buyer": 5,
+      "owner": 3,
+      "result": 1700
+    },
+    {
+      "good": 26,
+      "relation": 300,
+      "price": 500,
+      "town": true,
+      "buyer": 0,
+      "owner": 4,
+      "result": 0
+    },
+    {
+      "good": 27,
+      "relation": 300,
+      "price": 275,
+      "town": false,
+      "buyer": 1,
+      "owner": 5,
+      "result": 0
+    },
+    {
+      "good": -1,
+      "relation": 254,
+      "price": 21,
+      "town": false,
+      "buyer": 2,
+      "owner": 6,
+      "result": 0
+    },
+    {
+      "good": 0,
+      "relation": 254,
+      "price": 294,
+      "town": true,
+      "buyer": 3,
+      "owner": 7,
+      "result": 16
+    },
+    {
+      "good": 1,
+      "relation": 127,
+      "price": 218,
+      "town": false,
+      "buyer": 4,
+      "owner": 8,
+      "result": 930
+    },
+    {
+      "good": 2,
+      "relation": 127,
+      "price": 483,
+      "town": false,
+      "buyer": 5,
+      "owner": 9,
+      "result": 2060
+    },
+    {
+      "good": 3,
+      "relation": 300,
+      "price": 362,
+      "town": true,
+      "buyer": 0,
+      "owner": 10,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "relation": 100,
+      "price": 199,
+      "town": false,
+      "buyer": 1,
+      "owner": 11,
+      "result": 1028
+    },
+    {
+      "good": 5,
+      "relation": 100,
+      "price": 41,
+      "town": false,
+      "buyer": 2,
+      "owner": 12,
+      "result": 211
+    },
+    {
+      "good": 6,
+      "relation": 100,
+      "price": 308,
+      "town": true,
+      "buyer": 3,
+      "owner": 13,
+      "result": 2583
+    },
+    {
+      "good": 7,
+      "relation": 0,
+      "price": 84,
+      "town": false,
+      "buyer": 4,
+      "owner": 14,
+      "result": 714
+    },
+    {
+      "good": 8,
+      "relation": 100,
+      "price": 32,
+      "town": false,
+      "buyer": 5,
+      "owner": 15,
+      "result": 165
+    },
+    {
+      "good": 9,
+      "relation": 0,
+      "price": 54,
+      "town": true,
+      "buyer": 0,
+      "owner": 16,
+      "result": 4250
+    },
+    {
+      "good": 10,
+      "relation": 300,
+      "price": 107,
+      "town": false,
+      "buyer": 1,
+      "owner": 17,
+      "result": 0
+    },
+    {
+      "good": 11,
+      "relation": 255,
+      "price": 196,
+      "town": false,
+      "buyer": 2,
+      "owner": 18,
+      "result": 0
+    },
+    {
+      "good": 12,
+      "relation": 127,
+      "price": 332,
+      "town": true,
+      "buyer": 3,
+      "owner": 19,
+      "result": 2133
+    },
+    {
+      "good": 13,
+      "relation": 100,
+      "price": 367,
+      "town": false,
+      "buyer": 4,
+      "owner": 20,
+      "result": 1896
+    },
+    {
+      "good": 14,
+      "relation": 0,
+      "price": 370,
+      "town": false,
+      "buyer": 5,
+      "owner": 21,
+      "result": 3145
+    },
+    {
+      "good": 15,
+      "relation": 300,
+      "price": 388,
+      "town": true,
+      "buyer": 0,
+      "owner": 0,
+      "result": 0
+    },
+    {
+      "good": 16,
+      "relation": 300,
+      "price": 115,
+      "town": false,
+      "buyer": 1,
+      "owner": 1,
+      "result": 0
+    },
+    {
+      "good": 17,
+      "relation": 100,
+      "price": 340,
+      "town": false,
+      "buyer": 2,
+      "owner": 2,
+      "result": 1756
+    },
+    {
+      "good": 18,
+      "relation": 255,
+      "price": 163,
+      "town": true,
+      "buyer": 3,
+      "owner": 3,
+      "result": 0
+    },
+    {
+      "good": 19,
+      "relation": 100,
+      "price": 134,
+      "town": false,
+      "buyer": 4,
+      "owner": 4,
+      "result": 692
+    },
+    {
+      "good": 20,
+      "relation": 100,
+      "price": 433,
+      "town": false,
+      "buyer": 5,
+      "owner": 5,
+      "result": 0
+    },
+    {
+      "good": 21,
+      "relation": 255,
+      "price": 65,
+      "town": true,
+      "buyer": 0,
+      "owner": 6,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "relation": 100,
+      "price": 131,
+      "town": false,
+      "buyer": 1,
+      "owner": 7,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "relation": 127,
+      "price": 317,
+      "town": false,
+      "buyer": 2,
+      "owner": 8,
+      "result": 213
+    },
+    {
+      "good": 24,
+      "relation": 300,
+      "price": 470,
+      "town": true,
+      "buyer": 3,
+      "owner": 9,
+      "result": 0
+    },
+    {
+      "good": 25,
+      "relation": 254,
+      "price": 273,
+      "town": false,
+      "buyer": 4,
+      "owner": 10,
+      "result": 6
+    },
+    {
+      "good": 26,
+      "relation": 127,
+      "price": 428,
+      "town": false,
+      "buyer": 5,
+      "owner": 11,
+      "result": 1280
+    },
+    {
+      "good": 27,
+      "relation": 255,
+      "price": 62,
+      "town": true,
+      "buyer": 0,
+      "owner": 12,
+      "result": 0
+    },
+    {
+      "good": -1,
+      "relation": 100,
+      "price": 365,
+      "town": false,
+      "buyer": 1,
+      "owner": 13,
+      "result": 0
+    },
+    {
+      "good": 0,
+      "relation": 300,
+      "price": 325,
+      "town": false,
+      "buyer": 2,
+      "owner": 14,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "relation": 0,
+      "price": 390,
+      "town": true,
+      "buyer": 3,
+      "owner": 15,
+      "result": 4250
+    },
+    {
+      "good": 2,
+      "relation": 255,
+      "price": 196,
+      "town": false,
+      "buyer": 4,
+      "owner": 16,
+      "result": 0
+    },
+    {
+      "good": 3,
+      "relation": 0,
+      "price": 137,
+      "town": false,
+      "buyer": 5,
+      "owner": 17,
+      "result": 1164
+    },
+    {
+      "good": 4,
+      "relation": 100,
+      "price": 418,
+      "town": true,
+      "buyer": 0,
+      "owner": 18,
+      "result": 2583
+    },
+    {
+      "good": 5,
+      "relation": 300,
+      "price": 161,
+      "town": false,
+      "buyer": 1,
+      "owner": 19,
+      "result": 0
+    },
+    {
+      "good": 6,
+      "relation": 300,
+      "price": 165,
+      "town": false,
+      "buyer": 2,
+      "owner": 20,
+      "result": 0
+    },
+    {
+      "good": 7,
+      "relation": 255,
+      "price": 372,
+      "town": true,
+      "buyer": 3,
+      "owner": 21,
+      "result": 0
+    },
+    {
+      "good": 8,
+      "relation": 0,
+      "price": 469,
+      "town": false,
+      "buyer": 4,
+      "owner": 0,
+      "result": 3986
+    },
+    {
+      "good": 9,
+      "relation": 100,
+      "price": 38,
+      "town": false,
+      "buyer": 5,
+      "owner": 1,
+      "result": 196
+    },
+    {
+      "good": 10,
+      "relation": 255,
+      "price": 210,
+      "town": true,
+      "buyer": 0,
+      "owner": 2,
+      "result": 0
+    },
+    {
+      "good": 11,
+      "relation": 254,
+      "price": 16,
+      "town": false,
+      "buyer": 1,
+      "owner": 3,
+      "result": 0
+    },
+    {
+      "good": 12,
+      "relation": 0,
+      "price": 241,
+      "town": false,
+      "buyer": 2,
+      "owner": 4,
+      "result": 2048
+    },
+    {
+      "good": 13,
+      "relation": 0,
+      "price": 297,
+      "town": true,
+      "buyer": 3,
+      "owner": 5,
+      "result": 4250
+    },
+    {
+      "good": 14,
+      "relation": 127,
+      "price": 458,
+      "town": false,
+      "buyer": 4,
+      "owner": 6,
+      "result": 1954
+    },
+    {
+      "good": 15,
+      "relation": 300,
+      "price": 387,
+      "town": false,
+      "buyer": 5,
+      "owner": 7,
+      "result": 0
+    },
+    {
+      "good": 16,
+      "relation": 0,
+      "price": 229,
+      "town": true,
+      "buyer": 0,
+      "owner": 8,
+      "result": 4250
+    },
+    {
+      "good": 17,
+      "relation": 254,
+      "price": 389,
+      "town": false,
+      "buyer": 1,
+      "owner": 9,
+      "result": 12
+    },
+    {
+      "good": 18,
+      "relation": 300,
+      "price": 174,
+      "town": false,
+      "buyer": 2,
+      "owner": 10,
+      "result": 0
+    },
+    {
+      "good": 19,
+      "relation": 254,
+      "price": 78,
+      "town": true,
+      "buyer": 3,
+      "owner": 11,
+      "result": 16
+    },
+    {
+      "good": 20,
+      "relation": 127,
+      "price": 405,
+      "town": false,
+      "buyer": 4,
+      "owner": 12,
+      "result": 0
+    },
+    {
+      "good": 21,
+      "relation": 255,
+      "price": 114,
+      "town": false,
+      "buyer": 5,
+      "owner": 13,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "relation": 100,
+      "price": 320,
+      "town": true,
+      "buyer": 0,
+      "owner": 14,
+      "result": 2583
+    },
+    {
+      "good": 23,
+      "relation": 0,
+      "price": 442,
+      "town": false,
+      "buyer": 1,
+      "owner": 15,
+      "result": 425
+    },
+    {
+      "good": 24,
+      "relation": 300,
+      "price": 467,
+      "town": false,
+      "buyer": 2,
+      "owner": 16,
+      "result": 0
+    },
+    {
+      "good": 25,
+      "relation": 100,
+      "price": 152,
+      "town": true,
+      "buyer": 3,
+      "owner": 17,
+      "result": 2583
+    },
+    {
+      "good": 26,
+      "relation": 255,
+      "price": 59,
+      "town": false,
+      "buyer": 4,
+      "owner": 18,
+      "result": 0
+    },
+    {
+      "good": 27,
+      "relation": 254,
+      "price": 148,
+      "town": false,
+      "buyer": 5,
+      "owner": 19,
+      "result": 13
+    },
+    {
+      "good": -1,
+      "relation": 300,
+      "price": 400,
+      "town": true,
+      "buyer": 0,
+      "owner": 20,
+      "result": 0
+    },
+    {
+      "good": 0,
+      "relation": 100,
+      "price": 487,
+      "town": false,
+      "buyer": 1,
+      "owner": 21,
+      "result": 2516
+    },
+    {
+      "good": 1,
+      "relation": 254,
+      "price": 190,
+      "town": false,
+      "buyer": 2,
+      "owner": 0,
+      "result": 6
+    },
+    {
+      "good": 2,
+      "relation": 100,
+      "price": 29,
+      "town": true,
+      "buyer": 3,
+      "owner": 1,
+      "result": 2583
+    },
+    {
+      "good": 3,
+      "relation": 255,
+      "price": 72,
+      "town": false,
+      "buyer": 4,
+      "owner": 2,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "relation": 100,
+      "price": 360,
+      "town": false,
+      "buyer": 5,
+      "owner": 3,
+      "result": 1860
+    },
+    {
+      "good": 5,
+      "relation": 254,
+      "price": 457,
+      "town": true,
+      "buyer": 0,
+      "owner": 4,
+      "result": 16
+    },
+    {
+      "good": 6,
+      "relation": 0,
+      "price": 13,
+      "town": false,
+      "buyer": 1,
+      "owner": 5,
+      "result": 110
+    },
+    {
+      "good": 7,
+      "relation": 0,
+      "price": 6,
+      "town": false,
+      "buyer": 2,
+      "owner": 6,
+      "result": 51
+    },
+    {
+      "good": 8,
+      "relation": 127,
+      "price": 343,
+      "town": true,
+      "buyer": 3,
+      "owner": 7,
+      "result": 2133
+    },
+    {
+      "good": 9,
+      "relation": 127,
+      "price": 439,
+      "town": false,
+      "buyer": 4,
+      "owner": 8,
+      "result": 1873
+    },
+    {
+      "good": 10,
+      "relation": 255,
+      "price": 112,
+      "town": false,
+      "buyer": 5,
+      "owner": 9,
+      "result": 0
+    },
+    {
+      "good": 11,
+      "relation": 127,
+      "price": 136,
+      "town": true,
+      "buyer": 0,
+      "owner": 10,
+      "result": 2133
+    },
+    {
+      "good": 12,
+      "relation": 254,
+      "price": 376,
+      "town": false,
+      "buyer": 1,
+      "owner": 11,
+      "result": 12
+    },
+    {
+      "good": 13,
+      "relation": 127,
+      "price": 126,
+      "town": false,
+      "buyer": 2,
+      "owner": 12,
+      "result": 537
+    },
+    {
+      "good": 14,
+      "relation": 127,
+      "price": 332,
+      "town": true,
+      "buyer": 3,
+      "owner": 13,
+      "result": 2133
+    },
+    {
+      "good": 15,
+      "relation": 100,
+      "price": 455,
+      "town": false,
+      "buyer": 4,
+      "owner": 14,
+      "result": 2350
+    },
+    {
+      "good": 16,
+      "relation": 0,
+      "price": 461,
+      "town": false,
+      "buyer": 5,
+      "owner": 15,
+      "result": 3918
+    },
+    {
+      "good": 17,
+      "relation": 300,
+      "price": 432,
+      "town": true,
+      "buyer": 0,
+      "owner": 16,
+      "result": 0
+    },
+    {
+      "good": 18,
+      "relation": 254,
+      "price": 390,
+      "town": false,
+      "buyer": 1,
+      "owner": 17,
+      "result": 13
+    },
+    {
+      "good": 19,
+      "relation": 254,
+      "price": 226,
+      "town": false,
+      "buyer": 2,
+      "owner": 18,
+      "result": 7
+    },
+    {
+      "good": 20,
+      "relation": 255,
+      "price": 262,
+      "town": true,
+      "buyer": 3,
+      "owner": 19,
+      "result": 0
+    },
+    {
+      "good": 21,
+      "relation": 300,
+      "price": 218,
+      "town": false,
+      "buyer": 4,
+      "owner": 20,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "relation": 0,
+      "price": 46,
+      "town": false,
+      "buyer": 5,
+      "owner": 21,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "relation": 254,
+      "price": 74,
+      "town": true,
+      "buyer": 0,
+      "owner": 0,
+      "result": 16
+    },
+    {
+      "good": 24,
+      "relation": 254,
+      "price": 327,
+      "town": false,
+      "buyer": 1,
+      "owner": 1,
+      "result": 3
+    },
+    {
+      "good": 25,
+      "relation": 127,
+      "price": 4,
+      "town": false,
+      "buyer": 2,
+      "owner": 2,
+      "result": 853
+    },
+    {
+      "good": 26,
+      "relation": 100,
+      "price": 265,
+      "town": true,
+      "buyer": 3,
+      "owner": 3,
+      "result": 2583
+    },
+    {
+      "good": 27,
+      "relation": 255,
+      "price": 460,
+      "town": false,
+      "buyer": 4,
+      "owner": 4,
+      "result": 0
+    },
+    {
+      "good": -1,
+      "relation": 255,
+      "price": 500,
+      "town": false,
+      "buyer": 5,
+      "owner": 5,
+      "result": 0
+    },
+    {
+      "good": 0,
+      "relation": 0,
+      "price": 206,
+      "town": true,
+      "buyer": 0,
+      "owner": 6,
+      "result": 4250
+    },
+    {
+      "good": 1,
+      "relation": 0,
+      "price": 357,
+      "town": false,
+      "buyer": 1,
+      "owner": 7,
+      "result": 3034
+    },
+    {
+      "good": 2,
+      "relation": 100,
+      "price": 77,
+      "town": false,
+      "buyer": 2,
+      "owner": 8,
+      "result": 397
+    },
+    {
+      "good": 3,
+      "relation": 0,
+      "price": 255,
+      "town": true,
+      "buyer": 3,
+      "owner": 9,
+      "result": 4250
+    },
+    {
+      "good": 4,
+      "relation": 254,
+      "price": 304,
+      "town": false,
+      "buyer": 4,
+      "owner": 10,
+      "result": 10
+    },
+    {
+      "good": 5,
+      "relation": 254,
+      "price": 51,
+      "town": false,
+      "buyer": 5,
+      "owner": 11,
+      "result": 1
+    },
+    {
+      "good": 6,
+      "relation": 0,
+      "price": 406,
+      "town": true,
+      "buyer": 0,
+      "owner": 12,
+      "result": 4250
+    },
+    {
+      "good": 7,
+      "relation": 127,
+      "price": 157,
+      "town": false,
+      "buyer": 1,
+      "owner": 13,
+      "result": 669
+    },
+    {
+      "good": 8,
+      "relation": 300,
+      "price": 416,
+      "town": false,
+      "buyer": 2,
+      "owner": 14,
+      "result": 0
+    },
+    {
+      "good": 9,
+      "relation": 127,
+      "price": 142,
+      "town": true,
+      "buyer": 3,
+      "owner": 15,
+      "result": 2133
+    },
+    {
+      "good": 10,
+      "relation": 100,
+      "price": 342,
+      "town": false,
+      "buyer": 4,
+      "owner": 16,
+      "result": 1767
+    },
+    {
+      "good": 11,
+      "relation": 100,
+      "price": 288,
+      "town": false,
+      "buyer": 5,
+      "owner": 17,
+      "result": 1488
+    },
+    {
+      "good": 12,
+      "relation": 254,
+      "price": 242,
+      "town": true,
+      "buyer": 0,
+      "owner": 18,
+      "result": 16
+    },
+    {
+      "good": 13,
+      "relation": 127,
+      "price": 52,
+      "town": false,
+      "buyer": 1,
+      "owner": 19,
+      "result": 221
+    },
+    {
+      "good": 14,
+      "relation": 255,
+      "price": 216,
+      "town": false,
+      "buyer": 2,
+      "owner": 20,
+      "result": 0
+    },
+    {
+      "good": 15,
+      "relation": 0,
+      "price": 228,
+      "town": true,
+      "buyer": 3,
+      "owner": 21,
+      "result": 4250
+    },
+    {
+      "good": 16,
+      "relation": 0,
+      "price": 357,
+      "town": false,
+      "buyer": 4,
+      "owner": 0,
+      "result": 3034
+    },
+    {
+      "good": 17,
+      "relation": 100,
+      "price": 447,
+      "town": false,
+      "buyer": 5,
+      "owner": 1,
+      "result": 2309
+    },
+    {
+      "good": 18,
+      "relation": 300,
+      "price": 358,
+      "town": true,
+      "buyer": 0,
+      "owner": 2,
+      "result": 0
+    },
+    {
+      "good": 19,
+      "relation": 255,
+      "price": 43,
+      "town": false,
+      "buyer": 1,
+      "owner": 3,
+      "result": 0
+    },
+    {
+      "good": 20,
+      "relation": 127,
+      "price": 394,
+      "town": false,
+      "buyer": 2,
+      "owner": 4,
+      "result": 0
+    },
+    {
+      "good": 21,
+      "relation": 300,
+      "price": 272,
+      "town": true,
+      "buyer": 3,
+      "owner": 5,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "relation": 300,
+      "price": 389,
+      "town": false,
+      "buyer": 4,
+      "owner": 6,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "relation": 0,
+      "price": 144,
+      "town": false,
+      "buyer": 5,
+      "owner": 7,
+      "result": 425
+    },
+    {
+      "good": 24,
+      "relation": 0,
+      "price": 8,
+      "town": true,
+      "buyer": 0,
+      "owner": 8,
+      "result": 4250
+    },
+    {
+      "good": 25,
+      "relation": 127,
+      "price": 81,
+      "town": false,
+      "buyer": 1,
+      "owner": 9,
+      "result": 853
+    },
+    {
+      "good": 26,
+      "relation": 127,
+      "price": 152,
+      "town": false,
+      "buyer": 2,
+      "owner": 10,
+      "result": 1280
+    },
+    {
+      "good": 27,
+      "relation": 300,
+      "price": 201,
+      "town": true,
+      "buyer": 3,
+      "owner": 11,
+      "result": 0
+    },
+    {
+      "good": -1,
+      "relation": 100,
+      "price": 327,
+      "town": false,
+      "buyer": 4,
+      "owner": 12,
+      "result": 0
+    },
+    {
+      "good": 0,
+      "relation": 0,
+      "price": 240,
+      "town": false,
+      "buyer": 5,
+      "owner": 13,
+      "result": 2040
+    },
+    {
+      "good": 1,
+      "relation": 100,
+      "price": 409,
+      "town": true,
+      "buyer": 0,
+      "owner": 14,
+      "result": 2583
+    },
+    {
+      "good": 2,
+      "relation": 127,
+      "price": 221,
+      "town": false,
+      "buyer": 1,
+      "owner": 15,
+      "result": 942
+    },
+    {
+      "good": 3,
+      "relation": 300,
+      "price": 453,
+      "town": false,
+      "buyer": 2,
+      "owner": 16,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "relation": 100,
+      "price": 11,
+      "town": true,
+      "buyer": 3,
+      "owner": 17,
+      "result": 2583
+    },
+    {
+      "good": 5,
+      "relation": 100,
+      "price": 7,
+      "town": false,
+      "buyer": 4,
+      "owner": 18,
+      "result": 36
+    },
+    {
+      "good": 6,
+      "relation": 0,
+      "price": 473,
+      "town": false,
+      "buyer": 5,
+      "owner": 19,
+      "result": 4020
+    },
+    {
+      "good": 7,
+      "relation": 300,
+      "price": 415,
+      "town": true,
+      "buyer": 0,
+      "owner": 20,
+      "result": 0
+    },
+    {
+      "good": 8,
+      "relation": 254,
+      "price": 52,
+      "town": false,
+      "buyer": 1,
+      "owner": 21,
+      "result": 1
+    },
+    {
+      "good": 9,
+      "relation": 127,
+      "price": 102,
+      "town": false,
+      "buyer": 2,
+      "owner": 0,
+      "result": 435
+    },
+    {
+      "good": 10,
+      "relation": 254,
+      "price": 261,
+      "town": true,
+      "buyer": 3,
+      "owner": 1,
+      "result": 16
+    },
+    {
+      "good": 11,
+      "relation": 100,
+      "price": 337,
+      "town": false,
+      "buyer": 4,
+      "owner": 2,
+      "result": 1741
+    },
+    {
+      "good": 12,
+      "relation": 254,
+      "price": 449,
+      "town": false,
+      "buyer": 5,
+      "owner": 3,
+      "result": 14
+    },
+    {
+      "good": 13,
+      "relation": 254,
+      "price": 235,
+      "town": true,
+      "buyer": 0,
+      "owner": 4,
+      "result": 16
+    },
+    {
+      "good": 14,
+      "relation": 255,
+      "price": 497,
+      "town": false,
+      "buyer": 1,
+      "owner": 5,
+      "result": 0
+    },
+    {
+      "good": 15,
+      "relation": 0,
+      "price": 471,
+      "town": false,
+      "buyer": 2,
+      "owner": 6,
+      "result": 4003
+    },
+    {
+      "good": 16,
+      "relation": 100,
+      "price": 420,
+      "town": true,
+      "buyer": 3,
+      "owner": 7,
+      "result": 2583
+    },
+    {
+      "good": 17,
+      "relation": 300,
+      "price": 74,
+      "town": false,
+      "buyer": 4,
+      "owner": 8,
+      "result": 0
+    },
+    {
+      "good": 18,
+      "relation": 100,
+      "price": 88,
+      "town": false,
+      "buyer": 5,
+      "owner": 9,
+      "result": 454
+    },
+    {
+      "good": 19,
+      "relation": 100,
+      "price": 255,
+      "town": true,
+      "buyer": 0,
+      "owner": 10,
+      "result": 2583
+    },
+    {
+      "good": 20,
+      "relation": 300,
+      "price": 380,
+      "town": false,
+      "buyer": 1,
+      "owner": 11,
+      "result": 0
+    },
+    {
+      "good": 21,
+      "relation": 254,
+      "price": 72,
+      "town": false,
+      "buyer": 2,
+      "owner": 12,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "relation": 254,
+      "price": 335,
+      "town": true,
+      "buyer": 3,
+      "owner": 13,
+      "result": 16
+    },
+    {
+      "good": 23,
+      "relation": 300,
+      "price": 188,
+      "town": false,
+      "buyer": 4,
+      "owner": 14,
+      "result": 0
+    },
+    {
+      "good": 24,
+      "relation": 255,
+      "price": 496,
+      "town": false,
+      "buyer": 5,
+      "owner": 15,
+      "result": 0
+    },
+    {
+      "good": 25,
+      "relation": 0,
+      "price": 459,
+      "town": true,
+      "buyer": 0,
+      "owner": 16,
+      "result": 4250
+    },
+    {
+      "good": 26,
+      "relation": 254,
+      "price": 96,
+      "town": false,
+      "buyer": 1,
+      "owner": 17,
+      "result": 10
+    },
+    {
+      "good": 27,
+      "relation": 300,
+      "price": 281,
+      "town": false,
+      "buyer": 2,
+      "owner": 18,
+      "result": 0
+    },
+    {
+      "good": -1,
+      "relation": 0,
+      "price": 57,
+      "town": true,
+      "buyer": 3,
+      "owner": 19,
+      "result": 4250
+    },
+    {
+      "good": 0,
+      "relation": 127,
+      "price": 460,
+      "town": false,
+      "buyer": 4,
+      "owner": 20,
+      "result": 1962
+    },
+    {
+      "good": 1,
+      "relation": 127,
+      "price": 327,
+      "town": false,
+      "buyer": 5,
+      "owner": 21,
+      "result": 1395
+    },
+    {
+      "good": 2,
+      "relation": 127,
+      "price": 384,
+      "town": true,
+      "buyer": 0,
+      "owner": 0,
+      "result": 2133
+    },
+    {
+      "good": 3,
+      "relation": 255,
+      "price": 258,
+      "town": false,
+      "buyer": 1,
+      "owner": 1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "relation": 0,
+      "price": 56,
+      "town": false,
+      "buyer": 2,
+      "owner": 2,
+      "result": 476
+    },
+    {
+      "good": 5,
+      "relation": 100,
+      "price": 124,
+      "town": true,
+      "buyer": 3,
+      "owner": 3,
+      "result": 2583
+    },
+    {
+      "good": 6,
+      "relation": 127,
+      "price": 410,
+      "town": false,
+      "buyer": 4,
+      "owner": 4,
+      "result": 1749
+    },
+    {
+      "good": 7,
+      "relation": 300,
+      "price": 407,
+      "town": false,
+      "buyer": 5,
+      "owner": 5,
+      "result": 0
+    },
+    {
+      "good": 8,
+      "relation": 0,
+      "price": 465,
+      "town": true,
+      "buyer": 0,
+      "owner": 6,
+      "result": 4250
+    },
+    {
+      "good": 9,
+      "relation": 254,
+      "price": 339,
+      "town": false,
+      "buyer": 1,
+      "owner": 7,
+      "result": 11
+    },
+    {
+      "good": 10,
+      "relation": 300,
+      "price": 193,
+      "town": false,
+      "buyer": 2,
+      "owner": 8,
+      "result": 0
+    },
+    {
+      "good": 11,
+      "relation": 300,
+      "price": 482,
+      "town": true,
+      "buyer": 3,
+      "owner": 9,
+      "result": 0
+    },
+    {
+      "good": 12,
+      "relation": 300,
+      "price": 326,
+      "town": false,
+      "buyer": 4,
+      "owner": 10,
+      "result": 0
+    },
+    {
+      "good": 13,
+      "relation": 0,
+      "price": 396,
+      "town": false,
+      "buyer": 5,
+      "owner": 11,
+      "result": 3366
+    },
+    {
+      "good": 14,
+      "relation": 100,
+      "price": 27,
+      "town": true,
+      "buyer": 0,
+      "owner": 12,
+      "result": 2583
+    },
+    {
+      "good": 15,
+      "relation": 127,
+      "price": 80,
+      "town": false,
+      "buyer": 1,
+      "owner": 13,
+      "result": 341
+    },
+    {
+      "good": 16,
+      "relation": 300,
+      "price": 8,
+      "town": false,
+      "buyer": 2,
+      "owner": 14,
+      "result": 0
+    },
+    {
+      "good": 17,
+      "relation": 300,
+      "price": 159,
+      "town": true,
+      "buyer": 3,
+      "owner": 15,
+      "result": 0
+    },
+    {
+      "good": 18,
+      "relation": 100,
+      "price": 241,
+      "town": false,
+      "buyer": 4,
+      "owner": 16,
+      "result": 1245
+    },
+    {
+      "good": 19,
+      "relation": 255,
+      "price": 183,
+      "town": false,
+      "buyer": 5,
+      "owner": 17,
+      "result": 0
+    },
+    {
+      "good": 20,
+      "relation": 127,
+      "price": 364,
+      "town": true,
+      "buyer": 0,
+      "owner": 18,
+      "result": 2133
+    },
+    {
+      "good": 21,
+      "relation": 127,
+      "price": 9,
+      "town": false,
+      "buyer": 1,
+      "owner": 19,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "relation": 254,
+      "price": 170,
+      "town": false,
+      "buyer": 2,
+      "owner": 20,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "relation": 0,
+      "price": 288,
+      "town": true,
+      "buyer": 3,
+      "owner": 21,
+      "result": 4250
+    },
+    {
+      "good": 24,
+      "relation": 254,
+      "price": 56,
+      "town": false,
+      "buyer": 4,
+      "owner": 0,
+      "result": 3
+    },
+    {
+      "good": 25,
+      "relation": 0,
+      "price": 401,
+      "town": false,
+      "buyer": 5,
+      "owner": 1,
+      "result": 1700
+    },
+    {
+      "good": 26,
+      "relation": 0,
+      "price": 173,
+      "town": true,
+      "buyer": 0,
+      "owner": 2,
+      "result": 4250
+    },
+    {
+      "good": 27,
+      "relation": 127,
+      "price": 468,
+      "town": false,
+      "buyer": 1,
+      "owner": 3,
+      "result": 1706
+    },
+    {
+      "good": -1,
+      "relation": 127,
+      "price": 84,
+      "town": false,
+      "buyer": 2,
+      "owner": 4,
+      "result": 0
+    },
+    {
+      "good": 0,
+      "relation": 300,
+      "price": 488,
+      "town": true,
+      "buyer": 3,
+      "owner": 5,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "relation": 100,
+      "price": 286,
+      "town": false,
+      "buyer": 4,
+      "owner": 6,
+      "result": 1477
+    },
+    {
+      "good": 2,
+      "relation": 300,
+      "price": 49,
+      "town": false,
+      "buyer": 5,
+      "owner": 7,
+      "result": 0
+    },
+    {
+      "good": 3,
+      "relation": 254,
+      "price": 395,
+      "town": true,
+      "buyer": 0,
+      "owner": 8,
+      "result": 16
+    },
+    {
+      "good": 4,
+      "relation": 0,
+      "price": 424,
+      "town": false,
+      "buyer": 1,
+      "owner": 9,
+      "result": 3604
+    },
+    {
+      "good": 5,
+      "relation": 100,
+      "price": 130,
+      "town": false,
+      "buyer": 2,
+      "owner": 10,
+      "result": 671
+    },
+    {
+      "good": 6,
+      "relation": 100,
+      "price": 105,
+      "town": true,
+      "buyer": 3,
+      "owner": 11,
+      "result": 2583
+    },
+    {
+      "good": 7,
+      "relation": 127,
+      "price": 182,
+      "town": false,
+      "buyer": 4,
+      "owner": 12,
+      "result": 776
+    },
+    {
+      "good": 8,
+      "relation": 255,
+      "price": 66,
+      "town": false,
+      "buyer": 5,
+      "owner": 13,
+      "result": 0
+    },
+    {
+      "good": 9,
+      "relation": 0,
+      "price": 1,
+      "town": true,
+      "buyer": 0,
+      "owner": 14,
+      "result": 4250
+    },
+    {
+      "good": 10,
+      "relation": 255,
+      "price": 366,
+      "town": false,
+      "buyer": 1,
+      "owner": 15,
+      "result": 0
+    },
+    {
+      "good": 11,
+      "relation": 254,
+      "price": 372,
+      "town": false,
+      "buyer": 2,
+      "owner": 16,
+      "result": 12
+    },
+    {
+      "good": 12,
+      "relation": 300,
+      "price": 226,
+      "town": true,
+      "buyer": 3,
+      "owner": 17,
+      "result": 0
+    },
+    {
+      "good": 13,
+      "relation": 300,
+      "price": 226,
+      "town": false,
+      "buyer": 4,
+      "owner": 18,
+      "result": 0
+    },
+    {
+      "good": 14,
+      "relation": 0,
+      "price": 158,
+      "town": false,
+      "buyer": 5,
+      "owner": 19,
+      "result": 1343
+    },
+    {
+      "good": 15,
+      "relation": 300,
+      "price": 296,
+      "town": true,
+      "buyer": 0,
+      "owner": 20,
+      "result": 0
+    },
+    {
+      "good": 16,
+      "relation": 254,
+      "price": 122,
+      "town": false,
+      "buyer": 1,
+      "owner": 21,
+      "result": 4
+    },
+    {
+      "good": 17,
+      "relation": 254,
+      "price": 236,
+      "town": false,
+      "buyer": 2,
+      "owner": 0,
+      "result": 7
+    },
+    {
+      "good": 18,
+      "relation": 255,
+      "price": 172,
+      "town": true,
+      "buyer": 3,
+      "owner": 1,
+      "result": 0
+    },
+    {
+      "good": 19,
+      "relation": 254,
+      "price": 59,
+      "town": false,
+      "buyer": 4,
+      "owner": 2,
+      "result": 1
+    },
+    {
+      "good": 20,
+      "relation": 300,
+      "price": 335,
+      "town": false,
+      "buyer": 5,
+      "owner": 3,
+      "result": 0
+    },
+    {
+      "good": 21,
+      "relation": 127,
+      "price": 390,
+      "town": true,
+      "buyer": 0,
+      "owner": 4,
+      "result": 2133
+    },
+    {
+      "good": 22,
+      "relation": 255,
+      "price": 308,
+      "town": false,
+      "buyer": 1,
+      "owner": 5,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "relation": 254,
+      "price": 22,
+      "town": false,
+      "buyer": 2,
+      "owner": 6,
+      "result": 1
+    },
+    {
+      "good": 24,
+      "relation": 254,
+      "price": 489,
+      "town": true,
+      "buyer": 3,
+      "owner": 7,
+      "result": 16
+    },
+    {
+      "good": 25,
+      "relation": 0,
+      "price": 97,
+      "town": false,
+      "buyer": 4,
+      "owner": 8,
+      "result": 1700
+    },
+    {
+      "good": 26,
+      "relation": 300,
+      "price": 321,
+      "town": false,
+      "buyer": 5,
+      "owner": 9,
+      "result": 0
+    },
+    {
+      "good": 27,
+      "relation": 100,
+      "price": 113,
+      "town": true,
+      "buyer": 0,
+      "owner": 10,
+      "result": 2583
+    },
+    {
+      "good": -1,
+      "relation": 127,
+      "price": 488,
+      "town": false,
+      "buyer": 1,
+      "owner": 11,
+      "result": 0
+    },
+    {
+      "good": 0,
+      "relation": 0,
+      "price": 7,
+      "town": false,
+      "buyer": 2,
+      "owner": 12,
+      "result": 59
+    },
+    {
+      "good": 1,
+      "relation": 100,
+      "price": 476,
+      "town": true,
+      "buyer": 3,
+      "owner": 13,
+      "result": 2583
+    },
+    {
+      "good": 2,
+      "relation": 127,
+      "price": 179,
+      "town": false,
+      "buyer": 4,
+      "owner": 14,
+      "result": 763
+    },
+    {
+      "good": 3,
+      "relation": 300,
+      "price": 135,
+      "town": false,
+      "buyer": 5,
+      "owner": 15,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "relation": 254,
+      "price": 385,
+      "town": true,
+      "buyer": 0,
+      "owner": 16,
+      "result": 16
+    },
+    {
+      "good": 5,
+      "relation": 0,
+      "price": 359,
+      "town": false,
+      "buyer": 1,
+      "owner": 17,
+      "result": 3051
+    },
+    {
+      "good": 6,
+      "relation": 300,
+      "price": 320,
+      "town": false,
+      "buyer": 2,
+      "owner": 18,
+      "result": 0
+    },
+    {
+      "good": 7,
+      "relation": 254,
+      "price": 295,
+      "town": true,
+      "buyer": 3,
+      "owner": 19,
+      "result": 16
+    },
+    {
+      "good": 8,
+      "relation": 0,
+      "price": 329,
+      "town": false,
+      "buyer": 4,
+      "owner": 20,
+      "result": 2796
+    },
+    {
+      "good": 9,
+      "relation": 100,
+      "price": 202,
+      "town": false,
+      "buyer": 5,
+      "owner": 21,
+      "result": 1043
+    },
+    {
+      "good": 10,
+      "relation": 254,
+      "price": 70,
+      "town": true,
+      "buyer": 0,
+      "owner": 0,
+      "result": 16
+    },
+    {
+      "good": 11,
+      "relation": 254,
+      "price": 389,
+      "town": false,
+      "buyer": 1,
+      "owner": 1,
+      "result": 12
+    },
+    {
+      "good": 12,
+      "relation": 300,
+      "price": 162,
+      "town": false,
+      "buyer": 2,
+      "owner": 2,
+      "result": 0
+    },
+    {
+      "good": 13,
+      "relation": 300,
+      "price": 15,
+      "town": true,
+      "buyer": 3,
+      "owner": 3,
+      "result": 0
+    },
+    {
+      "good": 14,
+      "relation": 300,
+      "price": 420,
+      "town": false,
+      "buyer": 4,
+      "owner": 4,
+      "result": 0
+    },
+    {
+      "good": 15,
+      "relation": 255,
+      "price": 457,
+      "town": false,
+      "buyer": 5,
+      "owner": 5,
+      "result": 0
+    },
+    {
+      "good": 16,
+      "relation": 255,
+      "price": 169,
+      "town": true,
+      "buyer": 0,
+      "owner": 6,
+      "result": 0
+    },
+    {
+      "good": 17,
+      "relation": 100,
+      "price": 12,
+      "town": false,
+      "buyer": 1,
+      "owner": 7,
+      "result": 62
+    },
+    {
+      "good": 18,
+      "relation": 0,
+      "price": 413,
+      "town": false,
+      "buyer": 2,
+      "owner": 8,
+      "result": 3510
+    },
+    {
+      "good": 19,
+      "relation": 0,
+      "price": 303,
+      "town": true,
+      "buyer": 3,
+      "owner": 9,
+      "result": 4250
+    },
+    {
+      "good": 20,
+      "relation": 0,
+      "price": 390,
+      "town": false,
+      "buyer": 4,
+      "owner": 10,
+      "result": 0
+    },
+    {
+      "good": 21,
+      "relation": 127,
+      "price": 57,
+      "town": false,
+      "buyer": 5,
+      "owner": 11,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "relation": 0,
+      "price": 254,
+      "town": true,
+      "buyer": 0,
+      "owner": 12,
+      "result": 4250
+    },
+    {
+      "good": 23,
+      "relation": 255,
+      "price": 343,
+      "town": false,
+      "buyer": 1,
+      "owner": 13,
+      "result": 0
+    },
+    {
+      "good": 24,
+      "relation": 127,
+      "price": 200,
+      "town": false,
+      "buyer": 2,
+      "owner": 14,
+      "result": 426
+    },
+    {
+      "good": 25,
+      "relation": 255,
+      "price": 87,
+      "town": true,
+      "buyer": 3,
+      "owner": 15,
+      "result": 0
+    },
+    {
+      "good": 26,
+      "relation": 127,
+      "price": 190,
+      "town": false,
+      "buyer": 4,
+      "owner": 16,
+      "result": 1280
+    },
+    {
+      "good": 27,
+      "relation": 127,
+      "price": 477,
+      "town": false,
+      "buyer": 5,
+      "owner": 17,
+      "result": 1706
+    },
+    {
+      "good": -1,
+      "relation": 127,
+      "price": 237,
+      "town": true,
+      "buyer": 0,
+      "owner": 18,
+      "result": 2133
+    },
+    {
+      "good": 0,
+      "relation": 127,
+      "price": 336,
+      "town": false,
+      "buyer": 1,
+      "owner": 19,
+      "result": 1433
+    },
+    {
+      "good": 1,
+      "relation": 255,
+      "price": 112,
+      "town": false,
+      "buyer": 2,
+      "owner": 20,
+      "result": 0
+    },
+    {
+      "good": 2,
+      "relation": 100,
+      "price": 480,
+      "town": true,
+      "buyer": 3,
+      "owner": 21,
+      "result": 2583
+    },
+    {
+      "good": 3,
+      "relation": 100,
+      "price": 76,
+      "town": false,
+      "buyer": 4,
+      "owner": 0,
+      "result": 392
+    },
+    {
+      "good": 4,
+      "relation": 127,
+      "price": 467,
+      "town": false,
+      "buyer": 5,
+      "owner": 1,
+      "result": 1992
+    },
+    {
+      "good": 5,
+      "relation": 100,
+      "price": 385,
+      "town": true,
+      "buyer": 0,
+      "owner": 2,
+      "result": 2583
+    },
+    {
+      "good": 6,
+      "relation": 0,
+      "price": 12,
+      "town": false,
+      "buyer": 1,
+      "owner": 3,
+      "result": 102
+    },
+    {
+      "good": 7,
+      "relation": 300,
+      "price": 474,
+      "town": false,
+      "buyer": 2,
+      "owner": 4,
+      "result": 0
+    },
+    {
+      "good": 8,
+      "relation": 0,
+      "price": 24,
+      "town": true,
+      "buyer": 3,
+      "owner": 5,
+      "result": 4250
+    },
+    {
+      "good": 9,
+      "relation": 255,
+      "price": 219,
+      "town": false,
+      "buyer": 4,
+      "owner": 6,
+      "result": 0
+    },
+    {
+      "good": 10,
+      "relation": 300,
+      "price": 405,
+      "town": false,
+      "buyer": 5,
+      "owner": 7,
+      "result": 0
+    },
+    {
+      "good": 11,
+      "relation": 127,
+      "price": 283,
+      "town": true,
+      "buyer": 0,
+      "owner": 8,
+      "result": 2133
+    },
+    {
+      "good": 12,
+      "relation": 0,
+      "price": 353,
+      "town": false,
+      "buyer": 1,
+      "owner": 9,
+      "result": 3000
+    },
+    {
+      "good": 13,
+      "relation": 300,
+      "price": 233,
+      "town": false,
+      "buyer": 2,
+      "owner": 10,
+      "result": 0
+    },
+    {
+      "good": 14,
+      "relation": 254,
+      "price": 432,
+      "town": true,
+      "buyer": 3,
+      "owner": 11,
+      "result": 16
+    },
+    {
+      "good": 15,
+      "relation": 127,
+      "price": 164,
+      "town": false,
+      "buyer": 4,
+      "owner": 12,
+      "result": 699
+    },
+    {
+      "good": 16,
+      "relation": 255,
+      "price": 118,
+      "town": false,
+      "buyer": 5,
+      "owner": 13,
+      "result": 0
+    },
+    {
+      "good": 17,
+      "relation": 300,
+      "price": 173,
+      "town": true,
+      "buyer": 0,
+      "owner": 14,
+      "result": 0
+    },
+    {
+      "good": 18,
+      "relation": 254,
+      "price": 354,
+      "town": false,
+      "buyer": 1,
+      "owner": 15,
+      "result": 11
+    },
+    {
+      "good": 19,
+      "relation": 100,
+      "price": 433,
+      "town": false,
+      "buyer": 2,
+      "owner": 16,
+      "result": 2237
+    },
+    {
+      "good": 20,
+      "relation": 127,
+      "price": 422,
+      "town": true,
+      "buyer": 3,
+      "owner": 17,
+      "result": 2133
+    },
+    {
+      "good": 21,
+      "relation": 100,
+      "price": 92,
+      "town": false,
+      "buyer": 4,
+      "owner": 18,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "relation": 254,
+      "price": 449,
+      "town": false,
+      "buyer": 5,
+      "owner": 19,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "relation": 127,
+      "price": 455,
+      "town": true,
+      "buyer": 0,
+      "owner": 20,
+      "result": 2133
+    },
+    {
+      "good": 24,
+      "relation": 254,
+      "price": 239,
+      "town": false,
+      "buyer": 1,
+      "owner": 21,
+      "result": 3
+    },
+    {
+      "good": 25,
+      "relation": 100,
+      "price": 184,
+      "town": false,
+      "buyer": 2,
+      "owner": 0,
+      "result": 1033
+    },
+    {
+      "good": 26,
+      "relation": 100,
+      "price": 351,
+      "town": true,
+      "buyer": 3,
+      "owner": 1,
+      "result": 2583
+    },
+    {
+      "good": 27,
+      "relation": 100,
+      "price": 221,
+      "town": false,
+      "buyer": 4,
+      "owner": 2,
+      "result": 2066
+    },
+    {
+      "good": -1,
+      "relation": 254,
+      "price": 219,
+      "town": false,
+      "buyer": 5,
+      "owner": 3,
+      "result": 0
+    },
+    {
+      "good": 0,
+      "relation": 0,
+      "price": 417,
+      "town": true,
+      "buyer": 0,
+      "owner": 4,
+      "result": 4250
+    },
+    {
+      "good": 1,
+      "relation": 0,
+      "price": 139,
+      "town": false,
+      "buyer": 1,
+      "owner": 5,
+      "result": 1181
+    },
+    {
+      "good": 2,
+      "relation": 300,
+      "price": 395,
+      "town": false,
+      "buyer": 2,
+      "owner": 6,
+      "result": 0
+    },
+    {
+      "good": 3,
+      "relation": 254,
+      "price": 401,
+      "town": true,
+      "buyer": 3,
+      "owner": 7,
+      "result": 16
+    },
+    {
+      "good": 4,
+      "relation": 127,
+      "price": 432,
+      "town": false,
+      "buyer": 4,
+      "owner": 8,
+      "result": 1843
+    },
+    {
+      "good": 5,
+      "relation": 255,
+      "price": 209,
+      "town": false,
+      "buyer": 5,
+      "owner": 9,
+      "result": 0
+    },
+    {
+      "good": 6,
+      "relation": 254,
+      "price": 290,
+      "town": true,
+      "buyer": 0,
+      "owner": 10,
+      "result": 16
+    },
+    {
+      "good": 7,
+      "relation": 127,
+      "price": 55,
+      "town": false,
+      "buyer": 1,
+      "owner": 11,
+      "result": 234
+    },
+    {
+      "good": 8,
+      "relation": 254,
+      "price": 392,
+      "town": false,
+      "buyer": 2,
+      "owner": 12,
+      "result": 13
+    },
+    {
+      "good": 9,
+      "relation": 0,
+      "price": 121,
+      "town": true,
+      "buyer": 3,
+      "owner": 13,
+      "result": 4250
+    },
+    {
+      "good": 10,
+      "relation": 300,
+      "price": 415,
+      "town": false,
+      "buyer": 4,
+      "owner": 14,
+      "result": 0
+    },
+    {
+      "good": 11,
+      "relation": 100,
+      "price": 333,
+      "town": false,
+      "buyer": 5,
+      "owner": 15,
+      "result": 1720
+    },
+    {
+      "good": 12,
+      "relation": 100,
+      "price": 453,
+      "town": true,
+      "buyer": 0,
+      "owner": 16,
+      "result": 2583
+    },
+    {
+      "good": 13,
+      "relation": 254,
+      "price": 256,
+      "town": false,
+      "buyer": 1,
+      "owner": 17,
+      "result": 8
+    },
+    {
+      "good": 14,
+      "relation": 127,
+      "price": 162,
+      "town": false,
+      "buyer": 2,
+      "owner": 18,
+      "result": 691
+    },
+    {
+      "good": 15,
+      "relation": 254,
+      "price": 168,
+      "town": true,
+      "buyer": 3,
+      "owner": 19,
+      "result": 16
+    },
+    {
+      "good": 16,
+      "relation": 300,
+      "price": 311,
+      "town": false,
+      "buyer": 4,
+      "owner": 20,
+      "result": 0
+    },
+    {
+      "good": 17,
+      "relation": 254,
+      "price": 263,
+      "town": false,
+      "buyer": 5,
+      "owner": 21,
+      "result": 8
+    },
+    {
+      "good": 18,
+      "relation": 300,
+      "price": 204,
+      "town": true,
+      "buyer": 0,
+      "owner": 0,
+      "result": 0
+    },
+    {
+      "good": 19,
+      "relation": 300,
+      "price": 17,
+      "town": false,
+      "buyer": 1,
+      "owner": 1,
+      "result": 0
+    },
+    {
+      "good": 20,
+      "relation": 100,
+      "price": 43,
+      "town": false,
+      "buyer": 2,
+      "owner": 2,
+      "result": 0
+    },
+    {
+      "good": 21,
+      "relation": 255,
+      "price": 462,
+      "town": true,
+      "buyer": 3,
+      "owner": 3,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "relation": 100,
+      "price": 171,
+      "town": false,
+      "buyer": 4,
+      "owner": 4,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "relation": 254,
+      "price": 226,
+      "town": false,
+      "buyer": 5,
+      "owner": 5,
+      "result": 1
+    },
+    {
+      "good": 24,
+      "relation": 127,
+      "price": 484,
+      "town": true,
+      "buyer": 0,
+      "owner": 6,
+      "result": 2133
+    },
+    {
+      "good": 25,
+      "relation": 254,
+      "price": 366,
+      "town": false,
+      "buyer": 1,
+      "owner": 7,
+      "result": 6
+    },
+    {
+      "good": 26,
+      "relation": 100,
+      "price": 444,
+      "town": false,
+      "buyer": 2,
+      "owner": 8,
+      "result": 1550
+    },
+    {
+      "good": 27,
+      "relation": 127,
+      "price": 323,
+      "town": true,
+      "buyer": 3,
+      "owner": 9,
+      "result": 2133
+    },
+    {
+      "good": -1,
+      "relation": 254,
+      "price": 272,
+      "town": false,
+      "buyer": 4,
+      "owner": 10,
+      "result": 0
+    },
+    {
+      "good": 0,
+      "relation": 254,
+      "price": 1,
+      "town": false,
+      "buyer": 5,
+      "owner": 11,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "relation": 0,
+      "price": 18,
+      "town": true,
+      "buyer": 0,
+      "owner": 12,
+      "result": 4250
+    },
+    {
+      "good": 2,
+      "relation": 300,
+      "price": 149,
+      "town": false,
+      "buyer": 1,
+      "owner": 13,
+      "result": 0
+    },
+    {
+      "good": 3,
+      "relation": 255,
+      "price": 256,
+      "town": false,
+      "buyer": 2,
+      "owner": 14,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "relation": 0,
+      "price": 131,
+      "town": true,
+      "buyer": 3,
+      "owner": 15,
+      "result": 4250
+    },
+    {
+      "good": 5,
+      "relation": 254,
+      "price": 316,
+      "town": false,
+      "buyer": 4,
+      "owner": 16,
+      "result": 10
+    },
+    {
+      "good": 6,
+      "relation": 0,
+      "price": 169,
+      "town": false,
+      "buyer": 5,
+      "owner": 17,
+      "result": 1436
+    },
+    {
+      "good": 7,
+      "relation": 255,
+      "price": 486,
+      "town": true,
+      "buyer": 0,
+      "owner": 18,
+      "result": 0
+    },
+    {
+      "good": 8,
+      "relation": 254,
+      "price": 310,
+      "town": false,
+      "buyer": 1,
+      "owner": 19,
+      "result": 10
+    },
+    {
+      "good": 9,
+      "relation": 0,
+      "price": 95,
+      "town": false,
+      "buyer": 2,
+      "owner": 20,
+      "result": 807
+    },
+    {
+      "good": 10,
+      "relation": 255,
+      "price": 79,
+      "town": true,
+      "buyer": 3,
+      "owner": 21,
+      "result": 0
+    },
+    {
+      "good": 11,
+      "relation": 127,
+      "price": 231,
+      "town": false,
+      "buyer": 4,
+      "owner": 0,
+      "result": 985
+    },
+    {
+      "good": 12,
+      "relation": 127,
+      "price": 292,
+      "town": false,
+      "buyer": 5,
+      "owner": 1,
+      "result": 1245
+    },
+    {
+      "good": 13,
+      "relation": 254,
+      "price": 119,
+      "town": true,
+      "buyer": 0,
+      "owner": 2,
+      "result": 16
+    },
+    {
+      "good": 14,
+      "relation": 300,
+      "price": 331,
+      "town": false,
+      "buyer": 1,
+      "owner": 3,
+      "result": 0
+    },
+    {
+      "good": 15,
+      "relation": 100,
+      "price": 492,
+      "town": false,
+      "buyer": 2,
+      "owner": 4,
+      "result": 2542
+    },
+    {
+      "good": 16,
+      "relation": 300,
+      "price": 23,
+      "town": true,
+      "buyer": 3,
+      "owner": 5,
+      "result": 0
+    },
+    {
+      "good": 17,
+      "relation": 300,
+      "price": 24,
+      "town": false,
+      "buyer": 4,
+      "owner": 6,
+      "result": 0
+    },
+    {
+      "good": 18,
+      "relation": 100,
+      "price": 469,
+      "town": false,
+      "buyer": 5,
+      "owner": 7,
+      "result": 2423
+    },
+    {
+      "good": 19,
+      "relation": 100,
+      "price": 71,
+      "town": true,
+      "buyer": 0,
+      "owner": 8,
+      "result": 2583
+    },
+    {
+      "good": 20,
+      "relation": 0,
+      "price": 39,
+      "town": false,
+      "buyer": 1,
+      "owner": 9,
+      "result": 0
+    },
+    {
+      "good": 21,
+      "relation": 255,
+      "price": 38,
+      "town": false,
+      "buyer": 2,
+      "owner": 10,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "relation": 254,
+      "price": 109,
+      "town": true,
+      "buyer": 3,
+      "owner": 11,
+      "result": 16
+    },
+    {
+      "good": 23,
+      "relation": 254,
+      "price": 65,
+      "town": false,
+      "buyer": 4,
+      "owner": 12,
+      "result": 1
+    },
+    {
+      "good": 24,
+      "relation": 255,
+      "price": 156,
+      "town": false,
+      "buyer": 5,
+      "owner": 13,
+      "result": 0
+    },
+    {
+      "good": 25,
+      "relation": 254,
+      "price": 226,
+      "town": true,
+      "buyer": 0,
+      "owner": 14,
+      "result": 16
+    },
+    {
+      "good": 26,
+      "relation": 300,
+      "price": 341,
+      "town": false,
+      "buyer": 1,
+      "owner": 15,
+      "result": 0
+    },
+    {
+      "good": 27,
+      "relation": 100,
+      "price": 265,
+      "town": false,
+      "buyer": 2,
+      "owner": 16,
+      "result": 2066
+    },
+    {
+      "good": -1,
+      "relation": 100,
+      "price": 8,
+      "town": true,
+      "buyer": 3,
+      "owner": 17,
+      "result": 2583
+    },
+    {
+      "good": 0,
+      "relation": 255,
+      "price": 126,
+      "town": false,
+      "buyer": 4,
+      "owner": 18,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "relation": 254,
+      "price": 322,
+      "town": false,
+      "buyer": 5,
+      "owner": 19,
+      "result": 10
+    },
+    {
+      "good": 2,
+      "relation": 127,
+      "price": 341,
+      "town": true,
+      "buyer": 0,
+      "owner": 20,
+      "result": 2133
+    },
+    {
+      "good": 3,
+      "relation": 0,
+      "price": 23,
+      "town": false,
+      "buyer": 1,
+      "owner": 21,
+      "result": 195
+    },
+    {
+      "good": 4,
+      "relation": 300,
+      "price": 176,
+      "town": false,
+      "buyer": 2,
+      "owner": 0,
+      "result": 0
+    },
+    {
+      "good": 5,
+      "relation": 100,
+      "price": 488,
+      "town": true,
+      "buyer": 3,
+      "owner": 1,
+      "result": 2583
+    },
+    {
+      "good": 6,
+      "relation": 255,
+      "price": 257,
+      "town": false,
+      "buyer": 4,
+      "owner": 2,
+      "result": 0
+    },
+    {
+      "good": 7,
+      "relation": 0,
+      "price": 307,
+      "town": false,
+      "buyer": 5,
+      "owner": 3,
+      "result": 2609
+    },
+    {
+      "good": 8,
+      "relation": 0,
+      "price": 187,
+      "town": true,
+      "buyer": 0,
+      "owner": 4,
+      "result": 4250
+    },
+    {
+      "good": 9,
+      "relation": 127,
+      "price": 188,
+      "town": false,
+      "buyer": 1,
+      "owner": 5,
+      "result": 802
+    },
+    {
+      "good": 10,
+      "relation": 300,
+      "price": 460,
+      "town": false,
+      "buyer": 2,
+      "owner": 6,
+      "result": 0
+    },
+    {
+      "good": 11,
+      "relation": 127,
+      "price": 204,
+      "town": true,
+      "buyer": 3,
+      "owner": 7,
+      "result": 2133
+    },
+    {
+      "good": 12,
+      "relation": 255,
+      "price": 211,
+      "town": false,
+      "buyer": 4,
+      "owner": 8,
+      "result": 0
+    },
+    {
+      "good": 13,
+      "relation": 255,
+      "price": 95,
+      "town": false,
+      "buyer": 5,
+      "owner": 9,
+      "result": 0
+    },
+    {
+      "good": 14,
+      "relation": 255,
+      "price": 41,
+      "town": true,
+      "buyer": 0,
+      "owner": 10,
+      "result": 0
+    },
+    {
+      "good": 15,
+      "relation": 100,
+      "price": 434,
+      "town": false,
+      "buyer": 1,
+      "owner": 11,
+      "result": 2242
+    },
+    {
+      "good": 16,
+      "relation": 255,
+      "price": 174,
+      "town": false,
+      "buyer": 2,
+      "owner": 12,
+      "result": 0
+    },
+    {
+      "good": 17,
+      "relation": 127,
+      "price": 12,
+      "town": true,
+      "buyer": 3,
+      "owner": 13,
+      "result": 2133
+    },
+    {
+      "good": 18,
+      "relation": 300,
+      "price": 467,
+      "town": false,
+      "buyer": 4,
+      "owner": 14,
+      "result": 0
+    },
+    {
+      "good": 19,
+      "relation": 0,
+      "price": 267,
+      "town": false,
+      "buyer": 5,
+      "owner": 15,
+      "result": 2269
+    },
+    {
+      "good": 20,
+      "relation": 100,
+      "price": 271,
+      "town": true,
+      "buyer": 0,
+      "owner": 16,
+      "result": 2583
+    },
+    {
+      "good": 21,
+      "relation": 254,
+      "price": 417,
+      "town": false,
+      "buyer": 1,
+      "owner": 17,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "relation": 254,
+      "price": 431,
+      "town": false,
+      "buyer": 2,
+      "owner": 18,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "relation": 100,
+      "price": 226,
+      "town": true,
+      "buyer": 3,
+      "owner": 19,
+      "result": 2583
+    },
+    {
+      "good": 24,
+      "relation": 0,
+      "price": 261,
+      "town": false,
+      "buyer": 4,
+      "owner": 20,
+      "result": 850
+    },
+    {
+      "good": 25,
+      "relation": 254,
+      "price": 428,
+      "town": false,
+      "buyer": 5,
+      "owner": 21,
+      "result": 6
+    },
+    {
+      "good": 26,
+      "relation": 300,
+      "price": 486,
+      "town": true,
+      "buyer": 0,
+      "owner": 0,
+      "result": 0
+    },
+    {
+      "good": 27,
+      "relation": 254,
+      "price": 22,
+      "town": false,
+      "buyer": 1,
+      "owner": 1,
+      "result": 13
+    },
+    {
+      "good": -1,
+      "relation": 100,
+      "price": 493,
+      "town": false,
+      "buyer": 2,
+      "owner": 2,
+      "result": 0
+    },
+    {
+      "good": 0,
+      "relation": 254,
+      "price": 49,
+      "town": true,
+      "buyer": 3,
+      "owner": 3,
+      "result": 16
+    },
+    {
+      "good": 1,
+      "relation": 100,
+      "price": 450,
+      "town": false,
+      "buyer": 4,
+      "owner": 4,
+      "result": 2325
+    },
+    {
+      "good": 2,
+      "relation": 127,
+      "price": 248,
+      "town": false,
+      "buyer": 5,
+      "owner": 5,
+      "result": 1058
+    },
+    {
+      "good": 3,
+      "relation": 0,
+      "price": 439,
+      "town": true,
+      "buyer": 0,
+      "owner": 6,
+      "result": 4250
+    },
+    {
+      "good": 4,
+      "relation": 254,
+      "price": 289,
+      "town": false,
+      "buyer": 1,
+      "owner": 7,
+      "result": 9
+    },
+    {
+      "good": 5,
+      "relation": 0,
+      "price": 386,
+      "town": false,
+      "buyer": 2,
+      "owner": 8,
+      "result": 3281
+    },
+    {
+      "good": 6,
+      "relation": 0,
+      "price": 245,
+      "town": true,
+      "buyer": 3,
+      "owner": 9,
+      "result": 4250
+    },
+    {
+      "good": 7,
+      "relation": 100,
+      "price": 289,
+      "town": false,
+      "buyer": 4,
+      "owner": 10,
+      "result": 1493
+    },
+    {
+      "good": 8,
+      "relation": 254,
+      "price": 110,
+      "town": false,
+      "buyer": 5,
+      "owner": 11,
+      "result": 3
+    },
+    {
+      "good": 9,
+      "relation": 254,
+      "price": 219,
+      "town": true,
+      "buyer": 0,
+      "owner": 12,
+      "result": 16
+    },
+    {
+      "good": 10,
+      "relation": 254,
+      "price": 457,
+      "town": false,
+      "buyer": 1,
+      "owner": 13,
+      "result": 15
+    },
+    {
+      "good": 11,
+      "relation": 254,
+      "price": 186,
+      "town": false,
+      "buyer": 2,
+      "owner": 14,
+      "result": 6
+    },
+    {
+      "good": 12,
+      "relation": 0,
+      "price": 185,
+      "town": true,
+      "buyer": 3,
+      "owner": 15,
+      "result": 4250
+    },
+    {
+      "good": 13,
+      "relation": 0,
+      "price": 420,
+      "town": false,
+      "buyer": 4,
+      "owner": 16,
+      "result": 3570
+    },
+    {
+      "good": 14,
+      "relation": 300,
+      "price": 484,
+      "town": false,
+      "buyer": 5,
+      "owner": 17,
+      "result": 0
+    },
+    {
+      "good": 15,
+      "relation": 100,
+      "price": 168,
+      "town": true,
+      "buyer": 0,
+      "owner": 18,
+      "result": 2583
+    },
+    {
+      "good": 16,
+      "relation": 255,
+      "price": 184,
+      "town": false,
+      "buyer": 1,
+      "owner": 19,
+      "result": 0
+    },
+    {
+      "good": 17,
+      "relation": 255,
+      "price": 299,
+      "town": false,
+      "buyer": 2,
+      "owner": 20,
+      "result": 0
+    },
+    {
+      "good": 18,
+      "relation": 255,
+      "price": 292,
+      "town": true,
+      "buyer": 3,
+      "owner": 21,
+      "result": 0
+    },
+    {
+      "good": 19,
+      "relation": 127,
+      "price": 398,
+      "town": false,
+      "buyer": 4,
+      "owner": 0,
+      "result": 1698
+    },
+    {
+      "good": 20,
+      "relation": 0,
+      "price": 338,
+      "town": false,
+      "buyer": 5,
+      "owner": 1,
+      "result": 0
+    },
+    {
+      "good": 21,
+      "relation": 127,
+      "price": 373,
+      "town": true,
+      "buyer": 0,
+      "owner": 2,
+      "result": 2133
+    },
+    {
+      "good": 22,
+      "relation": 100,
+      "price": 261,
+      "town": false,
+      "buyer": 1,
+      "owner": 3,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "relation": 0,
+      "price": 27,
+      "town": false,
+      "buyer": 2,
+      "owner": 4,
+      "result": 425
+    },
+    {
+      "good": 24,
+      "relation": 254,
+      "price": 204,
+      "town": true,
+      "buyer": 3,
+      "owner": 5,
+      "result": 16
+    },
+    {
+      "good": 25,
+      "relation": 300,
+      "price": 387,
+      "town": false,
+      "buyer": 4,
+      "owner": 6,
+      "result": 0
+    },
+    {
+      "good": 26,
+      "relation": 255,
+      "price": 412,
+      "town": false,
+      "buyer": 5,
+      "owner": 7,
+      "result": 0
+    },
+    {
+      "good": 27,
+      "relation": 254,
+      "price": 435,
+      "town": true,
+      "buyer": 0,
+      "owner": 8,
+      "result": 16
+    },
+    {
+      "good": -1,
+      "relation": 0,
+      "price": 438,
+      "town": false,
+      "buyer": 1,
+      "owner": 9,
+      "result": 0
+    },
+    {
+      "good": 0,
+      "relation": 0,
+      "price": 164,
+      "town": false,
+      "buyer": 2,
+      "owner": 10,
+      "result": 1394
+    },
+    {
+      "good": 1,
+      "relation": 254,
+      "price": 262,
+      "town": true,
+      "buyer": 3,
+      "owner": 11,
+      "result": 16
+    },
+    {
+      "good": 2,
+      "relation": 300,
+      "price": 88,
+      "town": false,
+      "buyer": 4,
+      "owner": 12,
+      "result": 0
+    },
+    {
+      "good": 3,
+      "relation": 0,
+      "price": 339,
+      "town": false,
+      "buyer": 5,
+      "owner": 13,
+      "result": 2881
+    },
+    {
+      "good": 4,
+      "relation": 300,
+      "price": 142,
+      "town": true,
+      "buyer": 0,
+      "owner": 14,
+      "result": 0
+    },
+    {
+      "good": 5,
+      "relation": 254,
+      "price": 218,
+      "town": false,
+      "buyer": 1,
+      "owner": 15,
+      "result": 7
+    },
+    {
+      "good": 6,
+      "relation": 255,
+      "price": 201,
+      "town": false,
+      "buyer": 2,
+      "owner": 16,
+      "result": 0
+    },
+    {
+      "good": 7,
+      "relation": 0,
+      "price": 300,
+      "town": true,
+      "buyer": 3,
+      "owner": 17,
+      "result": 4250
+    },
+    {
+      "good": 8,
+      "relation": 255,
+      "price": 121,
+      "town": false,
+      "buyer": 4,
+      "owner": 18,
+      "result": 0
+    },
+    {
+      "good": 9,
+      "relation": 127,
+      "price": 438,
+      "town": false,
+      "buyer": 5,
+      "owner": 19,
+      "result": 1868
+    },
+    {
+      "good": 10,
+      "relation": 300,
+      "price": 193,
+      "town": true,
+      "buyer": 0,
+      "owner": 20,
+      "result": 0
+    },
+    {
+      "good": 11,
+      "relation": 0,
+      "price": 5,
+      "town": false,
+      "buyer": 1,
+      "owner": 21,
+      "result": 42
+    },
+    {
+      "good": 12,
+      "relation": 254,
+      "price": 300,
+      "town": false,
+      "buyer": 2,
+      "owner": 0,
+      "result": 10
+    },
+    {
+      "good": 13,
+      "relation": 255,
+      "price": 45,
+      "town": true,
+      "buyer": 3,
+      "owner": 1,
+      "result": 0
+    },
+    {
+      "good": 14,
+      "relation": 0,
+      "price": 489,
+      "town": false,
+      "buyer": 4,
+      "owner": 2,
+      "result": 4156
+    },
+    {
+      "good": 15,
+      "relation": 254,
+      "price": 167,
+      "town": false,
+      "buyer": 5,
+      "owner": 3,
+      "result": 5
+    },
+    {
+      "good": 16,
+      "relation": 255,
+      "price": 444,
+      "town": true,
+      "buyer": 0,
+      "owner": 4,
+      "result": 0
+    },
+    {
+      "good": 17,
+      "relation": 300,
+      "price": 90,
+      "town": false,
+      "buyer": 1,
+      "owner": 5,
+      "result": 0
+    },
+    {
+      "good": 18,
+      "relation": 255,
+      "price": 131,
+      "town": false,
+      "buyer": 2,
+      "owner": 6,
+      "result": 0
+    },
+    {
+      "good": 19,
+      "relation": 100,
+      "price": 311,
+      "town": true,
+      "buyer": 3,
+      "owner": 7,
+      "result": 2583
+    },
+    {
+      "good": 20,
+      "relation": 300,
+      "price": 67,
+      "town": false,
+      "buyer": 4,
+      "owner": 8,
+      "result": 0
+    },
+    {
+      "good": 21,
+      "relation": 127,
+      "price": 194,
+      "town": false,
+      "buyer": 5,
+      "owner": 9,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "relation": 300,
+      "price": 258,
+      "town": true,
+      "buyer": 0,
+      "owner": 10,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "relation": 300,
+      "price": 138,
+      "town": false,
+      "buyer": 1,
+      "owner": 11,
+      "result": 0
+    },
+    {
+      "good": 24,
+      "relation": 0,
+      "price": 295,
+      "town": false,
+      "buyer": 2,
+      "owner": 12,
+      "result": 850
+    },
+    {
+      "good": 25,
+      "relation": 100,
+      "price": 8,
+      "town": true,
+      "buyer": 3,
+      "owner": 13,
+      "result": 2583
+    },
+    {
+      "good": 26,
+      "relation": 127,
+      "price": 425,
+      "town": false,
+      "buyer": 4,
+      "owner": 14,
+      "result": 1280
+    },
+    {
+      "good": 27,
+      "relation": 255,
+      "price": 424,
+      "town": false,
+      "buyer": 5,
+      "owner": 15,
+      "result": 0
+    },
+    {
+      "good": -1,
+      "relation": 0,
+      "price": 96,
+      "town": true,
+      "buyer": 0,
+      "owner": 16,
+      "result": 4250
+    },
+    {
+      "good": 0,
+      "relation": 100,
+      "price": 456,
+      "town": false,
+      "buyer": 1,
+      "owner": 17,
+      "result": 2356
+    },
+    {
+      "good": 1,
+      "relation": 255,
+      "price": 122,
+      "town": false,
+      "buyer": 2,
+      "owner": 18,
+      "result": 0
+    },
+    {
+      "good": 2,
+      "relation": 254,
+      "price": 184,
+      "town": true,
+      "buyer": 3,
+      "owner": 19,
+      "result": 16
+    },
+    {
+      "good": 3,
+      "relation": 127,
+      "price": 415,
+      "town": false,
+      "buyer": 4,
+      "owner": 20,
+      "result": 1770
+    },
+    {
+      "good": 4,
+      "relation": 300,
+      "price": 66,
+      "town": false,
+      "buyer": 5,
+      "owner": 21,
+      "result": 0
+    },
+    {
+      "good": 5,
+      "relation": 255,
+      "price": 211,
+      "town": true,
+      "buyer": 0,
+      "owner": 0,
+      "result": 0
+    },
+    {
+      "good": 6,
+      "relation": 0,
+      "price": 314,
+      "town": false,
+      "buyer": 1,
+      "owner": 1,
+      "result": 2669
+    },
+    {
+      "good": 7,
+      "relation": 254,
+      "price": 367,
+      "town": false,
+      "buyer": 2,
+      "owner": 2,
+      "result": 12
+    },
+    {
+      "good": 8,
+      "relation": 255,
+      "price": 6,
+      "town": true,
+      "buyer": 3,
+      "owner": 3,
+      "result": 0
+    },
+    {
+      "good": 9,
+      "relation": 254,
+      "price": 239,
+      "town": false,
+      "buyer": 4,
+      "owner": 4,
+      "result": 7
+    },
+    {
+      "good": 10,
+      "relation": 300,
+      "price": 10,
+      "town": false,
+      "buyer": 5,
+      "owner": 5,
+      "result": 0
+    },
+    {
+      "good": 11,
+      "relation": 127,
+      "price": 2,
+      "town": true,
+      "buyer": 0,
+      "owner": 6,
+      "result": 2133
+    },
+    {
+      "good": 12,
+      "relation": 100,
+      "price": 184,
+      "town": false,
+      "buyer": 1,
+      "owner": 7,
+      "result": 950
+    },
+    {
+      "good": 13,
+      "relation": 0,
+      "price": 368,
+      "town": false,
+      "buyer": 2,
+      "owner": 8,
+      "result": 3128
+    },
+    {
+      "good": 14,
+      "relation": 127,
+      "price": 288,
+      "town": true,
+      "buyer": 3,
+      "owner": 9,
+      "result": 2133
+    },
+    {
+      "good": 15,
+      "relation": 100,
+      "price": 130,
+      "town": false,
+      "buyer": 4,
+      "owner": 10,
+      "result": 671
+    },
+    {
+      "good": 16,
+      "relation": 100,
+      "price": 104,
+      "town": false,
+      "buyer": 5,
+      "owner": 11,
+      "result": 537
+    },
+    {
+      "good": 17,
+      "relation": 254,
+      "price": 361,
+      "town": true,
+      "buyer": 0,
+      "owner": 12,
+      "result": 16
+    },
+    {
+      "good": 18,
+      "relation": 127,
+      "price": 181,
+      "town": false,
+      "buyer": 1,
+      "owner": 13,
+      "result": 772
+    },
+    {
+      "good": 19,
+      "relation": 255,
+      "price": 305,
+      "town": false,
+      "buyer": 2,
+      "owner": 14,
+      "result": 0
+    },
+    {
+      "good": 20,
+      "relation": 254,
+      "price": 217,
+      "town": true,
+      "buyer": 3,
+      "owner": 15,
+      "result": 16
+    },
+    {
+      "good": 21,
+      "relation": 0,
+      "price": 302,
+      "town": false,
+      "buyer": 4,
+      "owner": 16,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "relation": 127,
+      "price": 298,
+      "town": false,
+      "buyer": 5,
+      "owner": 17,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "relation": 255,
+      "price": 204,
+      "town": true,
+      "buyer": 0,
+      "owner": 18,
+      "result": 0
+    },
+    {
+      "good": 24,
+      "relation": 100,
+      "price": 358,
+      "town": false,
+      "buyer": 1,
+      "owner": 19,
+      "result": 516
+    },
+    {
+      "good": 25,
+      "relation": 100,
+      "price": 455,
+      "town": false,
+      "buyer": 2,
+      "owner": 20,
+      "result": 1033
+    },
+    {
+      "good": 26,
+      "relation": 0,
+      "price": 227,
+      "town": true,
+      "buyer": 3,
+      "owner": 21,
+      "result": 4250
+    },
+    {
+      "good": 27,
+      "relation": 255,
+      "price": 432,
+      "town": false,
+      "buyer": 4,
+      "owner": 0,
+      "result": 0
+    },
+    {
+      "good": -1,
+      "relation": 100,
+      "price": 235,
+      "town": false,
+      "buyer": 5,
+      "owner": 1,
+      "result": 0
+    },
+    {
+      "good": 0,
+      "relation": 300,
+      "price": 482,
+      "town": true,
+      "buyer": 0,
+      "owner": 2,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "relation": 0,
+      "price": 458,
+      "town": false,
+      "buyer": 1,
+      "owner": 3,
+      "result": 3893
+    },
+    {
+      "good": 2,
+      "relation": 300,
+      "price": 163,
+      "town": false,
+      "buyer": 2,
+      "owner": 4,
+      "result": 0
+    },
+    {
+      "good": 3,
+      "relation": 127,
+      "price": 36,
+      "town": true,
+      "buyer": 3,
+      "owner": 5,
+      "result": 2133
+    },
+    {
+      "good": 4,
+      "relation": 127,
+      "price": 167,
+      "town": false,
+      "buyer": 4,
+      "owner": 6,
+      "result": 712
+    },
+    {
+      "good": 5,
+      "relation": 254,
+      "price": 59,
+      "town": false,
+      "buyer": 5,
+      "owner": 7,
+      "result": 1
+    },
+    {
+      "good": 6,
+      "relation": 100,
+      "price": 204,
+      "town": true,
+      "buyer": 0,
+      "owner": 8,
+      "result": 2583
+    },
+    {
+      "good": 7,
+      "relation": 127,
+      "price": 136,
+      "town": false,
+      "buyer": 1,
+      "owner": 9,
+      "result": 580
+    },
+    {
+      "good": 8,
+      "relation": 0,
+      "price": 482,
+      "town": false,
+      "buyer": 2,
+      "owner": 10,
+      "result": 4097
+    },
+    {
+      "good": 9,
+      "relation": 0,
+      "price": 444,
+      "town": true,
+      "buyer": 3,
+      "owner": 11,
+      "result": 4250
+    },
+    {
+      "good": 10,
+      "relation": 0,
+      "price": 150,
+      "town": false,
+      "buyer": 4,
+      "owner": 12,
+      "result": 1275
+    },
+    {
+      "good": 11,
+      "relation": 300,
+      "price": 253,
+      "town": false,
+      "buyer": 5,
+      "owner": 13,
+      "result": 0
+    },
+    {
+      "good": 12,
+      "relation": 127,
+      "price": 203,
+      "town": true,
+      "buyer": 0,
+      "owner": 14,
+      "result": 2133
+    },
+    {
+      "good": 13,
+      "relation": 100,
+      "price": 278,
+      "town": false,
+      "buyer": 1,
+      "owner": 15,
+      "result": 1436
+    },
+    {
+      "good": 14,
+      "relation": 255,
+      "price": 56,
+      "town": false,
+      "buyer": 2,
+      "owner": 16,
+      "result": 0
+    },
+    {
+      "good": 15,
+      "relation": 127,
+      "price": 42,
+      "town": true,
+      "buyer": 3,
+      "owner": 17,
+      "result": 2133
+    },
+    {
+      "good": 16,
+      "relation": 100,
+      "price": 449,
+      "town": false,
+      "buyer": 4,
+      "owner": 18,
+      "result": 2319
+    },
+    {
+      "good": 17,
+      "relation": 254,
+      "price": 120,
+      "town": false,
+      "buyer": 5,
+      "owner": 19,
+      "result": 4
+    },
+    {
+      "good": 18,
+      "relation": 300,
+      "price": 149,
+      "town": true,
+      "buyer": 0,
+      "owner": 20,
+      "result": 0
+    },
+    {
+      "good": 19,
+      "relation": 0,
+      "price": 202,
+      "town": false,
+      "buyer": 1,
+      "owner": 21,
+      "result": 1717
+    },
+    {
+      "good": 20,
+      "relation": 100,
+      "price": 375,
+      "town": false,
+      "buyer": 2,
+      "owner": 0,
+      "result": 0
+    },
+    {
+      "good": 21,
+      "relation": 255,
+      "price": 166,
+      "town": true,
+      "buyer": 3,
+      "owner": 1,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "relation": 0,
+      "price": 411,
+      "town": false,
+      "buyer": 4,
+      "owner": 2,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "relation": 100,
+      "price": 454,
+      "town": false,
+      "buyer": 5,
+      "owner": 3,
+      "result": 258
+    },
+    {
+      "good": 24,
+      "relation": 300,
+      "price": 47,
+      "town": true,
+      "buyer": 0,
+      "owner": 4,
+      "result": 0
+    },
+    {
+      "good": 25,
+      "relation": 255,
+      "price": 418,
+      "town": false,
+      "buyer": 1,
+      "owner": 5,
+      "result": 0
+    },
+    {
+      "good": 26,
+      "relation": 300,
+      "price": 415,
+      "town": false,
+      "buyer": 2,
+      "owner": 6,
+      "result": 0
+    },
+    {
+      "good": 27,
+      "relation": 0,
+      "price": 378,
+      "town": true,
+      "buyer": 3,
+      "owner": 7,
+      "result": 4250
+    }
+  ]
+}

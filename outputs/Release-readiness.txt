@@ -1,0 +1,44 @@
+CURRENT STATUS — 2026-11-17 — RUNTIME243
+NOT APP-STORE READY. Latest game opened at England1538 with an exported backup; earlier tab1536 discrepancy recorded. Thirty regiment portraits, painted ground/ocean, textured diplomacy and layout fixes delivered. Claude accepts the narrow visual upgrade; this is not store approval. Isolated Pixel touch/rotation/market/save-update/storage checks passed; interrupted Pixel recovery and final visual/performance/picker acceptance remain. Emulator recovery/takeover checks pass. Read outputs/Royal-243-implementation-and-validation.txt for evidence and limits.
+
+CURRENT STATUS — 2026-11-17 — RUNTIME 242
+NOT APP-STORE READY. Visual overhaul, 940 passing rule tests, phone/desktop browser checks, native Android emulator touch/lifecycle/recovery tests and a validated target36 APK/unsigned AAB are delivered. Rules are unchanged by this graphics pass. Physical Pixel, competent full-campaign validation, known original-system gaps and publisher/signing/provenance inputs remain.
+Read outputs/Royal-242-implementation-and-validation.txt for current evidence and limits. Later historical entries below describe earlier revisions and do not supersede this status.
+
+Release-readiness status — 2026-11-11
+Current verdict: NOT READY for an app-store launch.
+User requested ongoing review with Claude until both agree based on tests.
+
+Evidence this revision (runtime3-202):
+- Claude review1: static/screenshots only; its PowerShell failed, no independent game execution. Original-reference comparison limited to unit chart.
+- Addressed: army card grid/readability, duplicate portrait declarations, navy illustration, port ship overlap.
+- Zoom: Home/Nation/World controls, anchored wheel/pinch plus midpoint pan, local scale up to110, reduced labels and fleet dots at small scales. Ground stays subtle.
+- Parent-agent tests: 9management menus at4viewport sizes; builder figure selection; fort/rail touch order+save/reload+completion; zoom view/button/CDP pinch and anchored wheel same-tile assertion; APK signing/asset checks; packaged game touch flow.
+- Zoom assertion initially sampled a hex boundary and changed nearest tile on input rounding. Replaced boundary point with interior point; scale-change and same-tile checks retained.
+
+Still required for release (not claimed complete):
+- Resolve known incomplete colony/diplomacy features or explicitly redesign release scope with user approval.
+- Complete real player campaigns to verified victory and defeat; economy, military, exploration and AI balance evidence.
+- Pixel touch/zoom feel, performance, extended play, Android back/rotation/backgrounding/process restart, export/import and save compatibility.
+- Review original-game fidelity with adequate source screenshots; per-era military and ship art coverage remains limited/shared.
+- Confirm distribution-ready branding and asset/data provenance, release packaging/signing and store submission materials.
+
+No store publication performed. PC game and its saves untouched.
+
+Review update runtime3-203:
+- Claude review4 approves the specific ocean-overlay removal and label draw-order fix after source and screenshot review. It has not run the game.
+- Full test suite with concurrency2:876/876passed,0fail. Default concurrency first produced3file-access failures; separate8tests passed on rerun. Intermittent access issue not proven eliminated.
+- Deliberate capital overlap fixture asserts label after all sprite draws; crowded sprites still hard to distinguish.
+- APK rebuilt and signed; packaged browser touch smoke passed. Pixel inventory empty; current build not physically tested.
+- Overall release verdict unchanged: NOT READY. Do not confuse narrow visual approval with store approval.
+
+Runtime3-205/206 follow-up:
+Terrain now uses order-independent shared-vertex interpolation, quieter textures, varied tree/mountain placement and native river-direction curves; civilian construction activity remains visual only. Claude reviewed screenshots/source and accepted narrow changes; it did not execute the game. Parent tests cover UI at4viewports, zoom, civilian orders/animation, New World resources, terrain/river algorithms.
+Runtime206 fixes colony convoy-parent consistency and AI colonial military planning. Seven convoy tests,25 AI strategy tests pass. Pre-AI-change full suite885/885passed. Acquisition remains unavailable through production commands, campaign completion and physical Pixel lifecycle/long-play remain unverified. Store verdict unchanged: NOT READY.
+
+Runtime3-208 review outcome:
+- Claude found and parent fixed AI colonial upgrade exclusion, low-zoom army dead taps, and mid-zoom civilian/army hit precedence. Claude subsequently marked these specific findings closed on code/screenshots. No independent Claude execution: its shell fails even on trivial commands.
+- Own garrison figures/counts open actual Army selection; tests tap actual painted positions at6zoom levels8..60 with3civilians/7regiments at one capital. Civilian road planning retains priority; deselection does not cancel orders. Real road/deselect/cancel tested at320and412px;9menus4viewports passed.
+- Full207 run881assertions passed and2files failed with transient module-not-found errors for unchanged existing modules. Serial rerun of those files8/8passed. Aggregate889passed across runs; not one clean full run. Test-host loader failure remains unexplained.
+- APK208 rebuilt and signature/alignment/source-asset hashes verified. Live preview refreshed without advancing the user's campaign. Pixel still disconnected.
+- Overall NOT READY: peaceful colony acquisition/remaining diplomacy integration, credible complete campaigns, Pixel lifecycle/performance/input/long-play, and final distribution provenance/branding/release signing/store materials remain.

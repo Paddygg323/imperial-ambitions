@@ -1,0 +1,8777 @@
+{
+  "scope": "Original DoSpying numerical fragments 4f321e..325c,4f3293..32b4,\n4f331a..3325: base danger, war/counterspy modifiers, garrison status qualification,\nand roll threshold. External war/counterspy queries supplied. Does NOT verify\nfull spy lifecycle, RNG seed construction, conversion/death or report dispatch.\n",
+  "base": [
+    {
+      "owner": 0,
+      "war": false,
+      "counterspy": false,
+      "danger": 2
+    },
+    {
+      "owner": 0,
+      "war": false,
+      "counterspy": true,
+      "danger": 4
+    },
+    {
+      "owner": 0,
+      "war": true,
+      "counterspy": false,
+      "danger": 4
+    },
+    {
+      "owner": 0,
+      "war": true,
+      "counterspy": true,
+      "danger": 6
+    },
+    {
+      "owner": 1,
+      "war": false,
+      "counterspy": false,
+      "danger": 2
+    },
+    {
+      "owner": 1,
+      "war": false,
+      "counterspy": true,
+      "danger": 4
+    },
+    {
+      "owner": 1,
+      "war": true,
+      "counterspy": false,
+      "danger": 4
+    },
+    {
+      "owner": 1,
+      "war": true,
+      "counterspy": true,
+      "danger": 6
+    },
+    {
+      "owner": 2,
+      "war": false,
+      "counterspy": false,
+      "danger": 2
+    },
+    {
+      "owner": 2,
+      "war": false,
+      "counterspy": true,
+      "danger": 4
+    },
+    {
+      "owner": 2,
+      "war": true,
+      "counterspy": false,
+      "danger": 4
+    },
+    {
+      "owner": 2,
+      "war": true,
+      "counterspy": true,
+      "danger": 6
+    },
+    {
+      "owner": 3,
+      "war": false,
+      "counterspy": false,
+      "danger": 2
+    },
+    {
+      "owner": 3,
+      "war": false,
+      "counterspy": true,
+      "danger": 4
+    },
+    {
+      "owner": 3,
+      "war": true,
+      "counterspy": false,
+      "danger": 4
+    },
+    {
+      "owner": 3,
+      "war": true,
+      "counterspy": true,
+      "danger": 6
+    },
+    {
+      "owner": 4,
+      "war": false,
+      "counterspy": false,
+      "danger": 2
+    },
+    {
+      "owner": 4,
+      "war": false,
+      "counterspy": true,
+      "danger": 4
+    },
+    {
+      "owner": 4,
+      "war": true,
+      "counterspy": false,
+      "danger": 4
+    },
+    {
+      "owner": 4,
+      "war": true,
+      "counterspy": true,
+      "danger": 6
+    },
+    {
+      "owner": 5,
+      "war": false,
+      "counterspy": false,
+      "danger": 2
+    },
+    {
+      "owner": 5,
+      "war": false,
+      "counterspy": true,
+      "danger": 4
+    },
+    {
+      "owner": 5,
+      "war": true,
+      "counterspy": false,
+      "danger": 4
+    },
+    {
+      "owner": 5,
+      "war": true,
+      "counterspy": true,
+      "danger": 6
+    },
+    {
+      "owner": 6,
+      "war": false,
+      "counterspy": false,
+      "danger": -1
+    },
+    {
+      "owner": 6,
+      "war": false,
+      "counterspy": true,
+      "danger": -1
+    },
+    {
+      "owner": 6,
+      "war": true,
+      "counterspy": false,
+      "danger": 1
+    },
+    {
+      "owner": 6,
+      "war": true,
+      "counterspy": true,
+      "danger": 1
+    },
+    {
+      "owner": 7,
+      "war": false,
+      "counterspy": false,
+      "danger": -1
+    },
+    {
+      "owner": 7,
+      "war": false,
+      "counterspy": true,
+      "danger": -1
+    },
+    {
+      "owner": 7,
+      "war": true,
+      "counterspy": false,
+      "danger": 1
+    },
+    {
+      "owner": 7,
+      "war": true,
+      "counterspy": true,
+      "danger": 1
+    },
+    {
+      "owner": 8,
+      "war": false,
+      "counterspy": false,
+      "danger": -1
+    },
+    {
+      "owner": 8,
+      "war": false,
+      "counterspy": true,
+      "danger": -1
+    },
+    {
+      "owner": 8,
+      "war": true,
+      "counterspy": false,
+      "danger": 1
+    },
+    {
+      "owner": 8,
+      "war": true,
+      "counterspy": true,
+      "danger": 1
+    },
+    {
+      "owner": 9,
+      "war": false,
+      "counterspy": false,
+      "danger": -1
+    },
+    {
+      "owner": 9,
+      "war": false,
+      "counterspy": true,
+      "danger": -1
+    },
+    {
+      "owner": 9,
+      "war": true,
+      "counterspy": false,
+      "danger": 1
+    },
+    {
+      "owner": 9,
+      "war": true,
+      "counterspy": true,
+      "danger": 1
+    },
+    {
+      "owner": 10,
+      "war": false,
+      "counterspy": false,
+      "danger": -1
+    },
+    {
+      "owner": 10,
+      "war": false,
+      "counterspy": true,
+      "danger": -1
+    },
+    {
+      "owner": 10,
+      "war": true,
+      "counterspy": false,
+      "danger": 1
+    },
+    {
+      "owner": 10,
+      "war": true,
+      "counterspy": true,
+      "danger": 1
+    },
+    {
+      "owner": 11,
+      "war": false,
+      "counterspy": false,
+      "danger": -1
+    },
+    {
+      "owner": 11,
+      "war": false,
+      "counterspy": true,
+      "danger": -1
+    },
+    {
+      "owner": 11,
+      "war": true,
+      "counterspy": false,
+      "danger": 1
+    },
+    {
+      "owner": 11,
+      "war": true,
+      "counterspy": true,
+      "danger": 1
+    },
+    {
+      "owner": 12,
+      "war": false,
+      "counterspy": false,
+      "danger": -1
+    },
+    {
+      "owner": 12,
+      "war": false,
+      "counterspy": true,
+      "danger": -1
+    },
+    {
+      "owner": 12,
+      "war": true,
+      "counterspy": false,
+      "danger": 1
+    },
+    {
+      "owner": 12,
+      "war": true,
+      "counterspy": true,
+      "danger": 1
+    },
+    {
+      "owner": 13,
+      "war": false,
+      "counterspy": false,
+      "danger": -1
+    },
+    {
+      "owner": 13,
+      "war": false,
+      "counterspy": true,
+      "danger": -1
+    },
+    {
+      "owner": 13,
+      "war": true,
+      "counterspy": false,
+      "danger": 1
+    },
+    {
+      "owner": 13,
+      "war": true,
+      "counterspy": true,
+      "danger": 1
+    },
+    {
+      "owner": 14,
+      "war": false,
+      "counterspy": false,
+      "danger": -1
+    },
+    {
+      "owner": 14,
+      "war": false,
+      "counterspy": true,
+      "danger": -1
+    },
+    {
+      "owner": 14,
+      "war": true,
+      "counterspy": false,
+      "danger": 1
+    },
+    {
+      "owner": 14,
+      "war": true,
+      "counterspy": true,
+      "danger": 1
+    },
+    {
+      "owner": 15,
+      "war": false,
+      "counterspy": false,
+      "danger": -1
+    },
+    {
+      "owner": 15,
+      "war": false,
+      "counterspy": true,
+      "danger": -1
+    },
+    {
+      "owner": 15,
+      "war": true,
+      "counterspy": false,
+      "danger": 1
+    },
+    {
+      "owner": 15,
+      "war": true,
+      "counterspy": true,
+      "danger": 1
+    },
+    {
+      "owner": 16,
+      "war": false,
+      "counterspy": false,
+      "danger": -1
+    },
+    {
+      "owner": 16,
+      "war": false,
+      "counterspy": true,
+      "danger": -1
+    },
+    {
+      "owner": 16,
+      "war": true,
+      "counterspy": false,
+      "danger": 1
+    },
+    {
+      "owner": 16,
+      "war": true,
+      "counterspy": true,
+      "danger": 1
+    },
+    {
+      "owner": 17,
+      "war": false,
+      "counterspy": false,
+      "danger": -1
+    },
+    {
+      "owner": 17,
+      "war": false,
+      "counterspy": true,
+      "danger": -1
+    },
+    {
+      "owner": 17,
+      "war": true,
+      "counterspy": false,
+      "danger": 1
+    },
+    {
+      "owner": 17,
+      "war": true,
+      "counterspy": true,
+      "danger": 1
+    },
+    {
+      "owner": 18,
+      "war": false,
+      "counterspy": false,
+      "danger": -1
+    },
+    {
+      "owner": 18,
+      "war": false,
+      "counterspy": true,
+      "danger": -1
+    },
+    {
+      "owner": 18,
+      "war": true,
+      "counterspy": false,
+      "danger": 1
+    },
+    {
+      "owner": 18,
+      "war": true,
+      "counterspy": true,
+      "danger": 1
+    },
+    {
+      "owner": 19,
+      "war": false,
+      "counterspy": false,
+      "danger": -1
+    },
+    {
+      "owner": 19,
+      "war": false,
+      "counterspy": true,
+      "danger": -1
+    },
+    {
+      "owner": 19,
+      "war": true,
+      "counterspy": false,
+      "danger": 1
+    },
+    {
+      "owner": 19,
+      "war": true,
+      "counterspy": true,
+      "danger": 1
+    },
+    {
+      "owner": 20,
+      "war": false,
+      "counterspy": false,
+      "danger": -1
+    },
+    {
+      "owner": 20,
+      "war": false,
+      "counterspy": true,
+      "danger": -1
+    },
+    {
+      "owner": 20,
+      "war": true,
+      "counterspy": false,
+      "danger": 1
+    },
+    {
+      "owner": 20,
+      "war": true,
+      "counterspy": true,
+      "danger": 1
+    },
+    {
+      "owner": 21,
+      "war": false,
+      "counterspy": false,
+      "danger": -1
+    },
+    {
+      "owner": 21,
+      "war": false,
+      "counterspy": true,
+      "danger": -1
+    },
+    {
+      "owner": 21,
+      "war": true,
+      "counterspy": false,
+      "danger": 1
+    },
+    {
+      "owner": 21,
+      "war": true,
+      "counterspy": true,
+      "danger": 1
+    }
+  ],
+  "garrison": [
+    {
+      "status": 0,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 0,
+      "sameProvince": true,
+      "increment": 1
+    },
+    {
+      "status": 1,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 1,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 2,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 2,
+      "sameProvince": true,
+      "increment": 1
+    },
+    {
+      "status": 3,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 3,
+      "sameProvince": true,
+      "increment": 1
+    },
+    {
+      "status": 4,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 4,
+      "sameProvince": true,
+      "increment": 1
+    },
+    {
+      "status": 5,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 5,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 6,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 6,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 7,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 7,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 8,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 8,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 9,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 9,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 10,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 10,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 11,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 11,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 12,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 12,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 13,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 13,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 14,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 14,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 15,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 15,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 16,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 16,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 17,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 17,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 18,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 18,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 19,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 19,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 20,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 20,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 21,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 21,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 22,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 22,
+      "sameProvince": true,
+      "increment": 0
+    },
+    {
+      "status": 23,
+      "sameProvince": false,
+      "increment": 0
+    },
+    {
+      "status": 23,
+      "sameProvince": true,
+      "increment": 0
+    }
+  ],
+  "rolls": [
+    {
+      "danger": -1,
+      "roll": 0,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 1,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 2,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 3,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 4,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 5,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 6,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 7,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 8,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 9,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 10,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 11,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 12,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 13,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 14,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 15,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 16,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 17,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 18,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 19,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 20,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 21,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 22,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 23,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 24,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 25,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 26,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 27,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 28,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 29,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 30,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 31,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 32,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 33,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 34,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 35,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 36,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 37,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 38,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 39,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 40,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 41,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 42,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 43,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 44,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 45,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 46,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 47,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 48,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 49,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 50,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 51,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 52,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 53,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 54,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 55,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 56,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 57,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 58,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 59,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 60,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 61,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 62,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 63,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 64,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 65,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 66,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 67,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 68,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 69,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 70,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 71,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 72,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 73,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 74,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 75,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 76,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 77,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 78,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 79,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 80,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 81,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 82,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 83,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 84,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 85,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 86,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 87,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 88,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 89,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 90,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 91,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 92,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 93,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 94,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 95,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 96,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 97,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 98,
+      "caught": false
+    },
+    {
+      "danger": -1,
+      "roll": 99,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 0,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 1,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 2,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 3,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 4,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 5,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 6,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 7,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 8,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 9,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 10,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 11,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 12,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 13,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 14,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 15,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 16,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 17,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 18,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 19,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 20,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 21,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 22,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 23,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 24,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 25,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 26,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 27,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 28,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 29,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 30,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 31,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 32,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 33,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 34,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 35,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 36,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 37,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 38,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 39,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 40,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 41,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 42,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 43,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 44,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 45,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 46,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 47,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 48,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 49,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 50,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 51,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 52,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 53,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 54,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 55,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 56,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 57,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 58,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 59,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 60,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 61,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 62,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 63,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 64,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 65,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 66,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 67,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 68,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 69,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 70,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 71,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 72,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 73,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 74,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 75,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 76,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 77,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 78,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 79,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 80,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 81,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 82,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 83,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 84,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 85,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 86,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 87,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 88,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 89,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 90,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 91,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 92,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 93,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 94,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 95,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 96,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 97,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 98,
+      "caught": false
+    },
+    {
+      "danger": 0,
+      "roll": 99,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 0,
+      "caught": true
+    },
+    {
+      "danger": 1,
+      "roll": 1,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 2,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 3,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 4,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 5,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 6,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 7,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 8,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 9,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 10,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 11,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 12,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 13,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 14,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 15,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 16,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 17,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 18,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 19,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 20,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 21,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 22,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 23,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 24,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 25,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 26,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 27,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 28,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 29,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 30,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 31,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 32,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 33,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 34,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 35,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 36,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 37,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 38,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 39,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 40,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 41,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 42,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 43,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 44,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 45,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 46,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 47,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 48,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 49,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 50,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 51,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 52,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 53,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 54,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 55,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 56,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 57,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 58,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 59,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 60,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 61,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 62,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 63,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 64,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 65,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 66,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 67,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 68,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 69,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 70,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 71,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 72,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 73,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 74,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 75,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 76,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 77,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 78,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 79,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 80,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 81,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 82,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 83,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 84,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 85,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 86,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 87,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 88,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 89,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 90,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 91,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 92,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 93,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 94,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 95,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 96,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 97,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 98,
+      "caught": false
+    },
+    {
+      "danger": 1,
+      "roll": 99,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 0,
+      "caught": true
+    },
+    {
+      "danger": 2,
+      "roll": 1,
+      "caught": true
+    },
+    {
+      "danger": 2,
+      "roll": 2,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 3,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 4,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 5,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 6,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 7,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 8,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 9,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 10,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 11,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 12,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 13,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 14,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 15,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 16,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 17,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 18,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 19,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 20,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 21,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 22,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 23,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 24,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 25,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 26,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 27,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 28,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 29,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 30,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 31,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 32,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 33,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 34,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 35,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 36,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 37,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 38,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 39,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 40,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 41,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 42,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 43,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 44,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 45,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 46,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 47,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 48,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 49,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 50,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 51,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 52,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 53,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 54,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 55,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 56,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 57,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 58,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 59,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 60,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 61,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 62,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 63,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 64,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 65,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 66,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 67,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 68,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 69,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 70,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 71,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 72,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 73,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 74,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 75,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 76,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 77,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 78,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 79,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 80,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 81,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 82,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 83,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 84,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 85,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 86,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 87,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 88,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 89,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 90,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 91,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 92,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 93,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 94,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 95,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 96,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 97,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 98,
+      "caught": false
+    },
+    {
+      "danger": 2,
+      "roll": 99,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 0,
+      "caught": true
+    },
+    {
+      "danger": 3,
+      "roll": 1,
+      "caught": true
+    },
+    {
+      "danger": 3,
+      "roll": 2,
+      "caught": true
+    },
+    {
+      "danger": 3,
+      "roll": 3,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 4,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 5,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 6,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 7,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 8,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 9,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 10,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 11,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 12,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 13,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 14,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 15,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 16,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 17,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 18,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 19,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 20,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 21,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 22,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 23,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 24,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 25,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 26,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 27,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 28,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 29,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 30,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 31,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 32,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 33,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 34,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 35,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 36,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 37,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 38,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 39,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 40,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 41,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 42,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 43,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 44,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 45,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 46,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 47,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 48,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 49,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 50,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 51,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 52,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 53,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 54,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 55,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 56,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 57,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 58,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 59,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 60,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 61,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 62,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 63,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 64,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 65,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 66,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 67,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 68,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 69,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 70,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 71,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 72,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 73,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 74,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 75,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 76,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 77,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 78,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 79,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 80,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 81,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 82,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 83,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 84,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 85,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 86,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 87,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 88,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 89,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 90,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 91,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 92,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 93,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 94,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 95,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 96,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 97,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 98,
+      "caught": false
+    },
+    {
+      "danger": 3,
+      "roll": 99,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 0,
+      "caught": true
+    },
+    {
+      "danger": 4,
+      "roll": 1,
+      "caught": true
+    },
+    {
+      "danger": 4,
+      "roll": 2,
+      "caught": true
+    },
+    {
+      "danger": 4,
+      "roll": 3,
+      "caught": true
+    },
+    {
+      "danger": 4,
+      "roll": 4,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 5,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 6,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 7,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 8,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 9,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 10,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 11,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 12,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 13,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 14,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 15,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 16,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 17,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 18,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 19,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 20,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 21,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 22,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 23,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 24,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 25,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 26,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 27,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 28,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 29,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 30,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 31,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 32,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 33,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 34,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 35,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 36,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 37,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 38,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 39,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 40,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 41,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 42,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 43,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 44,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 45,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 46,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 47,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 48,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 49,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 50,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 51,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 52,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 53,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 54,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 55,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 56,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 57,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 58,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 59,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 60,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 61,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 62,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 63,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 64,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 65,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 66,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 67,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 68,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 69,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 70,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 71,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 72,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 73,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 74,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 75,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 76,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 77,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 78,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 79,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 80,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 81,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 82,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 83,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 84,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 85,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 86,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 87,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 88,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 89,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 90,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 91,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 92,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 93,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 94,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 95,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 96,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 97,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 98,
+      "caught": false
+    },
+    {
+      "danger": 4,
+      "roll": 99,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 0,
+      "caught": true
+    },
+    {
+      "danger": 5,
+      "roll": 1,
+      "caught": true
+    },
+    {
+      "danger": 5,
+      "roll": 2,
+      "caught": true
+    },
+    {
+      "danger": 5,
+      "roll": 3,
+      "caught": true
+    },
+    {
+      "danger": 5,
+      "roll": 4,
+      "caught": true
+    },
+    {
+      "danger": 5,
+      "roll": 5,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 6,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 7,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 8,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 9,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 10,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 11,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 12,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 13,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 14,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 15,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 16,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 17,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 18,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 19,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 20,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 21,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 22,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 23,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 24,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 25,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 26,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 27,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 28,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 29,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 30,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 31,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 32,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 33,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 34,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 35,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 36,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 37,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 38,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 39,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 40,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 41,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 42,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 43,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 44,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 45,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 46,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 47,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 48,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 49,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 50,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 51,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 52,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 53,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 54,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 55,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 56,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 57,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 58,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 59,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 60,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 61,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 62,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 63,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 64,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 65,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 66,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 67,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 68,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 69,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 70,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 71,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 72,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 73,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 74,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 75,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 76,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 77,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 78,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 79,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 80,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 81,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 82,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 83,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 84,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 85,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 86,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 87,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 88,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 89,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 90,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 91,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 92,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 93,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 94,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 95,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 96,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 97,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 98,
+      "caught": false
+    },
+    {
+      "danger": 5,
+      "roll": 99,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 0,
+      "caught": true
+    },
+    {
+      "danger": 6,
+      "roll": 1,
+      "caught": true
+    },
+    {
+      "danger": 6,
+      "roll": 2,
+      "caught": true
+    },
+    {
+      "danger": 6,
+      "roll": 3,
+      "caught": true
+    },
+    {
+      "danger": 6,
+      "roll": 4,
+      "caught": true
+    },
+    {
+      "danger": 6,
+      "roll": 5,
+      "caught": true
+    },
+    {
+      "danger": 6,
+      "roll": 6,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 7,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 8,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 9,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 10,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 11,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 12,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 13,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 14,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 15,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 16,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 17,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 18,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 19,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 20,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 21,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 22,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 23,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 24,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 25,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 26,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 27,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 28,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 29,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 30,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 31,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 32,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 33,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 34,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 35,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 36,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 37,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 38,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 39,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 40,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 41,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 42,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 43,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 44,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 45,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 46,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 47,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 48,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 49,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 50,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 51,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 52,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 53,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 54,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 55,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 56,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 57,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 58,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 59,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 60,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 61,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 62,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 63,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 64,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 65,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 66,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 67,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 68,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 69,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 70,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 71,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 72,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 73,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 74,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 75,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 76,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 77,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 78,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 79,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 80,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 81,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 82,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 83,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 84,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 85,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 86,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 87,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 88,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 89,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 90,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 91,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 92,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 93,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 94,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 95,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 96,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 97,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 98,
+      "caught": false
+    },
+    {
+      "danger": 6,
+      "roll": 99,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 0,
+      "caught": true
+    },
+    {
+      "danger": 7,
+      "roll": 1,
+      "caught": true
+    },
+    {
+      "danger": 7,
+      "roll": 2,
+      "caught": true
+    },
+    {
+      "danger": 7,
+      "roll": 3,
+      "caught": true
+    },
+    {
+      "danger": 7,
+      "roll": 4,
+      "caught": true
+    },
+    {
+      "danger": 7,
+      "roll": 5,
+      "caught": true
+    },
+    {
+      "danger": 7,
+      "roll": 6,
+      "caught": true
+    },
+    {
+      "danger": 7,
+      "roll": 7,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 8,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 9,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 10,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 11,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 12,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 13,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 14,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 15,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 16,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 17,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 18,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 19,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 20,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 21,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 22,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 23,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 24,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 25,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 26,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 27,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 28,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 29,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 30,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 31,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 32,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 33,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 34,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 35,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 36,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 37,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 38,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 39,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 40,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 41,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 42,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 43,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 44,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 45,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 46,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 47,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 48,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 49,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 50,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 51,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 52,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 53,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 54,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 55,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 56,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 57,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 58,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 59,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 60,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 61,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 62,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 63,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 64,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 65,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 66,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 67,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 68,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 69,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 70,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 71,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 72,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 73,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 74,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 75,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 76,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 77,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 78,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 79,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 80,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 81,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 82,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 83,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 84,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 85,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 86,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 87,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 88,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 89,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 90,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 91,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 92,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 93,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 94,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 95,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 96,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 97,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 98,
+      "caught": false
+    },
+    {
+      "danger": 7,
+      "roll": 99,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 0,
+      "caught": true
+    },
+    {
+      "danger": 8,
+      "roll": 1,
+      "caught": true
+    },
+    {
+      "danger": 8,
+      "roll": 2,
+      "caught": true
+    },
+    {
+      "danger": 8,
+      "roll": 3,
+      "caught": true
+    },
+    {
+      "danger": 8,
+      "roll": 4,
+      "caught": true
+    },
+    {
+      "danger": 8,
+      "roll": 5,
+      "caught": true
+    },
+    {
+      "danger": 8,
+      "roll": 6,
+      "caught": true
+    },
+    {
+      "danger": 8,
+      "roll": 7,
+      "caught": true
+    },
+    {
+      "danger": 8,
+      "roll": 8,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 9,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 10,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 11,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 12,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 13,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 14,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 15,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 16,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 17,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 18,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 19,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 20,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 21,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 22,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 23,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 24,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 25,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 26,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 27,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 28,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 29,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 30,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 31,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 32,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 33,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 34,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 35,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 36,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 37,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 38,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 39,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 40,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 41,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 42,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 43,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 44,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 45,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 46,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 47,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 48,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 49,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 50,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 51,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 52,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 53,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 54,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 55,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 56,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 57,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 58,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 59,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 60,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 61,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 62,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 63,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 64,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 65,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 66,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 67,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 68,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 69,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 70,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 71,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 72,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 73,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 74,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 75,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 76,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 77,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 78,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 79,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 80,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 81,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 82,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 83,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 84,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 85,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 86,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 87,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 88,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 89,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 90,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 91,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 92,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 93,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 94,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 95,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 96,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 97,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 98,
+      "caught": false
+    },
+    {
+      "danger": 8,
+      "roll": 99,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 0,
+      "caught": true
+    },
+    {
+      "danger": 9,
+      "roll": 1,
+      "caught": true
+    },
+    {
+      "danger": 9,
+      "roll": 2,
+      "caught": true
+    },
+    {
+      "danger": 9,
+      "roll": 3,
+      "caught": true
+    },
+    {
+      "danger": 9,
+      "roll": 4,
+      "caught": true
+    },
+    {
+      "danger": 9,
+      "roll": 5,
+      "caught": true
+    },
+    {
+      "danger": 9,
+      "roll": 6,
+      "caught": true
+    },
+    {
+      "danger": 9,
+      "roll": 7,
+      "caught": true
+    },
+    {
+      "danger": 9,
+      "roll": 8,
+      "caught": true
+    },
+    {
+      "danger": 9,
+      "roll": 9,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 10,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 11,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 12,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 13,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 14,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 15,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 16,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 17,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 18,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 19,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 20,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 21,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 22,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 23,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 24,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 25,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 26,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 27,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 28,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 29,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 30,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 31,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 32,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 33,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 34,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 35,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 36,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 37,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 38,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 39,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 40,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 41,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 42,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 43,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 44,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 45,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 46,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 47,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 48,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 49,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 50,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 51,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 52,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 53,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 54,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 55,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 56,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 57,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 58,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 59,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 60,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 61,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 62,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 63,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 64,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 65,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 66,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 67,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 68,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 69,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 70,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 71,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 72,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 73,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 74,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 75,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 76,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 77,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 78,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 79,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 80,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 81,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 82,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 83,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 84,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 85,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 86,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 87,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 88,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 89,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 90,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 91,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 92,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 93,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 94,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 95,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 96,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 97,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 98,
+      "caught": false
+    },
+    {
+      "danger": 9,
+      "roll": 99,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 0,
+      "caught": true
+    },
+    {
+      "danger": 10,
+      "roll": 1,
+      "caught": true
+    },
+    {
+      "danger": 10,
+      "roll": 2,
+      "caught": true
+    },
+    {
+      "danger": 10,
+      "roll": 3,
+      "caught": true
+    },
+    {
+      "danger": 10,
+      "roll": 4,
+      "caught": true
+    },
+    {
+      "danger": 10,
+      "roll": 5,
+      "caught": true
+    },
+    {
+      "danger": 10,
+      "roll": 6,
+      "caught": true
+    },
+    {
+      "danger": 10,
+      "roll": 7,
+      "caught": true
+    },
+    {
+      "danger": 10,
+      "roll": 8,
+      "caught": true
+    },
+    {
+      "danger": 10,
+      "roll": 9,
+      "caught": true
+    },
+    {
+      "danger": 10,
+      "roll": 10,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 11,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 12,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 13,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 14,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 15,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 16,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 17,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 18,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 19,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 20,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 21,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 22,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 23,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 24,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 25,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 26,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 27,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 28,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 29,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 30,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 31,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 32,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 33,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 34,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 35,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 36,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 37,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 38,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 39,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 40,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 41,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 42,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 43,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 44,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 45,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 46,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 47,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 48,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 49,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 50,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 51,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 52,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 53,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 54,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 55,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 56,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 57,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 58,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 59,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 60,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 61,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 62,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 63,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 64,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 65,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 66,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 67,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 68,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 69,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 70,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 71,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 72,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 73,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 74,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 75,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 76,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 77,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 78,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 79,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 80,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 81,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 82,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 83,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 84,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 85,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 86,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 87,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 88,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 89,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 90,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 91,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 92,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 93,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 94,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 95,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 96,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 97,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 98,
+      "caught": false
+    },
+    {
+      "danger": 10,
+      "roll": 99,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 0,
+      "caught": true
+    },
+    {
+      "danger": 11,
+      "roll": 1,
+      "caught": true
+    },
+    {
+      "danger": 11,
+      "roll": 2,
+      "caught": true
+    },
+    {
+      "danger": 11,
+      "roll": 3,
+      "caught": true
+    },
+    {
+      "danger": 11,
+      "roll": 4,
+      "caught": true
+    },
+    {
+      "danger": 11,
+      "roll": 5,
+      "caught": true
+    },
+    {
+      "danger": 11,
+      "roll": 6,
+      "caught": true
+    },
+    {
+      "danger": 11,
+      "roll": 7,
+      "caught": true
+    },
+    {
+      "danger": 11,
+      "roll": 8,
+      "caught": true
+    },
+    {
+      "danger": 11,
+      "roll": 9,
+      "caught": true
+    },
+    {
+      "danger": 11,
+      "roll": 10,
+      "caught": true
+    },
+    {
+      "danger": 11,
+      "roll": 11,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 12,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 13,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 14,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 15,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 16,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 17,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 18,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 19,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 20,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 21,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 22,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 23,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 24,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 25,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 26,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 27,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 28,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 29,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 30,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 31,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 32,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 33,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 34,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 35,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 36,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 37,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 38,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 39,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 40,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 41,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 42,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 43,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 44,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 45,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 46,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 47,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 48,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 49,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 50,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 51,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 52,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 53,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 54,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 55,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 56,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 57,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 58,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 59,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 60,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 61,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 62,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 63,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 64,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 65,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 66,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 67,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 68,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 69,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 70,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 71,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 72,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 73,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 74,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 75,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 76,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 77,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 78,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 79,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 80,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 81,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 82,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 83,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 84,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 85,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 86,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 87,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 88,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 89,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 90,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 91,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 92,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 93,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 94,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 95,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 96,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 97,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 98,
+      "caught": false
+    },
+    {
+      "danger": 11,
+      "roll": 99,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 0,
+      "caught": true
+    },
+    {
+      "danger": 12,
+      "roll": 1,
+      "caught": true
+    },
+    {
+      "danger": 12,
+      "roll": 2,
+      "caught": true
+    },
+    {
+      "danger": 12,
+      "roll": 3,
+      "caught": true
+    },
+    {
+      "danger": 12,
+      "roll": 4,
+      "caught": true
+    },
+    {
+      "danger": 12,
+      "roll": 5,
+      "caught": true
+    },
+    {
+      "danger": 12,
+      "roll": 6,
+      "caught": true
+    },
+    {
+      "danger": 12,
+      "roll": 7,
+      "caught": true
+    },
+    {
+      "danger": 12,
+      "roll": 8,
+      "caught": true
+    },
+    {
+      "danger": 12,
+      "roll": 9,
+      "caught": true
+    },
+    {
+      "danger": 12,
+      "roll": 10,
+      "caught": true
+    },
+    {
+      "danger": 12,
+      "roll": 11,
+      "caught": true
+    },
+    {
+      "danger": 12,
+      "roll": 12,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 13,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 14,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 15,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 16,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 17,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 18,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 19,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 20,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 21,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 22,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 23,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 24,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 25,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 26,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 27,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 28,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 29,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 30,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 31,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 32,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 33,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 34,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 35,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 36,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 37,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 38,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 39,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 40,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 41,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 42,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 43,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 44,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 45,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 46,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 47,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 48,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 49,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 50,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 51,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 52,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 53,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 54,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 55,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 56,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 57,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 58,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 59,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 60,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 61,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 62,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 63,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 64,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 65,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 66,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 67,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 68,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 69,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 70,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 71,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 72,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 73,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 74,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 75,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 76,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 77,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 78,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 79,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 80,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 81,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 82,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 83,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 84,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 85,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 86,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 87,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 88,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 89,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 90,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 91,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 92,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 93,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 94,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 95,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 96,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 97,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 98,
+      "caught": false
+    },
+    {
+      "danger": 12,
+      "roll": 99,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 0,
+      "caught": true
+    },
+    {
+      "danger": 13,
+      "roll": 1,
+      "caught": true
+    },
+    {
+      "danger": 13,
+      "roll": 2,
+      "caught": true
+    },
+    {
+      "danger": 13,
+      "roll": 3,
+      "caught": true
+    },
+    {
+      "danger": 13,
+      "roll": 4,
+      "caught": true
+    },
+    {
+      "danger": 13,
+      "roll": 5,
+      "caught": true
+    },
+    {
+      "danger": 13,
+      "roll": 6,
+      "caught": true
+    },
+    {
+      "danger": 13,
+      "roll": 7,
+      "caught": true
+    },
+    {
+      "danger": 13,
+      "roll": 8,
+      "caught": true
+    },
+    {
+      "danger": 13,
+      "roll": 9,
+      "caught": true
+    },
+    {
+      "danger": 13,
+      "roll": 10,
+      "caught": true
+    },
+    {
+      "danger": 13,
+      "roll": 11,
+      "caught": true
+    },
+    {
+      "danger": 13,
+      "roll": 12,
+      "caught": true
+    },
+    {
+      "danger": 13,
+      "roll": 13,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 14,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 15,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 16,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 17,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 18,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 19,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 20,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 21,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 22,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 23,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 24,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 25,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 26,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 27,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 28,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 29,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 30,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 31,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 32,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 33,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 34,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 35,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 36,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 37,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 38,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 39,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 40,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 41,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 42,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 43,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 44,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 45,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 46,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 47,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 48,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 49,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 50,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 51,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 52,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 53,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 54,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 55,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 56,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 57,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 58,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 59,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 60,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 61,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 62,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 63,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 64,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 65,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 66,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 67,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 68,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 69,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 70,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 71,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 72,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 73,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 74,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 75,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 76,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 77,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 78,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 79,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 80,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 81,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 82,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 83,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 84,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 85,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 86,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 87,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 88,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 89,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 90,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 91,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 92,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 93,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 94,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 95,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 96,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 97,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 98,
+      "caught": false
+    },
+    {
+      "danger": 13,
+      "roll": 99,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 0,
+      "caught": true
+    },
+    {
+      "danger": 14,
+      "roll": 1,
+      "caught": true
+    },
+    {
+      "danger": 14,
+      "roll": 2,
+      "caught": true
+    },
+    {
+      "danger": 14,
+      "roll": 3,
+      "caught": true
+    },
+    {
+      "danger": 14,
+      "roll": 4,
+      "caught": true
+    },
+    {
+      "danger": 14,
+      "roll": 5,
+      "caught": true
+    },
+    {
+      "danger": 14,
+      "roll": 6,
+      "caught": true
+    },
+    {
+      "danger": 14,
+      "roll": 7,
+      "caught": true
+    },
+    {
+      "danger": 14,
+      "roll": 8,
+      "caught": true
+    },
+    {
+      "danger": 14,
+      "roll": 9,
+      "caught": true
+    },
+    {
+      "danger": 14,
+      "roll": 10,
+      "caught": true
+    },
+    {
+      "danger": 14,
+      "roll": 11,
+      "caught": true
+    },
+    {
+      "danger": 14,
+      "roll": 12,
+      "caught": true
+    },
+    {
+      "danger": 14,
+      "roll": 13,
+      "caught": true
+    },
+    {
+      "danger": 14,
+      "roll": 14,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 15,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 16,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 17,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 18,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 19,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 20,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 21,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 22,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 23,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 24,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 25,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 26,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 27,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 28,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 29,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 30,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 31,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 32,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 33,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 34,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 35,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 36,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 37,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 38,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 39,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 40,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 41,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 42,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 43,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 44,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 45,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 46,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 47,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 48,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 49,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 50,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 51,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 52,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 53,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 54,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 55,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 56,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 57,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 58,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 59,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 60,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 61,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 62,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 63,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 64,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 65,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 66,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 67,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 68,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 69,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 70,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 71,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 72,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 73,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 74,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 75,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 76,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 77,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 78,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 79,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 80,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 81,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 82,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 83,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 84,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 85,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 86,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 87,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 88,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 89,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 90,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 91,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 92,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 93,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 94,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 95,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 96,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 97,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 98,
+      "caught": false
+    },
+    {
+      "danger": 14,
+      "roll": 99,
+      "caught": false
+    }
+  ]
+}

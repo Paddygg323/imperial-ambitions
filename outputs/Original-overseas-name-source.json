@@ -1,0 +1,17 @@
+{
+  "source": "C:\\Program Files\\GOG Galaxy\\Games\\Imperialism II\\Data\\str#enu.gob",
+  "sha256": "b58b0c31d3efe33d0a63389628116dc9844492c5a132208adeac7962c4a99042",
+  "counts": {
+    "12": 17,
+    "13": 15,
+    "14": 15,
+    "15": 14,
+    "16": 13,
+    "17": 15,
+    "18": 12,
+    "19": 12,
+    "20": 12,
+    "21": 11
+  },
+  "mapping": "4ae67d: ((group + 0x3fff47a) << 6) + index, uint32; group=0xe04+country; index starts at1."
+}

@@ -1,0 +1,60 @@
+{
+  "runtime": "3-179",
+  "fullRegression": {
+    "passed": 765,
+    "failed": 0,
+    "seconds": 95.41,
+    "log": "work/rebuild-v2/tests-overseas-ports-full.txt"
+  },
+  "defendedInvasion": {
+    "models": [
+      "legacy",
+      "ports"
+    ],
+    "verified": [
+      "one-turn beachhead preparation",
+      "pending tactical battle instead of instant conquest",
+      "save/reload during tactical actions",
+      "defended battle victory",
+      "ownership and regiment transfer",
+      "economy continuation exactly once"
+    ],
+    "fixtureLimit": "Fleet starts beside the target; a veteran Regular faces a weakened Pikeman. This is integration coverage, not naturally earned strength or balance evidence.",
+    "test": "game/test/beachhead.test.mjs"
+  },
+  "overseasDevelopment": {
+    "verified": [
+      "original generated overseas site",
+      "post-conquest civilian movement and prospecting",
+      "five lumber/five cast iron port cost plus one/one development cost",
+      "two-turn completion",
+      "recorded port sea exit and zero initial assignment",
+      "connected timber withheld until assignment",
+      "saved assignment survives reload",
+      "warehouse delta matches delivery report"
+    ],
+    "fixtureLimit": "Conquest is supplied directly; this test isolates post-conquest civilian and receipt behavior and runs the economy phase without AI/market. The defended invasion is separately tested.",
+    "test": "game/test/overseas-port-delivery.test.mjs"
+  },
+  "phoneBrowser": {
+    "passed": true,
+    "origin": "https://appassets.androidplatform.net/game/",
+    "viewport": "412x915",
+    "assets": "work/rebuild-android/assets/game",
+    "model": "ports",
+    "verified": [
+      "touch fleet selection",
+      "beachhead order",
+      "actual preparation turn",
+      "regiment selection",
+      "saved overseas attack order"
+    ],
+    "log": "work/rebuild-v2/beachhead-browser-ports.txt",
+    "physicalPixel": false
+  },
+  "remaining": [
+    "Complete active campaign and balance validation",
+    "Physical Android WebView/Pixel performance and usability",
+    "Full original lifecycle and AI fidelity"
+  ]
+}

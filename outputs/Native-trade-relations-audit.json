@@ -1,0 +1,581 @@
+{
+  "scope": "Original647446..647486 successful-trade relation update, actual526150 and524030.\nScope: positive accepted trade; independent countries (subject predicates false).\n",
+  "cases": [
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 0,
+      "office": 0,
+      "forward": 0,
+      "reverse": 0
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 0,
+      "office": 1,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 0,
+      "office": 2,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 48,
+      "office": 0,
+      "forward": 48,
+      "reverse": 48
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 48,
+      "office": 1,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 48,
+      "office": 2,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 49,
+      "office": 0,
+      "forward": 49,
+      "reverse": 49
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 49,
+      "office": 1,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 49,
+      "office": 2,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 50,
+      "office": 0,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 50,
+      "office": 1,
+      "forward": 51,
+      "reverse": 51
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 50,
+      "office": 2,
+      "forward": 51,
+      "reverse": 51
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 90,
+      "office": 0,
+      "forward": 90,
+      "reverse": 90
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 90,
+      "office": 1,
+      "forward": 91,
+      "reverse": 91
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 90,
+      "office": 2,
+      "forward": 91,
+      "reverse": 91
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 150,
+      "office": 0,
+      "forward": 150,
+      "reverse": 150
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 150,
+      "office": 1,
+      "forward": 151,
+      "reverse": 151
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 150,
+      "office": 2,
+      "forward": 151,
+      "reverse": 151
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 254,
+      "office": 0,
+      "forward": 254,
+      "reverse": 254
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 254,
+      "office": 1,
+      "forward": 255,
+      "reverse": 255
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 254,
+      "office": 2,
+      "forward": 255,
+      "reverse": 255
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 255,
+      "office": 0,
+      "forward": 255,
+      "reverse": 255
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 255,
+      "office": 1,
+      "forward": 255,
+      "reverse": 255
+    },
+    {
+      "buyer": 0,
+      "seller": 1,
+      "relation": 255,
+      "office": 2,
+      "forward": 255,
+      "reverse": 255
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 0,
+      "office": 0,
+      "forward": 0,
+      "reverse": 0
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 0,
+      "office": 1,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 0,
+      "office": 2,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 48,
+      "office": 0,
+      "forward": 48,
+      "reverse": 48
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 48,
+      "office": 1,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 48,
+      "office": 2,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 49,
+      "office": 0,
+      "forward": 49,
+      "reverse": 49
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 49,
+      "office": 1,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 49,
+      "office": 2,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 50,
+      "office": 0,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 50,
+      "office": 1,
+      "forward": 51,
+      "reverse": 51
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 50,
+      "office": 2,
+      "forward": 51,
+      "reverse": 51
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 90,
+      "office": 0,
+      "forward": 90,
+      "reverse": 90
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 90,
+      "office": 1,
+      "forward": 91,
+      "reverse": 91
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 90,
+      "office": 2,
+      "forward": 91,
+      "reverse": 91
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 150,
+      "office": 0,
+      "forward": 150,
+      "reverse": 150
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 150,
+      "office": 1,
+      "forward": 151,
+      "reverse": 151
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 150,
+      "office": 2,
+      "forward": 151,
+      "reverse": 151
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 254,
+      "office": 0,
+      "forward": 254,
+      "reverse": 254
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 254,
+      "office": 1,
+      "forward": 255,
+      "reverse": 255
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 254,
+      "office": 2,
+      "forward": 255,
+      "reverse": 255
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 255,
+      "office": 0,
+      "forward": 255,
+      "reverse": 255
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 255,
+      "office": 1,
+      "forward": 255,
+      "reverse": 255
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 255,
+      "office": 2,
+      "forward": 255,
+      "reverse": 255
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 0,
+      "office": 0,
+      "forward": 0,
+      "reverse": 0
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 0,
+      "office": 1,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 0,
+      "office": 2,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 48,
+      "office": 0,
+      "forward": 48,
+      "reverse": 48
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 48,
+      "office": 1,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 48,
+      "office": 2,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 49,
+      "office": 0,
+      "forward": 49,
+      "reverse": 49
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 49,
+      "office": 1,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 49,
+      "office": 2,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 50,
+      "office": 0,
+      "forward": 50,
+      "reverse": 50
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 50,
+      "office": 1,
+      "forward": 51,
+      "reverse": 51
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 50,
+      "office": 2,
+      "forward": 51,
+      "reverse": 51
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 90,
+      "office": 0,
+      "forward": 90,
+      "reverse": 90
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 90,
+      "office": 1,
+      "forward": 91,
+      "reverse": 91
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 90,
+      "office": 2,
+      "forward": 91,
+      "reverse": 91
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 150,
+      "office": 0,
+      "forward": 150,
+      "reverse": 150
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 150,
+      "office": 1,
+      "forward": 151,
+      "reverse": 151
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 150,
+      "office": 2,
+      "forward": 151,
+      "reverse": 151
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 254,
+      "office": 0,
+      "forward": 254,
+      "reverse": 254
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 254,
+      "office": 1,
+      "forward": 255,
+      "reverse": 255
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 254,
+      "office": 2,
+      "forward": 255,
+      "reverse": 255
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 255,
+      "office": 0,
+      "forward": 255,
+      "reverse": 255
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 255,
+      "office": 1,
+      "forward": 255,
+      "reverse": 255
+    },
+    {
+      "buyer": 6,
+      "seller": 0,
+      "relation": 255,
+      "office": 2,
+      "forward": 255,
+      "reverse": 255
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "scope": "Ordered whole-map AssignPictToTile54d110, real river mapper/helpers.\nFour raw worlds from standalone generator; no substitutions. This verifies\npicture processing, not the upstream full original caller or capital setup.\n",
+  "cases": [
+    {
+      "name": "England",
+      "seed": 4291344568,
+      "sha256": "82d4b3a464b861f5a9971c5f6b121ca8d457b5c83b64f3ade26b0b19b17fab78",
+      "randomState": 163364764,
+      "seaDecorationTile": 25
+    },
+    {
+      "name": "Portugal",
+      "seed": 3345668773,
+      "sha256": "b0a6884d95bf13c599c47017d8883b5a23ad6335cac56f9045b5a34b90f971e6",
+      "randomState": 1919974158,
+      "seaDecorationTile": 40
+    },
+    {
+      "name": "Pixel",
+      "seed": 1996433609,
+      "sha256": "0d13ca0fa5d61759b8d46bb9939781a45a5f1ac139144fdce47f921e2069e64c",
+      "randomState": 1712886907,
+      "seaDecorationTile": 10
+    },
+    {
+      "name": "Timber",
+      "seed": 2801097245,
+      "sha256": "26e705f073586315cc1ab1ddb853e9125a4a086f3a29a68641e36299110fa61e",
+      "randomState": 949497720,
+      "seaDecorationTile": 19
+    }
+  ]
+}

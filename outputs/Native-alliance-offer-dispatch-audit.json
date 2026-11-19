@@ -1,0 +1,193 @@
+{
+  "scope": "Original573bb0 incoming alliance302 dispatch. Original treaty query,\nactual reciprocal outgoing slot; AI evaluator return supplied. Accept/reject\ncallbacks captured. Does not settle the accepted treaty itself.\n",
+  "cases": [
+    {
+      "reciprocal": false,
+      "treaty": 2,
+      "decision": false,
+      "calls": [
+        {
+          "kind": "getOffer",
+          "arg": 7
+        },
+        {
+          "kind": "reject",
+          "arg": 7
+        }
+      ]
+    },
+    {
+      "reciprocal": false,
+      "treaty": 2,
+      "decision": true,
+      "calls": [
+        {
+          "kind": "getOffer",
+          "arg": 7
+        },
+        {
+          "kind": "reject",
+          "arg": 7
+        }
+      ]
+    },
+    {
+      "reciprocal": false,
+      "treaty": 4,
+      "decision": false,
+      "calls": [
+        {
+          "kind": "getOffer",
+          "arg": 7
+        },
+        {
+          "kind": "evaluate",
+          "arg": 1
+        },
+        {
+          "kind": "reject",
+          "arg": 7
+        }
+      ]
+    },
+    {
+      "reciprocal": false,
+      "treaty": 4,
+      "decision": true,
+      "calls": [
+        {
+          "kind": "getOffer",
+          "arg": 7
+        },
+        {
+          "kind": "evaluate",
+          "arg": 1
+        },
+        {
+          "kind": "accept",
+          "arg": 7
+        }
+      ]
+    },
+    {
+      "reciprocal": false,
+      "treaty": 6,
+      "decision": false,
+      "calls": [
+        {
+          "kind": "getOffer",
+          "arg": 7
+        },
+        {
+          "kind": "reject",
+          "arg": 7
+        }
+      ]
+    },
+    {
+      "reciprocal": false,
+      "treaty": 6,
+      "decision": true,
+      "calls": [
+        {
+          "kind": "getOffer",
+          "arg": 7
+        },
+        {
+          "kind": "reject",
+          "arg": 7
+        }
+      ]
+    },
+    {
+      "reciprocal": true,
+      "treaty": 2,
+      "decision": false,
+      "calls": [
+        {
+          "kind": "getOffer",
+          "arg": 7
+        },
+        {
+          "kind": "accept",
+          "arg": 7
+        }
+      ]
+    },
+    {
+      "reciprocal": true,
+      "treaty": 2,
+      "decision": true,
+      "calls": [
+        {
+          "kind": "getOffer",
+          "arg": 7
+        },
+        {
+          "kind": "accept",
+          "arg": 7
+        }
+      ]
+    },
+    {
+      "reciprocal": true,
+      "treaty": 4,
+      "decision": false,
+      "calls": [
+        {
+          "kind": "getOffer",
+          "arg": 7
+        },
+        {
+          "kind": "accept",
+          "arg": 7
+        }
+      ]
+    },
+    {
+      "reciprocal": true,
+      "treaty": 4,
+      "decision": true,
+      "calls": [
+        {
+          "kind": "getOffer",
+          "arg": 7
+        },
+        {
+          "kind": "accept",
+          "arg": 7
+        }
+      ]
+    },
+    {
+      "reciprocal": true,
+      "treaty": 6,
+      "decision": false,
+      "calls": [
+        {
+          "kind": "getOffer",
+          "arg": 7
+        },
+        {
+          "kind": "accept",
+          "arg": 7
+        }
+      ]
+    },
+    {
+      "reciprocal": true,
+      "treaty": 6,
+      "decision": true,
+      "calls": [
+        {
+          "kind": "getOffer",
+          "arg": 7
+        },
+        {
+          "kind": "accept",
+          "arg": 7
+        }
+      ]
+    }
+  ]
+}

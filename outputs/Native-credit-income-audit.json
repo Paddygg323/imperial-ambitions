@@ -1,0 +1,1842 @@
+{
+  "scope": "Original credit initialization503101..50313d and qualifying income505b4d..505b9b.\nIncome inputs: five liquidated-riches receipts, sales+b04, overseas profits via\nvirtual1c0. Purchases/interest are not deducted from this credit income measure.\nHuman/simple-economy400 adjustment exposed as raw flags pending UI mapping.\n",
+  "initial": [
+    {
+      "difficulty": 0,
+      "credit": 100000,
+      "rate": 8,
+      "interest": 0,
+      "stage": 0
+    },
+    {
+      "difficulty": 1,
+      "credit": 50000,
+      "rate": 10,
+      "interest": 0,
+      "stage": 0
+    },
+    {
+      "difficulty": 2,
+      "credit": 20000,
+      "rate": 12,
+      "interest": 0,
+      "stage": 0
+    },
+    {
+      "difficulty": 3,
+      "credit": 10000,
+      "rate": 15,
+      "interest": 0,
+      "stage": 0
+    },
+    {
+      "difficulty": 4,
+      "credit": 1000,
+      "rate": 19,
+      "interest": 0,
+      "stage": 0
+    }
+  ],
+  "cases": [
+    {
+      "difficulty": 0,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 1000
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        107,
+        132,
+        197,
+        13,
+        99
+      ],
+      "sales": 225,
+      "overseasProfits": 405,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 1578
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        373,
+        288,
+        2,
+        330,
+        409
+      ],
+      "sales": 260,
+      "overseasProfits": 692,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 2354
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 100
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        182,
+        363,
+        91,
+        490,
+        417
+      ],
+      "sales": 27,
+      "overseasProfits": 301,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 1871
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        345,
+        451,
+        433,
+        37,
+        187
+      ],
+      "sales": 8,
+      "overseasProfits": 110,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 1971
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 500
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        217,
+        178,
+        216,
+        404,
+        385
+      ],
+      "sales": 99,
+      "overseasProfits": 401,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 1900
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        262,
+        297,
+        153,
+        136,
+        366
+      ],
+      "sales": 68,
+      "overseasProfits": 471,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 1753
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 400
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        220,
+        131,
+        295,
+        164,
+        289
+      ],
+      "sales": 0,
+      "overseasProfits": 46,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 1145
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        333,
+        96,
+        469,
+        317,
+        460
+      ],
+      "sales": 634,
+      "overseasProfits": 492,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 2801
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 200
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        316,
+        385,
+        324,
+        195,
+        410
+      ],
+      "sales": 320,
+      "overseasProfits": 289,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 2639
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        198,
+        334,
+        179,
+        245,
+        69
+      ],
+      "sales": 543,
+      "overseasProfits": 442,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 2010
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 1000
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        36,
+        88,
+        152,
+        478,
+        347
+      ],
+      "sales": 771,
+      "overseasProfits": 295,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 2167
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        120,
+        405,
+        354,
+        372,
+        357
+      ],
+      "sales": 861,
+      "overseasProfits": 101,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 2970
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 100
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        203,
+        414,
+        483,
+        375,
+        445
+      ],
+      "sales": 483,
+      "overseasProfits": 525,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 2928
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        45,
+        213,
+        17,
+        8,
+        370
+      ],
+      "sales": 746,
+      "overseasProfits": 681,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 2080
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 500
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        214,
+        2,
+        454,
+        310,
+        295
+      ],
+      "sales": 604,
+      "overseasProfits": 664,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 2543
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        193,
+        356,
+        64,
+        418,
+        380
+      ],
+      "sales": 913,
+      "overseasProfits": 568,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 2892
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 10
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        319,
+        113,
+        60,
+        277,
+        225
+      ],
+      "sales": 661,
+      "overseasProfits": 207,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 2262
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        264,
+        455,
+        411,
+        417,
+        116
+      ],
+      "sales": 872,
+      "overseasProfits": 247,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 2782
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 200
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        67,
+        277,
+        45,
+        315,
+        398
+      ],
+      "sales": 500,
+      "overseasProfits": 338,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 1940
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        453,
+        460,
+        464,
+        476,
+        260
+      ],
+      "sales": 287,
+      "overseasProfits": 222,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 3022
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 1000
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        428,
+        256,
+        96,
+        444,
+        408
+      ],
+      "sales": 597,
+      "overseasProfits": 145,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 2374
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        91,
+        470,
+        87,
+        185,
+        164
+      ],
+      "sales": 292,
+      "overseasProfits": 183,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 1472
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 400
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        20,
+        62,
+        108,
+        289,
+        32
+      ],
+      "sales": 895,
+      "overseasProfits": 227,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 1633
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        24,
+        52,
+        335,
+        451,
+        59
+      ],
+      "sales": 972,
+      "overseasProfits": 109,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 2002
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 500
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        407,
+        235,
+        448,
+        284,
+        232
+      ],
+      "sales": 847,
+      "overseasProfits": 364,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 3217
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        136,
+        340,
+        104,
+        64,
+        162
+      ],
+      "sales": 188,
+      "overseasProfits": 302,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 1296
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 10
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        272,
+        34,
+        427,
+        44,
+        236
+      ],
+      "sales": 68,
+      "overseasProfits": 296,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 1377
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        13,
+        274,
+        49,
+        410,
+        95
+      ],
+      "sales": 212,
+      "overseasProfits": 389,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 1842
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 200
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        76,
+        343,
+        255,
+        64,
+        174
+      ],
+      "sales": 856,
+      "overseasProfits": 149,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 1917
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        325,
+        108,
+        227,
+        442,
+        357
+      ],
+      "sales": 206,
+      "overseasProfits": 336,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 2001
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 1000
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        173,
+        293,
+        484,
+        229,
+        190
+      ],
+      "sales": 802,
+      "overseasProfits": 57,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 2228
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        428,
+        474,
+        245,
+        121,
+        236
+      ],
+      "sales": 348,
+      "overseasProfits": 18,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 1870
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 100
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        308,
+        198,
+        475,
+        268,
+        450
+      ],
+      "sales": 584,
+      "overseasProfits": 78,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 2761
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        142,
+        422,
+        111,
+        490,
+        405
+      ],
+      "sales": 906,
+      "overseasProfits": 2,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 2478
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 500
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        266,
+        497,
+        348,
+        258,
+        181
+      ],
+      "sales": 858,
+      "overseasProfits": 29,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 2437
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        188,
+        211,
+        116,
+        381,
+        45
+      ],
+      "sales": 577,
+      "overseasProfits": 490,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 2408
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 10
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        315,
+        30,
+        495,
+        68,
+        265
+      ],
+      "sales": 861,
+      "overseasProfits": 41,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 2075
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        497,
+        320,
+        410,
+        138,
+        454
+      ],
+      "sales": 287,
+      "overseasProfits": 577,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 2683
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 400
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        480,
+        43,
+        226,
+        392,
+        288
+      ],
+      "sales": 61,
+      "overseasProfits": 672,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 2162
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        63,
+        66,
+        332,
+        164,
+        397
+      ],
+      "sales": 846,
+      "overseasProfits": 252,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 2120
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 1000
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        157,
+        165,
+        54,
+        417,
+        153
+      ],
+      "sales": 923,
+      "overseasProfits": 288,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 2557
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        262,
+        246,
+        61,
+        75,
+        18
+      ],
+      "sales": 861,
+      "overseasProfits": 78,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 1601
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 100
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        176,
+        103,
+        320,
+        272,
+        318
+      ],
+      "sales": 235,
+      "overseasProfits": 655,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 2079
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        86,
+        138,
+        193,
+        0,
+        263
+      ],
+      "sales": 16,
+      "overseasProfits": 19,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 1115
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 500
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        305,
+        149,
+        334,
+        368,
+        376
+      ],
+      "sales": 493,
+      "overseasProfits": 211,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 2236
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        190,
+        405,
+        82,
+        234,
+        441
+      ],
+      "sales": 625,
+      "overseasProfits": 140,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 2117
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 400
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        164,
+        182,
+        106,
+        228,
+        191
+      ],
+      "sales": 352,
+      "overseasProfits": 77,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 1300
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        382,
+        252,
+        291,
+        134,
+        8
+      ],
+      "sales": 882,
+      "overseasProfits": 10,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 1959
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 200
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        448,
+        349,
+        443,
+        222,
+        241
+      ],
+      "sales": 380,
+      "overseasProfits": 443,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 2926
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        14,
+        246,
+        498,
+        233,
+        461
+      ],
+      "sales": 212,
+      "overseasProfits": 500,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 2164
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 1000
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        298,
+        216,
+        2,
+        73,
+        489
+      ],
+      "sales": 679,
+      "overseasProfits": 543,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 2300
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        285,
+        474,
+        179,
+        257,
+        342
+      ],
+      "sales": 857,
+      "overseasProfits": 93,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 2887
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 100
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        291,
+        189,
+        139,
+        486,
+        288
+      ],
+      "sales": 195,
+      "overseasProfits": 475,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 2063
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        290,
+        181,
+        135,
+        389,
+        330
+      ],
+      "sales": 870,
+      "overseasProfits": 555,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 2750
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 500
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        61,
+        46,
+        470,
+        382,
+        87
+      ],
+      "sales": 533,
+      "overseasProfits": 278,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 1857
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        100,
+        241,
+        121,
+        239,
+        234
+      ],
+      "sales": 979,
+      "overseasProfits": 94,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 2008
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 10
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        73,
+        319,
+        313,
+        192,
+        44
+      ],
+      "sales": 12,
+      "overseasProfits": 82,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 1435
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        252,
+        99,
+        184,
+        329,
+        366
+      ],
+      "sales": 347,
+      "overseasProfits": 486,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 2063
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 200
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        460,
+        486,
+        246,
+        256,
+        425
+      ],
+      "sales": 762,
+      "overseasProfits": 119,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 2754
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        426,
+        193,
+        379,
+        387,
+        220
+      ],
+      "sales": 907,
+      "overseasProfits": 101,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 3013
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 1000
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        449,
+        271,
+        414,
+        364,
+        120
+      ],
+      "sales": 862,
+      "overseasProfits": 412,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 2892
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        148,
+        412,
+        330,
+        339,
+        342
+      ],
+      "sales": 352,
+      "overseasProfits": 618,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 2541
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 400
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        162,
+        252,
+        33,
+        108,
+        152
+      ],
+      "sales": 73,
+      "overseasProfits": 177,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 957
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        48,
+        457,
+        80,
+        273,
+        118
+      ],
+      "sales": 799,
+      "overseasProfits": 40,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 1815
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 500
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        423,
+        344,
+        382,
+        173,
+        288
+      ],
+      "sales": 263,
+      "overseasProfits": 549,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 2822
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        153,
+        309,
+        29,
+        468,
+        67
+      ],
+      "sales": 115,
+      "overseasProfits": 275,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 1416
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 10
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        118,
+        486,
+        486,
+        436,
+        471
+      ],
+      "sales": 739,
+      "overseasProfits": 504,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 3240
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        371,
+        118,
+        76,
+        462,
+        433
+      ],
+      "sales": 44,
+      "overseasProfits": 502,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 2406
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 200
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        277,
+        222,
+        16,
+        339,
+        439
+      ],
+      "sales": 665,
+      "overseasProfits": 386,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 2344
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        151,
+        238,
+        2,
+        497,
+        51
+      ],
+      "sales": 432,
+      "overseasProfits": 313,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 1684
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 1000
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        27,
+        150,
+        344,
+        434,
+        486
+      ],
+      "sales": 817,
+      "overseasProfits": 8,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 2266
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        83,
+        153,
+        282,
+        307,
+        487
+      ],
+      "sales": 353,
+      "overseasProfits": 492,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 2157
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 100
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        253,
+        21,
+        13,
+        388,
+        25
+      ],
+      "sales": 927,
+      "overseasProfits": 520,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 2547
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        367,
+        396,
+        499,
+        470,
+        2
+      ],
+      "sales": 659,
+      "overseasProfits": 455,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 2848
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 500
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        257,
+        275,
+        159,
+        137,
+        54
+      ],
+      "sales": 233,
+      "overseasProfits": 1,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 1116
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        393,
+        447,
+        465,
+        129,
+        321
+      ],
+      "sales": 915,
+      "overseasProfits": 362,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 3432
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 10
+    },
+    {
+      "difficulty": 0,
+      "riches": [
+        341,
+        424,
+        411,
+        308,
+        144
+      ],
+      "sales": 794,
+      "overseasProfits": 282,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 2704
+    },
+    {
+      "difficulty": 1,
+      "riches": [
+        291,
+        259,
+        43,
+        257,
+        367
+      ],
+      "sales": 423,
+      "overseasProfits": 290,
+      "human": false,
+      "simpleEconomy": true,
+      "income": 1930
+    },
+    {
+      "difficulty": 2,
+      "riches": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sales": 0,
+      "overseasProfits": 0,
+      "human": true,
+      "simpleEconomy": true,
+      "income": 400
+    },
+    {
+      "difficulty": 3,
+      "riches": [
+        188,
+        182,
+        294,
+        217,
+        441
+      ],
+      "sales": 635,
+      "overseasProfits": 128,
+      "human": false,
+      "simpleEconomy": false,
+      "income": 2085
+    },
+    {
+      "difficulty": 4,
+      "riches": [
+        356,
+        315,
+        218,
+        22,
+        410
+      ],
+      "sales": 554,
+      "overseasProfits": 260,
+      "human": true,
+      "simpleEconomy": false,
+      "income": 2135
+    }
+  ]
+}

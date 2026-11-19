@@ -1,0 +1,102 @@
+Original Imperialism II reference playtest — in progress, 9 October 2026
+
+This is a live UI playtest of an isolated unmodified original executable,
+not a test of the rejected phone prototype. Campaign: England, historical
+Europe, Normal (100). Started in 1502; reached 1506 so far.
+
+Observed and performed:
+- Selected the starting builder and ordered development of the hardwood
+  forest south of London. Initially showed 0 Timber, Max Transport 0.
+  In 1506, selecting that builder showed 1 Timber, Max Transport 1.
+- Selected the engineer in London and ordered a road onto the wool tile
+  immediately south of the capital, toward the timber tile.
+- Recruited a second builder through Industry > Units > University.
+  Cost displayed and consumed: $500 and 3 Paper. Arrived in 1504.
+- Assigned Saw Mill, Sheep Ranching and Superior Hull Design using the
+  A controls in the research list. The screen has three project slots,
+  a separate goal slot, six category filters, per-project funding,
+  estimates, detail and cancellation controls. Initial estimates were
+  10, 12 and 10 turns at $100, $200 and $100 respectively.
+- Production of one Lumber consumes two Timber and two Labour.
+  Four starting labour points allowed two Lumber per turn.
+- Selected the fleet in Port London; three Carracks were present.
+  Sent one ship to Brittany Sea; its arrival was visible in 1504.
+  Sent the same ship to Coral Ocean for the following turn.
+- Turn resolution displayed the Deals screen before the turn summary.
+
+Resumed 12 October 2026 from the England 1506 autosave. Reached 1518.
+- Continued the carrack west through Rat Ocean, Clamshell Ocean,
+  Orestian Ocean and Oleander Sea. Revealed the New World coastline.
+- Deployed the Explorer onto that coast in 1514. In 1516, surrounding
+  inland terrain became visible. Moved onto a hill; in 1518 the town
+  of Jauja and an unexplored mountain became visible. Ordered prospecting.
+- Saw Mill completion was reported on the 1514 summary (1512 orders).
+  Superior Hull Design completion was reported in 1518 (1516 orders).
+  These are observations, not fixed research-duration guarantees.
+- Selected all three London regiments: one Pikemen, one Arquebusiers,
+  one Knights. Moved through Yorkshire to Northumberland.
+- Declared war on Scotland via Diplomacy > Diplomatic Overtures > War.
+  Declaration took effect on resolution; attack orders were unavailable
+  before war was active.
+- Assaulted Ayr after the insufficient-cannon-strength warning.
+  Entered actual tactical deployment and manually moved the Pikemen.
+  Pikemen display: FP 0, Melee 5, Range 1, Defence 5, Speed 3.
+  Arquebusiers: FP 5, Melee 1, Range 3, Defence 3, Speed 2.
+  Enabled tactical autoplay using its lock control. AI withdrew;
+  attack failed at battle turn 4, with no casualties on either side.
+  Report listed two Scottish Bowmen. Scotland kept Ayr.
+- Queued two additional workers: each costs two Fabric. Labour and
+  unit recruitment explicitly do not support computer control.
+- Unlocked Fluyte construction: one worker, six Lumber, two Cast Iron,
+  two Fabric; cargo 4, speed 2, range 4, firepower 3, armour 95, hull 35.
+  Construction has not yet been completed at this checkpoint.
+- Production and trade were delegated to their original AI controls.
+  No successful international sale/purchase has yet been observed.
+
+Further checkpoint: 1528.
+- Sheep Ranching completed in 1520. Queued a Fluyte and a Culverin in
+  1520; both arrived in 1522. Construction consumed workers from the
+  labour pool. Reducing paper production released two labour points
+  needed for recruitment. Culverin cost: 1 worker, 1 Fabric, 4 Bronze.
+- Reinforced Northumberland with the Culverin and assaulted Ayr again
+  in 1524. The insufficient-cannon warning did not appear this time,
+  but the automatically resolved assault still failed.
+- Explorer discovered Tobacco (1526), Sugar Cane and Spices (1528),
+  while revealing further inland terrain and mineral icons.
+- Delegated research selected Horse Artillery as its goal and funded
+  Animal Husbandry, Mine Engineering and Diplomatic Expertise.
+- Manually bid for Wool, Fabric and Bronze in 1526. Accepted 1 Bronze
+  from Portugal and 1 from Holland at $244 each. The Deals screen
+  confirmed both purchases and a sale of 1 Lumber to Denmark for $279.
+  Net trade balance was -$209. No Wool/Fabric offers arrived that turn.
+
+Checkpoint: 1560, 12 October.
+- War with France was declared in 1528 and active in 1530.
+- Sailed 1 Fluyte and 1 Carrack, leaving 1 Carrack in Port London.
+  Moving the last home ships triggers a warning that trade and sea
+  transport would stop. Fluyte movement range limited the return voyage.
+- Established a Brittany beachhead; its cannon marker was visibly
+  attached to the fleet. Troops had to be in London (a port province).
+- Ordered 4 regiments to land in Brittany in 1536, spending $400.
+  Landing resolved into a battle against 1 Pikemen, 1 Arquebusiers and
+  1 Knights. Attack failed; France kept Brittany.
+- Accepted France's later peace offer; treaty confirmed in 1550.
+  Returned the two invasion ships to Port London via Brabant Narrows.
+- Civilian Book confirmed one Builder was Building Wool to level 2
+  in Kent. Another Builder had merely redeployed to a livestock tile.
+  A redeployment alone must not be reported as a completed upgrade.
+- Mine Engineering completed in 1538, Diplomatic Expertise in 1544,
+  Animal Husbandry in 1546. Cotton discovery was reported in 1554.
+- At 1560, research screen showed Printing Press: $200, 4 turns;
+  Copper and Tin Mining: $0, 20 turns; Organized Regiments: $0, 28 turns.
+  Zero funding can leave a project reserved without advancing it.
+  Cotton, Sugar and Tobacco Planting were present in available research.
+- From 1538 onward, routine turns were advanced with production,
+  transport, trade and research under their original AI controls.
+  This portion is observed progression, not hands-on verification of
+  every AI decision. The full game has not ended.
+
+The full campaign is NOT complete. This checkpoint does not verify
+colonial development, a successful siege, later eras, or the victory
+screen. Do not treat it as proof of full original-game fidelity or a
+completed phone build.

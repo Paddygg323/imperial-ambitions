@@ -1,0 +1,126 @@
+{
+  "scope": "Execute original diplomatic response dispatcher573bb0 for command303.\nRecord retrieval and accepted/rejected callbacks supplied; all dispatch branches real.\n303 maps to573c3d (unconditional accept), and accepted-handler50b869 sets treaty3.\nThis verifies response routing, not office eligibility, turn scheduling or UI.\n",
+  "acceptedBranch": "0x50b869",
+  "cases": [
+    {
+      "proposer": 0,
+      "reciprocal": 0,
+      "calls": [
+        {
+          "accepted": true,
+          "recordIndex": 7
+        }
+      ]
+    },
+    {
+      "proposer": 0,
+      "reciprocal": 303,
+      "calls": [
+        {
+          "accepted": true,
+          "recordIndex": 7
+        }
+      ]
+    },
+    {
+      "proposer": 1,
+      "reciprocal": 0,
+      "calls": [
+        {
+          "accepted": true,
+          "recordIndex": 7
+        }
+      ]
+    },
+    {
+      "proposer": 1,
+      "reciprocal": 303,
+      "calls": [
+        {
+          "accepted": true,
+          "recordIndex": 7
+        }
+      ]
+    },
+    {
+      "proposer": 2,
+      "reciprocal": 0,
+      "calls": [
+        {
+          "accepted": true,
+          "recordIndex": 7
+        }
+      ]
+    },
+    {
+      "proposer": 2,
+      "reciprocal": 303,
+      "calls": [
+        {
+          "accepted": true,
+          "recordIndex": 7
+        }
+      ]
+    },
+    {
+      "proposer": 3,
+      "reciprocal": 0,
+      "calls": [
+        {
+          "accepted": true,
+          "recordIndex": 7
+        }
+      ]
+    },
+    {
+      "proposer": 3,
+      "reciprocal": 303,
+      "calls": [
+        {
+          "accepted": true,
+          "recordIndex": 7
+        }
+      ]
+    },
+    {
+      "proposer": 4,
+      "reciprocal": 0,
+      "calls": [
+        {
+          "accepted": true,
+          "recordIndex": 7
+        }
+      ]
+    },
+    {
+      "proposer": 4,
+      "reciprocal": 303,
+      "calls": [
+        {
+          "accepted": true,
+          "recordIndex": 7
+        }
+      ]
+    },
+    {
+      "proposer": 5,
+      "reciprocal": 0,
+      "calls": [
+        {
+          "accepted": true,
+          "recordIndex": 7
+        }
+      ]
+    },
+    {
+      "proposer": 5,
+      "reciprocal": 303,
+      "calls": [
+        {
+          "accepted": true,
+          "recordIndex": 7
+        }
+      ]
+    }
+  ]
+}

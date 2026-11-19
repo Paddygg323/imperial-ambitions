@@ -1,0 +1,676 @@
+{
+  "001-default": {
+    "file": "assets/reviewed/ea91c85168.png",
+    "rect": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "runtimePath": "game/assets/reviewed/ea91c85168.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/001-plains-r1/001-default.png"
+    ]
+  },
+  "001-flower-01": {
+    "file": "assets/reviewed/4ad2694735.png",
+    "rect": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "runtimePath": "game/assets/reviewed/4ad2694735.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/001-plains-r1/001-flower-01.png"
+    ]
+  },
+  "001-flower-02": {
+    "file": "assets/reviewed/00c393a85b.png",
+    "rect": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "runtimePath": "game/assets/reviewed/00c393a85b.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/001-plains-r1/001-flower-02.png"
+    ]
+  },
+  "001-flower-03": {
+    "file": "assets/reviewed/52272a543b.png",
+    "rect": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "runtimePath": "game/assets/reviewed/52272a543b.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/001-plains-r1/001-flower-03.png"
+    ]
+  },
+  "001-flower-04": {
+    "file": "assets/reviewed/be811aaebc.png",
+    "rect": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "runtimePath": "game/assets/reviewed/be811aaebc.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/001-plains-r1/001-flower-04.png"
+    ]
+  },
+  "001-flower-05": {
+    "file": "assets/reviewed/84c1c3dc21.png",
+    "rect": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "runtimePath": "game/assets/reviewed/84c1c3dc21.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/001-plains-r1/001-flower-05.png"
+    ]
+  },
+  "001-flower-06": {
+    "file": "assets/reviewed/90d35b9edb.png",
+    "rect": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "runtimePath": "game/assets/reviewed/90d35b9edb.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/001-plains-r1/001-flower-06.png"
+    ]
+  },
+  "001-flower-07": {
+    "file": "assets/reviewed/cb87f6520a.png",
+    "rect": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "runtimePath": "game/assets/reviewed/cb87f6520a.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/001-plains-r1/001-flower-07.png"
+    ]
+  },
+  "001-flower-08": {
+    "file": "assets/reviewed/82b2b6705e.png",
+    "rect": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "runtimePath": "game/assets/reviewed/82b2b6705e.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/001-plains-r1/001-flower-08.png"
+    ]
+  },
+  "001-flower-09": {
+    "file": "assets/reviewed/65a30ad622.png",
+    "rect": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "runtimePath": "game/assets/reviewed/65a30ad622.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/001-plains-r1/001-flower-09.png"
+    ]
+  },
+  "001-flower-10": {
+    "file": "assets/reviewed/0e888b9523.png",
+    "rect": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "runtimePath": "game/assets/reviewed/0e888b9523.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/001-plains-r1/001-flower-10.png"
+    ]
+  },
+  "002": {
+    "file": "assets/reviewed/c22de5988b.png",
+    "rect": [
+      399,
+      50,
+      392,
+      344
+    ],
+    "runtimePath": "game/assets/reviewed/c22de5988b.png",
+    "librarySources": [
+      "outputs/sprite-library-review/originals/01-terrain.png"
+    ]
+  },
+  "003-r1": {
+    "file": "assets/reviewed/be36ab3a68.png",
+    "rect": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "runtimePath": "game/assets/reviewed/be36ab3a68.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/terrain-r1/003-r1.png"
+    ]
+  },
+  "004": {
+    "file": "assets/reviewed/759239e87d.png",
+    "rect": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "runtimePath": "game/assets/reviewed/759239e87d.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/terrain-r2/004-natural-peaks.png"
+    ]
+  },
+  "005": {
+    "file": "assets/reviewed/253-swamp.png",
+    "rect": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "feather": 0.3,
+    "runtimePath": "game/assets/reviewed/253-swamp.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/minerals-swamp-r253/swamp.png"
+    ]
+  },
+  "006-r1": {
+    "file": "assets/reviewed/517360aefc.png",
+    "rect": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "runtimePath": "game/assets/reviewed/517360aefc.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/terrain-r1/006-r1.png"
+    ]
+  },
+  "007": {
+    "file": "assets/reviewed/c22de5988b.png",
+    "rect": [
+      399,
+      446,
+      392,
+      345
+    ],
+    "runtimePath": "game/assets/reviewed/c22de5988b.png",
+    "librarySources": [
+      "outputs/sprite-library-review/originals/01-terrain.png"
+    ]
+  },
+  "008": {
+    "file": "assets/reviewed/c22de5988b.png",
+    "rect": [
+      795,
+      446,
+      393,
+      345
+    ],
+    "runtimePath": "game/assets/reviewed/c22de5988b.png",
+    "librarySources": [
+      "outputs/sprite-library-review/originals/01-terrain.png"
+    ]
+  },
+  "009": {
+    "file": "assets/reviewed/c22de5988b.png",
+    "rect": [
+      1192,
+      446,
+      392,
+      345
+    ],
+    "runtimePath": "game/assets/reviewed/c22de5988b.png",
+    "librarySources": [
+      "outputs/sprite-library-review/originals/01-terrain.png"
+    ]
+  },
+  "011": {
+    "file": "assets/reviewed/c5be6f5221.png",
+    "rect": [
+      2,
+      45,
+      479,
+      315
+    ],
+    "runtimePath": "game/assets/reviewed/c5be6f5221.png",
+    "librarySources": [
+      "outputs/sprite-library-review/originals/02-resource-tiles.png"
+    ]
+  },
+  "012": {
+    "file": "assets/reviewed/c5be6f5221.png",
+    "rect": [
+      485,
+      45,
+      478,
+      315
+    ],
+    "runtimePath": "game/assets/reviewed/c5be6f5221.png",
+    "librarySources": [
+      "outputs/sprite-library-review/originals/02-resource-tiles.png"
+    ]
+  },
+  "013": {
+    "file": "assets/reviewed/c5be6f5221.png",
+    "rect": [
+      967,
+      45,
+      479,
+      315
+    ],
+    "runtimePath": "game/assets/reviewed/c5be6f5221.png",
+    "librarySources": [
+      "outputs/sprite-library-review/originals/02-resource-tiles.png"
+    ]
+  },
+  "014": {
+    "file": "assets/reviewed/c5be6f5221.png",
+    "rect": [
+      2,
+      407,
+      479,
+      315
+    ],
+    "runtimePath": "game/assets/reviewed/c5be6f5221.png",
+    "librarySources": [
+      "outputs/sprite-library-review/originals/02-resource-tiles.png"
+    ]
+  },
+  "015-r4-4": {
+    "file": "assets/reviewed/c660a1c389.png",
+    "rect": [
+      300,
+      500,
+      405,
+      455
+    ],
+    "runtimePath": "game/assets/reviewed/c660a1c389.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/015-low-bushes-r4/comparison.png"
+    ]
+  },
+  "016": {
+    "file": "assets/reviewed/c5be6f5221.png",
+    "rect": [
+      967,
+      407,
+      479,
+      315
+    ],
+    "runtimePath": "game/assets/reviewed/c5be6f5221.png",
+    "librarySources": [
+      "outputs/sprite-library-review/originals/02-resource-tiles.png"
+    ]
+  },
+  "017": {
+    "file": "assets/reviewed/c5be6f5221.png",
+    "rect": [
+      2,
+      769,
+      479,
+      315
+    ],
+    "runtimePath": "game/assets/reviewed/c5be6f5221.png",
+    "librarySources": [
+      "outputs/sprite-library-review/originals/02-resource-tiles.png"
+    ]
+  },
+  "018": {
+    "file": "assets/reviewed/91b5c17379.png",
+    "rect": [
+      0,
+      0,
+      1312,
+      1199
+    ],
+    "runtimePath": "game/assets/reviewed/91b5c17379.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/resource-ground-r1/018.png"
+    ]
+  },
+  "019": {
+    "file": "assets/reviewed/6a3e7960f9.png",
+    "rect": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "runtimePath": "game/assets/reviewed/6a3e7960f9.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/019-light-ore-r10/proposal.png"
+    ]
+  },
+  "010-level-0": {
+    "file": "assets/reviewed/42b5377de1.png",
+    "rect": [
+      100,
+      20,
+      700,
+      780
+    ],
+    "runtimePath": "game/assets/reviewed/42b5377de1.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/010-structure-options/option-1.png"
+    ]
+  },
+  "010-level-1": {
+    "file": "assets/reviewed/4d894218df.png",
+    "rect": [
+      40,
+      5,
+      535,
+      595
+    ],
+    "runtimePath": "game/assets/reviewed/4d894218df.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/010-grass-r5/levels-1-4.png"
+    ]
+  },
+  "010-level-2": {
+    "file": "assets/reviewed/4d894218df.png",
+    "rect": [
+      630,
+      5,
+      535,
+      595
+    ],
+    "runtimePath": "game/assets/reviewed/4d894218df.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/010-grass-r5/levels-1-4.png"
+    ]
+  },
+  "010-level-3": {
+    "file": "assets/reviewed/4d894218df.png",
+    "rect": [
+      40,
+      660,
+      535,
+      595
+    ],
+    "runtimePath": "game/assets/reviewed/4d894218df.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/010-grass-r5/levels-1-4.png"
+    ]
+  },
+  "010-level-4": {
+    "file": "assets/reviewed/4d894218df.png",
+    "rect": [
+      630,
+      660,
+      535,
+      595
+    ],
+    "runtimePath": "game/assets/reviewed/4d894218df.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/010-grass-r5/levels-1-4.png"
+    ]
+  },
+  "019-level1": {
+    "file": "assets/reviewed/80d4c3151d.png",
+    "rect": [
+      0,
+      0,
+      627,
+      627
+    ],
+    "feather": 0.3,
+    "runtimePath": "game/assets/reviewed/80d4c3151d.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/019-mine-levels-r3/levels-1-4.png"
+    ]
+  },
+  "019-level2": {
+    "file": "assets/reviewed/80d4c3151d.png",
+    "rect": [
+      627,
+      0,
+      627,
+      627
+    ],
+    "feather": 0.3,
+    "runtimePath": "game/assets/reviewed/80d4c3151d.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/019-mine-levels-r3/levels-1-4.png"
+    ]
+  },
+  "019-level3": {
+    "file": "assets/reviewed/80d4c3151d.png",
+    "rect": [
+      0,
+      627,
+      627,
+      627
+    ],
+    "feather": 0.3,
+    "runtimePath": "game/assets/reviewed/80d4c3151d.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/019-mine-levels-r3/levels-1-4.png"
+    ]
+  },
+  "019-level4": {
+    "file": "assets/reviewed/80d4c3151d.png",
+    "rect": [
+      627,
+      627,
+      627,
+      627
+    ],
+    "feather": 0.3,
+    "runtimePath": "game/assets/reviewed/80d4c3151d.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/019-mine-levels-r3/levels-1-4.png"
+    ]
+  },
+  "cotton-1": {
+    "file": "assets/reviewed/7b3eaf9469.png",
+    "rect": [
+      45,
+      0,
+      535,
+      520
+    ],
+    "runtimePath": "game/assets/reviewed/7b3eaf9469.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/014-cotton-progression/levels-1-4-proposal.png"
+    ]
+  },
+  "cotton-2": {
+    "file": "assets/reviewed/7b3eaf9469.png",
+    "rect": [
+      620,
+      0,
+      535,
+      520
+    ],
+    "runtimePath": "game/assets/reviewed/7b3eaf9469.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/014-cotton-progression/levels-1-4-proposal.png"
+    ]
+  },
+  "cotton-3": {
+    "file": "assets/reviewed/7b3eaf9469.png",
+    "rect": [
+      45,
+      625,
+      535,
+      520
+    ],
+    "runtimePath": "game/assets/reviewed/7b3eaf9469.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/014-cotton-progression/levels-1-4-proposal.png"
+    ]
+  },
+  "cotton-4": {
+    "file": "assets/reviewed/7b3eaf9469.png",
+    "rect": [
+      620,
+      625,
+      535,
+      520
+    ],
+    "runtimePath": "game/assets/reviewed/7b3eaf9469.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/014-cotton-progression/levels-1-4-proposal.png"
+    ]
+  },
+  "spices-1": {
+    "file": "assets/reviewed/a9c66c0375.png",
+    "rect": [
+      300,
+      10,
+      405,
+      455
+    ],
+    "runtimePath": "game/assets/reviewed/a9c66c0375.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/015-development-r1/levels-1-4.png"
+    ]
+  },
+  "spices-2": {
+    "file": "assets/reviewed/a9c66c0375.png",
+    "rect": [
+      830,
+      10,
+      405,
+      455
+    ],
+    "runtimePath": "game/assets/reviewed/a9c66c0375.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/015-development-r1/levels-1-4.png"
+    ]
+  },
+  "spices-3": {
+    "file": "assets/reviewed/a9c66c0375.png",
+    "rect": [
+      300,
+      505,
+      405,
+      455
+    ],
+    "runtimePath": "game/assets/reviewed/a9c66c0375.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/015-development-r1/levels-1-4.png"
+    ]
+  },
+  "spices-4": {
+    "file": "assets/reviewed/a9c66c0375.png",
+    "rect": [
+      830,
+      505,
+      405,
+      455
+    ],
+    "runtimePath": "game/assets/reviewed/a9c66c0375.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/015-development-r1/levels-1-4.png"
+    ]
+  },
+  "ore-tin": {
+    "file": "assets/reviewed/253-tin.png",
+    "rect": [
+      192,
+      171,
+      1152,
+      687
+    ],
+    "kind": "overlay",
+    "runtimePath": "game/assets/reviewed/253-tin.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/minerals-swamp-r253/tin.png"
+    ]
+  },
+  "ore-copper": {
+    "file": "assets/reviewed/253-copper.png",
+    "rect": [
+      192,
+      171,
+      1152,
+      689
+    ],
+    "kind": "overlay",
+    "runtimePath": "game/assets/reviewed/253-copper.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/minerals-swamp-r253/copper.png"
+    ]
+  },
+  "ore-iron": {
+    "file": "assets/reviewed/253-iron.png",
+    "rect": [
+      192,
+      172,
+      1152,
+      686
+    ],
+    "kind": "overlay",
+    "runtimePath": "game/assets/reviewed/253-iron.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/minerals-swamp-r253/iron.png"
+    ]
+  },
+  "ore-coal": {
+    "file": "assets/reviewed/253-coal.png",
+    "rect": [
+      192,
+      171,
+      1152,
+      689
+    ],
+    "kind": "overlay",
+    "runtimePath": "game/assets/reviewed/253-coal.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/minerals-swamp-r253/coal.png"
+    ]
+  },
+  "sheep-overlay": {
+    "file": "assets/reviewed/254-sheep.png",
+    "rect": [
+      585,
+      383,
+      342,
+      263
+    ],
+    "kind": "overlay",
+    "runtimePath": "game/assets/reviewed/254-sheep.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/shared-grass-sheep-r254/sheep.png"
+    ]
+  },
+  "grass-surface": {
+    "file": "assets/reviewed/254-grass.png",
+    "rect": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "kind": "texture",
+    "runtimePath": "game/assets/reviewed/254-grass.png",
+    "librarySources": [
+      "outputs/sprite-library-review/revisions/shared-grass-sheep-r254/grass.png"
+    ]
+  }
+}

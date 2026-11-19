@@ -1,0 +1,425 @@
+{
+  "scope": "Complete original50f810(3,40), with real city GDP; no stubs.",
+  "cases": [
+    {
+      "gdp": -2147483648,
+      "result": 3
+    },
+    {
+      "gdp": -1,
+      "result": 3
+    },
+    {
+      "gdp": 0,
+      "result": 3
+    },
+    {
+      "gdp": 1,
+      "result": 3
+    },
+    {
+      "gdp": 2,
+      "result": 3
+    },
+    {
+      "gdp": 3,
+      "result": 4
+    },
+    {
+      "gdp": 4,
+      "result": 4
+    },
+    {
+      "gdp": 5,
+      "result": 4
+    },
+    {
+      "gdp": 6,
+      "result": 5
+    },
+    {
+      "gdp": 7,
+      "result": 5
+    },
+    {
+      "gdp": 8,
+      "result": 6
+    },
+    {
+      "gdp": 9,
+      "result": 6
+    },
+    {
+      "gdp": 10,
+      "result": 6
+    },
+    {
+      "gdp": 11,
+      "result": 7
+    },
+    {
+      "gdp": 12,
+      "result": 7
+    },
+    {
+      "gdp": 13,
+      "result": 7
+    },
+    {
+      "gdp": 14,
+      "result": 8
+    },
+    {
+      "gdp": 15,
+      "result": 8
+    },
+    {
+      "gdp": 16,
+      "result": 9
+    },
+    {
+      "gdp": 17,
+      "result": 9
+    },
+    {
+      "gdp": 18,
+      "result": 9
+    },
+    {
+      "gdp": 19,
+      "result": 10
+    },
+    {
+      "gdp": 20,
+      "result": 10
+    },
+    {
+      "gdp": 21,
+      "result": 10
+    },
+    {
+      "gdp": 22,
+      "result": 11
+    },
+    {
+      "gdp": 23,
+      "result": 11
+    },
+    {
+      "gdp": 24,
+      "result": 12
+    },
+    {
+      "gdp": 25,
+      "result": 12
+    },
+    {
+      "gdp": 26,
+      "result": 12
+    },
+    {
+      "gdp": 27,
+      "result": 13
+    },
+    {
+      "gdp": 28,
+      "result": 13
+    },
+    {
+      "gdp": 29,
+      "result": 14
+    },
+    {
+      "gdp": 30,
+      "result": 14
+    },
+    {
+      "gdp": 31,
+      "result": 14
+    },
+    {
+      "gdp": 32,
+      "result": 15
+    },
+    {
+      "gdp": 33,
+      "result": 15
+    },
+    {
+      "gdp": 34,
+      "result": 15
+    },
+    {
+      "gdp": 35,
+      "result": 16
+    },
+    {
+      "gdp": 36,
+      "result": 16
+    },
+    {
+      "gdp": 37,
+      "result": 17
+    },
+    {
+      "gdp": 38,
+      "result": 17
+    },
+    {
+      "gdp": 39,
+      "result": 17
+    },
+    {
+      "gdp": 40,
+      "result": 18
+    },
+    {
+      "gdp": 41,
+      "result": 18
+    },
+    {
+      "gdp": 42,
+      "result": 18
+    },
+    {
+      "gdp": 43,
+      "result": 19
+    },
+    {
+      "gdp": 44,
+      "result": 19
+    },
+    {
+      "gdp": 45,
+      "result": 20
+    },
+    {
+      "gdp": 46,
+      "result": 20
+    },
+    {
+      "gdp": 47,
+      "result": 20
+    },
+    {
+      "gdp": 48,
+      "result": 21
+    },
+    {
+      "gdp": 49,
+      "result": 21
+    },
+    {
+      "gdp": 50,
+      "result": 22
+    },
+    {
+      "gdp": 51,
+      "result": 22
+    },
+    {
+      "gdp": 52,
+      "result": 22
+    },
+    {
+      "gdp": 53,
+      "result": 23
+    },
+    {
+      "gdp": 54,
+      "result": 23
+    },
+    {
+      "gdp": 55,
+      "result": 23
+    },
+    {
+      "gdp": 56,
+      "result": 24
+    },
+    {
+      "gdp": 57,
+      "result": 24
+    },
+    {
+      "gdp": 58,
+      "result": 25
+    },
+    {
+      "gdp": 59,
+      "result": 25
+    },
+    {
+      "gdp": 60,
+      "result": 25
+    },
+    {
+      "gdp": 61,
+      "result": 26
+    },
+    {
+      "gdp": 62,
+      "result": 26
+    },
+    {
+      "gdp": 63,
+      "result": 26
+    },
+    {
+      "gdp": 64,
+      "result": 27
+    },
+    {
+      "gdp": 65,
+      "result": 27
+    },
+    {
+      "gdp": 66,
+      "result": 28
+    },
+    {
+      "gdp": 67,
+      "result": 28
+    },
+    {
+      "gdp": 68,
+      "result": 28
+    },
+    {
+      "gdp": 69,
+      "result": 29
+    },
+    {
+      "gdp": 70,
+      "result": 29
+    },
+    {
+      "gdp": 71,
+      "result": 29
+    },
+    {
+      "gdp": 72,
+      "result": 30
+    },
+    {
+      "gdp": 73,
+      "result": 30
+    },
+    {
+      "gdp": 74,
+      "result": 31
+    },
+    {
+      "gdp": 75,
+      "result": 31
+    },
+    {
+      "gdp": 76,
+      "result": 31
+    },
+    {
+      "gdp": 77,
+      "result": 32
+    },
+    {
+      "gdp": 78,
+      "result": 32
+    },
+    {
+      "gdp": 79,
+      "result": 33
+    },
+    {
+      "gdp": 80,
+      "result": 33
+    },
+    {
+      "gdp": 81,
+      "result": 33
+    },
+    {
+      "gdp": 82,
+      "result": 34
+    },
+    {
+      "gdp": 83,
+      "result": 34
+    },
+    {
+      "gdp": 84,
+      "result": 34
+    },
+    {
+      "gdp": 85,
+      "result": 35
+    },
+    {
+      "gdp": 86,
+      "result": 35
+    },
+    {
+      "gdp": 87,
+      "result": 36
+    },
+    {
+      "gdp": 88,
+      "result": 36
+    },
+    {
+      "gdp": 89,
+      "result": 36
+    },
+    {
+      "gdp": 90,
+      "result": 37
+    },
+    {
+      "gdp": 91,
+      "result": 37
+    },
+    {
+      "gdp": 92,
+      "result": 37
+    },
+    {
+      "gdp": 93,
+      "result": 38
+    },
+    {
+      "gdp": 94,
+      "result": 38
+    },
+    {
+      "gdp": 95,
+      "result": 39
+    },
+    {
+      "gdp": 96,
+      "result": 39
+    },
+    {
+      "gdp": 97,
+      "result": 39
+    },
+    {
+      "gdp": 98,
+      "result": 40
+    },
+    {
+      "gdp": 99,
+      "result": 40
+    },
+    {
+      "gdp": 100,
+      "result": 40
+    },
+    {
+      "gdp": 101,
+      "result": 40
+    },
+    {
+      "gdp": 2147483647,
+      "result": 40
+    }
+  ]
+}

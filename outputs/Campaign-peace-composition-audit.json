@@ -1,0 +1,29 @@
+{
+  "scope": "Read-only campaign peace-decision composition; not enabled in live diplomacy",
+  "sourceRoutines": {
+    "acceptance": "50e860",
+    "threat": "50ec90",
+    "sharedProvinceBorder": "555fd0 via4091b0",
+    "warSupportGetter": "503300 reads country+cb8"
+  },
+  "sourceInspection": [
+    "555fd0 scans recipient-owned province adjacency and compares neighbor ownership; no Old World restriction",
+    "50ec90 selects border/nonborder strength once from the negotiating pair and uses the same branch for all other active Great Power enemies",
+    "50e860 uses country war support and minister acceptance/force thresholds, retaining alliances unless pressure exceeds the extra threshold"
+  ],
+  "implementation": "game/campaign-peace-decision.mjs",
+  "verification": {
+    "focusedTests": 8,
+    "failed": 0,
+    "nativeAcceptanceCases": 756,
+    "nativeThreatCases": 288,
+    "log": "work/rebuild-v2/campaign-peace-adapter.txt"
+  },
+  "limitations": [
+    "Shared-border routine inspected but no new independent execution fixture for that routine in this increment",
+    "Strategic strengths must be explicitly supplied from verified forecasts; no guessed army-count fallback",
+    "Live interior planning refresh, purchased-foreign-land planning contexts and treaty scheduling remain unfinished",
+    "Alliances are supplied to this read-only evaluator; no live alliance creation/breaking is implemented",
+    "APK remains3-179 and does not invoke this new adapter"
+  ]
+}

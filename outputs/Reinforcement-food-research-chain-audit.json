@@ -1,0 +1,54 @@
+{
+  "scope": "Four continuing public-command campaign turns, without resource grants or disabled opponents",
+  "turns": [
+    {
+      "turn": 157,
+      "workers": 13,
+      "labour": 19,
+      "cash": 471,
+      "funding": 800,
+      "meatDelivered": 8,
+      "pastureLevel": 2,
+      "armies": 5
+    },
+    {
+      "turn": 158,
+      "workers": 12,
+      "labour": 18,
+      "cash": 246,
+      "funding": 800,
+      "meatDelivered": 8,
+      "pastureLevel": 2,
+      "armies": 6
+    },
+    {
+      "turn": 159,
+      "workers": 13,
+      "labour": 19,
+      "cash": 1107,
+      "funding": 800,
+      "meatDelivered": 8,
+      "pastureLevel": 3,
+      "armies": 6
+    },
+    {
+      "turn": 160,
+      "workers": 13,
+      "labour": 19,
+      "cash": 103,
+      "funding": 1200,
+      "meatDelivered": 9,
+      "pastureLevel": 3,
+      "armies": 6
+    }
+  ],
+  "newRegiment": "a1089",
+  "completedTech": "65",
+  "limits": [
+    "Actual meat delivery increases the turn AFTER development finishes",
+    "No battles happened during these four turns",
+    "Cash103 at end; export demand varies, funding requires ongoing management",
+    "Headless campaign validation, not touch or physical Pixel play",
+    "Not completed campaign or victory evidence"
+  ]
+}

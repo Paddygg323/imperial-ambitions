@@ -1,0 +1,3552 @@
+{
+  "scope": "Execute original foreign-minister dispatch, without simulating its subroutines.\n5248f5..524933 visits computer Great Powers in reverse original index order.\n519340 delegates to minister slot44 only with country+b9c present.\n571140 runs initial-turn hooks and skips automatic proposal slot68 for humans.\nThis verifies these dispatch blocks, not the entire surrounding turn pipeline.\n",
+  "ministerCases": [
+    {
+      "turn": 0,
+      "human": false,
+      "ministerEnabled": false,
+      "slots": []
+    },
+    {
+      "turn": 0,
+      "human": false,
+      "ministerEnabled": true,
+      "slots": [
+        "0x58",
+        "0x68",
+        "0x54",
+        "0x48"
+      ]
+    },
+    {
+      "turn": 0,
+      "human": true,
+      "ministerEnabled": false,
+      "slots": []
+    },
+    {
+      "turn": 0,
+      "human": true,
+      "ministerEnabled": true,
+      "slots": [
+        "0x58",
+        "0x54",
+        "0x48"
+      ]
+    },
+    {
+      "turn": 1,
+      "human": false,
+      "ministerEnabled": false,
+      "slots": []
+    },
+    {
+      "turn": 1,
+      "human": false,
+      "ministerEnabled": true,
+      "slots": [
+        "0x4c",
+        "0x58",
+        "0x68",
+        "0x54",
+        "0x48"
+      ]
+    },
+    {
+      "turn": 1,
+      "human": true,
+      "ministerEnabled": false,
+      "slots": []
+    },
+    {
+      "turn": 1,
+      "human": true,
+      "ministerEnabled": true,
+      "slots": [
+        "0x4c",
+        "0x58",
+        "0x54",
+        "0x48"
+      ]
+    },
+    {
+      "turn": 2,
+      "human": false,
+      "ministerEnabled": false,
+      "slots": []
+    },
+    {
+      "turn": 2,
+      "human": false,
+      "ministerEnabled": true,
+      "slots": [
+        "0x50",
+        "0x58",
+        "0x68",
+        "0x54",
+        "0x48"
+      ]
+    },
+    {
+      "turn": 2,
+      "human": true,
+      "ministerEnabled": false,
+      "slots": []
+    },
+    {
+      "turn": 2,
+      "human": true,
+      "ministerEnabled": true,
+      "slots": [
+        "0x50",
+        "0x58",
+        "0x54",
+        "0x48"
+      ]
+    },
+    {
+      "turn": 3,
+      "human": false,
+      "ministerEnabled": false,
+      "slots": []
+    },
+    {
+      "turn": 3,
+      "human": false,
+      "ministerEnabled": true,
+      "slots": [
+        "0x58",
+        "0x68",
+        "0x54",
+        "0x48"
+      ]
+    },
+    {
+      "turn": 3,
+      "human": true,
+      "ministerEnabled": false,
+      "slots": []
+    },
+    {
+      "turn": 3,
+      "human": true,
+      "ministerEnabled": true,
+      "slots": [
+        "0x58",
+        "0x54",
+        "0x48"
+      ]
+    },
+    {
+      "turn": 6,
+      "human": false,
+      "ministerEnabled": false,
+      "slots": []
+    },
+    {
+      "turn": 6,
+      "human": false,
+      "ministerEnabled": true,
+      "slots": [
+        "0x58",
+        "0x68",
+        "0x54",
+        "0x48"
+      ]
+    },
+    {
+      "turn": 6,
+      "human": true,
+      "ministerEnabled": false,
+      "slots": []
+    },
+    {
+      "turn": 6,
+      "human": true,
+      "ministerEnabled": true,
+      "slots": [
+        "0x58",
+        "0x54",
+        "0x48"
+      ]
+    }
+  ],
+  "countryScans": [
+    {
+      "multiplayer": false,
+      "simulationGate": false,
+      "humanIndices": [],
+      "missing": [],
+      "visits": [
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "multiplayer": false,
+      "simulationGate": false,
+      "humanIndices": [],
+      "missing": [
+        2,
+        5
+      ],
+      "visits": [
+        4,
+        3,
+        1,
+        0
+      ]
+    },
+    {
+      "multiplayer": false,
+      "simulationGate": false,
+      "humanIndices": [
+        0
+      ],
+      "missing": [],
+      "visits": [
+        5,
+        4,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "multiplayer": false,
+      "simulationGate": false,
+      "humanIndices": [
+        0
+      ],
+      "missing": [
+        2,
+        5
+      ],
+      "visits": [
+        4,
+        3,
+        1
+      ]
+    },
+    {
+      "multiplayer": false,
+      "simulationGate": false,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "missing": [],
+      "visits": [
+        5,
+        4,
+        2,
+        1
+      ]
+    },
+    {
+      "multiplayer": false,
+      "simulationGate": false,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "missing": [
+        2,
+        5
+      ],
+      "visits": [
+        4,
+        1
+      ]
+    },
+    {
+      "multiplayer": false,
+      "simulationGate": true,
+      "humanIndices": [],
+      "missing": [],
+      "visits": []
+    },
+    {
+      "multiplayer": false,
+      "simulationGate": true,
+      "humanIndices": [],
+      "missing": [
+        2,
+        5
+      ],
+      "visits": []
+    },
+    {
+      "multiplayer": false,
+      "simulationGate": true,
+      "humanIndices": [
+        0
+      ],
+      "missing": [],
+      "visits": []
+    },
+    {
+      "multiplayer": false,
+      "simulationGate": true,
+      "humanIndices": [
+        0
+      ],
+      "missing": [
+        2,
+        5
+      ],
+      "visits": []
+    },
+    {
+      "multiplayer": false,
+      "simulationGate": true,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "missing": [],
+      "visits": []
+    },
+    {
+      "multiplayer": false,
+      "simulationGate": true,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "missing": [
+        2,
+        5
+      ],
+      "visits": []
+    },
+    {
+      "multiplayer": true,
+      "simulationGate": false,
+      "humanIndices": [],
+      "missing": [],
+      "visits": []
+    },
+    {
+      "multiplayer": true,
+      "simulationGate": false,
+      "humanIndices": [],
+      "missing": [
+        2,
+        5
+      ],
+      "visits": []
+    },
+    {
+      "multiplayer": true,
+      "simulationGate": false,
+      "humanIndices": [
+        0
+      ],
+      "missing": [],
+      "visits": []
+    },
+    {
+      "multiplayer": true,
+      "simulationGate": false,
+      "humanIndices": [
+        0
+      ],
+      "missing": [
+        2,
+        5
+      ],
+      "visits": []
+    },
+    {
+      "multiplayer": true,
+      "simulationGate": false,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "missing": [],
+      "visits": []
+    },
+    {
+      "multiplayer": true,
+      "simulationGate": false,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "missing": [
+        2,
+        5
+      ],
+      "visits": []
+    },
+    {
+      "multiplayer": true,
+      "simulationGate": true,
+      "humanIndices": [],
+      "missing": [],
+      "visits": []
+    },
+    {
+      "multiplayer": true,
+      "simulationGate": true,
+      "humanIndices": [],
+      "missing": [
+        2,
+        5
+      ],
+      "visits": []
+    },
+    {
+      "multiplayer": true,
+      "simulationGate": true,
+      "humanIndices": [
+        0
+      ],
+      "missing": [],
+      "visits": []
+    },
+    {
+      "multiplayer": true,
+      "simulationGate": true,
+      "humanIndices": [
+        0
+      ],
+      "missing": [
+        2,
+        5
+      ],
+      "visits": []
+    },
+    {
+      "multiplayer": true,
+      "simulationGate": true,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "missing": [],
+      "visits": []
+    },
+    {
+      "multiplayer": true,
+      "simulationGate": true,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "missing": [
+        2,
+        5
+      ],
+      "visits": []
+    }
+  ],
+  "dispatchChains": [
+    {
+      "turn": 0,
+      "humanIndices": [
+        0
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 0,
+      "humanIndices": [
+        1
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 0,
+          "slot": "0x58"
+        },
+        {
+          "country": 0,
+          "slot": "0x68"
+        },
+        {
+          "country": 0,
+          "slot": "0x54"
+        },
+        {
+          "country": 0,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 0,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 1,
+      "humanIndices": [
+        0
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x4c"
+        },
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x4c"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x4c"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x4c"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x4c"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 1,
+      "humanIndices": [
+        1
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x4c"
+        },
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x4c"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x4c"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x4c"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 0,
+          "slot": "0x4c"
+        },
+        {
+          "country": 0,
+          "slot": "0x58"
+        },
+        {
+          "country": 0,
+          "slot": "0x68"
+        },
+        {
+          "country": 0,
+          "slot": "0x54"
+        },
+        {
+          "country": 0,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 1,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x4c"
+        },
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x4c"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x4c"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x4c"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "humanIndices": [
+        0
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x50"
+        },
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x50"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x50"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x50"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x50"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "humanIndices": [
+        1
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x50"
+        },
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x50"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x50"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x50"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 0,
+          "slot": "0x50"
+        },
+        {
+          "country": 0,
+          "slot": "0x58"
+        },
+        {
+          "country": 0,
+          "slot": "0x68"
+        },
+        {
+          "country": 0,
+          "slot": "0x54"
+        },
+        {
+          "country": 0,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x50"
+        },
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x50"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x50"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x50"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "humanIndices": [
+        0
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "humanIndices": [
+        1
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 0,
+          "slot": "0x58"
+        },
+        {
+          "country": 0,
+          "slot": "0x68"
+        },
+        {
+          "country": 0,
+          "slot": "0x54"
+        },
+        {
+          "country": 0,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "humanIndices": [
+        0
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "humanIndices": [
+        1
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 0,
+          "slot": "0x58"
+        },
+        {
+          "country": 0,
+          "slot": "0x68"
+        },
+        {
+          "country": 0,
+          "slot": "0x54"
+        },
+        {
+          "country": 0,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "humanIndices": [
+        0
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "humanIndices": [
+        1
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 0,
+          "slot": "0x58"
+        },
+        {
+          "country": 0,
+          "slot": "0x68"
+        },
+        {
+          "country": 0,
+          "slot": "0x54"
+        },
+        {
+          "country": 0,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "humanIndices": [
+        0
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "humanIndices": [
+        1
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 0,
+          "slot": "0x58"
+        },
+        {
+          "country": 0,
+          "slot": "0x68"
+        },
+        {
+          "country": 0,
+          "slot": "0x54"
+        },
+        {
+          "country": 0,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "humanIndices": [
+        0
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "humanIndices": [
+        1
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 0,
+          "slot": "0x58"
+        },
+        {
+          "country": 0,
+          "slot": "0x68"
+        },
+        {
+          "country": 0,
+          "slot": "0x54"
+        },
+        {
+          "country": 0,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "humanIndices": [
+        0
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "humanIndices": [
+        1
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 0,
+          "slot": "0x58"
+        },
+        {
+          "country": 0,
+          "slot": "0x68"
+        },
+        {
+          "country": 0,
+          "slot": "0x54"
+        },
+        {
+          "country": 0,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 9,
+      "humanIndices": [
+        0
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 9,
+      "humanIndices": [
+        1
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 0,
+          "slot": "0x58"
+        },
+        {
+          "country": 0,
+          "slot": "0x68"
+        },
+        {
+          "country": 0,
+          "slot": "0x54"
+        },
+        {
+          "country": 0,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 9,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 10,
+      "humanIndices": [
+        0
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 10,
+      "humanIndices": [
+        1
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 0,
+          "slot": "0x58"
+        },
+        {
+          "country": 0,
+          "slot": "0x68"
+        },
+        {
+          "country": 0,
+          "slot": "0x54"
+        },
+        {
+          "country": 0,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 10,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 11,
+      "humanIndices": [
+        0
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 11,
+      "humanIndices": [
+        1
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 3,
+          "slot": "0x58"
+        },
+        {
+          "country": 3,
+          "slot": "0x68"
+        },
+        {
+          "country": 3,
+          "slot": "0x54"
+        },
+        {
+          "country": 3,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 0,
+          "slot": "0x58"
+        },
+        {
+          "country": 0,
+          "slot": "0x68"
+        },
+        {
+          "country": 0,
+          "slot": "0x54"
+        },
+        {
+          "country": 0,
+          "slot": "0x48"
+        }
+      ]
+    },
+    {
+      "turn": 11,
+      "humanIndices": [
+        0,
+        3
+      ],
+      "events": [
+        {
+          "country": 5,
+          "slot": "0x58"
+        },
+        {
+          "country": 5,
+          "slot": "0x68"
+        },
+        {
+          "country": 5,
+          "slot": "0x54"
+        },
+        {
+          "country": 5,
+          "slot": "0x48"
+        },
+        {
+          "country": 4,
+          "slot": "0x58"
+        },
+        {
+          "country": 4,
+          "slot": "0x68"
+        },
+        {
+          "country": 4,
+          "slot": "0x54"
+        },
+        {
+          "country": 4,
+          "slot": "0x48"
+        },
+        {
+          "country": 2,
+          "slot": "0x58"
+        },
+        {
+          "country": 2,
+          "slot": "0x68"
+        },
+        {
+          "country": 2,
+          "slot": "0x54"
+        },
+        {
+          "country": 2,
+          "slot": "0x48"
+        },
+        {
+          "country": 1,
+          "slot": "0x58"
+        },
+        {
+          "country": 1,
+          "slot": "0x68"
+        },
+        {
+          "country": 1,
+          "slot": "0x54"
+        },
+        {
+          "country": 1,
+          "slot": "0x48"
+        }
+      ]
+    }
+  ]
+}

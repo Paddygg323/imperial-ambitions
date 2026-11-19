@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Sprite Library · Review Edition</title>
+  <link rel="stylesheet" href="library.css">
+  <script defer src="catalog.js"></script><script defer src="library.js"></script>
+</head>
+<body>
+  <header>
+    <div class="eyebrow">IMPERIAL AMBITIONS · ART WORKSHOP</div>
+    <div class="heading-row"><h1>Sprite library</h1><span class="review-badge">Designer handover · runtime 254</span></div>
+    <p>The supplied artwork, ready to review one sprite at a time. 97 original sprites plus reviewed alternatives and terrain development stages.</p>
+    <div class="header-links"><a href="https://chatgpt.com/s/m_6afc4d27d1f081919eddec91d085ab49" target="_blank" rel="noopener">Original collection ↗</a><a href="manifest.json" download>Download index</a><button id="export">Export review notes</button></div>
+  </header>
+  <main>
+    <section class="toolbar" aria-label="Library controls">
+      <label class="search">Find a sprite<input id="search" type="search" placeholder="Number or name — e.g. 061 or explorer" autocomplete="off"></label>
+      <label>Category<select id="category"><option value="">All categories</option></select></label>
+      <label>View<select id="view"><option value="sprites">Individual sprites</option><option value="sheets">Original sheets</option><option value="alternatives">Standalone alternatives</option><option value="marked">Marked for changes</option></select></label>
+      <label>Card size<input id="size" type="range" min="170" max="360" value="250"></label>
+    </section>
+    <div class="result-row"><p id="count" aria-live="polite"></p><span>Click any sprite to enlarge, compare or leave a note.</span></div>
+    <section id="grid" class="grid" aria-label="Sprite catalog"></section>
+    <p id="empty" hidden>No matching sprites. Try a different name or category.</p>
+    <footer>Originals and revisions preserved. Some terrain/resource sprites are live; other entries remain references. See docs/live-sprite-map.json in the repository. Overall visual design is not yet accepted.</footer>
+  </main>
+  <dialog id="detail" aria-labelledby="detail-title">
+    <div class="detail-header"><div><span id="detail-category" class="eyebrow"></span><h2 id="detail-title"></h2></div><button id="close" aria-label="Close sprite details">✕</button></div>
+    <div class="detail-body">
+      <div class="art-panel"><div id="art" class="detail-art"></div><div class="art-controls"><label><input id="caption" type="checkbox"> Show source caption</label><label><input id="pixels" type="checkbox" checked> Crisp pixels</label><label>Size <select id="zoom"><option value="fit">Fit</option><option value="1">Actual pixels</option><option value="2">2× pixels</option></select></label></div><div id="variant-links"></div></div>
+      <aside>
+        <p id="source-info"></p><a id="source-link" target="_blank" rel="noopener">Open unchanged source sheet ↗</a>
+        <label class="field">Your review<select id="review-status"><option>Awaiting review</option><option>Needs change</option><option>Keep as supplied</option></select></label>
+        <label class="field">What should change?<textarea id="note" rows="7" placeholder="Describe the changes you want for this sprite…"></textarea></label>
+        <p id="save-status" class="muted" aria-live="polite">Notes stay in this browser. Nothing is sent or published.</p>
+        <p class="muted">This is reference artwork. The background and hex base are retained exactly as supplied.</p>
+      </aside>
+    </div>
+    <div class="detail-nav"><button id="previous">← Previous</button><span id="position"></span><button id="next">Next →</button></div>
+  </dialog>
+</body>
+</html>
+

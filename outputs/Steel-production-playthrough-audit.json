@@ -1,0 +1,82 @@
+{
+  "checks": 60,
+  "turn": 126,
+  "year": 1726,
+  "coalDelivered": 12,
+  "steelMade": 12,
+  "known": [
+    "8",
+    "11",
+    "7",
+    "9",
+    "26",
+    "38",
+    "30",
+    "35",
+    "27",
+    "36",
+    "39",
+    "22",
+    "45",
+    "10",
+    "31",
+    "0",
+    "61",
+    "12",
+    "47",
+    "50",
+    "13",
+    "46",
+    "29",
+    "23",
+    "51",
+    "57",
+    "41",
+    "1",
+    "37",
+    "48",
+    "56",
+    "14",
+    "15",
+    "59",
+    "52",
+    "42",
+    "49",
+    "53",
+    "60",
+    "16",
+    "25",
+    "66",
+    "24"
+  ],
+  "projects": [
+    {
+      "tech": "73",
+      "funding": 400,
+      "investment": 3200,
+      "progress": 0.3261447548866272
+    },
+    {
+      "tech": "72",
+      "funding": 400,
+      "investment": 2800,
+      "progress": 0.28239312767982483
+    },
+    {
+      "tech": "82",
+      "funding": 500,
+      "investment": 3000,
+      "progress": 0.38110822439193726
+    },
+    {
+      "tech": "84",
+      "funding": 500,
+      "investment": 2500,
+      "progress": 0.18573547899723053
+    }
+  ],
+  "scope": "Public-command coal development/road connection and research toward steel",
+  "limits": [
+    "Headless campaign, not complete game or Pixel test"
+  ]
+}

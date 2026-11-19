@@ -1,0 +1,11 @@
+Research screen revision 245 — 17 November 2026
+
+Implemented: original-style two-panel parchment research desk, current goal, all project slots, visible per-project funding steppers and estimated turns. Six presentation categories, available/discovered/all views, live search, small foreign-knowledge flags, prerequisite details, goal selection/clearing. Desktop shows nine available rows in the isolated test fixture. Narrow phone layout stacks; short landscape catalogue has independent scrolling with filters accessible.
+
+Research engine rules were not changed. Category grouping uses extracted effect families; exact original category membership has not been independently established.
+
+Validation: isolated Chromium categories/search/goal/start/funding/reload/empty slots and 360/412/915/1448 layouts passed. Foreign flag fixture present. Ten research rule tests passed. Idle-news and default funding tests passed. Offline cached research navigation passed. Android APK signature and bundled assets verified; unsigned AAB validated (version245). No physical Pixel validation of this revision.
+
+Claude review identified short-landscape filtering, wrapping, density, and flag evidence concerns. Wrapping and density were corrected before review returned; landscape list scrolling and flag fixture added afterward. Treasury summary remains collapsed intentionally; project funding is always visible.
+
+Campaign saves were not modified by tests. Public browser publication uses only standalone game files, not user saves or original PC binaries. Overall store readiness is not claimed.

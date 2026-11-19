@@ -1,0 +1,1251 @@
+{
+  "scope": "Native525d20 war-to-peace treaty transition; actual524030 relation setter.\nIndependent countries; colony/treaty notifications captured, not executed.\nCountry policy setter calls captured. UI not invoked and no game files changed.\n",
+  "cases": [
+    {
+      "a": 0,
+      "b": 2,
+      "prior": 0,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 2,
+          "policy": 100
+        },
+        {
+          "nation": 2,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 2,
+      "prior": 1,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 2,
+          "policy": 100
+        },
+        {
+          "nation": 2,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 2,
+      "prior": 49,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 2,
+          "policy": 100
+        },
+        {
+          "nation": 2,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 2,
+      "prior": 50,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 2,
+          "policy": 100
+        },
+        {
+          "nation": 2,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 2,
+      "prior": 90,
+      "relation": 90,
+      "reverse": 90,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 2,
+          "policy": 100
+        },
+        {
+          "nation": 2,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 2,
+      "prior": 200,
+      "relation": 200,
+      "reverse": 200,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 2,
+          "policy": 100
+        },
+        {
+          "nation": 2,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 2,
+      "prior": 255,
+      "relation": 255,
+      "reverse": 255,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 2,
+          "policy": 100
+        },
+        {
+          "nation": 2,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 6,
+      "prior": 0,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 6,
+          "policy": 100
+        },
+        {
+          "nation": 6,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 6,
+      "prior": 1,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 6,
+          "policy": 100
+        },
+        {
+          "nation": 6,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 6,
+      "prior": 49,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 6,
+          "policy": 100
+        },
+        {
+          "nation": 6,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 6,
+      "prior": 50,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 6,
+          "policy": 100
+        },
+        {
+          "nation": 6,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 6,
+      "prior": 90,
+      "relation": 90,
+      "reverse": 90,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 6,
+          "policy": 100
+        },
+        {
+          "nation": 6,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 6,
+      "prior": 200,
+      "relation": 200,
+      "reverse": 200,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 6,
+          "policy": 100
+        },
+        {
+          "nation": 6,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 6,
+      "prior": 255,
+      "relation": 255,
+      "reverse": 255,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 6,
+          "policy": 100
+        },
+        {
+          "nation": 6,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 7,
+      "prior": 0,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 7,
+          "policy": 100
+        },
+        {
+          "nation": 7,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 7,
+      "prior": 1,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 7,
+          "policy": 100
+        },
+        {
+          "nation": 7,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 7,
+      "prior": 49,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 7,
+          "policy": 100
+        },
+        {
+          "nation": 7,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 7,
+      "prior": 50,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 7,
+          "policy": 100
+        },
+        {
+          "nation": 7,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 7,
+      "prior": 90,
+      "relation": 90,
+      "reverse": 90,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 7,
+          "policy": 100
+        },
+        {
+          "nation": 7,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 7,
+      "prior": 200,
+      "relation": 200,
+      "reverse": 200,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 7,
+          "policy": 100
+        },
+        {
+          "nation": 7,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 7,
+      "prior": 255,
+      "relation": 255,
+      "reverse": 255,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 7,
+          "policy": 100
+        },
+        {
+          "nation": 7,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 11,
+      "prior": 0,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 11,
+          "policy": 100
+        },
+        {
+          "nation": 11,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 11,
+      "prior": 1,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 11,
+          "policy": 100
+        },
+        {
+          "nation": 11,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 11,
+      "prior": 49,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 11,
+          "policy": 100
+        },
+        {
+          "nation": 11,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 11,
+      "prior": 50,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 11,
+          "policy": 100
+        },
+        {
+          "nation": 11,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 11,
+      "prior": 90,
+      "relation": 90,
+      "reverse": 90,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 11,
+          "policy": 100
+        },
+        {
+          "nation": 11,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 11,
+      "prior": 200,
+      "relation": 200,
+      "reverse": 200,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 11,
+          "policy": 100
+        },
+        {
+          "nation": 11,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 11,
+      "prior": 255,
+      "relation": 255,
+      "reverse": 255,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 0,
+          "target": 11,
+          "policy": 100
+        },
+        {
+          "nation": 11,
+          "target": 0,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 0,
+      "b": 12,
+      "prior": 0,
+      "relation": 0,
+      "reverse": 0,
+      "treaty": 4,
+      "policies": []
+    },
+    {
+      "a": 0,
+      "b": 12,
+      "prior": 1,
+      "relation": 1,
+      "reverse": 1,
+      "treaty": 4,
+      "policies": []
+    },
+    {
+      "a": 0,
+      "b": 12,
+      "prior": 49,
+      "relation": 49,
+      "reverse": 49,
+      "treaty": 4,
+      "policies": []
+    },
+    {
+      "a": 0,
+      "b": 12,
+      "prior": 50,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": []
+    },
+    {
+      "a": 0,
+      "b": 12,
+      "prior": 90,
+      "relation": 90,
+      "reverse": 90,
+      "treaty": 4,
+      "policies": []
+    },
+    {
+      "a": 0,
+      "b": 12,
+      "prior": 200,
+      "relation": 200,
+      "reverse": 200,
+      "treaty": 4,
+      "policies": []
+    },
+    {
+      "a": 0,
+      "b": 12,
+      "prior": 255,
+      "relation": 255,
+      "reverse": 255,
+      "treaty": 4,
+      "policies": []
+    },
+    {
+      "a": 1,
+      "b": 2,
+      "prior": 0,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 2,
+          "policy": 100
+        },
+        {
+          "nation": 2,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 2,
+      "prior": 1,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 2,
+          "policy": 100
+        },
+        {
+          "nation": 2,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 2,
+      "prior": 49,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 2,
+          "policy": 100
+        },
+        {
+          "nation": 2,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 2,
+      "prior": 50,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 2,
+          "policy": 100
+        },
+        {
+          "nation": 2,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 2,
+      "prior": 90,
+      "relation": 90,
+      "reverse": 90,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 2,
+          "policy": 100
+        },
+        {
+          "nation": 2,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 2,
+      "prior": 200,
+      "relation": 200,
+      "reverse": 200,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 2,
+          "policy": 100
+        },
+        {
+          "nation": 2,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 2,
+      "prior": 255,
+      "relation": 255,
+      "reverse": 255,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 2,
+          "policy": 100
+        },
+        {
+          "nation": 2,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 6,
+      "prior": 0,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 6,
+          "policy": 100
+        },
+        {
+          "nation": 6,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 6,
+      "prior": 1,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 6,
+          "policy": 100
+        },
+        {
+          "nation": 6,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 6,
+      "prior": 49,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 6,
+          "policy": 100
+        },
+        {
+          "nation": 6,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 6,
+      "prior": 50,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 6,
+          "policy": 100
+        },
+        {
+          "nation": 6,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 6,
+      "prior": 90,
+      "relation": 90,
+      "reverse": 90,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 6,
+          "policy": 100
+        },
+        {
+          "nation": 6,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 6,
+      "prior": 200,
+      "relation": 200,
+      "reverse": 200,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 6,
+          "policy": 100
+        },
+        {
+          "nation": 6,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 6,
+      "prior": 255,
+      "relation": 255,
+      "reverse": 255,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 6,
+          "policy": 100
+        },
+        {
+          "nation": 6,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 7,
+      "prior": 0,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 7,
+          "policy": 100
+        },
+        {
+          "nation": 7,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 7,
+      "prior": 1,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 7,
+          "policy": 100
+        },
+        {
+          "nation": 7,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 7,
+      "prior": 49,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 7,
+          "policy": 100
+        },
+        {
+          "nation": 7,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 7,
+      "prior": 50,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 7,
+          "policy": 100
+        },
+        {
+          "nation": 7,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 7,
+      "prior": 90,
+      "relation": 90,
+      "reverse": 90,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 7,
+          "policy": 100
+        },
+        {
+          "nation": 7,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 7,
+      "prior": 200,
+      "relation": 200,
+      "reverse": 200,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 7,
+          "policy": 100
+        },
+        {
+          "nation": 7,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 7,
+      "prior": 255,
+      "relation": 255,
+      "reverse": 255,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 7,
+          "policy": 100
+        },
+        {
+          "nation": 7,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 11,
+      "prior": 0,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 11,
+          "policy": 100
+        },
+        {
+          "nation": 11,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 11,
+      "prior": 1,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 11,
+          "policy": 100
+        },
+        {
+          "nation": 11,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 11,
+      "prior": 49,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 11,
+          "policy": 100
+        },
+        {
+          "nation": 11,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 11,
+      "prior": 50,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 11,
+          "policy": 100
+        },
+        {
+          "nation": 11,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 11,
+      "prior": 90,
+      "relation": 90,
+      "reverse": 90,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 11,
+          "policy": 100
+        },
+        {
+          "nation": 11,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 11,
+      "prior": 200,
+      "relation": 200,
+      "reverse": 200,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 11,
+          "policy": 100
+        },
+        {
+          "nation": 11,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 11,
+      "prior": 255,
+      "relation": 255,
+      "reverse": 255,
+      "treaty": 4,
+      "policies": [
+        {
+          "nation": 1,
+          "target": 11,
+          "policy": 100
+        },
+        {
+          "nation": 11,
+          "target": 1,
+          "policy": 100
+        }
+      ]
+    },
+    {
+      "a": 1,
+      "b": 12,
+      "prior": 0,
+      "relation": 0,
+      "reverse": 0,
+      "treaty": 4,
+      "policies": []
+    },
+    {
+      "a": 1,
+      "b": 12,
+      "prior": 1,
+      "relation": 1,
+      "reverse": 1,
+      "treaty": 4,
+      "policies": []
+    },
+    {
+      "a": 1,
+      "b": 12,
+      "prior": 49,
+      "relation": 49,
+      "reverse": 49,
+      "treaty": 4,
+      "policies": []
+    },
+    {
+      "a": 1,
+      "b": 12,
+      "prior": 50,
+      "relation": 50,
+      "reverse": 50,
+      "treaty": 4,
+      "policies": []
+    },
+    {
+      "a": 1,
+      "b": 12,
+      "prior": 90,
+      "relation": 90,
+      "reverse": 90,
+      "treaty": 4,
+      "policies": []
+    },
+    {
+      "a": 1,
+      "b": 12,
+      "prior": 200,
+      "relation": 200,
+      "reverse": 200,
+      "treaty": 4,
+      "policies": []
+    },
+    {
+      "a": 1,
+      "b": 12,
+      "prior": 255,
+      "relation": 255,
+      "reverse": 255,
+      "treaty": 4,
+      "policies": []
+    }
+  ]
+}

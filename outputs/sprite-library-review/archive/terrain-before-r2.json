@@ -1,0 +1,106 @@
+[
+  {
+    "id": "004",
+    "number": 4,
+    "name": "Mountains",
+    "category": "Terrain & resource tiles",
+    "sheet": 1,
+    "image": "originals/01-terrain.png",
+    "sheetWidth": 1983,
+    "sheetHeight": 793,
+    "cell": [
+      1190,
+      0,
+      396,
+      396
+    ],
+    "preview": [
+      1192,
+      50,
+      392,
+      344
+    ],
+    "variant": false,
+    "relatedId": null,
+    "status": "Awaiting review",
+    "revision": 0
+  },
+  {
+    "id": "004-r1",
+    "number": 4,
+    "name": "Mountains from above \u2014 revision 1",
+    "category": "Terrain revisions",
+    "sheet": 23,
+    "image": "revisions/terrain-r1/004-r1.png",
+    "sheetWidth": 1254,
+    "sheetHeight": 1254,
+    "cell": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "preview": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "variant": true,
+    "relatedId": "004",
+    "status": "Awaiting review",
+    "revision": 1
+  },
+  {
+    "id": "005",
+    "number": 5,
+    "name": "Swamp",
+    "category": "Terrain & resource tiles",
+    "sheet": 1,
+    "image": "originals/01-terrain.png",
+    "sheetWidth": 1983,
+    "sheetHeight": 793,
+    "cell": [
+      1586,
+      0,
+      397,
+      396
+    ],
+    "preview": [
+      1588,
+      50,
+      393,
+      344
+    ],
+    "variant": false,
+    "relatedId": null,
+    "status": "Awaiting review",
+    "revision": 0
+  },
+  {
+    "id": "005-r1",
+    "number": 5,
+    "name": "Boggy swamp \u2014 revision 1",
+    "category": "Terrain revisions",
+    "sheet": 24,
+    "image": "revisions/terrain-r1/005-r1.png",
+    "sheetWidth": 1254,
+    "sheetHeight": 1254,
+    "cell": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "preview": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "variant": true,
+    "relatedId": "005",
+    "status": "Awaiting review",
+    "revision": 1
+  }
+]

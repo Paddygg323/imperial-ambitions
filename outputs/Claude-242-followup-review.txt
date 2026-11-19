@@ -1,0 +1,27 @@
+I read the actual files in `outputs/royal-review/runtime242` (not a diff — there's no git history here, so I'm reviewing the code as it stands) plus the four screenshots and the three reference images.
+
+## Correctness findings
+
+**1. Native read failures silently disable the one recovery action meant for them** (`game/save-recovery.mjs:10-13` + `android/.../MainActivity.java:36-41`)
+`readStoredCampaign` only captures `raw` from `storage.getItem(key)`'s return value; `raw` stays `null` if `getItem` *throws* instead of returning a bad string. But `campaignStorage.getItem` (`save-recovery.mjs:5`) calls `bridge.readSave(key)` with no try/catch, and `readSave` in Java throws `IllegalStateException` on any `IOException` (line 40) — i.e. exactly the "on-disk corruption" case AtomicFile was introduced to guard against. When that happens, `failure.raw` is `null`, so `mountSaveRecovery` disables the "Export original save" button (`save-recovery.mjs:21`). The one failure mode this patch specifically targets (native file corruption) is the one case where the user can't export the broken save — they can only restore-previous or start over. A JSON-parse failure on a successfully-read string still preserves `raw` fine; it's specifically the native-throw path that loses it.
+
+**2. The native save-key allowlist is a hand-duplicated literal, not derived from the JS constant** (`MainActivity.java:31` regex `imp2-rebuild-v3(?:-previous|-recovery-...)?` vs `app.mjs:46` `const SAVE='imp2-rebuild-v3'`)
+Nothing ties these together. The next time the save format version bumps (`v3`→`v4`, which this codebase has presumably done before for prior format changes), every `readSave`/`writeSave` call throws `IllegalArgumentException("Invalid save slot")` for all three slots simultaneously — native persistence goes dark app-wide, with no compile-time signal. Worth a shared constant or at least a same-file comment pointing each file at the other before this ships.
+
+**3. The turn-resolution `-previous` snapshot write is unguarded, unlike `persist()`** (`app.mjs:474` vs `app.mjs:53`)
+`persist()` wraps `storage.setItem` in try/catch and reports a toast. The `case 'resolve'` handler calls `storage.setItem(SAVE+'-previous', saveGame(state))` directly. If `writeSave` returns `false` (over the 8MB cap, `MainActivity.java:43`), this throws synchronously; it's ultimately caught by the outer dispatch handler (`app.mjs:479`) so it fails safe rather than crashing, but `beginTurn(state)` and `persist()` never run — the turn simply refuses to advance, every time, once a campaign save crosses 8MB, with a generic "could not save this campaign" message rather than anything that tells the player what actually happened (turn didn't advance, not just "a save failed"). This is the same 8MB ceiling the explicit Export path now handles gracefully; the implicit per-turn snapshot doesn't get the same treatment.
+
+**4. The 8,000,000 size check mixes units** (`MainActivity.java:43` `json.length()` vs `save-recovery.mjs:37` `file.size`)
+`writeSave`'s guard checks Java `String.length()` (UTF-16 code units) against 8,000,000, but writes `json.getBytes(UTF_8)` to disk — for any save containing multi-byte characters, actual bytes on disk can exceed what the char-count check allowed. The import-side check in `save-recovery.mjs:37` correctly uses `file.size` (bytes). Minor for ASCII-heavy JSON, but it's the same nominal limit enforced two different ways.
+
+These are all "fails safe, degrades ungracefully" issues, not data-loss bugs — I didn't find anything that corrupts a save or silently drops player progress.
+
+## Visual check
+
+Looking at `engineer-desktop.png`, `diplomacy-desktop.png`, `map-412.png`, `research-412.png` against `video-review/detail-0.jpg` (actual original footage) and `reference.png`/`parchment-reference.png` (your style target):
+
+**Confirming the prior judgment, narrowly:** the build is a clear upgrade over the genuine original — `detail-0.jpg` is low-res, cramped, and pixelated; the current screens are clean, legible, properly scaled, with consistent gold/parchment chrome. And it's directionally correct against your references — same ornate gold-border language, parchment panel fills, portrait-framed diplomacy layout, nation-colored political maps.
+
+**One gap worth naming so it isn't lost in the "confirmed" verdict:** the reference images (especially `parchment-reference.png`'s diplomacy screen with its Power/Trade bars and richly painted terrain) are more visually dense than what's shipping — `diplomacy-desktop.png` has only Relations+Treaty+Office columns (no Attitude/Power/Trade), and the map tiles in `engineer-desktop.png`/`map-412.png` are flatter and less painterly than the reference's terrain art. "Directionally matching" is accurate; "closing the fidelity gap" is not yet true. That's a scope/polish note, not a regression.
+
+Not evaluated here, per your scope: store readiness, Pixel hardware behavior, branding/rights, Play credentials.

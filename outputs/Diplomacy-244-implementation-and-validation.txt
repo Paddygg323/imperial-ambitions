@@ -1,0 +1,34 @@
+Diplomacy rebuild — runtime244 — 17 November2026
+
+Implemented
+Diplomacy now opens on a parchment treaty palette and one political map. Select an overture, then select its recipient on the map or accessible country key. Alliances, trade consulates, embassies, non-aggression pacts, Old World minor empire invitations, peace and war use the existing campaign command/settlement path. Incoming diplomatic decisions and end-of-turn market restrictions are retained. Ineligible recipients are dimmed, and tapping one explains the reason.
+
+Subsidies, grants, favoured partners and information are secondary modes. Selected minor nations display the actual favoured partner. Current trade terms appear in information/subsidy views. Pending offers have map scroll markers and rescind controls. An accepted input disarms the selected overture: later country taps inspect rather than sending more orders. Pending markers have a44CSS-pixel hit area, recalculated after layout/viewport changes. Phone layouts use an accessible short Info label.
+
+The old Power15/Trade50 table is removed. Strategic strength remains internal to the existing AI logic. Separate presentation-only rankings show eight categories: army, navy, merchant marine, world exports, industry, labour, overseas profits and technology. Bars are relative within each category, rounded to5-percent display steps; no raw strength score is printed or exposed in the accessible label. Rankings are derived from current campaign data. Exact equivalence to every original game's ranking formula is not claimed.
+
+Newly completed underlying diplomacy
+Grants reserve money immediately, refund cancellation before delivery, survive save/reload and settle once at turn end. Locked grants renew when affordable and stop with news when they cannot be renewed. Amounts1000/3000/5000/10000 give2/4/6/10 relations, capped at255 with the native peacetime floor. Embassies are required in minors; Great Powers already have diplomatic contact.
+Minor/tribal non-aggression pacts require an embassy, cost nothing and add10 relations when settled. A pact blocks direct attack; declaration removes it through the existing war penalty path. Pending offices can be rescinded for their paid cost.
+
+Original-game evidence
+The manual specifies action-first diplomacy, consulates/embassies, minor pacts, grants and recurring/cancellable grant policy. work/diplomacy244-reference.py executes original50aaf0,525d20,524030 and associated war-penalty code in Unicorn with documented callback stubs; outputs/Native-diplomacy244-reference.json records16grant and5pact cases. At equal pre-declaration relations the native status3-to6 and4-to6 declarations apply the same relationship matrix; no invented extra pact multiplier was added. The original executable was read only and was not launched or modified.
+
+Validation
+- Full rule regression:946/946passed (outputs/tests-runtime244.txt), before final UI-only review changes.
+- Targeted final aid/attack regression:12/12passed, including an additional direct-tribal-attack pact protection test (outputs/diplomacy244-targeted-tests.txt).
+- Browser workflow: map offer/cancel, marker inspection,44px hit area, prevention of accidental second-country orders, grants/refunds/reloads, subsidies, favoured partners,8nonnumeric rankings, keyboard access and360/412/915/1448layouts passed (outputs/diplomacy244-browser-log.txt).
+- Wider visual/navigation regression: eight desktop menus, phone portrait/landscape, minimap, map-only and unchanged save data passed (outputs/royal-runtime244-log.txt).
+- Final packaged assets: save roundtrip, diplomatic office and subsidy, military/naval controls, colonial redeployment and minor peace offer/cancel/reload/settlement passed in touch-enabled desktop Chromium. Logs: android-assets-runtime244-log.txt and minor-peace-runtime244-log.txt.
+- Offline precache/reload including all new diplomacy modules and8rankings passed (outputs/offline-runtime244-log.txt).
+- An isolated copy of the actual England1538 export opens both screens with byte-identical saved data. Screenshots: outputs/visual-review/diplomacy244/england-1538-diplomacy.png and england-1538-rankings.png. This did not write to the live save or the backup.
+- Development APK signature/alignment verified; all340assets match source. Unsigned target36AAB passes bundletool validation and asset hashes. Detailed hashes are in Standalone-Android-build.json and Android-bundle-validation.json.
+
+Claude review
+The first review identified retained armed actions, a too-small pending marker and a clipped360px label. All three were fixed and have regression checks. The review is retained in Claude-diplomacy244-review.txt. Follow-up review verified these fixes and found no remaining concrete blockers in that changed scope; its verdict is recorded in Claude-diplomacy244-follow-up.txt.
+
+Scope and remaining limits
+This is a delivered diplomacy revision for playtesting, not a claim of overall store readiness. No physical Pixel test was performed for this revision. Tribal colony invitations and Great Power annexation remain unsupported; existing Old World minor invitations work. Original consulate eligibility for all subsidy cases and exact original aggregate ranking formulas still need fuller parity work. Store signing/branding/provenance, physical-device acceptance, broader campaign completeness and competent long-play validation remain outstanding.
+
+Preservation
+Original PC game, hotseat mod and their saves were untouched. The live browser reloaded England1538 with the same visible cash(-148),9workers and food13/13; no campaign orders were issued. Earlier campaign backup is preserved at outputs/campaign-backups/England-1538-before-further-work-20261117.json. Prior runtime243 source copies are in work/diplomacy244-before.

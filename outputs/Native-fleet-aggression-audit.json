@@ -1,0 +1,1035 @@
+{
+  "scope": "Native fleet aggression averaging59d870, executed without stubs.",
+  "cases": [
+    {
+      "values": [],
+      "aggression": 0
+    },
+    {
+      "values": [
+        0
+      ],
+      "aggression": 0
+    },
+    {
+      "values": [
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        0,
+        0
+      ],
+      "aggression": 0
+    },
+    {
+      "values": [
+        0,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        2
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        2,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        1
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        2,
+        2
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        0,
+        0,
+        0
+      ],
+      "aggression": 0
+    },
+    {
+      "values": [
+        0,
+        0,
+        1
+      ],
+      "aggression": 0
+    },
+    {
+      "values": [
+        0,
+        0,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        1,
+        0
+      ],
+      "aggression": 0
+    },
+    {
+      "values": [
+        0,
+        1,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        1,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        2,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        2,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        2,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        0,
+        0
+      ],
+      "aggression": 0
+    },
+    {
+      "values": [
+        1,
+        0,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        0,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        1,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        1,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        1,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        2,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        2,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        2,
+        2
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        2,
+        0,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        0,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        0,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        1,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        1,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        1,
+        2
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        2,
+        2,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        2,
+        1
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        2,
+        2,
+        2
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "aggression": 0
+    },
+    {
+      "values": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "aggression": 0
+    },
+    {
+      "values": [
+        0,
+        0,
+        0,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "aggression": 0
+    },
+    {
+      "values": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        0,
+        1,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        0,
+        2,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        0,
+        2,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        0,
+        2,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "aggression": 0
+    },
+    {
+      "values": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        1,
+        0,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        1,
+        1,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        1,
+        2,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        1,
+        2,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        1,
+        2,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        2,
+        0,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        2,
+        0,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        2,
+        0,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        2,
+        1,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        2,
+        1,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        2,
+        1,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        2,
+        2,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        2,
+        2,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        0,
+        2,
+        2,
+        2
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "aggression": 0
+    },
+    {
+      "values": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        0,
+        0,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        0,
+        1,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        0,
+        1,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        0,
+        2,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        0,
+        2,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        0,
+        2,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        1,
+        0,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        1,
+        2,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        1,
+        2,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        1,
+        2,
+        2
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        1,
+        2,
+        0,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        2,
+        0,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        2,
+        0,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        2,
+        1,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        2,
+        1,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        2,
+        1,
+        2
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        1,
+        2,
+        2,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        1,
+        2,
+        2,
+        1
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        1,
+        2,
+        2,
+        2
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        0,
+        0,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        0,
+        0,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        0,
+        1,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        0,
+        1,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        0,
+        1,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        0,
+        2,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        0,
+        2,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        0,
+        2,
+        2
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        2,
+        1,
+        0,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        1,
+        0,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        1,
+        0,
+        2
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        1,
+        1,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        1,
+        1,
+        2
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        2,
+        1,
+        2,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        1,
+        2,
+        1
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        2,
+        1,
+        2,
+        2
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        2,
+        2,
+        0,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        2,
+        0,
+        1
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        2,
+        0,
+        2
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        2,
+        2,
+        1,
+        0
+      ],
+      "aggression": 1
+    },
+    {
+      "values": [
+        2,
+        2,
+        1,
+        1
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        2,
+        2,
+        1,
+        2
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        2,
+        2,
+        2,
+        0
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        2,
+        2,
+        2,
+        1
+      ],
+      "aggression": 2
+    },
+    {
+      "values": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "aggression": 2
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "scope": "Native511ee0 minor/tribal command303 handler, real525d20 and524030 settlement. Independent and subject recipients; response/news callbacks captured.\nIndependent countries; colony/treaty notifications captured, not executed.\nCountry policy setter calls captured. UI not invoked and no game files changed.\n",
+  "cases": [
+    {
+      "proposer": 0,
+      "target": 6,
+      "subject": -1,
+      "relation": 100,
+      "treaty": 3,
+      "events": [
+        {
+          "callback": "0x91b500",
+          "args": [
+            6,
+            303
+          ]
+        },
+        {
+          "callback": "0x4041a1",
+          "args": [
+            5,
+            6,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "proposer": 0,
+      "target": 6,
+      "subject": 100,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 0,
+      "target": 6,
+      "subject": 200,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 0,
+      "target": 12,
+      "subject": -1,
+      "relation": 100,
+      "treaty": 3,
+      "events": [
+        {
+          "callback": "0x91b500",
+          "args": [
+            12,
+            303
+          ]
+        },
+        {
+          "callback": "0x4041a1",
+          "args": [
+            5,
+            12,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "proposer": 0,
+      "target": 12,
+      "subject": 100,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 0,
+      "target": 12,
+      "subject": 200,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 1,
+      "target": 6,
+      "subject": -1,
+      "relation": 100,
+      "treaty": 3,
+      "events": [
+        {
+          "callback": "0x91b500",
+          "args": [
+            6,
+            303
+          ]
+        },
+        {
+          "callback": "0x4041a1",
+          "args": [
+            5,
+            6,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "proposer": 1,
+      "target": 6,
+      "subject": 100,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 1,
+      "target": 6,
+      "subject": 200,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 1,
+      "target": 12,
+      "subject": -1,
+      "relation": 100,
+      "treaty": 3,
+      "events": [
+        {
+          "callback": "0x91b500",
+          "args": [
+            12,
+            303
+          ]
+        },
+        {
+          "callback": "0x4041a1",
+          "args": [
+            5,
+            12,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "proposer": 1,
+      "target": 12,
+      "subject": 100,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 1,
+      "target": 12,
+      "subject": 200,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 2,
+      "target": 6,
+      "subject": -1,
+      "relation": 100,
+      "treaty": 3,
+      "events": [
+        {
+          "callback": "0x91b500",
+          "args": [
+            6,
+            303
+          ]
+        },
+        {
+          "callback": "0x4041a1",
+          "args": [
+            5,
+            6,
+            2,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "proposer": 2,
+      "target": 6,
+      "subject": 100,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 2,
+      "target": 6,
+      "subject": 200,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 2,
+      "target": 12,
+      "subject": -1,
+      "relation": 100,
+      "treaty": 3,
+      "events": [
+        {
+          "callback": "0x91b500",
+          "args": [
+            12,
+            303
+          ]
+        },
+        {
+          "callback": "0x4041a1",
+          "args": [
+            5,
+            12,
+            2,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "proposer": 2,
+      "target": 12,
+      "subject": 100,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 2,
+      "target": 12,
+      "subject": 200,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 3,
+      "target": 6,
+      "subject": -1,
+      "relation": 100,
+      "treaty": 3,
+      "events": [
+        {
+          "callback": "0x91b500",
+          "args": [
+            6,
+            303
+          ]
+        },
+        {
+          "callback": "0x4041a1",
+          "args": [
+            5,
+            6,
+            3,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "proposer": 3,
+      "target": 6,
+      "subject": 100,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 3,
+      "target": 6,
+      "subject": 200,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 3,
+      "target": 12,
+      "subject": -1,
+      "relation": 100,
+      "treaty": 3,
+      "events": [
+        {
+          "callback": "0x91b500",
+          "args": [
+            12,
+            303
+          ]
+        },
+        {
+          "callback": "0x4041a1",
+          "args": [
+            5,
+            12,
+            3,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "proposer": 3,
+      "target": 12,
+      "subject": 100,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 3,
+      "target": 12,
+      "subject": 200,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 4,
+      "target": 6,
+      "subject": -1,
+      "relation": 100,
+      "treaty": 3,
+      "events": [
+        {
+          "callback": "0x91b500",
+          "args": [
+            6,
+            303
+          ]
+        },
+        {
+          "callback": "0x4041a1",
+          "args": [
+            5,
+            6,
+            4,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "proposer": 4,
+      "target": 6,
+      "subject": 100,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 4,
+      "target": 6,
+      "subject": 200,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 4,
+      "target": 12,
+      "subject": -1,
+      "relation": 100,
+      "treaty": 3,
+      "events": [
+        {
+          "callback": "0x91b500",
+          "args": [
+            12,
+            303
+          ]
+        },
+        {
+          "callback": "0x4041a1",
+          "args": [
+            5,
+            12,
+            4,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "proposer": 4,
+      "target": 12,
+      "subject": 100,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 4,
+      "target": 12,
+      "subject": 200,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 5,
+      "target": 6,
+      "subject": -1,
+      "relation": 100,
+      "treaty": 3,
+      "events": [
+        {
+          "callback": "0x91b500",
+          "args": [
+            6,
+            303
+          ]
+        },
+        {
+          "callback": "0x4041a1",
+          "args": [
+            5,
+            6,
+            5,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "proposer": 5,
+      "target": 6,
+      "subject": 100,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 5,
+      "target": 6,
+      "subject": 200,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 5,
+      "target": 12,
+      "subject": -1,
+      "relation": 100,
+      "treaty": 3,
+      "events": [
+        {
+          "callback": "0x91b500",
+          "args": [
+            12,
+            303
+          ]
+        },
+        {
+          "callback": "0x4041a1",
+          "args": [
+            5,
+            12,
+            5,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "proposer": 5,
+      "target": 12,
+      "subject": 100,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    },
+    {
+      "proposer": 5,
+      "target": 12,
+      "subject": 200,
+      "relation": 90,
+      "treaty": 4,
+      "events": []
+    }
+  ]
+}

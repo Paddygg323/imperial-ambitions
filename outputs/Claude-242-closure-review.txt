@@ -1,0 +1,21 @@
+## Image correction — confirmed
+
+Opened only `verified-remake-landscape.png` (bcac1de2…, 444315 bytes). What's visible:
+
+- **Top header:** "England · 1500" (left), "Give Engineer Orders" (center), a "Menu" button (right); below it a resource strip showing $12,000, 4 workers·4 labour, Food 11/10.
+- **Map:** a hex-tile landscape (forest, grain, sheep, hills) with roads, a town labeled "London," a selected unit (engineer, highlighted circle), two labeled water bodies ("Oleander Ocean," "Underwood Ocean"), a region label "Kent," and a pan/zoom hint strip. Bottom nav bar: Civilians, Industry, Transport, Research, Trade, Diplomacy, Army, Navy, News, End turn.
+- **Sidebar:** "Imperial Atlas" header, an "Engineer" panel with "Materials & costs," "Next available: 3 units/groups," then an order card ("Engineer ready / Target: London town") with Deselect civilian / Wait this turn / Sleep / Deploy / Build road·1 turn (greyed).
+
+This is a single in-engine gameplay screenshot of the remake's civilian-order UI, not an original-game contact sheet — my earlier description was wrong, and your correction is right. I'm not recommending any relation-color/number changes here since the image doesn't touch relations and they start equal by design.
+
+## Back/recovery fix — status: looks correct on read
+
+`MainActivity.handleBack` (lines 149–153) dispatches a cancelable `cancel` event at the open `<dialog>`; if the page's own handler calls `preventDefault()` (used by the market panel and save-recovery dialog to block casual dismissal), `dispatchEvent` returns `false`, `handleBack` leaves the dialog untouched, and only then shows the native Leave/Stay `AlertDialog`. If no dialog prevents it, the page closes its own dialog and native shows nothing. This correctly reuses the dialogs' existing Escape-key semantics for the hardware/gesture Back button, on both the legacy `onBackPressed` path and the API 33+ `OnBackInvokedDispatcher` path — consistent with `enableOnBackInvokedCallback="true"` in the manifest.
+
+`LifecycleChecks.java`'s `recoveryBack` mode and the market-lock assertion in `prepare` mode test exactly this: Back shows "Leave the game?", cancelling it leaves `#saveRecovery`/`#panel` still open, and the original save bytes are unchanged. The test source, manifest (`android/test/AndroidManifest.xml`, target package matches `com.paddy.imperialism.rebuild`), and `build-test.py` (javac→d8→aapt2 link→zipalign→sign) are internally consistent and match the claimed pass behavior. I read this code only — I did not run the emulator tests myself, so this is a source-level correlation with your reported pass results, not independent execution.
+
+## Final findings
+
+No new correctness issues found in this pass — `handleBack`, `SaveBridge` (path regex, dual char/byte-length checks on write and export), and the instrumentation source are all consistent with each other and with the prior four fixes.
+
+**Remaining (already known, not re-litigated here):** Pixel hardware testing, publisher-side inputs, and the previously documented gameplay-parity gaps. No app-store approval is being claimed or requested.

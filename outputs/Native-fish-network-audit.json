@@ -1,0 +1,1573 @@
+{
+  "scope": "Native5026b0 fish accumulation across supplied neighbor graph; neighbor and technology lookups stubbed, collection arithmetic and recursion native",
+  "cases": [
+    {
+      "nodes": [
+        {
+          "level": 0,
+          "river": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0,
+          "river": false,
+          "owner": 0,
+          "water": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        }
+      ],
+      "edges": [
+        [
+          0,
+          0,
+          1,
+          null
+        ],
+        [
+          0,
+          1,
+          2,
+          null
+        ],
+        [
+          0,
+          2,
+          3,
+          null
+        ],
+        [
+          0,
+          3,
+          4,
+          null
+        ],
+        [
+          0,
+          4,
+          5,
+          null
+        ],
+        [
+          0,
+          5,
+          6,
+          null
+        ],
+        [
+          1,
+          2,
+          2,
+          null
+        ]
+      ],
+      "root": 0,
+      "roadCapacity": 1,
+      "fish": 0,
+      "quantity": 0,
+      "collected": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "capacities": [
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "road": false,
+      "ownRiver": false,
+      "kind": "land"
+    },
+    {
+      "nodes": [
+        {
+          "level": 0,
+          "river": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0,
+          "river": true,
+          "owner": 0,
+          "water": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        }
+      ],
+      "edges": [
+        [
+          0,
+          0,
+          1,
+          null
+        ],
+        [
+          0,
+          1,
+          2,
+          null
+        ],
+        [
+          0,
+          2,
+          3,
+          null
+        ],
+        [
+          0,
+          3,
+          4,
+          null
+        ],
+        [
+          0,
+          4,
+          5,
+          null
+        ],
+        [
+          0,
+          5,
+          6,
+          null
+        ],
+        [
+          1,
+          2,
+          2,
+          null
+        ]
+      ],
+      "root": 0,
+      "roadCapacity": 1,
+      "fish": 1,
+      "quantity": 0,
+      "collected": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "capacities": [
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "road": false,
+      "ownRiver": false,
+      "kind": "river"
+    },
+    {
+      "nodes": [
+        {
+          "level": 0,
+          "river": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0,
+          "river": true,
+          "owner": 1,
+          "water": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        }
+      ],
+      "edges": [
+        [
+          0,
+          0,
+          1,
+          null
+        ],
+        [
+          0,
+          1,
+          2,
+          null
+        ],
+        [
+          0,
+          2,
+          3,
+          null
+        ],
+        [
+          0,
+          3,
+          4,
+          null
+        ],
+        [
+          0,
+          4,
+          5,
+          null
+        ],
+        [
+          0,
+          5,
+          6,
+          null
+        ],
+        [
+          1,
+          2,
+          2,
+          null
+        ]
+      ],
+      "root": 0,
+      "roadCapacity": 1,
+      "fish": 0,
+      "quantity": 0,
+      "collected": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "capacities": [
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "road": false,
+      "ownRiver": false,
+      "kind": "foreignRiver"
+    },
+    {
+      "nodes": [
+        {
+          "level": 0,
+          "river": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0,
+          "river": false,
+          "owner": 0,
+          "water": true
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        }
+      ],
+      "edges": [
+        [
+          0,
+          0,
+          1,
+          null
+        ],
+        [
+          0,
+          1,
+          2,
+          null
+        ],
+        [
+          0,
+          2,
+          3,
+          null
+        ],
+        [
+          0,
+          3,
+          4,
+          null
+        ],
+        [
+          0,
+          4,
+          5,
+          null
+        ],
+        [
+          0,
+          5,
+          6,
+          null
+        ],
+        [
+          1,
+          2,
+          2,
+          null
+        ]
+      ],
+      "root": 0,
+      "roadCapacity": 1,
+      "fish": 1,
+      "quantity": 0,
+      "collected": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "capacities": [
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "road": false,
+      "ownRiver": false,
+      "kind": "water"
+    },
+    {
+      "nodes": [
+        {
+          "level": 0,
+          "river": true
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0,
+          "river": false,
+          "owner": 0,
+          "water": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        }
+      ],
+      "edges": [
+        [
+          0,
+          0,
+          1,
+          null
+        ],
+        [
+          0,
+          1,
+          2,
+          null
+        ],
+        [
+          0,
+          2,
+          3,
+          null
+        ],
+        [
+          0,
+          3,
+          4,
+          null
+        ],
+        [
+          0,
+          4,
+          5,
+          null
+        ],
+        [
+          0,
+          5,
+          6,
+          null
+        ],
+        [
+          1,
+          2,
+          2,
+          null
+        ]
+      ],
+      "root": 0,
+      "roadCapacity": 1,
+      "fish": 1,
+      "quantity": 0,
+      "collected": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "capacities": [
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "road": false,
+      "ownRiver": true,
+      "kind": "land"
+    },
+    {
+      "nodes": [
+        {
+          "level": 0,
+          "river": true
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0,
+          "river": true,
+          "owner": 0,
+          "water": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        }
+      ],
+      "edges": [
+        [
+          0,
+          0,
+          1,
+          null
+        ],
+        [
+          0,
+          1,
+          2,
+          null
+        ],
+        [
+          0,
+          2,
+          3,
+          null
+        ],
+        [
+          0,
+          3,
+          4,
+          null
+        ],
+        [
+          0,
+          4,
+          5,
+          null
+        ],
+        [
+          0,
+          5,
+          6,
+          null
+        ],
+        [
+          1,
+          2,
+          2,
+          null
+        ]
+      ],
+      "root": 0,
+      "roadCapacity": 1,
+      "fish": 2,
+      "quantity": 0,
+      "collected": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "capacities": [
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "road": false,
+      "ownRiver": true,
+      "kind": "river"
+    },
+    {
+      "nodes": [
+        {
+          "level": 0,
+          "river": true
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0,
+          "river": true,
+          "owner": 1,
+          "water": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        }
+      ],
+      "edges": [
+        [
+          0,
+          0,
+          1,
+          null
+        ],
+        [
+          0,
+          1,
+          2,
+          null
+        ],
+        [
+          0,
+          2,
+          3,
+          null
+        ],
+        [
+          0,
+          3,
+          4,
+          null
+        ],
+        [
+          0,
+          4,
+          5,
+          null
+        ],
+        [
+          0,
+          5,
+          6,
+          null
+        ],
+        [
+          1,
+          2,
+          2,
+          null
+        ]
+      ],
+      "root": 0,
+      "roadCapacity": 1,
+      "fish": 1,
+      "quantity": 0,
+      "collected": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "capacities": [
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "road": false,
+      "ownRiver": true,
+      "kind": "foreignRiver"
+    },
+    {
+      "nodes": [
+        {
+          "level": 0,
+          "river": true
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0,
+          "river": false,
+          "owner": 0,
+          "water": true
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        }
+      ],
+      "edges": [
+        [
+          0,
+          0,
+          1,
+          null
+        ],
+        [
+          0,
+          1,
+          2,
+          null
+        ],
+        [
+          0,
+          2,
+          3,
+          null
+        ],
+        [
+          0,
+          3,
+          4,
+          null
+        ],
+        [
+          0,
+          4,
+          5,
+          null
+        ],
+        [
+          0,
+          5,
+          6,
+          null
+        ],
+        [
+          1,
+          2,
+          2,
+          null
+        ]
+      ],
+      "root": 0,
+      "roadCapacity": 1,
+      "fish": 2,
+      "quantity": 0,
+      "collected": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "capacities": [
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "road": false,
+      "ownRiver": true,
+      "kind": "water"
+    },
+    {
+      "nodes": [
+        {
+          "level": 0,
+          "river": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0,
+          "river": false,
+          "owner": 0,
+          "water": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        }
+      ],
+      "edges": [
+        [
+          0,
+          0,
+          1,
+          "road"
+        ],
+        [
+          0,
+          1,
+          2,
+          null
+        ],
+        [
+          0,
+          2,
+          3,
+          null
+        ],
+        [
+          0,
+          3,
+          4,
+          null
+        ],
+        [
+          0,
+          4,
+          5,
+          null
+        ],
+        [
+          0,
+          5,
+          6,
+          null
+        ],
+        [
+          1,
+          2,
+          2,
+          null
+        ]
+      ],
+      "root": 0,
+      "roadCapacity": 1,
+      "fish": 0,
+      "quantity": 0,
+      "collected": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "capacities": [
+        4,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "road": true,
+      "ownRiver": false,
+      "kind": "land"
+    },
+    {
+      "nodes": [
+        {
+          "level": 0,
+          "river": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0,
+          "river": true,
+          "owner": 0,
+          "water": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        }
+      ],
+      "edges": [
+        [
+          0,
+          0,
+          1,
+          "road"
+        ],
+        [
+          0,
+          1,
+          2,
+          null
+        ],
+        [
+          0,
+          2,
+          3,
+          null
+        ],
+        [
+          0,
+          3,
+          4,
+          null
+        ],
+        [
+          0,
+          4,
+          5,
+          null
+        ],
+        [
+          0,
+          5,
+          6,
+          null
+        ],
+        [
+          1,
+          2,
+          2,
+          null
+        ]
+      ],
+      "root": 0,
+      "roadCapacity": 1,
+      "fish": 1,
+      "quantity": 0,
+      "collected": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "capacities": [
+        4,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "road": true,
+      "ownRiver": false,
+      "kind": "river"
+    },
+    {
+      "nodes": [
+        {
+          "level": 0,
+          "river": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0,
+          "river": true,
+          "owner": 1,
+          "water": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        }
+      ],
+      "edges": [
+        [
+          0,
+          0,
+          1,
+          "road"
+        ],
+        [
+          0,
+          1,
+          2,
+          null
+        ],
+        [
+          0,
+          2,
+          3,
+          null
+        ],
+        [
+          0,
+          3,
+          4,
+          null
+        ],
+        [
+          0,
+          4,
+          5,
+          null
+        ],
+        [
+          0,
+          5,
+          6,
+          null
+        ],
+        [
+          1,
+          2,
+          2,
+          null
+        ]
+      ],
+      "root": 0,
+      "roadCapacity": 1,
+      "fish": 0,
+      "quantity": 0,
+      "collected": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "capacities": [
+        4,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "road": true,
+      "ownRiver": false,
+      "kind": "foreignRiver"
+    },
+    {
+      "nodes": [
+        {
+          "level": 0,
+          "river": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0,
+          "river": false,
+          "owner": 0,
+          "water": true
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        }
+      ],
+      "edges": [
+        [
+          0,
+          0,
+          1,
+          "road"
+        ],
+        [
+          0,
+          1,
+          2,
+          null
+        ],
+        [
+          0,
+          2,
+          3,
+          null
+        ],
+        [
+          0,
+          3,
+          4,
+          null
+        ],
+        [
+          0,
+          4,
+          5,
+          null
+        ],
+        [
+          0,
+          5,
+          6,
+          null
+        ],
+        [
+          1,
+          2,
+          2,
+          null
+        ]
+      ],
+      "root": 0,
+      "roadCapacity": 1,
+      "fish": 1,
+      "quantity": 0,
+      "collected": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "capacities": [
+        4,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "road": true,
+      "ownRiver": false,
+      "kind": "water"
+    },
+    {
+      "nodes": [
+        {
+          "level": 0,
+          "river": true
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0,
+          "river": false,
+          "owner": 0,
+          "water": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        }
+      ],
+      "edges": [
+        [
+          0,
+          0,
+          1,
+          "road"
+        ],
+        [
+          0,
+          1,
+          2,
+          null
+        ],
+        [
+          0,
+          2,
+          3,
+          null
+        ],
+        [
+          0,
+          3,
+          4,
+          null
+        ],
+        [
+          0,
+          4,
+          5,
+          null
+        ],
+        [
+          0,
+          5,
+          6,
+          null
+        ],
+        [
+          1,
+          2,
+          2,
+          null
+        ]
+      ],
+      "root": 0,
+      "roadCapacity": 1,
+      "fish": 1,
+      "quantity": 0,
+      "collected": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "capacities": [
+        4,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "road": true,
+      "ownRiver": true,
+      "kind": "land"
+    },
+    {
+      "nodes": [
+        {
+          "level": 0,
+          "river": true
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0,
+          "river": true,
+          "owner": 0,
+          "water": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        }
+      ],
+      "edges": [
+        [
+          0,
+          0,
+          1,
+          "road"
+        ],
+        [
+          0,
+          1,
+          2,
+          null
+        ],
+        [
+          0,
+          2,
+          3,
+          null
+        ],
+        [
+          0,
+          3,
+          4,
+          null
+        ],
+        [
+          0,
+          4,
+          5,
+          null
+        ],
+        [
+          0,
+          5,
+          6,
+          null
+        ],
+        [
+          1,
+          2,
+          2,
+          null
+        ]
+      ],
+      "root": 0,
+      "roadCapacity": 1,
+      "fish": 2,
+      "quantity": 0,
+      "collected": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "capacities": [
+        4,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "road": true,
+      "ownRiver": true,
+      "kind": "river"
+    },
+    {
+      "nodes": [
+        {
+          "level": 0,
+          "river": true
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0,
+          "river": true,
+          "owner": 1,
+          "water": false
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        }
+      ],
+      "edges": [
+        [
+          0,
+          0,
+          1,
+          "road"
+        ],
+        [
+          0,
+          1,
+          2,
+          null
+        ],
+        [
+          0,
+          2,
+          3,
+          null
+        ],
+        [
+          0,
+          3,
+          4,
+          null
+        ],
+        [
+          0,
+          4,
+          5,
+          null
+        ],
+        [
+          0,
+          5,
+          6,
+          null
+        ],
+        [
+          1,
+          2,
+          2,
+          null
+        ]
+      ],
+      "root": 0,
+      "roadCapacity": 1,
+      "fish": 1,
+      "quantity": 0,
+      "collected": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "capacities": [
+        4,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "road": true,
+      "ownRiver": true,
+      "kind": "foreignRiver"
+    },
+    {
+      "nodes": [
+        {
+          "level": 0,
+          "river": true
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0,
+          "river": false,
+          "owner": 0,
+          "water": true
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        },
+        {
+          "level": 0
+        }
+      ],
+      "edges": [
+        [
+          0,
+          0,
+          1,
+          "road"
+        ],
+        [
+          0,
+          1,
+          2,
+          null
+        ],
+        [
+          0,
+          2,
+          3,
+          null
+        ],
+        [
+          0,
+          3,
+          4,
+          null
+        ],
+        [
+          0,
+          4,
+          5,
+          null
+        ],
+        [
+          0,
+          5,
+          6,
+          null
+        ],
+        [
+          1,
+          2,
+          2,
+          null
+        ]
+      ],
+      "root": 0,
+      "roadCapacity": 1,
+      "fish": 2,
+      "quantity": 0,
+      "collected": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "capacities": [
+        4,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "road": true,
+      "ownRiver": true,
+      "kind": "water"
+    }
+  ]
+}

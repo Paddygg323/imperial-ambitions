@@ -1,0 +1,47 @@
+Fresh normal campaign verification - 2026-11-10, build3-116
+
+Scope
+A fresh createGame() campaign, no starting boosts and no scripted wars. England
+used the economy planner and declined incoming purchases. It issued no military
+orders. Tactical AI drove battles on both sides. This is an integration test,
+not competent human play, competitive balance proof, or Pixel testing.
+
+Verified result
+Turn155 /1755: Sweden captured London (province e1-0). The engine persisted
+status=defeat, reason=capitalLost, nation=england, attacker=sweden. England was
+marked not alive; remaining5 provinces became anarchic. No ranking-based claim.
+Sweden had invaded Scotland, declared on England at151, and taken three English
+provinces by155. The actual terminal save reloads through the packaged browser;
+heading says Defeat, reports explain capital loss, End Turn is disabled after
+reload. Screenshot inspected at412x915: phone-campaign-defeat.png.
+
+Why England lost
+The passive driver produced47 fit workers but no defending regiments. Sweden
+had17 regiments,17 provinces and sufficient naval capacity to land its army.
+This deliberately limited driver cannot establish the AI's strength against a
+human. It does establish that the native-cost economy, research, recruitment,
+naval staging, declarations, land combat, conquest and terminal state can connect
+in one campaign beginning from the default initial state.
+
+Failures exposed
+France and Holland repeatedly failed against Switzerland without adapting.
+Holland fell to6 workers while retaining26 regiments. Spain's treasury ended
+at-80. All recorded starvation totals were0, but that does not prove robust
+wartime economic management. Opponent assessment, restraint after failed sieges,
+peace/alliance behavior and naval escort decisions need further work.
+
+Evidence
+work/rebuild-v2/fresh-campaign-optimized.{mjs,json,log}
+work/rebuild-v2/fresh-campaign-optimized-save.json
+work/rebuild-v2/outcome-browser-latest.txt
+work/rebuild-v2/phone-campaign-defeat.png
+
+Earlier fresh-campaign run was deliberately stopped at its live tool session
+while improving repeated-map-lookup performance. Its turn70 checkpoint/log remain.
+The optimized run restarted from createGame() and completed normally; it did not
+continue from an artificially edited military or economic position.
+
+Remaining validation
+A player victory path, active touch gameplay through a campaign, physical
+Android WebView/Pixel operation, broader seed/difficulty coverage, and remaining
+original-system fidelity gaps. This build is still development software.

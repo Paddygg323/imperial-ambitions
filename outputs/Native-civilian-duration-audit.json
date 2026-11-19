@@ -1,0 +1,929 @@
+{
+  "scope": "Execute complete native TCivUnit::SetOrders at 0x656020, without stubs.\nRecords raw order IDs and native terrain classes; semantic mapping is separate.\n",
+  "orderBase": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    2,
+    1,
+    0,
+    2,
+    1,
+    2,
+    2,
+    1,
+    1
+  ],
+  "terrainMultiplier": [
+    1,
+    1,
+    2,
+    3,
+    2,
+    1,
+    1,
+    1
+  ],
+  "cases": [
+    {
+      "order": 0,
+      "terrain": 0,
+      "remaining": 0,
+      "storedOrder": 0,
+      "destination": 2
+    },
+    {
+      "order": 0,
+      "terrain": 1,
+      "remaining": 0,
+      "storedOrder": 0,
+      "destination": 2
+    },
+    {
+      "order": 0,
+      "terrain": 2,
+      "remaining": 0,
+      "storedOrder": 0,
+      "destination": 2
+    },
+    {
+      "order": 0,
+      "terrain": 3,
+      "remaining": 0,
+      "storedOrder": 0,
+      "destination": 2
+    },
+    {
+      "order": 0,
+      "terrain": 4,
+      "remaining": 0,
+      "storedOrder": 0,
+      "destination": 2
+    },
+    {
+      "order": 0,
+      "terrain": 5,
+      "remaining": 0,
+      "storedOrder": 0,
+      "destination": 2
+    },
+    {
+      "order": 0,
+      "terrain": 6,
+      "remaining": 0,
+      "storedOrder": 0,
+      "destination": 2
+    },
+    {
+      "order": 0,
+      "terrain": 7,
+      "remaining": 0,
+      "storedOrder": 0,
+      "destination": 2
+    },
+    {
+      "order": 1,
+      "terrain": 0,
+      "remaining": 0,
+      "storedOrder": 1,
+      "destination": 2
+    },
+    {
+      "order": 1,
+      "terrain": 1,
+      "remaining": 0,
+      "storedOrder": 1,
+      "destination": 2
+    },
+    {
+      "order": 1,
+      "terrain": 2,
+      "remaining": 0,
+      "storedOrder": 1,
+      "destination": 2
+    },
+    {
+      "order": 1,
+      "terrain": 3,
+      "remaining": 0,
+      "storedOrder": 1,
+      "destination": 2
+    },
+    {
+      "order": 1,
+      "terrain": 4,
+      "remaining": 0,
+      "storedOrder": 1,
+      "destination": 2
+    },
+    {
+      "order": 1,
+      "terrain": 5,
+      "remaining": 0,
+      "storedOrder": 1,
+      "destination": 2
+    },
+    {
+      "order": 1,
+      "terrain": 6,
+      "remaining": 0,
+      "storedOrder": 1,
+      "destination": 2
+    },
+    {
+      "order": 1,
+      "terrain": 7,
+      "remaining": 0,
+      "storedOrder": 1,
+      "destination": 2
+    },
+    {
+      "order": 2,
+      "terrain": 0,
+      "remaining": 0,
+      "storedOrder": 2,
+      "destination": 2
+    },
+    {
+      "order": 2,
+      "terrain": 1,
+      "remaining": 0,
+      "storedOrder": 2,
+      "destination": 2
+    },
+    {
+      "order": 2,
+      "terrain": 2,
+      "remaining": 0,
+      "storedOrder": 2,
+      "destination": 2
+    },
+    {
+      "order": 2,
+      "terrain": 3,
+      "remaining": 0,
+      "storedOrder": 2,
+      "destination": 2
+    },
+    {
+      "order": 2,
+      "terrain": 4,
+      "remaining": 0,
+      "storedOrder": 2,
+      "destination": 2
+    },
+    {
+      "order": 2,
+      "terrain": 5,
+      "remaining": 0,
+      "storedOrder": 2,
+      "destination": 2
+    },
+    {
+      "order": 2,
+      "terrain": 6,
+      "remaining": 0,
+      "storedOrder": 2,
+      "destination": 2
+    },
+    {
+      "order": 2,
+      "terrain": 7,
+      "remaining": 0,
+      "storedOrder": 2,
+      "destination": 2
+    },
+    {
+      "order": 3,
+      "terrain": 0,
+      "remaining": 0,
+      "storedOrder": 3,
+      "destination": 2
+    },
+    {
+      "order": 3,
+      "terrain": 1,
+      "remaining": 0,
+      "storedOrder": 3,
+      "destination": 2
+    },
+    {
+      "order": 3,
+      "terrain": 2,
+      "remaining": 0,
+      "storedOrder": 3,
+      "destination": 2
+    },
+    {
+      "order": 3,
+      "terrain": 3,
+      "remaining": 0,
+      "storedOrder": 3,
+      "destination": 2
+    },
+    {
+      "order": 3,
+      "terrain": 4,
+      "remaining": 0,
+      "storedOrder": 3,
+      "destination": 2
+    },
+    {
+      "order": 3,
+      "terrain": 5,
+      "remaining": 0,
+      "storedOrder": 3,
+      "destination": 2
+    },
+    {
+      "order": 3,
+      "terrain": 6,
+      "remaining": 0,
+      "storedOrder": 3,
+      "destination": 2
+    },
+    {
+      "order": 3,
+      "terrain": 7,
+      "remaining": 0,
+      "storedOrder": 3,
+      "destination": 2
+    },
+    {
+      "order": 4,
+      "terrain": 0,
+      "remaining": 0,
+      "storedOrder": 4,
+      "destination": 2
+    },
+    {
+      "order": 4,
+      "terrain": 1,
+      "remaining": 0,
+      "storedOrder": 4,
+      "destination": 2
+    },
+    {
+      "order": 4,
+      "terrain": 2,
+      "remaining": 0,
+      "storedOrder": 4,
+      "destination": 2
+    },
+    {
+      "order": 4,
+      "terrain": 3,
+      "remaining": 0,
+      "storedOrder": 4,
+      "destination": 2
+    },
+    {
+      "order": 4,
+      "terrain": 4,
+      "remaining": 0,
+      "storedOrder": 4,
+      "destination": 2
+    },
+    {
+      "order": 4,
+      "terrain": 5,
+      "remaining": 0,
+      "storedOrder": 4,
+      "destination": 2
+    },
+    {
+      "order": 4,
+      "terrain": 6,
+      "remaining": 0,
+      "storedOrder": 4,
+      "destination": 2
+    },
+    {
+      "order": 4,
+      "terrain": 7,
+      "remaining": 0,
+      "storedOrder": 4,
+      "destination": 2
+    },
+    {
+      "order": 5,
+      "terrain": 0,
+      "remaining": 1,
+      "storedOrder": 5,
+      "destination": 2
+    },
+    {
+      "order": 5,
+      "terrain": 1,
+      "remaining": 1,
+      "storedOrder": 5,
+      "destination": 2
+    },
+    {
+      "order": 5,
+      "terrain": 2,
+      "remaining": 2,
+      "storedOrder": 5,
+      "destination": 2
+    },
+    {
+      "order": 5,
+      "terrain": 3,
+      "remaining": 3,
+      "storedOrder": 5,
+      "destination": 2
+    },
+    {
+      "order": 5,
+      "terrain": 4,
+      "remaining": 2,
+      "storedOrder": 5,
+      "destination": 2
+    },
+    {
+      "order": 5,
+      "terrain": 5,
+      "remaining": 1,
+      "storedOrder": 5,
+      "destination": 2
+    },
+    {
+      "order": 5,
+      "terrain": 6,
+      "remaining": 1,
+      "storedOrder": 5,
+      "destination": 2
+    },
+    {
+      "order": 5,
+      "terrain": 7,
+      "remaining": 1,
+      "storedOrder": 5,
+      "destination": 2
+    },
+    {
+      "order": 6,
+      "terrain": 0,
+      "remaining": 1,
+      "storedOrder": 6,
+      "destination": 2
+    },
+    {
+      "order": 6,
+      "terrain": 1,
+      "remaining": 1,
+      "storedOrder": 6,
+      "destination": 2
+    },
+    {
+      "order": 6,
+      "terrain": 2,
+      "remaining": 2,
+      "storedOrder": 6,
+      "destination": 2
+    },
+    {
+      "order": 6,
+      "terrain": 3,
+      "remaining": 3,
+      "storedOrder": 6,
+      "destination": 2
+    },
+    {
+      "order": 6,
+      "terrain": 4,
+      "remaining": 2,
+      "storedOrder": 6,
+      "destination": 2
+    },
+    {
+      "order": 6,
+      "terrain": 5,
+      "remaining": 1,
+      "storedOrder": 6,
+      "destination": 2
+    },
+    {
+      "order": 6,
+      "terrain": 6,
+      "remaining": 1,
+      "storedOrder": 6,
+      "destination": 2
+    },
+    {
+      "order": 6,
+      "terrain": 7,
+      "remaining": 1,
+      "storedOrder": 6,
+      "destination": 2
+    },
+    {
+      "order": 7,
+      "terrain": 0,
+      "remaining": 2,
+      "storedOrder": 7,
+      "destination": 2
+    },
+    {
+      "order": 7,
+      "terrain": 1,
+      "remaining": 2,
+      "storedOrder": 7,
+      "destination": 2
+    },
+    {
+      "order": 7,
+      "terrain": 2,
+      "remaining": 2,
+      "storedOrder": 7,
+      "destination": 2
+    },
+    {
+      "order": 7,
+      "terrain": 3,
+      "remaining": 2,
+      "storedOrder": 7,
+      "destination": 2
+    },
+    {
+      "order": 7,
+      "terrain": 4,
+      "remaining": 2,
+      "storedOrder": 7,
+      "destination": 2
+    },
+    {
+      "order": 7,
+      "terrain": 5,
+      "remaining": 2,
+      "storedOrder": 7,
+      "destination": 2
+    },
+    {
+      "order": 7,
+      "terrain": 6,
+      "remaining": 2,
+      "storedOrder": 7,
+      "destination": 2
+    },
+    {
+      "order": 7,
+      "terrain": 7,
+      "remaining": 2,
+      "storedOrder": 7,
+      "destination": 2
+    },
+    {
+      "order": 8,
+      "terrain": 0,
+      "remaining": 1,
+      "storedOrder": 8,
+      "destination": 2
+    },
+    {
+      "order": 8,
+      "terrain": 1,
+      "remaining": 1,
+      "storedOrder": 8,
+      "destination": 2
+    },
+    {
+      "order": 8,
+      "terrain": 2,
+      "remaining": 1,
+      "storedOrder": 8,
+      "destination": 2
+    },
+    {
+      "order": 8,
+      "terrain": 3,
+      "remaining": 1,
+      "storedOrder": 8,
+      "destination": 2
+    },
+    {
+      "order": 8,
+      "terrain": 4,
+      "remaining": 1,
+      "storedOrder": 8,
+      "destination": 2
+    },
+    {
+      "order": 8,
+      "terrain": 5,
+      "remaining": 1,
+      "storedOrder": 8,
+      "destination": 2
+    },
+    {
+      "order": 8,
+      "terrain": 6,
+      "remaining": 1,
+      "storedOrder": 8,
+      "destination": 2
+    },
+    {
+      "order": 8,
+      "terrain": 7,
+      "remaining": 1,
+      "storedOrder": 8,
+      "destination": 2
+    },
+    {
+      "order": 9,
+      "terrain": 0,
+      "remaining": 0,
+      "storedOrder": 9,
+      "destination": 2
+    },
+    {
+      "order": 9,
+      "terrain": 1,
+      "remaining": 0,
+      "storedOrder": 9,
+      "destination": 2
+    },
+    {
+      "order": 9,
+      "terrain": 2,
+      "remaining": 0,
+      "storedOrder": 9,
+      "destination": 2
+    },
+    {
+      "order": 9,
+      "terrain": 3,
+      "remaining": 0,
+      "storedOrder": 9,
+      "destination": 2
+    },
+    {
+      "order": 9,
+      "terrain": 4,
+      "remaining": 0,
+      "storedOrder": 9,
+      "destination": 2
+    },
+    {
+      "order": 9,
+      "terrain": 5,
+      "remaining": 0,
+      "storedOrder": 9,
+      "destination": 2
+    },
+    {
+      "order": 9,
+      "terrain": 6,
+      "remaining": 0,
+      "storedOrder": 9,
+      "destination": 2
+    },
+    {
+      "order": 9,
+      "terrain": 7,
+      "remaining": 0,
+      "storedOrder": 9,
+      "destination": 2
+    },
+    {
+      "order": 10,
+      "terrain": 0,
+      "remaining": 2,
+      "storedOrder": 10,
+      "destination": 2
+    },
+    {
+      "order": 10,
+      "terrain": 1,
+      "remaining": 2,
+      "storedOrder": 10,
+      "destination": 2
+    },
+    {
+      "order": 10,
+      "terrain": 2,
+      "remaining": 2,
+      "storedOrder": 10,
+      "destination": 2
+    },
+    {
+      "order": 10,
+      "terrain": 3,
+      "remaining": 2,
+      "storedOrder": 10,
+      "destination": 2
+    },
+    {
+      "order": 10,
+      "terrain": 4,
+      "remaining": 2,
+      "storedOrder": 10,
+      "destination": 2
+    },
+    {
+      "order": 10,
+      "terrain": 5,
+      "remaining": 2,
+      "storedOrder": 10,
+      "destination": 2
+    },
+    {
+      "order": 10,
+      "terrain": 6,
+      "remaining": 2,
+      "storedOrder": 10,
+      "destination": 2
+    },
+    {
+      "order": 10,
+      "terrain": 7,
+      "remaining": 2,
+      "storedOrder": 10,
+      "destination": 2
+    },
+    {
+      "order": 11,
+      "terrain": 0,
+      "remaining": 1,
+      "storedOrder": 11,
+      "destination": 2
+    },
+    {
+      "order": 11,
+      "terrain": 1,
+      "remaining": 1,
+      "storedOrder": 11,
+      "destination": 2
+    },
+    {
+      "order": 11,
+      "terrain": 2,
+      "remaining": 1,
+      "storedOrder": 11,
+      "destination": 2
+    },
+    {
+      "order": 11,
+      "terrain": 3,
+      "remaining": 1,
+      "storedOrder": 11,
+      "destination": 2
+    },
+    {
+      "order": 11,
+      "terrain": 4,
+      "remaining": 1,
+      "storedOrder": 11,
+      "destination": 2
+    },
+    {
+      "order": 11,
+      "terrain": 5,
+      "remaining": 1,
+      "storedOrder": 11,
+      "destination": 2
+    },
+    {
+      "order": 11,
+      "terrain": 6,
+      "remaining": 1,
+      "storedOrder": 11,
+      "destination": 2
+    },
+    {
+      "order": 11,
+      "terrain": 7,
+      "remaining": 1,
+      "storedOrder": 11,
+      "destination": 2
+    },
+    {
+      "order": 12,
+      "terrain": 0,
+      "remaining": 2,
+      "storedOrder": 12,
+      "destination": 2
+    },
+    {
+      "order": 12,
+      "terrain": 1,
+      "remaining": 2,
+      "storedOrder": 12,
+      "destination": 2
+    },
+    {
+      "order": 12,
+      "terrain": 2,
+      "remaining": 2,
+      "storedOrder": 12,
+      "destination": 2
+    },
+    {
+      "order": 12,
+      "terrain": 3,
+      "remaining": 2,
+      "storedOrder": 12,
+      "destination": 2
+    },
+    {
+      "order": 12,
+      "terrain": 4,
+      "remaining": 2,
+      "storedOrder": 12,
+      "destination": 2
+    },
+    {
+      "order": 12,
+      "terrain": 5,
+      "remaining": 2,
+      "storedOrder": 12,
+      "destination": 2
+    },
+    {
+      "order": 12,
+      "terrain": 6,
+      "remaining": 2,
+      "storedOrder": 12,
+      "destination": 2
+    },
+    {
+      "order": 12,
+      "terrain": 7,
+      "remaining": 2,
+      "storedOrder": 12,
+      "destination": 2
+    },
+    {
+      "order": 13,
+      "terrain": 0,
+      "remaining": 2,
+      "storedOrder": 13,
+      "destination": 2
+    },
+    {
+      "order": 13,
+      "terrain": 1,
+      "remaining": 2,
+      "storedOrder": 13,
+      "destination": 2
+    },
+    {
+      "order": 13,
+      "terrain": 2,
+      "remaining": 2,
+      "storedOrder": 13,
+      "destination": 2
+    },
+    {
+      "order": 13,
+      "terrain": 3,
+      "remaining": 2,
+      "storedOrder": 13,
+      "destination": 2
+    },
+    {
+      "order": 13,
+      "terrain": 4,
+      "remaining": 2,
+      "storedOrder": 13,
+      "destination": 2
+    },
+    {
+      "order": 13,
+      "terrain": 5,
+      "remaining": 2,
+      "storedOrder": 13,
+      "destination": 2
+    },
+    {
+      "order": 13,
+      "terrain": 6,
+      "remaining": 2,
+      "storedOrder": 13,
+      "destination": 2
+    },
+    {
+      "order": 13,
+      "terrain": 7,
+      "remaining": 2,
+      "storedOrder": 13,
+      "destination": 2
+    },
+    {
+      "order": 14,
+      "terrain": 0,
+      "remaining": 1,
+      "storedOrder": 14,
+      "destination": 2
+    },
+    {
+      "order": 14,
+      "terrain": 1,
+      "remaining": 1,
+      "storedOrder": 14,
+      "destination": 2
+    },
+    {
+      "order": 14,
+      "terrain": 2,
+      "remaining": 1,
+      "storedOrder": 14,
+      "destination": 2
+    },
+    {
+      "order": 14,
+      "terrain": 3,
+      "remaining": 1,
+      "storedOrder": 14,
+      "destination": 2
+    },
+    {
+      "order": 14,
+      "terrain": 4,
+      "remaining": 1,
+      "storedOrder": 14,
+      "destination": 2
+    },
+    {
+      "order": 14,
+      "terrain": 5,
+      "remaining": 1,
+      "storedOrder": 14,
+      "destination": 2
+    },
+    {
+      "order": 14,
+      "terrain": 6,
+      "remaining": 1,
+      "storedOrder": 14,
+      "destination": 2
+    },
+    {
+      "order": 14,
+      "terrain": 7,
+      "remaining": 1,
+      "storedOrder": 14,
+      "destination": 2
+    },
+    {
+      "order": 15,
+      "terrain": 0,
+      "remaining": 1,
+      "storedOrder": 15,
+      "destination": 2
+    },
+    {
+      "order": 15,
+      "terrain": 1,
+      "remaining": 1,
+      "storedOrder": 15,
+      "destination": 2
+    },
+    {
+      "order": 15,
+      "terrain": 2,
+      "remaining": 1,
+      "storedOrder": 15,
+      "destination": 2
+    },
+    {
+      "order": 15,
+      "terrain": 3,
+      "remaining": 1,
+      "storedOrder": 15,
+      "destination": 2
+    },
+    {
+      "order": 15,
+      "terrain": 4,
+      "remaining": 1,
+      "storedOrder": 15,
+      "destination": 2
+    },
+    {
+      "order": 15,
+      "terrain": 5,
+      "remaining": 1,
+      "storedOrder": 15,
+      "destination": 2
+    },
+    {
+      "order": 15,
+      "terrain": 6,
+      "remaining": 1,
+      "storedOrder": 15,
+      "destination": 2
+    },
+    {
+      "order": 15,
+      "terrain": 7,
+      "remaining": 1,
+      "storedOrder": 15,
+      "destination": 2
+    }
+  ]
+}

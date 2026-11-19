@@ -1,0 +1,112 @@
+{
+  "scope": "Original domestic interception eligibility and cancellation branch.\nExecutes5a2546..2561 and5a26d2..26eb; order setter is recorded, not executed.\nEncounter selection/combat and caller sequence are outside this audit.\n",
+  "eligibility": [
+    {
+      "flag": 0,
+      "automatic": false,
+      "eligible": false
+    },
+    {
+      "flag": 0,
+      "automatic": true,
+      "eligible": false
+    },
+    {
+      "flag": 1,
+      "automatic": false,
+      "eligible": true
+    },
+    {
+      "flag": 1,
+      "automatic": true,
+      "eligible": false
+    },
+    {
+      "flag": 255,
+      "automatic": false,
+      "eligible": true
+    },
+    {
+      "flag": 255,
+      "automatic": true,
+      "eligible": false
+    }
+  ],
+  "settlement": [
+    {
+      "outcome": "okay",
+      "good": 0,
+      "calls": []
+    },
+    {
+      "outcome": "okay",
+      "good": 20,
+      "calls": []
+    },
+    {
+      "outcome": "okay",
+      "good": 27,
+      "calls": []
+    },
+    {
+      "outcome": "canc",
+      "good": 0,
+      "calls": [
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "outcome": "canc",
+      "good": 20,
+      "calls": [
+        [
+          20,
+          0
+        ]
+      ]
+    },
+    {
+      "outcome": "canc",
+      "good": 27,
+      "calls": [
+        [
+          27,
+          0
+        ]
+      ]
+    },
+    {
+      "outcome": "lost",
+      "good": 0,
+      "calls": [
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "outcome": "lost",
+      "good": 20,
+      "calls": [
+        [
+          20,
+          0
+        ]
+      ]
+    },
+    {
+      "outcome": "lost",
+      "good": 27,
+      "calls": [
+        [
+          27,
+          0
+        ]
+      ]
+    }
+  ]
+}

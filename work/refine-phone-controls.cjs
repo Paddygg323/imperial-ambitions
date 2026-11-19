@@ -1,0 +1,15 @@
+const fs=require('fs'),path=require('path');
+const root='C:/Users/paddy/OneDrive/Desktop/IMP 2 Phone/src/winlator-app-main/';
+const file=root+'app/src/main/java/com/winlator/phone/PhoneControls.java';let s=fs.readFileSync(file,'utf8');
+s=s.replace('import android.widget.LinearLayout;','import android.widget.LinearLayout;\nimport android.widget.HorizontalScrollView;');
+s=s.replace('        row.setBackgroundColor(0xe6222933);','        row.setBackgroundColor(0x00000000);');
+s=s.replace('        LinearLayout tools=new LinearLayout(context); tools.setVisibility(View.GONE);\n        toggle.setOnClickListener(v->tools.setVisibility(tools.getVisibility()==View.VISIBLE?View.GONE:View.VISIBLE));',`        LinearLayout tools=new LinearLayout(context);
+        HorizontalScrollView scroll=new HorizontalScrollView(context);
+        scroll.setHorizontalScrollBarEnabled(false);scroll.addView(tools);scroll.setVisibility(View.GONE);
+        toggle.setOnClickListener(v->{boolean open=scroll.getVisibility()!=View.VISIBLE;
+            scroll.setVisibility(open?View.VISIBLE:View.GONE);row.setBackgroundColor(open?0xe6222933:0x00000000);});`);
+s=s.replace('row.addView(toggle); row.addView(tools);','row.addView(toggle); row.addView(scroll,new LinearLayout.LayoutParams(0,-1,1));');
+s=s.replace('new FrameLayout.LayoutParams(-2,','new FrameLayout.LayoutParams(-1,');fs.writeFileSync(file,s);
+const container=root+'app/src/main/java/com/winlator/container/Container.java';s=fs.readFileSync(container,'utf8');s=s.replace('DEFAULT_SCREEN_SIZE = "1280x720"','DEFAULT_SCREEN_SIZE = "1024x768"');fs.writeFileSync(container,s);
+const provenance='C:/Users/paddy/OneDrive/Desktop/IMP 2 Phone/research/runtime-provenance.txt';
+fs.appendFileSync(provenance,'\nNative private-directory prefixes adapted at equal byte lengths for cache and graphics socket paths; matching available native headers updated. See native-runtime-manifest.json for all original/final hashes.\nSource/native matching: 77 JNI symbol names found; this is not ABI execution verification. Core compressed runtime archives match official APK; nine text configuration differences are recorded in runtime-assets-comparison.csv.\n');

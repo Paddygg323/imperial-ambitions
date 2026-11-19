@@ -1,0 +1,229 @@
+{
+  "scope": "Original51121d selection and557af0 establishment on generated worlds.\nAll calls execute unchanged, including linked-list iteration, eligibility,\nriver traversal, relocation and development. Country tile lists are supplied\nin audited4fd69d..4fd78e order; unrelated country construction is not executed.\nEach owner is tested independently against the same starting world.\n",
+  "cases": [
+    {
+      "seed": 1500,
+      "owner": 6,
+      "selected": 2230,
+      "tilesHash": "6ac092ff52a36067674f505abd3c086df8249eecacae29be975763438494023a",
+      "provincesHash": "4f77fa66f8698f7fcee1ccdc58190d61d0c39ddc50338da2490bec55526a6380"
+    },
+    {
+      "seed": 1500,
+      "owner": 7,
+      "selected": 1481,
+      "tilesHash": "30289cc9ca8346500f430fee13629709c407431105c225d5b54ad74e07171a4e",
+      "provincesHash": "4f77fa66f8698f7fcee1ccdc58190d61d0c39ddc50338da2490bec55526a6380"
+    },
+    {
+      "seed": 1500,
+      "owner": 8,
+      "selected": 1614,
+      "tilesHash": "ae61266a5351220fcc68c57a39661cbfaac460ad2e084d77019a5193c495acf7",
+      "provincesHash": "4f77fa66f8698f7fcee1ccdc58190d61d0c39ddc50338da2490bec55526a6380"
+    },
+    {
+      "seed": 1500,
+      "owner": 9,
+      "selected": 2044,
+      "tilesHash": "3816ecaa12c22527be8b6bf17ca09dc694c3d4d74ea08beafd58cd15a4e2d8b3",
+      "provincesHash": "4f77fa66f8698f7fcee1ccdc58190d61d0c39ddc50338da2490bec55526a6380"
+    },
+    {
+      "seed": 1500,
+      "owner": 10,
+      "selected": 4102,
+      "tilesHash": "daa9251edf18f5acac318434f13f420f2752e93dd25368d143076e38fe48d7ed",
+      "provincesHash": "4f77fa66f8698f7fcee1ccdc58190d61d0c39ddc50338da2490bec55526a6380"
+    },
+    {
+      "seed": 1500,
+      "owner": 11,
+      "selected": 3232,
+      "tilesHash": "fe480db1e9628da089c78b3a7d91babe2ccb13bec23b9f23909839498465af5f",
+      "provincesHash": "4f77fa66f8698f7fcee1ccdc58190d61d0c39ddc50338da2490bec55526a6380"
+    },
+    {
+      "seed": 1500,
+      "owner": 12,
+      "selected": 1864,
+      "tilesHash": "4d1a45ee717638020c0cdc76a3292997bedfc39a61a5365487be107842dd67fb",
+      "provincesHash": "2f65701094953c30648a16276e6feba0a1eb9a4a4f75109be912fbf04174a029"
+    },
+    {
+      "seed": 1500,
+      "owner": 13,
+      "selected": 892,
+      "tilesHash": "c62ddb8c97195f17e4b284351eb06d6e6f5e33a9aed9179cd81d667787834066",
+      "provincesHash": "793cf00b7edafe9909d996db520d743271c666d46a8c352c8721b22a865038b8"
+    },
+    {
+      "seed": 1500,
+      "owner": 14,
+      "selected": 3475,
+      "tilesHash": "0df52f5baf63a1c1a318172f2e4303e99117fa040f856ee5f5badcf042c909ca",
+      "provincesHash": "648ec745d2d70f897e04587682eb65e6dd9f570259ea70ffe4331d8b31b2ff83"
+    },
+    {
+      "seed": 1500,
+      "owner": 15,
+      "selected": 1552,
+      "tilesHash": "df61320dbc1acb712df155d628571639386c9b4b6eddb0f2ee8ed9c13baf160e",
+      "provincesHash": "cb91617057efcb51abdac968814342a3d6a3b7d42b7c4e997e2142795911837a"
+    },
+    {
+      "seed": 1500,
+      "owner": 16,
+      "selected": 2737,
+      "tilesHash": "3cefcc1b407c954f6e701ddaeec7ebd02e93155f885ff183dfe4fafcb02d2e8c",
+      "provincesHash": "380e002f55723c2d99273b44fd1ac68a91beafe791b9fb537ac17939912c98bc"
+    },
+    {
+      "seed": 1500,
+      "owner": 17,
+      "selected": 2824,
+      "tilesHash": "56ebdd8626ce8128efcdffb5f2c4d9e4250b3669eda34b91c571c75eba5c2699",
+      "provincesHash": "ec55a9450eff9d3e972fefb672b8fdc9f7c2f652a693c8ee4c1aad66ca2da8f6"
+    },
+    {
+      "seed": 1500,
+      "owner": 18,
+      "selected": 4240,
+      "tilesHash": "1eaf30a91baa545c9df060152b4446ef3aeb41070571e69659d007d335d71f1e",
+      "provincesHash": "39e2b9dae4a75374c71f8522ca3c4875eb336c5789f0f54f59888af732a6db64"
+    },
+    {
+      "seed": 1500,
+      "owner": 19,
+      "selected": 3280,
+      "tilesHash": "dc93f9ea3aafb6dd3f1349f19c1df9d704f40cb44eab8f27d818f57d22c4491b",
+      "provincesHash": "6ed089f51f5f7bf66adfbb09805a94515785a8b2cdf5bc7f213b57972f0f77d0"
+    },
+    {
+      "seed": 1500,
+      "owner": 20,
+      "selected": 5421,
+      "tilesHash": "d8eaaf91f9e193dc5f1c46dbfa0de50626f7948dd438455174e85d28f8c46dde",
+      "provincesHash": "bca5060216556a38edc361be8899b7ad52a51aa8b2de55e5c5dec000d11872e0"
+    },
+    {
+      "seed": 1500,
+      "owner": 21,
+      "selected": 5520,
+      "tilesHash": "0181912c0e7ebb1286685ef491666c5b02138a504b88bd3e96edb198dda12256",
+      "provincesHash": "6faf9812596e25b94931d3414e28b6187de27da5b3ddf4a26c8e396f435c5e71"
+    },
+    {
+      "seed": 1501,
+      "owner": 6,
+      "selected": 2230,
+      "tilesHash": "1d00ae7159e11c9a2e82365134e82b14a52740f297f2ffbdf0b5348034dda32f",
+      "provincesHash": "cda321483d9ecbb8cbb6e14ab185fb8c174c154b9a7ba022cfe1392a64edd1e3"
+    },
+    {
+      "seed": 1501,
+      "owner": 7,
+      "selected": 1481,
+      "tilesHash": "94984563520c952b46b4f257e4258bd94ce32d042e858bcbd994f98ed2a6b346",
+      "provincesHash": "cda321483d9ecbb8cbb6e14ab185fb8c174c154b9a7ba022cfe1392a64edd1e3"
+    },
+    {
+      "seed": 1501,
+      "owner": 8,
+      "selected": 1614,
+      "tilesHash": "0b2b8f1d130e25802d98469330b2b20fb246ba80edef8fe273f185553adbcda8",
+      "provincesHash": "cda321483d9ecbb8cbb6e14ab185fb8c174c154b9a7ba022cfe1392a64edd1e3"
+    },
+    {
+      "seed": 1501,
+      "owner": 9,
+      "selected": 2044,
+      "tilesHash": "1e71a0bd28c36bb9a5f358efca928a07f781f9b6665803ffb41d3ab6f435dd60",
+      "provincesHash": "cda321483d9ecbb8cbb6e14ab185fb8c174c154b9a7ba022cfe1392a64edd1e3"
+    },
+    {
+      "seed": 1501,
+      "owner": 10,
+      "selected": 4102,
+      "tilesHash": "6955a7768eb15408f8fabdcfe1e3c730373426a7d0ac24259bb3c041c4c85810",
+      "provincesHash": "cda321483d9ecbb8cbb6e14ab185fb8c174c154b9a7ba022cfe1392a64edd1e3"
+    },
+    {
+      "seed": 1501,
+      "owner": 11,
+      "selected": 3232,
+      "tilesHash": "a8de9d38e92e4c6895c7e1a4604cbcfa74b16896e9795c0e415be38213c53113",
+      "provincesHash": "cda321483d9ecbb8cbb6e14ab185fb8c174c154b9a7ba022cfe1392a64edd1e3"
+    },
+    {
+      "seed": 1501,
+      "owner": 12,
+      "selected": 3298,
+      "tilesHash": "1e82d94563e22db3575e2f7100189a79df2fae6169da93efdf80edeff824f6ff",
+      "provincesHash": "6be06f334b29b10bb992d2649ed65ec55b6f2616d91f4f5570e3fe7f83e040d5"
+    },
+    {
+      "seed": 1501,
+      "owner": 13,
+      "selected": 818,
+      "tilesHash": "965779814cad79cb693c7c5ba9baca7eceff26503547db8f234f8c4b78a3bc4a",
+      "provincesHash": "bd9ce8faf582418ffce6a2db70c385cc4af44c790b82f377e77723f9b8f85923"
+    },
+    {
+      "seed": 1501,
+      "owner": 14,
+      "selected": 1565,
+      "tilesHash": "11b4f593986ee4941fc8ee9ed3fad5bee4f2df1700befd0635c3d9cca170c29e",
+      "provincesHash": "f0cde0353ee57167c369bee773f7e29c83deab1b8314b5ff61baa15392781a73"
+    },
+    {
+      "seed": 1501,
+      "owner": 15,
+      "selected": 1870,
+      "tilesHash": "f183158f59a70069678ee66c71099b128d3e6a892aa61640586fa654a8e794fa",
+      "provincesHash": "cda321483d9ecbb8cbb6e14ab185fb8c174c154b9a7ba022cfe1392a64edd1e3"
+    },
+    {
+      "seed": 1501,
+      "owner": 16,
+      "selected": 2727,
+      "tilesHash": "5057220e122b89431877a60dbbb391515858027da3f884231bb917b5fed033bd",
+      "provincesHash": "858f83ff66d66c6d40aafee3041e6296fa976701d5c8120c520c4f0d063bb333"
+    },
+    {
+      "seed": 1501,
+      "owner": 17,
+      "selected": 907,
+      "tilesHash": "d967c0b52ebe328003e38aed628d905dc1b2a664ad53e16411affb0d89f764c6",
+      "provincesHash": "ff0caf7e88598429e6d509e8121b49331f34410186c5580f69a21df620e68850"
+    },
+    {
+      "seed": 1501,
+      "owner": 18,
+      "selected": 3699,
+      "tilesHash": "c3333684768b22f9de32cb24bf1b383dece69d13b2411677d5db8d506bbed309",
+      "provincesHash": "ebaab7dbaae6e09f2e76511ffdc2226bf5f81162739410fdf6b89e27f684b40e"
+    },
+    {
+      "seed": 1501,
+      "owner": 19,
+      "selected": 5119,
+      "tilesHash": "5bbe63f5c1a5e67d8b8060e473ae55413f8d4a87101164baab4b38776a4a94ce",
+      "provincesHash": "23e3b5531fed6d33cc33193434cbf6d35ab4b52d20993bd6efd3cf3272631b7d"
+    },
+    {
+      "seed": 1501,
+      "owner": 20,
+      "selected": 1663,
+      "tilesHash": "e2f3cd0e60acb7ccc304db0d35dfa3187fb385af5b9b9468b3f91df30929c204",
+      "provincesHash": "d9bcf5188c4353a128e753b3f1277dc1edff83e5875f095931a82759365e086e"
+    },
+    {
+      "seed": 1501,
+      "owner": 21,
+      "selected": 4035,
+      "tilesHash": "dee920563a1dfb0d83e063fefa2ccb336db3640bf4c4baabf4d95806475e9199",
+      "provincesHash": "38d45f58ec110ae4d75391e476f583ec25373a219ee013e9dd3b62db76fbcbb5"
+    }
+  ]
+}

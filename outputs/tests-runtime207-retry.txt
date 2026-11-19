@@ -1,0 +1,16 @@
+✔ completed national surveys are skipped even when the base tile remains unprospected (93.5207ms)
+✔ ship revelation enables legal overseas scouting, persists and reveals new terrain on resolution (1264.895ms)
+✔ unrevealed resources and rival Great Power land cannot steer or receive an explorer order (47.4262ms)
+✔ export forecast repays existing and new output debt without mutating the live nation (117.9596ms)
+✔ unrepayable export debt cannot generate phantom stock or unlimited production (75.0868ms)
+✔ export production spends idle labour only on profitable cargo-sized surplus and retains raw reserves (60.7116ms)
+✔ worker luxury and missing-garrison reserves remain protected (42.0999ms)
+✔ live trade planner offers surplus paper previously excluded from AI sales (219.9355ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 2740.2077

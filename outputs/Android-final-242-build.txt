@@ -1,0 +1,35 @@
+Note: C:\Users\paddy\Documents\Codex\2026-10-05\imperialism-ii-phone\android\src\main\java\com\paddy\imperialism\rebuild\MainActivity.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): true
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+{
+  "apk": "Imperialism-Rebuild-development.apk",
+  "bytes": 34985917,
+  "sha256": "f965430502bfcde01b121440a8c7610ac4048013d144a5366c33d19ef7831576",
+  "assetCount": 333,
+  "pixelTested": false,
+  "completeGame": false
+}
+{
+  "bundle": "Imperialism-Rebuild-unsigned.aab",
+  "sha256": "1644a38e3d127bb421494e61ca9e5d7c4e6928b2a7a823ad4ef0fd794dff9cff",
+  "bytes": 33997028,
+  "targetSdk": 36,
+  "versionCode": 242,
+  "assetsVerified": 333,
+  "bundletoolValidated": true,
+  "uploadSigned": false,
+  "storeReady": false,
+  "unresolved": [
+    "Physical Pixel lifecycle, performance and long-play validation",
+    "Final branding and distribution provenance",
+    "Public privacy policy and developer/store declarations",
+    "Final gameplay completeness and campaign validation"
+  ]
+}

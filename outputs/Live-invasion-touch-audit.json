@@ -1,0 +1,13 @@
+{
+  "viewport": {
+    "width": 412,
+    "height": 915
+  },
+  "touch": true,
+  "actions": "Selected and deployed three real campaign regiments using touch, reloaded, and tapped Ready",
+  "errors": [],
+  "limits": [
+    "Headless desktop Chrome mobile emulation, not Android WebView or physical Pixel",
+    "Full battle was tested separately through legal headless commands"
+  ]
+}

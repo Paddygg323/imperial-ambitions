@@ -1,0 +1,230 @@
+{
+  "scope": "Chain original coarse allocation/checks/translation/smoothing/drift/renumber.\nHistorical raw input and reset buffers supplied explicitly by standalone modules.\nOnly drift malloc/free substituted. No full generator retry or later terrain.\n",
+  "cases": [
+    {
+      "seed": 1,
+      "stages": {
+        "smoothing": {
+          "tilesHash": "56e06116811d860d62e1794013c8b22e804d21395b3e5c5b3e172594c22a3d95",
+          "provincesHash": "32a83416a11652565601d2befaa38b1d0f7bcf95841cf553958187d8ce71c1aa",
+          "randomState": 1724725054
+        },
+        "drift": {
+          "tilesHash": "0d4b487bcf5310d3d7acbc1351da9ff63258398909a0c5a3ff72a69689b2f879",
+          "provincesHash": "32a83416a11652565601d2befaa38b1d0f7bcf95841cf553958187d8ce71c1aa",
+          "randomState": 1724725054
+        },
+        "renumber": {
+          "tilesHash": "1df0dc20e6e0ed667aa90e4ff0e33f410baf622719331ea4bb48cf13f45afa9c",
+          "provincesHash": "c82cbc440c115a5e9b7362833722c7b93fb2006ac5da8c03cf078d863cd122a3",
+          "randomState": 1724725054
+        }
+      }
+    },
+    {
+      "seed": 2,
+      "stages": {
+        "smoothing": {
+          "tilesHash": "65b32ea33ec01a8e198d4f66a4d07fb00a214a3801bb551756f5462f0992e731",
+          "provincesHash": "fae99433a0d138343bbcdc90ed4f93a7d4d02b5be6a662821617062e599c20bf",
+          "randomState": 1297961838
+        },
+        "drift": {
+          "tilesHash": "53eba0a3bcc2b19a6161dfb7c9d8490e3d7036873aab62c315e051b0147c5ce8",
+          "provincesHash": "fae99433a0d138343bbcdc90ed4f93a7d4d02b5be6a662821617062e599c20bf",
+          "randomState": 1297961838
+        },
+        "renumber": {
+          "tilesHash": "8dd2e55bdf07233c2e2d397a9ca4c2eead7b43dc7e3d8b12904858873a8beb4e",
+          "provincesHash": "ac78856424d398b638fd098278fb175dc91d93316ff4f3760ee51ac78d086a98",
+          "randomState": 1297961838
+        }
+      }
+    },
+    {
+      "seed": 3,
+      "stages": {
+        "smoothing": {
+          "tilesHash": "9b969a53b3884caa75f60e9929bf594c49623f1b24e7e447ba28ff7430c0672f",
+          "provincesHash": "e28b95262d27db960d416c4f8ae6e82a621a219329c88c27c674e96a1869ad74",
+          "randomState": 762040339
+        },
+        "drift": {
+          "tilesHash": "1e70805a26d91d0a4e74d136686963e08e893c51ef675725f513bf4c1f785313",
+          "provincesHash": "e28b95262d27db960d416c4f8ae6e82a621a219329c88c27c674e96a1869ad74",
+          "randomState": 762040339
+        },
+        "renumber": {
+          "tilesHash": "3baacb3167f0ffeb2fd3276cfeb1589716a2dc3020bf896f3527f83f04990b05",
+          "provincesHash": "bcc90a75c9047575ed7eafc4229ed0311e34607cedf453f94ee840177c3d8ed9",
+          "randomState": 762040339
+        }
+      }
+    },
+    {
+      "seed": 4,
+      "stages": {
+        "smoothing": {
+          "tilesHash": "50382fdea96cb37907646ff774a45587051d5d372fced0ab50ad7a3a5647d828",
+          "provincesHash": "e9edcd2f6b77553a57c3d11a88057286b35b703eb1744b37f2f5bf2440003514",
+          "randomState": 2621912129
+        },
+        "drift": {
+          "tilesHash": "9ad611dfaf0bbb08fe864ff217fd919cb411d00202001d7ad54e4d2dd9dd3aeb",
+          "provincesHash": "e9edcd2f6b77553a57c3d11a88057286b35b703eb1744b37f2f5bf2440003514",
+          "randomState": 2621912129
+        },
+        "renumber": {
+          "tilesHash": "dd6ca363e7b0574d3d46b772f6546b7b24ea3a8a8408ddddb813dc4713739650",
+          "provincesHash": "c79e16591cd21cc4c85db518aebb467bcaf44dc7c702978066330a7094e26eb1",
+          "randomState": 2621912129
+        }
+      }
+    },
+    {
+      "seed": 5,
+      "stages": {
+        "smoothing": {
+          "tilesHash": "9b769bb52aa0b0403f2e13ac1b174212aa5eba00ef55f384a2c2194b65c97622",
+          "provincesHash": "000e50ef33384f1270c9de042c83e9299cc915c8f562d6fd2d0c81a347e85f45",
+          "randomState": 985073441
+        },
+        "drift": {
+          "tilesHash": "4393a81929ae37d45d8efc535a8a1d3b26429e48a1d085bffcf96481c87bab20",
+          "provincesHash": "000e50ef33384f1270c9de042c83e9299cc915c8f562d6fd2d0c81a347e85f45",
+          "randomState": 985073441
+        },
+        "renumber": {
+          "tilesHash": "7ae9c979760f95629fa7710a0e9efec770207660314a0e1b3dbfb249f2035e1c",
+          "provincesHash": "1da6abeb9bda70ff96a804e55f4b4da16706dee210fc5c413f61506ab9540b9b",
+          "randomState": 985073441
+        }
+      }
+    },
+    {
+      "seed": 6,
+      "stages": {
+        "smoothing": {
+          "tilesHash": "802b48d0f30dbca400470a50f1c787d3fd33b2a53e25168d5114f50756b9cbde",
+          "provincesHash": "07d55f4cf1c9674b5b6fcacd547c764290670ebc2970f36ac229996d199bacd5",
+          "randomState": 1699883061
+        },
+        "drift": {
+          "tilesHash": "c519bee0b308170c915ffdaac8789a40df6471c266cb69d1c469a8101a1048d0",
+          "provincesHash": "07d55f4cf1c9674b5b6fcacd547c764290670ebc2970f36ac229996d199bacd5",
+          "randomState": 1699883061
+        },
+        "renumber": {
+          "tilesHash": "47f1965702ce9b49305fb33a7018ff6a649745e1b34c5b86f587b0c9b6b4fb01",
+          "provincesHash": "c7263e5d6839c738f10201478c3f5f60e8d339db019f3813ced28920e1483ea0",
+          "randomState": 1699883061
+        }
+      }
+    },
+    {
+      "seed": 7,
+      "stages": {},
+      "rejected": "coasts"
+    },
+    {
+      "seed": 8,
+      "stages": {
+        "smoothing": {
+          "tilesHash": "f2221535137bb7aeb0c624e7affa8ba92c1e79aa11432f7780058fcba86d8539",
+          "provincesHash": "5cd94038fcdb4587b131e973ec77ae242c46ae3635f79761feac67be1c92543c",
+          "randomState": 497799561
+        },
+        "drift": {
+          "tilesHash": "3883606290a651b60b919e7387677d5209646fe0a8d371939eb3d9737ac7871b",
+          "provincesHash": "5cd94038fcdb4587b131e973ec77ae242c46ae3635f79761feac67be1c92543c",
+          "randomState": 497799561
+        },
+        "renumber": {
+          "tilesHash": "b2dba3764d187fdc8e93da664d7ec4bb52cc8839e92fe4517cf26f28e1a4ec35",
+          "provincesHash": "afda041655e2a1a00f7e892dfd318e37e269c6105b7ec236f784c79bd5985544",
+          "randomState": 497799561
+        }
+      }
+    },
+    {
+      "seed": 9,
+      "stages": {
+        "smoothing": {
+          "tilesHash": "6bfe128b4f766a610b30d4acfbb9f3b39f64c5d7e499b29f748cf9d026ca41e7",
+          "provincesHash": "2063a04e2eede775e1d25109775a9b7affc9f4b3c6a4fa879a5452a64053a93f",
+          "randomState": 1801707999
+        },
+        "drift": {
+          "tilesHash": "d7989438bf3fd61a2227460ed7df01b7bf6eafab0e32b8fc749440693ed0cdc1",
+          "provincesHash": "2063a04e2eede775e1d25109775a9b7affc9f4b3c6a4fa879a5452a64053a93f",
+          "randomState": 1801707999
+        },
+        "renumber": {
+          "tilesHash": "141ecee98b20f743fd32a594588db362f9d1d69660aa43dd984e125d8f19d9af",
+          "provincesHash": "79636038e75ecb57a95846252da9190b5ad7e29afd5dc88513afd36c365dd012",
+          "randomState": 1801707999
+        }
+      }
+    },
+    {
+      "seed": 10,
+      "stages": {
+        "smoothing": {
+          "tilesHash": "38fd2063a06f52769496c6168daa3ae5b556f9e98e9cf3066dcb634994154c4e",
+          "provincesHash": "eab07e6598b0b620adf252754b63db74c8c6b5daae9ac5f96d0aaf02c43f3b07",
+          "randomState": 1384966630
+        },
+        "drift": {
+          "tilesHash": "23ab36be1fdea45f2a5ac64bfe0eea74d457573b27bfad7a39c670a0ff769fa9",
+          "provincesHash": "eab07e6598b0b620adf252754b63db74c8c6b5daae9ac5f96d0aaf02c43f3b07",
+          "randomState": 1384966630
+        },
+        "renumber": {
+          "tilesHash": "2be9c3e6a40932d3be2ecd4ddc3b3d3e20c2003243fb3a04702efa5bf9958f2f",
+          "provincesHash": "d042763b893c70ee0b9a9228c7687357209b362e8e49d02c2b1c5286052e3fcd",
+          "randomState": 1384966630
+        }
+      }
+    },
+    {
+      "seed": 11,
+      "stages": {
+        "smoothing": {
+          "tilesHash": "c8bdaf7592dcd8f06102ab463c2e819259282fc3cdb1e490f17ffa8e3508b9b6",
+          "provincesHash": "1cd4610e185e49e7a49e9d3fd750c3f21c9f2ac61a2e3a27ca751057ce98cf3e",
+          "randomState": 796761720
+        },
+        "drift": {
+          "tilesHash": "efe8e0faa4b579ac420bbd0f978e0af500515b8af24c315ddee8ef1f706302a5",
+          "provincesHash": "1cd4610e185e49e7a49e9d3fd750c3f21c9f2ac61a2e3a27ca751057ce98cf3e",
+          "randomState": 796761720
+        },
+        "renumber": {
+          "tilesHash": "fd3bc83cb1882fd8f9baa2a19f463b2538bcf27fe9e4fd0eaff8473f6f598c3b",
+          "provincesHash": "fab8e7717fe6a6dff59c4c521dca894fba9145baba7236c0bee6b4383a860775",
+          "randomState": 796761720
+        }
+      }
+    },
+    {
+      "seed": 12,
+      "stages": {
+        "smoothing": {
+          "tilesHash": "41f2c1e7e25c7503c2f5e9b027b9e76b72c28c6c45c55ce5d13d16a3bfe9487c",
+          "provincesHash": "8e6abb8b1e2064d0d2b8ad35e9ae0201555d6854d094403fb25525ffe9fa9adc",
+          "randomState": 4254116383
+        },
+        "drift": {
+          "tilesHash": "c3590a03f6736e36e9b094febc8d5f74f3600bf62e2e7e9b801b588f54ff2353",
+          "provincesHash": "8e6abb8b1e2064d0d2b8ad35e9ae0201555d6854d094403fb25525ffe9fa9adc",
+          "randomState": 4254116383
+        },
+        "renumber": {
+          "tilesHash": "3f965fd704c5885af1f51ee3438a79aa58036ec68c7d9c952b8767306cd1a02b",
+          "provincesHash": "d2472724b24e784c27a7d1d8875277adc4253ba0789572ccb18f8ac6d490834f",
+          "randomState": 4254116383
+        }
+      }
+    }
+  ]
+}

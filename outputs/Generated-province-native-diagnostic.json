@@ -1,0 +1,73 @@
+{
+  "scope": "Diagnose complete native province generation on standalone generated input.\nThis is not native whole-map generator parity. Resource population is omitted.\nRun the unchanged original province routine and report its first invalid access.\n",
+  "results": [
+    {
+      "seed": 1,
+      "invalidAddress": "0x1907204",
+      "instruction": "0x54ccba",
+      "access": 20,
+      "size": 2,
+      "complete": false,
+      "error": "Invalid memory write (UC_ERR_WRITE_UNMAPPED)"
+    },
+    {
+      "seed": 3,
+      "complete": true,
+      "tilesHash": "d83e12f4bd3546615f5ecaafa25543df238a7714e67911a64e03c83c10813dee",
+      "provincesHash": "4a365d8544f6560eb2e145ea4173ae8f8ef5d3de7719986941c6ac88bcd07efc",
+      "randomState": 3345152833
+    },
+    {
+      "seed": 4,
+      "complete": true,
+      "tilesHash": "415766e3c291ac70a5d2091ac4c3966f7fe69c9e54648d0271780a3d9248b783",
+      "provincesHash": "23ea91bd4d34cd595d791b1735434f18bf6a5cbd8858f4fefd3019964399137f",
+      "randomState": 2924385358
+    },
+    {
+      "seed": 6,
+      "invalidAddress": "0x1906248",
+      "instruction": "0x54ccba",
+      "access": 20,
+      "size": 2,
+      "complete": false,
+      "error": "Invalid memory write (UC_ERR_WRITE_UNMAPPED)"
+    },
+    {
+      "seed": 8,
+      "invalidAddress": "0x1905ba8",
+      "instruction": "0x54ccba",
+      "access": 20,
+      "size": 2,
+      "complete": false,
+      "error": "Invalid memory write (UC_ERR_WRITE_UNMAPPED)"
+    },
+    {
+      "seed": 9,
+      "invalidAddress": "0x1906248",
+      "instruction": "0x54ccba",
+      "access": 20,
+      "size": 2,
+      "complete": false,
+      "error": "Invalid memory write (UC_ERR_WRITE_UNMAPPED)"
+    },
+    {
+      "seed": 11,
+      "invalidAddress": "0x1905ef8",
+      "instruction": "0x54ccba",
+      "access": 20,
+      "size": 2,
+      "complete": false,
+      "error": "Invalid memory write (UC_ERR_WRITE_UNMAPPED)"
+    },
+    {
+      "seed": 12,
+      "invalidAddress": "0x190454c",
+      "instruction": "0x54ccba",
+      "access": 20,
+      "size": 2,
+      "complete": false,
+      "error": "Invalid memory write (UC_ERR_WRITE_UNMAPPED)"
+    }
+  ]
+}

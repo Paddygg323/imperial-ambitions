@@ -1,0 +1,301 @@
+{
+  "scope": "Original trade-offer quantity500920, using supplied transport-network records.",
+  "cases": [
+    {
+      "capitalNetwork": 7,
+      "good": 0,
+      "records": [],
+      "quantity": 0
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 4,
+      "records": [],
+      "quantity": 0
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 11,
+      "records": [],
+      "quantity": 0
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 19,
+      "records": [],
+      "quantity": 0
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 0,
+      "records": [
+        {
+          "id": 7,
+          "flag": 0,
+          "quantity": 3
+        }
+      ],
+      "quantity": 3
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 4,
+      "records": [
+        {
+          "id": 7,
+          "flag": 0,
+          "quantity": 3
+        }
+      ],
+      "quantity": 3
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 11,
+      "records": [
+        {
+          "id": 7,
+          "flag": 0,
+          "quantity": 3
+        }
+      ],
+      "quantity": 3
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 19,
+      "records": [
+        {
+          "id": 7,
+          "flag": 0,
+          "quantity": 3
+        }
+      ],
+      "quantity": 3
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 0,
+      "records": [
+        {
+          "id": 7,
+          "flag": 0,
+          "quantity": 3
+        },
+        {
+          "id": 9,
+          "flag": 0,
+          "quantity": 5
+        }
+      ],
+      "quantity": 8
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 4,
+      "records": [
+        {
+          "id": 7,
+          "flag": 0,
+          "quantity": 3
+        },
+        {
+          "id": 9,
+          "flag": 0,
+          "quantity": 5
+        }
+      ],
+      "quantity": 8
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 11,
+      "records": [
+        {
+          "id": 7,
+          "flag": 0,
+          "quantity": 3
+        },
+        {
+          "id": 9,
+          "flag": 0,
+          "quantity": 5
+        }
+      ],
+      "quantity": 8
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 19,
+      "records": [
+        {
+          "id": 7,
+          "flag": 0,
+          "quantity": 3
+        },
+        {
+          "id": 9,
+          "flag": 0,
+          "quantity": 5
+        }
+      ],
+      "quantity": 8
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 0,
+      "records": [
+        {
+          "id": 7,
+          "flag": 0,
+          "quantity": 3
+        },
+        {
+          "id": 9,
+          "flag": 1,
+          "quantity": 5
+        },
+        {
+          "id": 12,
+          "flag": 0,
+          "quantity": 2
+        }
+      ],
+      "quantity": 10
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 4,
+      "records": [
+        {
+          "id": 7,
+          "flag": 0,
+          "quantity": 3
+        },
+        {
+          "id": 9,
+          "flag": 1,
+          "quantity": 5
+        },
+        {
+          "id": 12,
+          "flag": 0,
+          "quantity": 2
+        }
+      ],
+      "quantity": 10
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 11,
+      "records": [
+        {
+          "id": 7,
+          "flag": 0,
+          "quantity": 3
+        },
+        {
+          "id": 9,
+          "flag": 1,
+          "quantity": 5
+        },
+        {
+          "id": 12,
+          "flag": 0,
+          "quantity": 2
+        }
+      ],
+      "quantity": 10
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 19,
+      "records": [
+        {
+          "id": 7,
+          "flag": 0,
+          "quantity": 3
+        },
+        {
+          "id": 9,
+          "flag": 1,
+          "quantity": 5
+        },
+        {
+          "id": 12,
+          "flag": 0,
+          "quantity": 2
+        }
+      ],
+      "quantity": 10
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 0,
+      "records": [
+        {
+          "id": 9,
+          "flag": 1,
+          "quantity": 5
+        },
+        {
+          "id": 12,
+          "flag": 0,
+          "quantity": 2
+        }
+      ],
+      "quantity": 7
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 4,
+      "records": [
+        {
+          "id": 9,
+          "flag": 1,
+          "quantity": 5
+        },
+        {
+          "id": 12,
+          "flag": 0,
+          "quantity": 2
+        }
+      ],
+      "quantity": 7
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 11,
+      "records": [
+        {
+          "id": 9,
+          "flag": 1,
+          "quantity": 5
+        },
+        {
+          "id": 12,
+          "flag": 0,
+          "quantity": 2
+        }
+      ],
+      "quantity": 7
+    },
+    {
+      "capitalNetwork": 7,
+      "good": 19,
+      "records": [
+        {
+          "id": 9,
+          "flag": 1,
+          "quantity": 5
+        },
+        {
+          "id": 12,
+          "flag": 0,
+          "quantity": 2
+        }
+      ],
+      "quantity": 7
+    }
+  ]
+}

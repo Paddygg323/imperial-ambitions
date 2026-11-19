@@ -1,0 +1,72 @@
+{
+  "runtime": 253,
+  "assets": {
+    "tin": {
+      "image": "revisions/minerals-swamp-r253/tin.png",
+      "rect": [
+        192,
+        171,
+        1152,
+        687
+      ],
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    "copper": {
+      "image": "revisions/minerals-swamp-r253/copper.png",
+      "rect": [
+        192,
+        171,
+        1152,
+        689
+      ],
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    "iron": {
+      "image": "revisions/minerals-swamp-r253/iron.png",
+      "rect": [
+        192,
+        172,
+        1152,
+        686
+      ],
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    "coal": {
+      "image": "revisions/minerals-swamp-r253/coal.png",
+      "rect": [
+        192,
+        171,
+        1152,
+        689
+      ],
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    "swamp": {
+      "image": "revisions/minerals-swamp-r253/swamp.png",
+      "rect": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "size": [
+        1254,
+        1254
+      ]
+    }
+  },
+  "tinScale": 0.85,
+  "notes": "Originals preserved; raw generated alpha overlays and swamp texture. Copper means the map deposit."
+}

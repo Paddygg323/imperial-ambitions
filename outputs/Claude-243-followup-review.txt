@@ -1,0 +1,21 @@
+## What I actually viewed vs. inferred
+
+Directly opened: `reference.png`, `parchment-reference.png`, `engineer-desktop.png`, `diplomacy-desktop.png`, `regiment-catalog.png`, `battle-412.png`, `battle-915.png`, `battle-1448.png`, `royal-meadow.png`, and read `military-art.mjs` + `battle-view.css` in full. (PowerShell is non-functional in this environment — every command, even `Get-Location`, fails with "command line too long" — so I could not independently hash the PNGs to confirm the SHA256 values you cited; everything below is from pixel inspection, not hash verification.)
+
+**Confirmed:** the prior review's claim was indeed false. `reference.png` is a warm, saturated painterly isometric map (Madrid/Aragon, galleons, soft lighting, ornate gold-leaf side panel). `engineer-desktop.png` is a visibly different, cooler/flatter art direction with a completely different panel layout ("Imperial atlas" minimap, different iconography, different border ornamentation). These are not close — the art-style gap to the actual target is real and still open. I'm not treating this as "needs to become pixel-identical" since that's an unreasonable bar, but the stated target and the shipped look remain two different visual languages.
+
+## Concrete defects found
+
+1. **Diplomacy desktop — clipped table row, overlapping caption.** In `diplomacy-desktop.png` the nation list only has room for 4 full rows (France/Sweden/Holland/Portugal); the 5th row (Spain) is cut off mid-height by the panel's bottom edge, and the explanatory caption ("Power: fielded army & warship rating...") is positioned immediately on top of/overlapping that truncated row instead of below a scrollable or taller list. Spain's relation/power bars are unreadable as a result.
+
+2. **Battle view, reduced-height breakpoint — overlapping unit text.** In `battle-915.png` (a short-viewport/landscape case), the `.battle-detail` unit line "Pikeman · England" renders clipped and visually overlapping the bottom edge of the hex board above it, rather than being cleanly contained. This comes from `battle-view.css:1`'s `@media(max-height:550px){.battle-detail{min-height:0}...}` rule — it hides the second stat line as intended, but doesn't stop the remaining line from colliding with the viewport border. Looks broken rather than deliberately compact.
+
+3. **Visible tiling seam in the painted meadow.** In `battle-1448.png` there's a hard vertical seam around x≈845 where the `royal-meadow.png` texture repeats — a clear brightness/pattern discontinuity, not a seamless tile. The source texture itself (viewed directly) has no inherent seam, so this is a background-size/position tiling issue in how it's applied at wide viewports, not a bad asset.
+
+4. **Dead CSS on the roster portraits (code smell, not a rendered bug).** `battle-view.css:19` sets `.battle-roster .military-portrait{background-size:600% 500%;background-position:calc(var(--unit-col)*20%) calc(var(--unit-row)*25%)}`, but `--unit-col`/`--unit-row` are never set anywhere in the codebase (confirmed by grep), and the actual paint lives on the child `.military-paint` span via inline styles from `militaryPortrait()` in `military-art.mjs:23`, which wins regardless. So this rule is fully inert — it doesn't cause a visible defect today, but it's leftover from an abandoned uniform-grid approach and should be deleted before it confuses the next person into thinking roster icons are grid-based.
+
+## What checks out
+
+The `MILITARY_RECTS` crop math in `military-art.mjs` is internally sound: every one of the 30 measured widths/heights stays under the `frame:229` constant, so no portrait's background-size/position math can overflow into a neighboring regiment's rectangle — the "measured, not naive-grid" claim is true for the actual sprite-rendering path (`militaryPortrait`/`drawMilitarySprite`), confirmed by reading the source, not just by eyeballing the catalog. `regiment-catalog.png` itself shows 30 distinct, visually sensible era-appropriate portraits with no obvious cropped limbs or bleed from adjacent frames.
+
+I have not run anything — no browser, no test suite — this is static file/image review only.

@@ -1,0 +1,46 @@
+{
+  "checkedBytes": 601501188,
+  "findings": [],
+  "largestFiles": [
+    {
+      "path": "outputs/Native-resource-planning-audit.json",
+      "bytes": 7844920
+    },
+    {
+      "path": "outputs/Native-preferred-external-resources-audit.json",
+      "bytes": 5246922
+    },
+    {
+      "path": "game/assets/terrain.png",
+      "bytes": 3835505
+    },
+    {
+      "path": "docs/design-references/main-style.png",
+      "bytes": 3635532
+    },
+    {
+      "path": "docs/design-references/diplomacy-direction.png",
+      "bytes": 3588549
+    },
+    {
+      "path": "outputs/Native-map-full-smoothing.json",
+      "bytes": 3103716
+    },
+    {
+      "path": "game/assets/royal-ground.png",
+      "bytes": 3069682
+    },
+    {
+      "path": "game/assets/royal-vellum.png",
+      "bytes": 2930860
+    },
+    {
+      "path": "game/assets/royal-envoys.png",
+      "bytes": 2850653
+    },
+    {
+      "path": "game/assets/royal-brocade.png",
+      "bytes": 2713642
+    }
+  ]
+}

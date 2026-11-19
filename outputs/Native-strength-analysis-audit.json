@@ -1,0 +1,2918 @@
+{
+  "scope": "Native656b10 regiment rating and50d9a0/50da60 strength aggregation.\nActual original cost lookup4da800; army cost base32 supplied. Iterator operations\nand reinforcement/naval-rating inputs supplied. Does not audit those input producers.\n",
+  "fpuControlWord": 575,
+  "ratings": [
+    {
+      "unit": "levy",
+      "hp": 1,
+      "rating": 3
+    },
+    {
+      "unit": "levy",
+      "hp": 250,
+      "rating": 3
+    },
+    {
+      "unit": "levy",
+      "hp": 500,
+      "rating": 3
+    },
+    {
+      "unit": "caliverman",
+      "hp": 1,
+      "rating": 5
+    },
+    {
+      "unit": "caliverman",
+      "hp": 250,
+      "rating": 5
+    },
+    {
+      "unit": "caliverman",
+      "hp": 500,
+      "rating": 5
+    },
+    {
+      "unit": "skirmisher",
+      "hp": 1,
+      "rating": 6
+    },
+    {
+      "unit": "skirmisher",
+      "hp": 250,
+      "rating": 6
+    },
+    {
+      "unit": "skirmisher",
+      "hp": 500,
+      "rating": 6
+    },
+    {
+      "unit": "sharpshooter",
+      "hp": 1,
+      "rating": 11
+    },
+    {
+      "unit": "sharpshooter",
+      "hp": 250,
+      "rating": 11
+    },
+    {
+      "unit": "sharpshooter",
+      "hp": 500,
+      "rating": 11
+    },
+    {
+      "unit": "pikeman",
+      "hp": 1,
+      "rating": 4
+    },
+    {
+      "unit": "pikeman",
+      "hp": 250,
+      "rating": 4
+    },
+    {
+      "unit": "pikeman",
+      "hp": 500,
+      "rating": 4
+    },
+    {
+      "unit": "halberdier",
+      "hp": 1,
+      "rating": 5
+    },
+    {
+      "unit": "halberdier",
+      "hp": 250,
+      "rating": 5
+    },
+    {
+      "unit": "halberdier",
+      "hp": 500,
+      "rating": 5
+    },
+    {
+      "unit": "regular",
+      "hp": 1,
+      "rating": 7
+    },
+    {
+      "unit": "regular",
+      "hp": 250,
+      "rating": 7
+    },
+    {
+      "unit": "regular",
+      "hp": 500,
+      "rating": 7
+    },
+    {
+      "unit": "rifleInfantry",
+      "hp": 1,
+      "rating": 11
+    },
+    {
+      "unit": "rifleInfantry",
+      "hp": 250,
+      "rating": 11
+    },
+    {
+      "unit": "rifleInfantry",
+      "hp": 500,
+      "rating": 11
+    },
+    {
+      "unit": "arquebusier",
+      "hp": 1,
+      "rating": 4
+    },
+    {
+      "unit": "arquebusier",
+      "hp": 250,
+      "rating": 4
+    },
+    {
+      "unit": "arquebusier",
+      "hp": 500,
+      "rating": 4
+    },
+    {
+      "unit": "musketeer",
+      "hp": 1,
+      "rating": 5
+    },
+    {
+      "unit": "musketeer",
+      "hp": 250,
+      "rating": 5
+    },
+    {
+      "unit": "musketeer",
+      "hp": 500,
+      "rating": 5
+    },
+    {
+      "unit": "grenadier",
+      "hp": 1,
+      "rating": 8
+    },
+    {
+      "unit": "grenadier",
+      "hp": 250,
+      "rating": 8
+    },
+    {
+      "unit": "grenadier",
+      "hp": 500,
+      "rating": 8
+    },
+    {
+      "unit": "guard",
+      "hp": 1,
+      "rating": 13
+    },
+    {
+      "unit": "guard",
+      "hp": 250,
+      "rating": 13
+    },
+    {
+      "unit": "guard",
+      "hp": 500,
+      "rating": 13
+    },
+    {
+      "unit": "bowman",
+      "hp": 1,
+      "rating": 4
+    },
+    {
+      "unit": "bowman",
+      "hp": 250,
+      "rating": 4
+    },
+    {
+      "unit": "bowman",
+      "hp": 500,
+      "rating": 4
+    },
+    {
+      "unit": "general",
+      "hp": 1,
+      "rating": 2
+    },
+    {
+      "unit": "general",
+      "hp": 250,
+      "rating": 2
+    },
+    {
+      "unit": "general",
+      "hp": 500,
+      "rating": 2
+    },
+    {
+      "unit": "squire",
+      "hp": 1,
+      "rating": 5
+    },
+    {
+      "unit": "squire",
+      "hp": 250,
+      "rating": 5
+    },
+    {
+      "unit": "squire",
+      "hp": 500,
+      "rating": 5
+    },
+    {
+      "unit": "cossack",
+      "hp": 1,
+      "rating": 6
+    },
+    {
+      "unit": "cossack",
+      "hp": 250,
+      "rating": 6
+    },
+    {
+      "unit": "cossack",
+      "hp": 500,
+      "rating": 6
+    },
+    {
+      "unit": "hussar",
+      "hp": 1,
+      "rating": 10
+    },
+    {
+      "unit": "hussar",
+      "hp": 250,
+      "rating": 10
+    },
+    {
+      "unit": "hussar",
+      "hp": 500,
+      "rating": 10
+    },
+    {
+      "unit": "scout",
+      "hp": 1,
+      "rating": 14
+    },
+    {
+      "unit": "scout",
+      "hp": 250,
+      "rating": 14
+    },
+    {
+      "unit": "scout",
+      "hp": 500,
+      "rating": 14
+    },
+    {
+      "unit": "knight",
+      "hp": 1,
+      "rating": 7
+    },
+    {
+      "unit": "knight",
+      "hp": 250,
+      "rating": 7
+    },
+    {
+      "unit": "knight",
+      "hp": 500,
+      "rating": 7
+    },
+    {
+      "unit": "lancer",
+      "hp": 1,
+      "rating": 8
+    },
+    {
+      "unit": "lancer",
+      "hp": 250,
+      "rating": 8
+    },
+    {
+      "unit": "lancer",
+      "hp": 500,
+      "rating": 8
+    },
+    {
+      "unit": "harquebusier",
+      "hp": 1,
+      "rating": 7
+    },
+    {
+      "unit": "harquebusier",
+      "hp": 250,
+      "rating": 7
+    },
+    {
+      "unit": "harquebusier",
+      "hp": 500,
+      "rating": 7
+    },
+    {
+      "unit": "cuirassier",
+      "hp": 1,
+      "rating": 11
+    },
+    {
+      "unit": "cuirassier",
+      "hp": 250,
+      "rating": 11
+    },
+    {
+      "unit": "cuirassier",
+      "hp": 500,
+      "rating": 11
+    },
+    {
+      "unit": "carbineCavalry",
+      "hp": 1,
+      "rating": 16
+    },
+    {
+      "unit": "carbineCavalry",
+      "hp": 250,
+      "rating": 16
+    },
+    {
+      "unit": "carbineCavalry",
+      "hp": 500,
+      "rating": 16
+    },
+    {
+      "unit": "horseArtillery",
+      "hp": 1,
+      "rating": 10
+    },
+    {
+      "unit": "horseArtillery",
+      "hp": 250,
+      "rating": 10
+    },
+    {
+      "unit": "horseArtillery",
+      "hp": 500,
+      "rating": 10
+    },
+    {
+      "unit": "lightArtillery",
+      "hp": 1,
+      "rating": 17
+    },
+    {
+      "unit": "lightArtillery",
+      "hp": 250,
+      "rating": 17
+    },
+    {
+      "unit": "lightArtillery",
+      "hp": 500,
+      "rating": 17
+    },
+    {
+      "unit": "fieldArtillery",
+      "hp": 1,
+      "rating": 26
+    },
+    {
+      "unit": "fieldArtillery",
+      "hp": 250,
+      "rating": 26
+    },
+    {
+      "unit": "fieldArtillery",
+      "hp": 500,
+      "rating": 26
+    },
+    {
+      "unit": "culverin",
+      "hp": 1,
+      "rating": 7
+    },
+    {
+      "unit": "culverin",
+      "hp": 250,
+      "rating": 7
+    },
+    {
+      "unit": "culverin",
+      "hp": 500,
+      "rating": 7
+    },
+    {
+      "unit": "royalArtillery",
+      "hp": 1,
+      "rating": 9
+    },
+    {
+      "unit": "royalArtillery",
+      "hp": 250,
+      "rating": 9
+    },
+    {
+      "unit": "royalArtillery",
+      "hp": 500,
+      "rating": 9
+    },
+    {
+      "unit": "heavyArtillery",
+      "hp": 1,
+      "rating": 16
+    },
+    {
+      "unit": "heavyArtillery",
+      "hp": 250,
+      "rating": 16
+    },
+    {
+      "unit": "heavyArtillery",
+      "hp": 500,
+      "rating": 16
+    },
+    {
+      "unit": "siegeGun",
+      "hp": 1,
+      "rating": 25
+    },
+    {
+      "unit": "siegeGun",
+      "hp": 250,
+      "rating": 25
+    },
+    {
+      "unit": "siegeGun",
+      "hp": 500,
+      "rating": 25
+    }
+  ],
+  "cases": [
+    {
+      "roster": [],
+      "armyPotential": 0,
+      "navyPotential": -7,
+      "navalRating": 0,
+      "border": 0.0,
+      "nonborder": -3.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 0,
+      "navyPotential": -7,
+      "navalRating": 7,
+      "border": 0.0,
+      "nonborder": 4.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 0,
+      "navyPotential": -7,
+      "navalRating": 100,
+      "border": 0.0,
+      "nonborder": 97.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 0,
+      "navyPotential": -1,
+      "navalRating": 0,
+      "border": 0.0,
+      "nonborder": 0.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 0,
+      "navyPotential": -1,
+      "navalRating": 7,
+      "border": 0.0,
+      "nonborder": 7.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 0,
+      "navyPotential": -1,
+      "navalRating": 100,
+      "border": 0.0,
+      "nonborder": 100.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 0,
+      "navyPotential": 0,
+      "navalRating": 0,
+      "border": 0.0,
+      "nonborder": 0.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 0,
+      "navyPotential": 0,
+      "navalRating": 7,
+      "border": 0.0,
+      "nonborder": 7.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 0,
+      "navyPotential": 0,
+      "navalRating": 100,
+      "border": 0.0,
+      "nonborder": 100.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 0,
+      "navyPotential": 3,
+      "navalRating": 0,
+      "border": 0.0,
+      "nonborder": 1.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 0,
+      "navyPotential": 3,
+      "navalRating": 7,
+      "border": 0.0,
+      "nonborder": 8.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 0,
+      "navyPotential": 3,
+      "navalRating": 100,
+      "border": 0.0,
+      "nonborder": 101.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 0,
+      "navyPotential": 250,
+      "navalRating": 0,
+      "border": 0.0,
+      "nonborder": 125.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 0,
+      "navyPotential": 250,
+      "navalRating": 7,
+      "border": 0.0,
+      "nonborder": 132.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 0,
+      "navyPotential": 250,
+      "navalRating": 100,
+      "border": 0.0,
+      "nonborder": 225.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 1,
+      "navyPotential": -7,
+      "navalRating": 0,
+      "border": 1.0,
+      "nonborder": -3.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 1,
+      "navyPotential": -7,
+      "navalRating": 7,
+      "border": 1.0,
+      "nonborder": 4.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 1,
+      "navyPotential": -7,
+      "navalRating": 100,
+      "border": 1.0,
+      "nonborder": 97.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 1,
+      "navyPotential": -1,
+      "navalRating": 0,
+      "border": 1.0,
+      "nonborder": 0.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 1,
+      "navyPotential": -1,
+      "navalRating": 7,
+      "border": 1.0,
+      "nonborder": 7.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 1,
+      "navyPotential": -1,
+      "navalRating": 100,
+      "border": 1.0,
+      "nonborder": 100.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 1,
+      "navyPotential": 0,
+      "navalRating": 0,
+      "border": 1.0,
+      "nonborder": 0.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 1,
+      "navyPotential": 0,
+      "navalRating": 7,
+      "border": 1.0,
+      "nonborder": 7.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 1,
+      "navyPotential": 0,
+      "navalRating": 100,
+      "border": 1.0,
+      "nonborder": 100.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 1,
+      "navyPotential": 3,
+      "navalRating": 0,
+      "border": 1.0,
+      "nonborder": 2.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 1,
+      "navyPotential": 3,
+      "navalRating": 7,
+      "border": 1.0,
+      "nonborder": 9.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 1,
+      "navyPotential": 3,
+      "navalRating": 100,
+      "border": 1.0,
+      "nonborder": 102.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 1,
+      "navyPotential": 250,
+      "navalRating": 0,
+      "border": 1.0,
+      "nonborder": 125.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 1,
+      "navyPotential": 250,
+      "navalRating": 7,
+      "border": 1.0,
+      "nonborder": 132.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 1,
+      "navyPotential": 250,
+      "navalRating": 100,
+      "border": 1.0,
+      "nonborder": 225.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 15,
+      "navyPotential": -7,
+      "navalRating": 0,
+      "border": 15.0,
+      "nonborder": 4.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 15,
+      "navyPotential": -7,
+      "navalRating": 7,
+      "border": 15.0,
+      "nonborder": 11.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 15,
+      "navyPotential": -7,
+      "navalRating": 100,
+      "border": 15.0,
+      "nonborder": 104.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 15,
+      "navyPotential": -1,
+      "navalRating": 0,
+      "border": 15.0,
+      "nonborder": 7.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 15,
+      "navyPotential": -1,
+      "navalRating": 7,
+      "border": 15.0,
+      "nonborder": 14.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 15,
+      "navyPotential": -1,
+      "navalRating": 100,
+      "border": 15.0,
+      "nonborder": 107.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 15,
+      "navyPotential": 0,
+      "navalRating": 0,
+      "border": 15.0,
+      "nonborder": 7.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 15,
+      "navyPotential": 0,
+      "navalRating": 7,
+      "border": 15.0,
+      "nonborder": 14.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 15,
+      "navyPotential": 0,
+      "navalRating": 100,
+      "border": 15.0,
+      "nonborder": 107.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 15,
+      "navyPotential": 3,
+      "navalRating": 0,
+      "border": 15.0,
+      "nonborder": 9.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 15,
+      "navyPotential": 3,
+      "navalRating": 7,
+      "border": 15.0,
+      "nonborder": 16.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 15,
+      "navyPotential": 3,
+      "navalRating": 100,
+      "border": 15.0,
+      "nonborder": 109.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 15,
+      "navyPotential": 250,
+      "navalRating": 0,
+      "border": 15.0,
+      "nonborder": 132.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 15,
+      "navyPotential": 250,
+      "navalRating": 7,
+      "border": 15.0,
+      "nonborder": 139.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 15,
+      "navyPotential": 250,
+      "navalRating": 100,
+      "border": 15.0,
+      "nonborder": 232.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 170,
+      "navyPotential": -7,
+      "navalRating": 0,
+      "border": 170.0,
+      "nonborder": 81.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 170,
+      "navyPotential": -7,
+      "navalRating": 7,
+      "border": 170.0,
+      "nonborder": 88.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 170,
+      "navyPotential": -7,
+      "navalRating": 100,
+      "border": 170.0,
+      "nonborder": 181.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 170,
+      "navyPotential": -1,
+      "navalRating": 0,
+      "border": 170.0,
+      "nonborder": 84.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 170,
+      "navyPotential": -1,
+      "navalRating": 7,
+      "border": 170.0,
+      "nonborder": 91.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 170,
+      "navyPotential": -1,
+      "navalRating": 100,
+      "border": 170.0,
+      "nonborder": 184.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 170,
+      "navyPotential": 0,
+      "navalRating": 0,
+      "border": 170.0,
+      "nonborder": 85.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 170,
+      "navyPotential": 0,
+      "navalRating": 7,
+      "border": 170.0,
+      "nonborder": 92.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 170,
+      "navyPotential": 0,
+      "navalRating": 100,
+      "border": 170.0,
+      "nonborder": 185.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 170,
+      "navyPotential": 3,
+      "navalRating": 0,
+      "border": 170.0,
+      "nonborder": 86.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 170,
+      "navyPotential": 3,
+      "navalRating": 7,
+      "border": 170.0,
+      "nonborder": 93.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 170,
+      "navyPotential": 3,
+      "navalRating": 100,
+      "border": 170.0,
+      "nonborder": 186.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 170,
+      "navyPotential": 250,
+      "navalRating": 0,
+      "border": 170.0,
+      "nonborder": 210.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 170,
+      "navyPotential": 250,
+      "navalRating": 7,
+      "border": 170.0,
+      "nonborder": 217.0
+    },
+    {
+      "roster": [],
+      "armyPotential": 170,
+      "navyPotential": 250,
+      "navalRating": 100,
+      "border": 170.0,
+      "nonborder": 310.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -7,
+      "navalRating": 0,
+      "border": 3.0,
+      "nonborder": 0.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -7,
+      "navalRating": 7,
+      "border": 3.0,
+      "nonborder": 7.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -7,
+      "navalRating": 100,
+      "border": 3.0,
+      "nonborder": 100.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -1,
+      "navalRating": 0,
+      "border": 3.0,
+      "nonborder": 3.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -1,
+      "navalRating": 7,
+      "border": 3.0,
+      "nonborder": 10.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -1,
+      "navalRating": 100,
+      "border": 3.0,
+      "nonborder": 103.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 0,
+      "navalRating": 0,
+      "border": 3.0,
+      "nonborder": 3.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 0,
+      "navalRating": 7,
+      "border": 3.0,
+      "nonborder": 10.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 0,
+      "navalRating": 100,
+      "border": 3.0,
+      "nonborder": 103.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 3,
+      "navalRating": 0,
+      "border": 3.0,
+      "nonborder": 4.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 3,
+      "navalRating": 7,
+      "border": 3.0,
+      "nonborder": 11.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 3,
+      "navalRating": 100,
+      "border": 3.0,
+      "nonborder": 104.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 250,
+      "navalRating": 0,
+      "border": 3.0,
+      "nonborder": 128.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 250,
+      "navalRating": 7,
+      "border": 3.0,
+      "nonborder": 135.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 250,
+      "navalRating": 100,
+      "border": 3.0,
+      "nonborder": 228.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -7,
+      "navalRating": 0,
+      "border": 4.0,
+      "nonborder": 0.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -7,
+      "navalRating": 7,
+      "border": 4.0,
+      "nonborder": 7.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -7,
+      "navalRating": 100,
+      "border": 4.0,
+      "nonborder": 100.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -1,
+      "navalRating": 0,
+      "border": 4.0,
+      "nonborder": 3.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -1,
+      "navalRating": 7,
+      "border": 4.0,
+      "nonborder": 10.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -1,
+      "navalRating": 100,
+      "border": 4.0,
+      "nonborder": 103.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 0,
+      "navalRating": 0,
+      "border": 4.0,
+      "nonborder": 3.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 0,
+      "navalRating": 7,
+      "border": 4.0,
+      "nonborder": 10.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 0,
+      "navalRating": 100,
+      "border": 4.0,
+      "nonborder": 103.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 3,
+      "navalRating": 0,
+      "border": 4.0,
+      "nonborder": 5.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 3,
+      "navalRating": 7,
+      "border": 4.0,
+      "nonborder": 12.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 3,
+      "navalRating": 100,
+      "border": 4.0,
+      "nonborder": 105.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 250,
+      "navalRating": 0,
+      "border": 4.0,
+      "nonborder": 128.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 250,
+      "navalRating": 7,
+      "border": 4.0,
+      "nonborder": 135.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 250,
+      "navalRating": 100,
+      "border": 4.0,
+      "nonborder": 228.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -7,
+      "navalRating": 0,
+      "border": 18.0,
+      "nonborder": 7.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -7,
+      "navalRating": 7,
+      "border": 18.0,
+      "nonborder": 14.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -7,
+      "navalRating": 100,
+      "border": 18.0,
+      "nonborder": 107.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -1,
+      "navalRating": 0,
+      "border": 18.0,
+      "nonborder": 10.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -1,
+      "navalRating": 7,
+      "border": 18.0,
+      "nonborder": 17.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -1,
+      "navalRating": 100,
+      "border": 18.0,
+      "nonborder": 110.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 0,
+      "navalRating": 0,
+      "border": 18.0,
+      "nonborder": 10.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 0,
+      "navalRating": 7,
+      "border": 18.0,
+      "nonborder": 17.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 0,
+      "navalRating": 100,
+      "border": 18.0,
+      "nonborder": 110.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 3,
+      "navalRating": 0,
+      "border": 18.0,
+      "nonborder": 12.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 3,
+      "navalRating": 7,
+      "border": 18.0,
+      "nonborder": 19.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 3,
+      "navalRating": 100,
+      "border": 18.0,
+      "nonborder": 112.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 250,
+      "navalRating": 0,
+      "border": 18.0,
+      "nonborder": 135.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 250,
+      "navalRating": 7,
+      "border": 18.0,
+      "nonborder": 142.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 250,
+      "navalRating": 100,
+      "border": 18.0,
+      "nonborder": 235.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -7,
+      "navalRating": 0,
+      "border": 173.0,
+      "nonborder": 84.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -7,
+      "navalRating": 7,
+      "border": 173.0,
+      "nonborder": 91.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -7,
+      "navalRating": 100,
+      "border": 173.0,
+      "nonborder": 184.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -1,
+      "navalRating": 0,
+      "border": 173.0,
+      "nonborder": 87.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -1,
+      "navalRating": 7,
+      "border": 173.0,
+      "nonborder": 94.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -1,
+      "navalRating": 100,
+      "border": 173.0,
+      "nonborder": 187.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 0,
+      "navalRating": 0,
+      "border": 173.0,
+      "nonborder": 88.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 0,
+      "navalRating": 7,
+      "border": 173.0,
+      "nonborder": 95.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 0,
+      "navalRating": 100,
+      "border": 173.0,
+      "nonborder": 188.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 3,
+      "navalRating": 0,
+      "border": 173.0,
+      "nonborder": 89.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 3,
+      "navalRating": 7,
+      "border": 173.0,
+      "nonborder": 96.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 3,
+      "navalRating": 100,
+      "border": 173.0,
+      "nonborder": 189.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 250,
+      "navalRating": 0,
+      "border": 173.0,
+      "nonborder": 213.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 250,
+      "navalRating": 7,
+      "border": 173.0,
+      "nonborder": 220.0
+    },
+    {
+      "roster": [
+        "levy"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 250,
+      "navalRating": 100,
+      "border": 173.0,
+      "nonborder": 313.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -7,
+      "navalRating": 0,
+      "border": 15.0,
+      "nonborder": 12.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -7,
+      "navalRating": 7,
+      "border": 15.0,
+      "nonborder": 19.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -7,
+      "navalRating": 100,
+      "border": 15.0,
+      "nonborder": 112.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -1,
+      "navalRating": 0,
+      "border": 15.0,
+      "nonborder": 15.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -1,
+      "navalRating": 7,
+      "border": 15.0,
+      "nonborder": 22.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -1,
+      "navalRating": 100,
+      "border": 15.0,
+      "nonborder": 115.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 0,
+      "navalRating": 0,
+      "border": 15.0,
+      "nonborder": 15.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 0,
+      "navalRating": 7,
+      "border": 15.0,
+      "nonborder": 22.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 0,
+      "navalRating": 100,
+      "border": 15.0,
+      "nonborder": 115.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 3,
+      "navalRating": 0,
+      "border": 15.0,
+      "nonborder": 16.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 3,
+      "navalRating": 7,
+      "border": 15.0,
+      "nonborder": 23.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 3,
+      "navalRating": 100,
+      "border": 15.0,
+      "nonborder": 116.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 250,
+      "navalRating": 0,
+      "border": 15.0,
+      "nonborder": 140.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 250,
+      "navalRating": 7,
+      "border": 15.0,
+      "nonborder": 147.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 250,
+      "navalRating": 100,
+      "border": 15.0,
+      "nonborder": 240.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -7,
+      "navalRating": 0,
+      "border": 16.0,
+      "nonborder": 12.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -7,
+      "navalRating": 7,
+      "border": 16.0,
+      "nonborder": 19.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -7,
+      "navalRating": 100,
+      "border": 16.0,
+      "nonborder": 112.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -1,
+      "navalRating": 0,
+      "border": 16.0,
+      "nonborder": 15.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -1,
+      "navalRating": 7,
+      "border": 16.0,
+      "nonborder": 22.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -1,
+      "navalRating": 100,
+      "border": 16.0,
+      "nonborder": 115.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 0,
+      "navalRating": 0,
+      "border": 16.0,
+      "nonborder": 15.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 0,
+      "navalRating": 7,
+      "border": 16.0,
+      "nonborder": 22.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 0,
+      "navalRating": 100,
+      "border": 16.0,
+      "nonborder": 115.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 3,
+      "navalRating": 0,
+      "border": 16.0,
+      "nonborder": 17.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 3,
+      "navalRating": 7,
+      "border": 16.0,
+      "nonborder": 24.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 3,
+      "navalRating": 100,
+      "border": 16.0,
+      "nonborder": 117.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 250,
+      "navalRating": 0,
+      "border": 16.0,
+      "nonborder": 140.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 250,
+      "navalRating": 7,
+      "border": 16.0,
+      "nonborder": 147.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 250,
+      "navalRating": 100,
+      "border": 16.0,
+      "nonborder": 240.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -7,
+      "navalRating": 0,
+      "border": 30.0,
+      "nonborder": 19.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -7,
+      "navalRating": 7,
+      "border": 30.0,
+      "nonborder": 26.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -7,
+      "navalRating": 100,
+      "border": 30.0,
+      "nonborder": 119.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -1,
+      "navalRating": 0,
+      "border": 30.0,
+      "nonborder": 22.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -1,
+      "navalRating": 7,
+      "border": 30.0,
+      "nonborder": 29.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -1,
+      "navalRating": 100,
+      "border": 30.0,
+      "nonborder": 122.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 0,
+      "navalRating": 0,
+      "border": 30.0,
+      "nonborder": 22.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 0,
+      "navalRating": 7,
+      "border": 30.0,
+      "nonborder": 29.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 0,
+      "navalRating": 100,
+      "border": 30.0,
+      "nonborder": 122.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 3,
+      "navalRating": 0,
+      "border": 30.0,
+      "nonborder": 24.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 3,
+      "navalRating": 7,
+      "border": 30.0,
+      "nonborder": 31.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 3,
+      "navalRating": 100,
+      "border": 30.0,
+      "nonborder": 124.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 250,
+      "navalRating": 0,
+      "border": 30.0,
+      "nonborder": 147.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 250,
+      "navalRating": 7,
+      "border": 30.0,
+      "nonborder": 154.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 250,
+      "navalRating": 100,
+      "border": 30.0,
+      "nonborder": 247.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -7,
+      "navalRating": 0,
+      "border": 185.0,
+      "nonborder": 96.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -7,
+      "navalRating": 7,
+      "border": 185.0,
+      "nonborder": 103.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -7,
+      "navalRating": 100,
+      "border": 185.0,
+      "nonborder": 196.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -1,
+      "navalRating": 0,
+      "border": 185.0,
+      "nonborder": 99.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -1,
+      "navalRating": 7,
+      "border": 185.0,
+      "nonborder": 106.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -1,
+      "navalRating": 100,
+      "border": 185.0,
+      "nonborder": 199.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 0,
+      "navalRating": 0,
+      "border": 185.0,
+      "nonborder": 100.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 0,
+      "navalRating": 7,
+      "border": 185.0,
+      "nonborder": 107.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 0,
+      "navalRating": 100,
+      "border": 185.0,
+      "nonborder": 200.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 3,
+      "navalRating": 0,
+      "border": 185.0,
+      "nonborder": 101.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 3,
+      "navalRating": 7,
+      "border": 185.0,
+      "nonborder": 108.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 3,
+      "navalRating": 100,
+      "border": 185.0,
+      "nonborder": 201.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 250,
+      "navalRating": 0,
+      "border": 185.0,
+      "nonborder": 225.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 250,
+      "navalRating": 7,
+      "border": 185.0,
+      "nonborder": 232.0
+    },
+    {
+      "roster": [
+        "horseArtillery",
+        "musketeer"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 250,
+      "navalRating": 100,
+      "border": 185.0,
+      "nonborder": 325.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -7,
+      "navalRating": 0,
+      "border": 25.0,
+      "nonborder": 22.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -7,
+      "navalRating": 7,
+      "border": 25.0,
+      "nonborder": 29.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -7,
+      "navalRating": 100,
+      "border": 25.0,
+      "nonborder": 122.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -1,
+      "navalRating": 0,
+      "border": 25.0,
+      "nonborder": 25.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -1,
+      "navalRating": 7,
+      "border": 25.0,
+      "nonborder": 32.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 0,
+      "navyPotential": -1,
+      "navalRating": 100,
+      "border": 25.0,
+      "nonborder": 125.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 0,
+      "navalRating": 0,
+      "border": 25.0,
+      "nonborder": 25.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 0,
+      "navalRating": 7,
+      "border": 25.0,
+      "nonborder": 32.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 0,
+      "navalRating": 100,
+      "border": 25.0,
+      "nonborder": 125.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 3,
+      "navalRating": 0,
+      "border": 25.0,
+      "nonborder": 26.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 3,
+      "navalRating": 7,
+      "border": 25.0,
+      "nonborder": 33.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 3,
+      "navalRating": 100,
+      "border": 25.0,
+      "nonborder": 126.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 250,
+      "navalRating": 0,
+      "border": 25.0,
+      "nonborder": 150.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 250,
+      "navalRating": 7,
+      "border": 25.0,
+      "nonborder": 157.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 0,
+      "navyPotential": 250,
+      "navalRating": 100,
+      "border": 25.0,
+      "nonborder": 250.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -7,
+      "navalRating": 0,
+      "border": 26.0,
+      "nonborder": 22.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -7,
+      "navalRating": 7,
+      "border": 26.0,
+      "nonborder": 29.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -7,
+      "navalRating": 100,
+      "border": 26.0,
+      "nonborder": 122.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -1,
+      "navalRating": 0,
+      "border": 26.0,
+      "nonborder": 25.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -1,
+      "navalRating": 7,
+      "border": 26.0,
+      "nonborder": 32.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 1,
+      "navyPotential": -1,
+      "navalRating": 100,
+      "border": 26.0,
+      "nonborder": 125.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 0,
+      "navalRating": 0,
+      "border": 26.0,
+      "nonborder": 25.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 0,
+      "navalRating": 7,
+      "border": 26.0,
+      "nonborder": 32.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 0,
+      "navalRating": 100,
+      "border": 26.0,
+      "nonborder": 125.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 3,
+      "navalRating": 0,
+      "border": 26.0,
+      "nonborder": 27.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 3,
+      "navalRating": 7,
+      "border": 26.0,
+      "nonborder": 34.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 3,
+      "navalRating": 100,
+      "border": 26.0,
+      "nonborder": 127.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 250,
+      "navalRating": 0,
+      "border": 26.0,
+      "nonborder": 150.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 250,
+      "navalRating": 7,
+      "border": 26.0,
+      "nonborder": 157.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 1,
+      "navyPotential": 250,
+      "navalRating": 100,
+      "border": 26.0,
+      "nonborder": 250.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -7,
+      "navalRating": 0,
+      "border": 40.0,
+      "nonborder": 29.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -7,
+      "navalRating": 7,
+      "border": 40.0,
+      "nonborder": 36.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -7,
+      "navalRating": 100,
+      "border": 40.0,
+      "nonborder": 129.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -1,
+      "navalRating": 0,
+      "border": 40.0,
+      "nonborder": 32.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -1,
+      "navalRating": 7,
+      "border": 40.0,
+      "nonborder": 39.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 15,
+      "navyPotential": -1,
+      "navalRating": 100,
+      "border": 40.0,
+      "nonborder": 132.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 0,
+      "navalRating": 0,
+      "border": 40.0,
+      "nonborder": 32.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 0,
+      "navalRating": 7,
+      "border": 40.0,
+      "nonborder": 39.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 0,
+      "navalRating": 100,
+      "border": 40.0,
+      "nonborder": 132.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 3,
+      "navalRating": 0,
+      "border": 40.0,
+      "nonborder": 34.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 3,
+      "navalRating": 7,
+      "border": 40.0,
+      "nonborder": 41.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 3,
+      "navalRating": 100,
+      "border": 40.0,
+      "nonborder": 134.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 250,
+      "navalRating": 0,
+      "border": 40.0,
+      "nonborder": 157.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 250,
+      "navalRating": 7,
+      "border": 40.0,
+      "nonborder": 164.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 15,
+      "navyPotential": 250,
+      "navalRating": 100,
+      "border": 40.0,
+      "nonborder": 257.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -7,
+      "navalRating": 0,
+      "border": 195.0,
+      "nonborder": 106.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -7,
+      "navalRating": 7,
+      "border": 195.0,
+      "nonborder": 113.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -7,
+      "navalRating": 100,
+      "border": 195.0,
+      "nonborder": 206.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -1,
+      "navalRating": 0,
+      "border": 195.0,
+      "nonborder": 109.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -1,
+      "navalRating": 7,
+      "border": 195.0,
+      "nonborder": 116.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 170,
+      "navyPotential": -1,
+      "navalRating": 100,
+      "border": 195.0,
+      "nonborder": 209.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 0,
+      "navalRating": 0,
+      "border": 195.0,
+      "nonborder": 110.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 0,
+      "navalRating": 7,
+      "border": 195.0,
+      "nonborder": 117.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 0,
+      "navalRating": 100,
+      "border": 195.0,
+      "nonborder": 210.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 3,
+      "navalRating": 0,
+      "border": 195.0,
+      "nonborder": 111.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 3,
+      "navalRating": 7,
+      "border": 195.0,
+      "nonborder": 118.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 3,
+      "navalRating": 100,
+      "border": 195.0,
+      "nonborder": 211.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 250,
+      "navalRating": 0,
+      "border": 195.0,
+      "nonborder": 235.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 250,
+      "navalRating": 7,
+      "border": 195.0,
+      "nonborder": 242.0
+    },
+    {
+      "roster": [
+        "heavyArtillery",
+        "regular",
+        "general"
+      ],
+      "armyPotential": 170,
+      "navyPotential": 250,
+      "navalRating": 100,
+      "border": 195.0,
+      "nonborder": 335.0
+    }
+  ]
+}

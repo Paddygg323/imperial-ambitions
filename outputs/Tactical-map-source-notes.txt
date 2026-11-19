@@ -1,0 +1,23 @@
+TACTICAL MAP SOURCE NOTES — 2026-11-09
+Read-only inspection of installed original; no game changes.
+
+TacMaps.rsrc uses the game's little-endian rsrc container (not a Macintosh
+resource fork): signature 'rsrc', version 3, directory offset 16, 8 entries.
+Each 16-byte directory entry holds reversed FourCC, ID, absolute offset, size.
+All eight entries are PICT records containing Windows DIBs:
+3850..3853: 1525 x 480, 8-bit indexed colour, each payload 734504 bytes.
+3854..3857: 338 x 480, 8-bit indexed colour, each payload 164264 bytes.
+The first background was rendered and inspected: grass/trees/river artwork.
+These images are artwork, not proof of movement or fort tile classifications.
+Rendered references stay in work/rebuild; no native game art shipped in game/.
+
+Installed TArmyBattle::LoadMap located at 0x620830, thunk 0x405132;
+caller at 0x620019. It iterates 16 rows with stride 29 and writes 20-byte
+cell records. Existing left-side cells are retained; right extension is reset.
+Fort-code argument is written into wall cells at record offset +8. Wall segment
+health comes from table 0x711cc8. Fort code -> campaign level still requires
+tracing the caller; no guessed correspondence has been implemented.
+
+Continue by tracing base tactical map initialization, checking legal movement
+and deployment cells, then render the tactical control surface. Do not mistake
+the visual background or open-field arithmetic for a complete battlefield.

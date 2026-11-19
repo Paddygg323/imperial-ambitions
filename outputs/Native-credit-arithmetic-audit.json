@@ -1,0 +1,2349 @@
+{
+  "scope": "Execute original spending availability, credit smoothing and interest arithmetic.\nNo Windows process or save is modified. Credit income aggregation and rate changes\nare outside these isolated sections and are not claimed verified here.\n",
+  "spending": [
+    {
+      "cash": -2000,
+      "credit": 0,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -2000,
+      "credit": 0,
+      "reserved": 0,
+      "present": true,
+      "spending": 0,
+      "available": -2000
+    },
+    {
+      "cash": -2000,
+      "credit": 0,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -2000,
+      "credit": 0,
+      "reserved": 1,
+      "present": true,
+      "spending": 0,
+      "available": -2001
+    },
+    {
+      "cash": -2000,
+      "credit": 0,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -2000,
+      "credit": 0,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -2150
+    },
+    {
+      "cash": -2000,
+      "credit": 99,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -2000,
+      "credit": 99,
+      "reserved": 0,
+      "present": true,
+      "spending": 0,
+      "available": -2000
+    },
+    {
+      "cash": -2000,
+      "credit": 99,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -2000,
+      "credit": 99,
+      "reserved": 1,
+      "present": true,
+      "spending": 0,
+      "available": -2001
+    },
+    {
+      "cash": -2000,
+      "credit": 99,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -2000,
+      "credit": 99,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -2150
+    },
+    {
+      "cash": -2000,
+      "credit": 100,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -2000,
+      "credit": 100,
+      "reserved": 0,
+      "present": true,
+      "spending": 0,
+      "available": -2000
+    },
+    {
+      "cash": -2000,
+      "credit": 100,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -2000,
+      "credit": 100,
+      "reserved": 1,
+      "present": true,
+      "spending": 0,
+      "available": -2001
+    },
+    {
+      "cash": -2000,
+      "credit": 100,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -2000,
+      "credit": 100,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -2150
+    },
+    {
+      "cash": -2000,
+      "credit": 10099,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -2000,
+      "credit": 10099,
+      "reserved": 0,
+      "present": true,
+      "spending": 0,
+      "available": -2000
+    },
+    {
+      "cash": -2000,
+      "credit": 10099,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -2000,
+      "credit": 10099,
+      "reserved": 1,
+      "present": true,
+      "spending": 0,
+      "available": -2001
+    },
+    {
+      "cash": -2000,
+      "credit": 10099,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -2000,
+      "credit": 10099,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -2150
+    },
+    {
+      "cash": -2000,
+      "credit": 200000,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -2000,
+      "credit": 200000,
+      "reserved": 0,
+      "present": true,
+      "spending": 0,
+      "available": -2000
+    },
+    {
+      "cash": -2000,
+      "credit": 200000,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -2000,
+      "credit": 200000,
+      "reserved": 1,
+      "present": true,
+      "spending": 0,
+      "available": -2001
+    },
+    {
+      "cash": -2000,
+      "credit": 200000,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -2000,
+      "credit": 200000,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -2150
+    },
+    {
+      "cash": -100,
+      "credit": 0,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -100,
+      "credit": 0,
+      "reserved": 0,
+      "present": true,
+      "spending": 0,
+      "available": -100
+    },
+    {
+      "cash": -100,
+      "credit": 0,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -100,
+      "credit": 0,
+      "reserved": 1,
+      "present": true,
+      "spending": 0,
+      "available": -101
+    },
+    {
+      "cash": -100,
+      "credit": 0,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -100,
+      "credit": 0,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -250
+    },
+    {
+      "cash": -100,
+      "credit": 99,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -100,
+      "credit": 99,
+      "reserved": 0,
+      "present": true,
+      "spending": 0,
+      "available": -100
+    },
+    {
+      "cash": -100,
+      "credit": 99,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -100,
+      "credit": 99,
+      "reserved": 1,
+      "present": true,
+      "spending": 0,
+      "available": -101
+    },
+    {
+      "cash": -100,
+      "credit": 99,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -100,
+      "credit": 99,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -250
+    },
+    {
+      "cash": -100,
+      "credit": 100,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -100,
+      "credit": 100,
+      "reserved": 0,
+      "present": true,
+      "spending": 0,
+      "available": -100
+    },
+    {
+      "cash": -100,
+      "credit": 100,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -100,
+      "credit": 100,
+      "reserved": 1,
+      "present": true,
+      "spending": 0,
+      "available": -101
+    },
+    {
+      "cash": -100,
+      "credit": 100,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -100,
+      "credit": 100,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -250
+    },
+    {
+      "cash": -100,
+      "credit": 10099,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -100,
+      "credit": 10099,
+      "reserved": 0,
+      "present": true,
+      "spending": 0,
+      "available": -100
+    },
+    {
+      "cash": -100,
+      "credit": 10099,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -100,
+      "credit": 10099,
+      "reserved": 1,
+      "present": true,
+      "spending": 0,
+      "available": -101
+    },
+    {
+      "cash": -100,
+      "credit": 10099,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -100,
+      "credit": 10099,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -250
+    },
+    {
+      "cash": -100,
+      "credit": 200000,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -100,
+      "credit": 200000,
+      "reserved": 0,
+      "present": true,
+      "spending": 1900,
+      "available": -100
+    },
+    {
+      "cash": -100,
+      "credit": 200000,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -100,
+      "credit": 200000,
+      "reserved": 1,
+      "present": true,
+      "spending": 1899,
+      "available": -101
+    },
+    {
+      "cash": -100,
+      "credit": 200000,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -100,
+      "credit": 200000,
+      "reserved": 150,
+      "present": true,
+      "spending": 1750,
+      "available": -250
+    },
+    {
+      "cash": -1,
+      "credit": 0,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -1,
+      "credit": 0,
+      "reserved": 0,
+      "present": true,
+      "spending": 0,
+      "available": -1
+    },
+    {
+      "cash": -1,
+      "credit": 0,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -1,
+      "credit": 0,
+      "reserved": 1,
+      "present": true,
+      "spending": 0,
+      "available": -2
+    },
+    {
+      "cash": -1,
+      "credit": 0,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -1,
+      "credit": 0,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -151
+    },
+    {
+      "cash": -1,
+      "credit": 99,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -1,
+      "credit": 99,
+      "reserved": 0,
+      "present": true,
+      "spending": 0,
+      "available": -1
+    },
+    {
+      "cash": -1,
+      "credit": 99,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -1,
+      "credit": 99,
+      "reserved": 1,
+      "present": true,
+      "spending": 0,
+      "available": -2
+    },
+    {
+      "cash": -1,
+      "credit": 99,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -1,
+      "credit": 99,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -151
+    },
+    {
+      "cash": -1,
+      "credit": 100,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -1,
+      "credit": 100,
+      "reserved": 0,
+      "present": true,
+      "spending": 0,
+      "available": -1
+    },
+    {
+      "cash": -1,
+      "credit": 100,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -1,
+      "credit": 100,
+      "reserved": 1,
+      "present": true,
+      "spending": 0,
+      "available": -2
+    },
+    {
+      "cash": -1,
+      "credit": 100,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -1,
+      "credit": 100,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -151
+    },
+    {
+      "cash": -1,
+      "credit": 10099,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -1,
+      "credit": 10099,
+      "reserved": 0,
+      "present": true,
+      "spending": 99,
+      "available": -1
+    },
+    {
+      "cash": -1,
+      "credit": 10099,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -1,
+      "credit": 10099,
+      "reserved": 1,
+      "present": true,
+      "spending": 98,
+      "available": -2
+    },
+    {
+      "cash": -1,
+      "credit": 10099,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -1,
+      "credit": 10099,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -151
+    },
+    {
+      "cash": -1,
+      "credit": 200000,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -1,
+      "credit": 200000,
+      "reserved": 0,
+      "present": true,
+      "spending": 1999,
+      "available": -1
+    },
+    {
+      "cash": -1,
+      "credit": 200000,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -1,
+      "credit": 200000,
+      "reserved": 1,
+      "present": true,
+      "spending": 1998,
+      "available": -2
+    },
+    {
+      "cash": -1,
+      "credit": 200000,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": -1,
+      "credit": 200000,
+      "reserved": 150,
+      "present": true,
+      "spending": 1849,
+      "available": -151
+    },
+    {
+      "cash": 0,
+      "credit": 0,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 0,
+      "reserved": 0,
+      "present": true,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 0,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 0,
+      "reserved": 1,
+      "present": true,
+      "spending": 0,
+      "available": -1
+    },
+    {
+      "cash": 0,
+      "credit": 0,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 0,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -150
+    },
+    {
+      "cash": 0,
+      "credit": 99,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 99,
+      "reserved": 0,
+      "present": true,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 99,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 99,
+      "reserved": 1,
+      "present": true,
+      "spending": 0,
+      "available": -1
+    },
+    {
+      "cash": 0,
+      "credit": 99,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 99,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -150
+    },
+    {
+      "cash": 0,
+      "credit": 100,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 100,
+      "reserved": 0,
+      "present": true,
+      "spending": 1,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 100,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 100,
+      "reserved": 1,
+      "present": true,
+      "spending": 0,
+      "available": -1
+    },
+    {
+      "cash": 0,
+      "credit": 100,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 100,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -150
+    },
+    {
+      "cash": 0,
+      "credit": 10099,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 10099,
+      "reserved": 0,
+      "present": true,
+      "spending": 100,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 10099,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 10099,
+      "reserved": 1,
+      "present": true,
+      "spending": 99,
+      "available": -1
+    },
+    {
+      "cash": 0,
+      "credit": 10099,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 10099,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -150
+    },
+    {
+      "cash": 0,
+      "credit": 200000,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 200000,
+      "reserved": 0,
+      "present": true,
+      "spending": 2000,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 200000,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 200000,
+      "reserved": 1,
+      "present": true,
+      "spending": 1999,
+      "available": -1
+    },
+    {
+      "cash": 0,
+      "credit": 200000,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 0,
+      "credit": 200000,
+      "reserved": 150,
+      "present": true,
+      "spending": 1850,
+      "available": -150
+    },
+    {
+      "cash": 1,
+      "credit": 0,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 0,
+      "reserved": 0,
+      "present": true,
+      "spending": 1,
+      "available": 1
+    },
+    {
+      "cash": 1,
+      "credit": 0,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 0,
+      "reserved": 1,
+      "present": true,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 0,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 0,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -149
+    },
+    {
+      "cash": 1,
+      "credit": 99,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 99,
+      "reserved": 0,
+      "present": true,
+      "spending": 1,
+      "available": 1
+    },
+    {
+      "cash": 1,
+      "credit": 99,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 99,
+      "reserved": 1,
+      "present": true,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 99,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 99,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -149
+    },
+    {
+      "cash": 1,
+      "credit": 100,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 100,
+      "reserved": 0,
+      "present": true,
+      "spending": 2,
+      "available": 1
+    },
+    {
+      "cash": 1,
+      "credit": 100,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 100,
+      "reserved": 1,
+      "present": true,
+      "spending": 1,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 100,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 100,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -149
+    },
+    {
+      "cash": 1,
+      "credit": 10099,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 10099,
+      "reserved": 0,
+      "present": true,
+      "spending": 101,
+      "available": 1
+    },
+    {
+      "cash": 1,
+      "credit": 10099,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 10099,
+      "reserved": 1,
+      "present": true,
+      "spending": 100,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 10099,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 10099,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -149
+    },
+    {
+      "cash": 1,
+      "credit": 200000,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 200000,
+      "reserved": 0,
+      "present": true,
+      "spending": 2001,
+      "available": 1
+    },
+    {
+      "cash": 1,
+      "credit": 200000,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 200000,
+      "reserved": 1,
+      "present": true,
+      "spending": 2000,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 200000,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 1,
+      "credit": 200000,
+      "reserved": 150,
+      "present": true,
+      "spending": 1851,
+      "available": -149
+    },
+    {
+      "cash": 100,
+      "credit": 0,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 100,
+      "credit": 0,
+      "reserved": 0,
+      "present": true,
+      "spending": 100,
+      "available": 100
+    },
+    {
+      "cash": 100,
+      "credit": 0,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 100,
+      "credit": 0,
+      "reserved": 1,
+      "present": true,
+      "spending": 99,
+      "available": 99
+    },
+    {
+      "cash": 100,
+      "credit": 0,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 100,
+      "credit": 0,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -50
+    },
+    {
+      "cash": 100,
+      "credit": 99,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 100,
+      "credit": 99,
+      "reserved": 0,
+      "present": true,
+      "spending": 100,
+      "available": 100
+    },
+    {
+      "cash": 100,
+      "credit": 99,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 100,
+      "credit": 99,
+      "reserved": 1,
+      "present": true,
+      "spending": 99,
+      "available": 99
+    },
+    {
+      "cash": 100,
+      "credit": 99,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 100,
+      "credit": 99,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -50
+    },
+    {
+      "cash": 100,
+      "credit": 100,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 100,
+      "credit": 100,
+      "reserved": 0,
+      "present": true,
+      "spending": 101,
+      "available": 100
+    },
+    {
+      "cash": 100,
+      "credit": 100,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 100,
+      "credit": 100,
+      "reserved": 1,
+      "present": true,
+      "spending": 100,
+      "available": 99
+    },
+    {
+      "cash": 100,
+      "credit": 100,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 100,
+      "credit": 100,
+      "reserved": 150,
+      "present": true,
+      "spending": 0,
+      "available": -50
+    },
+    {
+      "cash": 100,
+      "credit": 10099,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 100,
+      "credit": 10099,
+      "reserved": 0,
+      "present": true,
+      "spending": 200,
+      "available": 100
+    },
+    {
+      "cash": 100,
+      "credit": 10099,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 100,
+      "credit": 10099,
+      "reserved": 1,
+      "present": true,
+      "spending": 199,
+      "available": 99
+    },
+    {
+      "cash": 100,
+      "credit": 10099,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 100,
+      "credit": 10099,
+      "reserved": 150,
+      "present": true,
+      "spending": 50,
+      "available": -50
+    },
+    {
+      "cash": 100,
+      "credit": 200000,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 100,
+      "credit": 200000,
+      "reserved": 0,
+      "present": true,
+      "spending": 2100,
+      "available": 100
+    },
+    {
+      "cash": 100,
+      "credit": 200000,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 100,
+      "credit": 200000,
+      "reserved": 1,
+      "present": true,
+      "spending": 2099,
+      "available": 99
+    },
+    {
+      "cash": 100,
+      "credit": 200000,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 100,
+      "credit": 200000,
+      "reserved": 150,
+      "present": true,
+      "spending": 1950,
+      "available": -50
+    },
+    {
+      "cash": 2500,
+      "credit": 0,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 2500,
+      "credit": 0,
+      "reserved": 0,
+      "present": true,
+      "spending": 2500,
+      "available": 2500
+    },
+    {
+      "cash": 2500,
+      "credit": 0,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 2500,
+      "credit": 0,
+      "reserved": 1,
+      "present": true,
+      "spending": 2499,
+      "available": 2499
+    },
+    {
+      "cash": 2500,
+      "credit": 0,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 2500,
+      "credit": 0,
+      "reserved": 150,
+      "present": true,
+      "spending": 2350,
+      "available": 2350
+    },
+    {
+      "cash": 2500,
+      "credit": 99,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 2500,
+      "credit": 99,
+      "reserved": 0,
+      "present": true,
+      "spending": 2500,
+      "available": 2500
+    },
+    {
+      "cash": 2500,
+      "credit": 99,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 2500,
+      "credit": 99,
+      "reserved": 1,
+      "present": true,
+      "spending": 2499,
+      "available": 2499
+    },
+    {
+      "cash": 2500,
+      "credit": 99,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 2500,
+      "credit": 99,
+      "reserved": 150,
+      "present": true,
+      "spending": 2350,
+      "available": 2350
+    },
+    {
+      "cash": 2500,
+      "credit": 100,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 2500,
+      "credit": 100,
+      "reserved": 0,
+      "present": true,
+      "spending": 2501,
+      "available": 2500
+    },
+    {
+      "cash": 2500,
+      "credit": 100,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 2500,
+      "credit": 100,
+      "reserved": 1,
+      "present": true,
+      "spending": 2500,
+      "available": 2499
+    },
+    {
+      "cash": 2500,
+      "credit": 100,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 2500,
+      "credit": 100,
+      "reserved": 150,
+      "present": true,
+      "spending": 2351,
+      "available": 2350
+    },
+    {
+      "cash": 2500,
+      "credit": 10099,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 2500,
+      "credit": 10099,
+      "reserved": 0,
+      "present": true,
+      "spending": 2600,
+      "available": 2500
+    },
+    {
+      "cash": 2500,
+      "credit": 10099,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 2500,
+      "credit": 10099,
+      "reserved": 1,
+      "present": true,
+      "spending": 2599,
+      "available": 2499
+    },
+    {
+      "cash": 2500,
+      "credit": 10099,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 2500,
+      "credit": 10099,
+      "reserved": 150,
+      "present": true,
+      "spending": 2450,
+      "available": 2350
+    },
+    {
+      "cash": 2500,
+      "credit": 200000,
+      "reserved": 0,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 2500,
+      "credit": 200000,
+      "reserved": 0,
+      "present": true,
+      "spending": 4500,
+      "available": 2500
+    },
+    {
+      "cash": 2500,
+      "credit": 200000,
+      "reserved": 1,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 2500,
+      "credit": 200000,
+      "reserved": 1,
+      "present": true,
+      "spending": 4499,
+      "available": 2499
+    },
+    {
+      "cash": 2500,
+      "credit": 200000,
+      "reserved": 150,
+      "present": false,
+      "spending": 0,
+      "available": 0
+    },
+    {
+      "cash": 2500,
+      "credit": 200000,
+      "reserved": 150,
+      "present": true,
+      "spending": 4350,
+      "available": 2350
+    }
+  ],
+  "smoothing": [
+    {
+      "credit": 0,
+      "income": 0,
+      "effect": 0,
+      "nextCredit": 0
+    },
+    {
+      "credit": 0,
+      "income": 0,
+      "effect": 1,
+      "nextCredit": 0
+    },
+    {
+      "credit": 0,
+      "income": 0,
+      "effect": 2,
+      "nextCredit": 0
+    },
+    {
+      "credit": 0,
+      "income": 1,
+      "effect": 0,
+      "nextCredit": 10
+    },
+    {
+      "credit": 0,
+      "income": 1,
+      "effect": 1,
+      "nextCredit": 20
+    },
+    {
+      "credit": 0,
+      "income": 1,
+      "effect": 2,
+      "nextCredit": 30
+    },
+    {
+      "credit": 0,
+      "income": 99,
+      "effect": 0,
+      "nextCredit": 990
+    },
+    {
+      "credit": 0,
+      "income": 99,
+      "effect": 1,
+      "nextCredit": 1980
+    },
+    {
+      "credit": 0,
+      "income": 99,
+      "effect": 2,
+      "nextCredit": 2970
+    },
+    {
+      "credit": 0,
+      "income": 100,
+      "effect": 0,
+      "nextCredit": 1000
+    },
+    {
+      "credit": 0,
+      "income": 100,
+      "effect": 1,
+      "nextCredit": 2000
+    },
+    {
+      "credit": 0,
+      "income": 100,
+      "effect": 2,
+      "nextCredit": 3000
+    },
+    {
+      "credit": 0,
+      "income": 1001,
+      "effect": 0,
+      "nextCredit": 10010
+    },
+    {
+      "credit": 0,
+      "income": 1001,
+      "effect": 1,
+      "nextCredit": 20020
+    },
+    {
+      "credit": 0,
+      "income": 1001,
+      "effect": 2,
+      "nextCredit": 30030
+    },
+    {
+      "credit": 99,
+      "income": 0,
+      "effect": 0,
+      "nextCredit": 89
+    },
+    {
+      "credit": 99,
+      "income": 0,
+      "effect": 1,
+      "nextCredit": 89
+    },
+    {
+      "credit": 99,
+      "income": 0,
+      "effect": 2,
+      "nextCredit": 89
+    },
+    {
+      "credit": 99,
+      "income": 1,
+      "effect": 0,
+      "nextCredit": 99
+    },
+    {
+      "credit": 99,
+      "income": 1,
+      "effect": 1,
+      "nextCredit": 109
+    },
+    {
+      "credit": 99,
+      "income": 1,
+      "effect": 2,
+      "nextCredit": 119
+    },
+    {
+      "credit": 99,
+      "income": 99,
+      "effect": 0,
+      "nextCredit": 1079
+    },
+    {
+      "credit": 99,
+      "income": 99,
+      "effect": 1,
+      "nextCredit": 2069
+    },
+    {
+      "credit": 99,
+      "income": 99,
+      "effect": 2,
+      "nextCredit": 3059
+    },
+    {
+      "credit": 99,
+      "income": 100,
+      "effect": 0,
+      "nextCredit": 1089
+    },
+    {
+      "credit": 99,
+      "income": 100,
+      "effect": 1,
+      "nextCredit": 2089
+    },
+    {
+      "credit": 99,
+      "income": 100,
+      "effect": 2,
+      "nextCredit": 3089
+    },
+    {
+      "credit": 99,
+      "income": 1001,
+      "effect": 0,
+      "nextCredit": 10099
+    },
+    {
+      "credit": 99,
+      "income": 1001,
+      "effect": 1,
+      "nextCredit": 20109
+    },
+    {
+      "credit": 99,
+      "income": 1001,
+      "effect": 2,
+      "nextCredit": 30119
+    },
+    {
+      "credit": 100,
+      "income": 0,
+      "effect": 0,
+      "nextCredit": 90
+    },
+    {
+      "credit": 100,
+      "income": 0,
+      "effect": 1,
+      "nextCredit": 90
+    },
+    {
+      "credit": 100,
+      "income": 0,
+      "effect": 2,
+      "nextCredit": 90
+    },
+    {
+      "credit": 100,
+      "income": 1,
+      "effect": 0,
+      "nextCredit": 100
+    },
+    {
+      "credit": 100,
+      "income": 1,
+      "effect": 1,
+      "nextCredit": 110
+    },
+    {
+      "credit": 100,
+      "income": 1,
+      "effect": 2,
+      "nextCredit": 120
+    },
+    {
+      "credit": 100,
+      "income": 99,
+      "effect": 0,
+      "nextCredit": 1080
+    },
+    {
+      "credit": 100,
+      "income": 99,
+      "effect": 1,
+      "nextCredit": 2070
+    },
+    {
+      "credit": 100,
+      "income": 99,
+      "effect": 2,
+      "nextCredit": 3060
+    },
+    {
+      "credit": 100,
+      "income": 100,
+      "effect": 0,
+      "nextCredit": 1090
+    },
+    {
+      "credit": 100,
+      "income": 100,
+      "effect": 1,
+      "nextCredit": 2090
+    },
+    {
+      "credit": 100,
+      "income": 100,
+      "effect": 2,
+      "nextCredit": 3090
+    },
+    {
+      "credit": 100,
+      "income": 1001,
+      "effect": 0,
+      "nextCredit": 10100
+    },
+    {
+      "credit": 100,
+      "income": 1001,
+      "effect": 1,
+      "nextCredit": 20110
+    },
+    {
+      "credit": 100,
+      "income": 1001,
+      "effect": 2,
+      "nextCredit": 30120
+    },
+    {
+      "credit": 12345,
+      "income": 0,
+      "effect": 0,
+      "nextCredit": 11110
+    },
+    {
+      "credit": 12345,
+      "income": 0,
+      "effect": 1,
+      "nextCredit": 11110
+    },
+    {
+      "credit": 12345,
+      "income": 0,
+      "effect": 2,
+      "nextCredit": 11110
+    },
+    {
+      "credit": 12345,
+      "income": 1,
+      "effect": 0,
+      "nextCredit": 11120
+    },
+    {
+      "credit": 12345,
+      "income": 1,
+      "effect": 1,
+      "nextCredit": 11130
+    },
+    {
+      "credit": 12345,
+      "income": 1,
+      "effect": 2,
+      "nextCredit": 11140
+    },
+    {
+      "credit": 12345,
+      "income": 99,
+      "effect": 0,
+      "nextCredit": 12100
+    },
+    {
+      "credit": 12345,
+      "income": 99,
+      "effect": 1,
+      "nextCredit": 13090
+    },
+    {
+      "credit": 12345,
+      "income": 99,
+      "effect": 2,
+      "nextCredit": 14080
+    },
+    {
+      "credit": 12345,
+      "income": 100,
+      "effect": 0,
+      "nextCredit": 12110
+    },
+    {
+      "credit": 12345,
+      "income": 100,
+      "effect": 1,
+      "nextCredit": 13110
+    },
+    {
+      "credit": 12345,
+      "income": 100,
+      "effect": 2,
+      "nextCredit": 14110
+    },
+    {
+      "credit": 12345,
+      "income": 1001,
+      "effect": 0,
+      "nextCredit": 21120
+    },
+    {
+      "credit": 12345,
+      "income": 1001,
+      "effect": 1,
+      "nextCredit": 31130
+    },
+    {
+      "credit": 12345,
+      "income": 1001,
+      "effect": 2,
+      "nextCredit": 41140
+    },
+    {
+      "credit": 200000,
+      "income": 0,
+      "effect": 0,
+      "nextCredit": 180000
+    },
+    {
+      "credit": 200000,
+      "income": 0,
+      "effect": 1,
+      "nextCredit": 180000
+    },
+    {
+      "credit": 200000,
+      "income": 0,
+      "effect": 2,
+      "nextCredit": 180000
+    },
+    {
+      "credit": 200000,
+      "income": 1,
+      "effect": 0,
+      "nextCredit": 180010
+    },
+    {
+      "credit": 200000,
+      "income": 1,
+      "effect": 1,
+      "nextCredit": 180020
+    },
+    {
+      "credit": 200000,
+      "income": 1,
+      "effect": 2,
+      "nextCredit": 180030
+    },
+    {
+      "credit": 200000,
+      "income": 99,
+      "effect": 0,
+      "nextCredit": 180990
+    },
+    {
+      "credit": 200000,
+      "income": 99,
+      "effect": 1,
+      "nextCredit": 181980
+    },
+    {
+      "credit": 200000,
+      "income": 99,
+      "effect": 2,
+      "nextCredit": 182970
+    },
+    {
+      "credit": 200000,
+      "income": 100,
+      "effect": 0,
+      "nextCredit": 181000
+    },
+    {
+      "credit": 200000,
+      "income": 100,
+      "effect": 1,
+      "nextCredit": 182000
+    },
+    {
+      "credit": 200000,
+      "income": 100,
+      "effect": 2,
+      "nextCredit": 183000
+    },
+    {
+      "credit": 200000,
+      "income": 1001,
+      "effect": 0,
+      "nextCredit": 190010
+    },
+    {
+      "credit": 200000,
+      "income": 1001,
+      "effect": 1,
+      "nextCredit": 200020
+    },
+    {
+      "credit": 200000,
+      "income": 1001,
+      "effect": 2,
+      "nextCredit": 210030
+    }
+  ],
+  "interest": [
+    {
+      "cash": -10001,
+      "rate": 0,
+      "nextCash": -10001,
+      "interest": 0
+    },
+    {
+      "cash": -10001,
+      "rate": 1,
+      "nextCash": -10102,
+      "interest": 101
+    },
+    {
+      "cash": -10001,
+      "rate": 3,
+      "nextCash": -10302,
+      "interest": 301
+    },
+    {
+      "cash": -10001,
+      "rate": 10,
+      "nextCash": -11002,
+      "interest": 1001
+    },
+    {
+      "cash": -10001,
+      "rate": 25,
+      "nextCash": -12502,
+      "interest": 2501
+    },
+    {
+      "cash": -100,
+      "rate": 0,
+      "nextCash": -100,
+      "interest": 0
+    },
+    {
+      "cash": -100,
+      "rate": 1,
+      "nextCash": -101,
+      "interest": 1
+    },
+    {
+      "cash": -100,
+      "rate": 3,
+      "nextCash": -103,
+      "interest": 3
+    },
+    {
+      "cash": -100,
+      "rate": 10,
+      "nextCash": -110,
+      "interest": 10
+    },
+    {
+      "cash": -100,
+      "rate": 25,
+      "nextCash": -125,
+      "interest": 25
+    },
+    {
+      "cash": -99,
+      "rate": 0,
+      "nextCash": -99,
+      "interest": 0
+    },
+    {
+      "cash": -99,
+      "rate": 1,
+      "nextCash": -100,
+      "interest": 1
+    },
+    {
+      "cash": -99,
+      "rate": 3,
+      "nextCash": -102,
+      "interest": 3
+    },
+    {
+      "cash": -99,
+      "rate": 10,
+      "nextCash": -109,
+      "interest": 10
+    },
+    {
+      "cash": -99,
+      "rate": 25,
+      "nextCash": -124,
+      "interest": 25
+    },
+    {
+      "cash": -1,
+      "rate": 0,
+      "nextCash": -1,
+      "interest": 0
+    },
+    {
+      "cash": -1,
+      "rate": 1,
+      "nextCash": -2,
+      "interest": 1
+    },
+    {
+      "cash": -1,
+      "rate": 3,
+      "nextCash": -2,
+      "interest": 1
+    },
+    {
+      "cash": -1,
+      "rate": 10,
+      "nextCash": -2,
+      "interest": 1
+    },
+    {
+      "cash": -1,
+      "rate": 25,
+      "nextCash": -2,
+      "interest": 1
+    },
+    {
+      "cash": 0,
+      "rate": 0,
+      "nextCash": 0,
+      "interest": 0
+    },
+    {
+      "cash": 0,
+      "rate": 1,
+      "nextCash": 0,
+      "interest": 0
+    },
+    {
+      "cash": 0,
+      "rate": 3,
+      "nextCash": 0,
+      "interest": 0
+    },
+    {
+      "cash": 0,
+      "rate": 10,
+      "nextCash": 0,
+      "interest": 0
+    },
+    {
+      "cash": 0,
+      "rate": 25,
+      "nextCash": 0,
+      "interest": 0
+    },
+    {
+      "cash": 1,
+      "rate": 0,
+      "nextCash": 1,
+      "interest": 0
+    },
+    {
+      "cash": 1,
+      "rate": 1,
+      "nextCash": 1,
+      "interest": 0
+    },
+    {
+      "cash": 1,
+      "rate": 3,
+      "nextCash": 1,
+      "interest": 0
+    },
+    {
+      "cash": 1,
+      "rate": 10,
+      "nextCash": 1,
+      "interest": 0
+    },
+    {
+      "cash": 1,
+      "rate": 25,
+      "nextCash": 1,
+      "interest": 0
+    },
+    {
+      "cash": 100,
+      "rate": 0,
+      "nextCash": 100,
+      "interest": 0
+    },
+    {
+      "cash": 100,
+      "rate": 1,
+      "nextCash": 100,
+      "interest": 0
+    },
+    {
+      "cash": 100,
+      "rate": 3,
+      "nextCash": 100,
+      "interest": 0
+    },
+    {
+      "cash": 100,
+      "rate": 10,
+      "nextCash": 100,
+      "interest": 0
+    },
+    {
+      "cash": 100,
+      "rate": 25,
+      "nextCash": 100,
+      "interest": 0
+    }
+  ]
+}

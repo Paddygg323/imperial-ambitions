@@ -1,0 +1,42 @@
+{
+  "scope": "Native-backed AI peace-seeking decision and read-only campaign proposal candidates; not yet sending live offers",
+  "nativeRoutine": "572276..572334; war/date gate5231e0",
+  "nativeEvidence": "outputs/Native-peace-seeking-audit.json",
+  "nativeScans": 1152,
+  "focusedPassed": 4,
+  "focusedEvidence": "work/rebuild-v2/campaign-peace-seeking-tests.txt",
+  "implementation": [
+    "game/peace-seeking.mjs",
+    "game/campaign-peace-seeking.mjs"
+  ],
+  "verified": [
+    "Strict threat > warSupport * seek threshold",
+    "Human-target offers only when turn modulo6 equals original proposer nation index",
+    "Same-turn declaration excluded; dead countries excluded",
+    "Recorded campaign forecasts and war dates used; no player orders changed",
+    "Missing legacy dates rejected rather than invented"
+  ],
+  "remaining": [
+    "Outer minister scheduling and proposal command lifecycle need integration",
+    "Persisted human response UI and accept/reject commands required",
+    "No APK change; current3-183 remains",
+    "Full campaign and physical Pixel testing incomplete"
+  ],
+  "dispatchAudit": {
+    "evidence": "outputs/Native-foreign-minister-dispatch-audit.json",
+    "script": "work/rebuild/foreign_minister_dispatch_reference.py",
+    "ministerCases": 20,
+    "countryScans": 24,
+    "completeDispatchChains": 36,
+    "findings": [
+      "5248f5..524933 scans original nation indices 5 down to 0, skipping null and human countries; simulation/network gates can suppress the scan.",
+      "Real country20c ->519340 requires country+b9c, then minister44 ->571140.",
+      "571140 runs turn1/turn2 initialization hooks, then58, AI-only68 proposal generation,54,48.",
+      "5249a1 follows proposal scan with an ascending country224 pass; remaining proposal distribution/response pipeline still needs tracing before live integration."
+    ],
+    "limits": [
+      "Native stage subroutines are intercepted; this verifies dispatch, not their effects.",
+      "No live AI peace delivery enabled yet."
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "scope": "Diagnostic replay of previously completed fourth Yorkshire siege using legal commands and the unchanged policy",
+  "initialAttackers": [
+    {
+      "type": "musketeer",
+      "hp": 100
+    },
+    {
+      "type": "caliverman",
+      "hp": 100
+    },
+    {
+      "type": "halberdier",
+      "hp": 100
+    },
+    {
+      "type": "musketeer",
+      "hp": 100
+    },
+    {
+      "type": "royalArtillery",
+      "hp": 100
+    },
+    {
+      "type": "royalArtillery",
+      "hp": 100
+    }
+  ],
+  "bombardments": [
+    {
+      "round": 9,
+      "unit": "a964",
+      "damage": 6
+    },
+    {
+      "round": 10,
+      "unit": "a964",
+      "damage": 6
+    },
+    {
+      "round": 11,
+      "unit": "a964",
+      "damage": 6
+    },
+    {
+      "round": 12,
+      "unit": "a964",
+      "damage": 6
+    },
+    {
+      "round": 13,
+      "unit": "a964",
+      "damage": 6
+    },
+    {
+      "round": 14,
+      "unit": "a964",
+      "damage": 6
+    },
+    {
+      "round": 15,
+      "unit": "a964",
+      "damage": 6
+    },
+    {
+      "round": 16,
+      "unit": "a964",
+      "damage": 6
+    },
+    {
+      "round": 17,
+      "unit": "a964",
+      "damage": 6
+    },
+    {
+      "round": 18,
+      "unit": "a964",
+      "damage": 6
+    }
+  ],
+  "wallStrengthBefore": 150,
+  "wallStrengthAfter": 90,
+  "finalSideTurnCounter": 36,
+  "winner": "england",
+  "conclusion": "Full-health assault was damaged during combat; surviving artillery could not breach before the original timeout. This trace does not establish a combat-rule bug.",
+  "limits": [
+    "Rebuild tactical policy, not original tactical AI parity",
+    "Replay did not advance or overwrite authoritative campaign save",
+    "No balance or health grants, no rules changed"
+  ]
+}

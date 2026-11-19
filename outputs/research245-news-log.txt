@@ -1,0 +1,1 @@
+PASS: prominent idle warning, routine news collapsed, research shortcut, default funded project, end-turn warning.

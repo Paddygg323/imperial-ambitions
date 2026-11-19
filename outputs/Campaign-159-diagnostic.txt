@@ -1,0 +1,17 @@
+RUNTIME3-159 LONG CAMPAIGN DIAGNOSTIC
+Scope: automated economic driver for England, rejects every player market offer, no player military strategy. Tactical decisions automated. This is NOT a competent playthrough or full-game completion.
+
+Completed 120 turns; outcome: None; declarations:4; resolved battles:42.
+Save/load validation at every turn and around tactical battles. No recorded starvation in any great power.
+
+france: workers 31 (31 fit), techs 35, army 11, provinces 15, cash 2396, incoming iron 4, timber 4.
+england: workers 35 (35 fit), techs 13, army 3, provinces 8, cash 500, incoming iron 6, timber 4.
+sweden: workers 29 (29 fit), techs 35, army 12, provinces 14, cash 1600, incoming iron 4, timber 4.
+holland: workers 14 (14 fit), techs 42, army 13, provinces 6, cash 2588, incoming iron 4, timber 4.
+portugal: workers 7 (7 fit), techs 35, army 10, provinces 5, cash 552, incoming iron 4, timber 4.
+spain: workers 25 (25 fit), techs 35, army 15, provinces 14, cash -762, incoming iron 3, timber 4.
+
+End-of-turn funding zeros are not sufficient evidence of cash hoarding. Next planning replay funds France400/900/400 and Sweden400/200/400. England remains at500 with no funding: this passive harness does not sell goods or adapt goals. Portugal552 and Spain-762 have insufficient cash above the policy reserve.
+Evidence: work/rebuild-v2/fresh-campaign-159.json, -save.json, -next-planning.json and .log. Reproduction: node work/rebuild-v2/fresh-campaign-159.mjs.
+Remaining: active player strategy with trade, funded research, workforce/industry, military and exploration through an actual outcome; original New World generation; physical Pixel testing.
+No original PC files or saves changed.

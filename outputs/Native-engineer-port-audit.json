@@ -1,0 +1,4669 @@
+{
+  "scope": "Original552e90 Engineer mask and551920 eligibility on historical map with unclaimed seas; no stubs",
+  "baseTerrain": [
+    0,
+    0,
+    0,
+    0,
+    7,
+    7,
+    2,
+    2,
+    3,
+    4,
+    6,
+    6,
+    1,
+    0,
+    1,
+    7,
+    7,
+    6
+  ],
+  "cases": [
+    {
+      "id": "86,28",
+      "eligible": true
+    },
+    {
+      "id": "87,28",
+      "eligible": false
+    },
+    {
+      "id": "88,28",
+      "eligible": false
+    },
+    {
+      "id": "89,28",
+      "eligible": false
+    },
+    {
+      "id": "79,29",
+      "eligible": true
+    },
+    {
+      "id": "80,29",
+      "eligible": false
+    },
+    {
+      "id": "84,29",
+      "eligible": true
+    },
+    {
+      "id": "85,29",
+      "eligible": true
+    },
+    {
+      "id": "86,29",
+      "eligible": false
+    },
+    {
+      "id": "87,29",
+      "eligible": false
+    },
+    {
+      "id": "88,29",
+      "eligible": false
+    },
+    {
+      "id": "89,29",
+      "eligible": false
+    },
+    {
+      "id": "90,29",
+      "eligible": false
+    },
+    {
+      "id": "80,30",
+      "eligible": true
+    },
+    {
+      "id": "81,30",
+      "eligible": true
+    },
+    {
+      "id": "82,30",
+      "eligible": true
+    },
+    {
+      "id": "83,30",
+      "eligible": true
+    },
+    {
+      "id": "84,30",
+      "eligible": false
+    },
+    {
+      "id": "85,30",
+      "eligible": true
+    },
+    {
+      "id": "86,30",
+      "eligible": false
+    },
+    {
+      "id": "87,30",
+      "eligible": false
+    },
+    {
+      "id": "88,30",
+      "eligible": false
+    },
+    {
+      "id": "89,30",
+      "eligible": false
+    },
+    {
+      "id": "90,30",
+      "eligible": false
+    },
+    {
+      "id": "91,30",
+      "eligible": false
+    },
+    {
+      "id": "92,30",
+      "eligible": false
+    },
+    {
+      "id": "93,30",
+      "eligible": false
+    },
+    {
+      "id": "80,31",
+      "eligible": true
+    },
+    {
+      "id": "81,31",
+      "eligible": false
+    },
+    {
+      "id": "82,31",
+      "eligible": false
+    },
+    {
+      "id": "83,31",
+      "eligible": false
+    },
+    {
+      "id": "84,31",
+      "eligible": false
+    },
+    {
+      "id": "85,31",
+      "eligible": true
+    },
+    {
+      "id": "86,31",
+      "eligible": true
+    },
+    {
+      "id": "87,31",
+      "eligible": false
+    },
+    {
+      "id": "88,31",
+      "eligible": false
+    },
+    {
+      "id": "89,31",
+      "eligible": false
+    },
+    {
+      "id": "90,31",
+      "eligible": false
+    },
+    {
+      "id": "91,31",
+      "eligible": false
+    },
+    {
+      "id": "92,31",
+      "eligible": false
+    },
+    {
+      "id": "93,31",
+      "eligible": false
+    },
+    {
+      "id": "94,31",
+      "eligible": false
+    },
+    {
+      "id": "95,31",
+      "eligible": false
+    },
+    {
+      "id": "96,31",
+      "eligible": false
+    },
+    {
+      "id": "76,32",
+      "eligible": true
+    },
+    {
+      "id": "77,32",
+      "eligible": true
+    },
+    {
+      "id": "78,32",
+      "eligible": true
+    },
+    {
+      "id": "79,32",
+      "eligible": false
+    },
+    {
+      "id": "80,32",
+      "eligible": true
+    },
+    {
+      "id": "81,32",
+      "eligible": false
+    },
+    {
+      "id": "82,32",
+      "eligible": false
+    },
+    {
+      "id": "83,32",
+      "eligible": false
+    },
+    {
+      "id": "84,32",
+      "eligible": false
+    },
+    {
+      "id": "85,32",
+      "eligible": false
+    },
+    {
+      "id": "86,32",
+      "eligible": false
+    },
+    {
+      "id": "87,32",
+      "eligible": true
+    },
+    {
+      "id": "88,32",
+      "eligible": true
+    },
+    {
+      "id": "89,32",
+      "eligible": false
+    },
+    {
+      "id": "90,32",
+      "eligible": false
+    },
+    {
+      "id": "91,32",
+      "eligible": false
+    },
+    {
+      "id": "92,32",
+      "eligible": false
+    },
+    {
+      "id": "93,32",
+      "eligible": false
+    },
+    {
+      "id": "94,32",
+      "eligible": false
+    },
+    {
+      "id": "95,32",
+      "eligible": false
+    },
+    {
+      "id": "96,32",
+      "eligible": false
+    },
+    {
+      "id": "77,33",
+      "eligible": true
+    },
+    {
+      "id": "78,33",
+      "eligible": false
+    },
+    {
+      "id": "79,33",
+      "eligible": false
+    },
+    {
+      "id": "80,33",
+      "eligible": false
+    },
+    {
+      "id": "81,33",
+      "eligible": false
+    },
+    {
+      "id": "82,33",
+      "eligible": false
+    },
+    {
+      "id": "83,33",
+      "eligible": false
+    },
+    {
+      "id": "84,33",
+      "eligible": false
+    },
+    {
+      "id": "85,33",
+      "eligible": false
+    },
+    {
+      "id": "86,33",
+      "eligible": false
+    },
+    {
+      "id": "87,33",
+      "eligible": false
+    },
+    {
+      "id": "88,33",
+      "eligible": false
+    },
+    {
+      "id": "89,33",
+      "eligible": false
+    },
+    {
+      "id": "90,33",
+      "eligible": false
+    },
+    {
+      "id": "91,33",
+      "eligible": false
+    },
+    {
+      "id": "92,33",
+      "eligible": false
+    },
+    {
+      "id": "93,33",
+      "eligible": false
+    },
+    {
+      "id": "94,33",
+      "eligible": true
+    },
+    {
+      "id": "95,33",
+      "eligible": false
+    },
+    {
+      "id": "77,34",
+      "eligible": true
+    },
+    {
+      "id": "78,34",
+      "eligible": true
+    },
+    {
+      "id": "79,34",
+      "eligible": false
+    },
+    {
+      "id": "80,34",
+      "eligible": true
+    },
+    {
+      "id": "81,34",
+      "eligible": false
+    },
+    {
+      "id": "82,34",
+      "eligible": false
+    },
+    {
+      "id": "83,34",
+      "eligible": true
+    },
+    {
+      "id": "84,34",
+      "eligible": true
+    },
+    {
+      "id": "85,34",
+      "eligible": true
+    },
+    {
+      "id": "86,34",
+      "eligible": true
+    },
+    {
+      "id": "87,34",
+      "eligible": false
+    },
+    {
+      "id": "88,34",
+      "eligible": false
+    },
+    {
+      "id": "89,34",
+      "eligible": false
+    },
+    {
+      "id": "90,34",
+      "eligible": false
+    },
+    {
+      "id": "91,34",
+      "eligible": false
+    },
+    {
+      "id": "92,34",
+      "eligible": false
+    },
+    {
+      "id": "93,34",
+      "eligible": false
+    },
+    {
+      "id": "94,34",
+      "eligible": true
+    },
+    {
+      "id": "95,34",
+      "eligible": false
+    },
+    {
+      "id": "81,35",
+      "eligible": false
+    },
+    {
+      "id": "82,35",
+      "eligible": true
+    },
+    {
+      "id": "83,35",
+      "eligible": true
+    },
+    {
+      "id": "84,35",
+      "eligible": false
+    },
+    {
+      "id": "85,35",
+      "eligible": false
+    },
+    {
+      "id": "86,35",
+      "eligible": true
+    },
+    {
+      "id": "87,35",
+      "eligible": true
+    },
+    {
+      "id": "88,35",
+      "eligible": false
+    },
+    {
+      "id": "89,35",
+      "eligible": false
+    },
+    {
+      "id": "90,35",
+      "eligible": false
+    },
+    {
+      "id": "91,35",
+      "eligible": false
+    },
+    {
+      "id": "92,35",
+      "eligible": false
+    },
+    {
+      "id": "93,35",
+      "eligible": true
+    },
+    {
+      "id": "94,35",
+      "eligible": false
+    },
+    {
+      "id": "95,35",
+      "eligible": false
+    },
+    {
+      "id": "84,36",
+      "eligible": true
+    },
+    {
+      "id": "85,36",
+      "eligible": false
+    },
+    {
+      "id": "86,36",
+      "eligible": false
+    },
+    {
+      "id": "87,36",
+      "eligible": false
+    },
+    {
+      "id": "88,36",
+      "eligible": true
+    },
+    {
+      "id": "89,36",
+      "eligible": false
+    },
+    {
+      "id": "90,36",
+      "eligible": false
+    },
+    {
+      "id": "91,36",
+      "eligible": false
+    },
+    {
+      "id": "92,36",
+      "eligible": false
+    },
+    {
+      "id": "93,36",
+      "eligible": false
+    },
+    {
+      "id": "94,36",
+      "eligible": true
+    },
+    {
+      "id": "95,36",
+      "eligible": false
+    },
+    {
+      "id": "96,36",
+      "eligible": false
+    },
+    {
+      "id": "84,37",
+      "eligible": true
+    },
+    {
+      "id": "85,37",
+      "eligible": false
+    },
+    {
+      "id": "86,37",
+      "eligible": false
+    },
+    {
+      "id": "87,37",
+      "eligible": false
+    },
+    {
+      "id": "88,37",
+      "eligible": false
+    },
+    {
+      "id": "89,37",
+      "eligible": false
+    },
+    {
+      "id": "90,37",
+      "eligible": false
+    },
+    {
+      "id": "91,37",
+      "eligible": false
+    },
+    {
+      "id": "92,37",
+      "eligible": false
+    },
+    {
+      "id": "93,37",
+      "eligible": false
+    },
+    {
+      "id": "94,37",
+      "eligible": true
+    },
+    {
+      "id": "95,37",
+      "eligible": false
+    },
+    {
+      "id": "96,37",
+      "eligible": false
+    },
+    {
+      "id": "97,37",
+      "eligible": false
+    },
+    {
+      "id": "98,37",
+      "eligible": true
+    },
+    {
+      "id": "84,38",
+      "eligible": false
+    },
+    {
+      "id": "85,38",
+      "eligible": false
+    },
+    {
+      "id": "86,38",
+      "eligible": false
+    },
+    {
+      "id": "87,38",
+      "eligible": false
+    },
+    {
+      "id": "88,38",
+      "eligible": false
+    },
+    {
+      "id": "89,38",
+      "eligible": false
+    },
+    {
+      "id": "90,38",
+      "eligible": false
+    },
+    {
+      "id": "91,38",
+      "eligible": false
+    },
+    {
+      "id": "92,38",
+      "eligible": false
+    },
+    {
+      "id": "93,38",
+      "eligible": false
+    },
+    {
+      "id": "94,38",
+      "eligible": false
+    },
+    {
+      "id": "95,38",
+      "eligible": false
+    },
+    {
+      "id": "96,38",
+      "eligible": false
+    },
+    {
+      "id": "97,38",
+      "eligible": true
+    },
+    {
+      "id": "98,38",
+      "eligible": true
+    },
+    {
+      "id": "84,39",
+      "eligible": true
+    },
+    {
+      "id": "85,39",
+      "eligible": false
+    },
+    {
+      "id": "86,39",
+      "eligible": false
+    },
+    {
+      "id": "87,39",
+      "eligible": false
+    },
+    {
+      "id": "88,39",
+      "eligible": false
+    },
+    {
+      "id": "89,39",
+      "eligible": false
+    },
+    {
+      "id": "90,39",
+      "eligible": false
+    },
+    {
+      "id": "91,39",
+      "eligible": false
+    },
+    {
+      "id": "92,39",
+      "eligible": false
+    },
+    {
+      "id": "93,39",
+      "eligible": false
+    },
+    {
+      "id": "94,39",
+      "eligible": false
+    },
+    {
+      "id": "95,39",
+      "eligible": false
+    },
+    {
+      "id": "96,39",
+      "eligible": false
+    },
+    {
+      "id": "85,40",
+      "eligible": false
+    },
+    {
+      "id": "86,40",
+      "eligible": false
+    },
+    {
+      "id": "87,40",
+      "eligible": false
+    },
+    {
+      "id": "88,40",
+      "eligible": false
+    },
+    {
+      "id": "89,40",
+      "eligible": false
+    },
+    {
+      "id": "90,40",
+      "eligible": false
+    },
+    {
+      "id": "91,40",
+      "eligible": false
+    },
+    {
+      "id": "92,40",
+      "eligible": false
+    },
+    {
+      "id": "93,40",
+      "eligible": false
+    },
+    {
+      "id": "94,40",
+      "eligible": false
+    },
+    {
+      "id": "95,40",
+      "eligible": false
+    },
+    {
+      "id": "96,40",
+      "eligible": true
+    },
+    {
+      "id": "84,41",
+      "eligible": true
+    },
+    {
+      "id": "85,41",
+      "eligible": false
+    },
+    {
+      "id": "86,41",
+      "eligible": false
+    },
+    {
+      "id": "87,41",
+      "eligible": false
+    },
+    {
+      "id": "88,41",
+      "eligible": false
+    },
+    {
+      "id": "89,41",
+      "eligible": false
+    },
+    {
+      "id": "90,41",
+      "eligible": false
+    },
+    {
+      "id": "91,41",
+      "eligible": false
+    },
+    {
+      "id": "92,41",
+      "eligible": false
+    },
+    {
+      "id": "93,41",
+      "eligible": false
+    },
+    {
+      "id": "94,41",
+      "eligible": false
+    },
+    {
+      "id": "95,41",
+      "eligible": false
+    },
+    {
+      "id": "96,41",
+      "eligible": true
+    },
+    {
+      "id": "85,42",
+      "eligible": false
+    },
+    {
+      "id": "86,42",
+      "eligible": false
+    },
+    {
+      "id": "87,42",
+      "eligible": false
+    },
+    {
+      "id": "88,42",
+      "eligible": false
+    },
+    {
+      "id": "89,42",
+      "eligible": false
+    },
+    {
+      "id": "90,42",
+      "eligible": false
+    },
+    {
+      "id": "91,42",
+      "eligible": false
+    },
+    {
+      "id": "92,42",
+      "eligible": false
+    },
+    {
+      "id": "93,42",
+      "eligible": false
+    },
+    {
+      "id": "94,42",
+      "eligible": false
+    },
+    {
+      "id": "95,42",
+      "eligible": false
+    },
+    {
+      "id": "96,42",
+      "eligible": true
+    },
+    {
+      "id": "86,43",
+      "eligible": false
+    },
+    {
+      "id": "87,43",
+      "eligible": false
+    },
+    {
+      "id": "88,43",
+      "eligible": false
+    },
+    {
+      "id": "89,43",
+      "eligible": false
+    },
+    {
+      "id": "90,43",
+      "eligible": false
+    },
+    {
+      "id": "91,43",
+      "eligible": false
+    },
+    {
+      "id": "93,43",
+      "eligible": false
+    },
+    {
+      "id": "94,43",
+      "eligible": false
+    },
+    {
+      "id": "95,43",
+      "eligible": true
+    },
+    {
+      "id": "95,44",
+      "eligible": true
+    },
+    {
+      "id": "76,14",
+      "eligible": false
+    },
+    {
+      "id": "77,14",
+      "eligible": false
+    },
+    {
+      "id": "78,14",
+      "eligible": true
+    },
+    {
+      "id": "74,15",
+      "eligible": false
+    },
+    {
+      "id": "75,15",
+      "eligible": false
+    },
+    {
+      "id": "76,15",
+      "eligible": false
+    },
+    {
+      "id": "77,15",
+      "eligible": false
+    },
+    {
+      "id": "78,15",
+      "eligible": true
+    },
+    {
+      "id": "74,16",
+      "eligible": true
+    },
+    {
+      "id": "75,16",
+      "eligible": false
+    },
+    {
+      "id": "76,16",
+      "eligible": false
+    },
+    {
+      "id": "77,16",
+      "eligible": false
+    },
+    {
+      "id": "78,16",
+      "eligible": false
+    },
+    {
+      "id": "79,16",
+      "eligible": true
+    },
+    {
+      "id": "74,17",
+      "eligible": true
+    },
+    {
+      "id": "75,17",
+      "eligible": true
+    },
+    {
+      "id": "76,17",
+      "eligible": false
+    },
+    {
+      "id": "77,17",
+      "eligible": false
+    },
+    {
+      "id": "78,17",
+      "eligible": false
+    },
+    {
+      "id": "79,17",
+      "eligible": true
+    },
+    {
+      "id": "81,17",
+      "eligible": false
+    },
+    {
+      "id": "76,18",
+      "eligible": true
+    },
+    {
+      "id": "77,18",
+      "eligible": false
+    },
+    {
+      "id": "78,18",
+      "eligible": false
+    },
+    {
+      "id": "79,18",
+      "eligible": false
+    },
+    {
+      "id": "80,18",
+      "eligible": true
+    },
+    {
+      "id": "81,18",
+      "eligible": true
+    },
+    {
+      "id": "82,18",
+      "eligible": false
+    },
+    {
+      "id": "83,18",
+      "eligible": false
+    },
+    {
+      "id": "76,19",
+      "eligible": true
+    },
+    {
+      "id": "77,19",
+      "eligible": false
+    },
+    {
+      "id": "78,19",
+      "eligible": false
+    },
+    {
+      "id": "79,19",
+      "eligible": false
+    },
+    {
+      "id": "80,19",
+      "eligible": false
+    },
+    {
+      "id": "81,19",
+      "eligible": false
+    },
+    {
+      "id": "82,19",
+      "eligible": false
+    },
+    {
+      "id": "83,19",
+      "eligible": false
+    },
+    {
+      "id": "74,20",
+      "eligible": true
+    },
+    {
+      "id": "75,20",
+      "eligible": true
+    },
+    {
+      "id": "76,20",
+      "eligible": false
+    },
+    {
+      "id": "77,20",
+      "eligible": false
+    },
+    {
+      "id": "78,20",
+      "eligible": false
+    },
+    {
+      "id": "79,20",
+      "eligible": false
+    },
+    {
+      "id": "80,20",
+      "eligible": false
+    },
+    {
+      "id": "81,20",
+      "eligible": false
+    },
+    {
+      "id": "82,20",
+      "eligible": false
+    },
+    {
+      "id": "83,20",
+      "eligible": false
+    },
+    {
+      "id": "84,20",
+      "eligible": false
+    },
+    {
+      "id": "73,21",
+      "eligible": true
+    },
+    {
+      "id": "74,21",
+      "eligible": true
+    },
+    {
+      "id": "75,21",
+      "eligible": false
+    },
+    {
+      "id": "76,21",
+      "eligible": false
+    },
+    {
+      "id": "77,21",
+      "eligible": false
+    },
+    {
+      "id": "78,21",
+      "eligible": false
+    },
+    {
+      "id": "79,21",
+      "eligible": false
+    },
+    {
+      "id": "80,21",
+      "eligible": false
+    },
+    {
+      "id": "81,21",
+      "eligible": false
+    },
+    {
+      "id": "82,21",
+      "eligible": false
+    },
+    {
+      "id": "83,21",
+      "eligible": true
+    },
+    {
+      "id": "85,21",
+      "eligible": true
+    },
+    {
+      "id": "75,22",
+      "eligible": true
+    },
+    {
+      "id": "76,22",
+      "eligible": false
+    },
+    {
+      "id": "77,22",
+      "eligible": false
+    },
+    {
+      "id": "78,22",
+      "eligible": false
+    },
+    {
+      "id": "79,22",
+      "eligible": false
+    },
+    {
+      "id": "80,22",
+      "eligible": false
+    },
+    {
+      "id": "81,22",
+      "eligible": false
+    },
+    {
+      "id": "82,22",
+      "eligible": false
+    },
+    {
+      "id": "83,22",
+      "eligible": false
+    },
+    {
+      "id": "84,22",
+      "eligible": true
+    },
+    {
+      "id": "85,22",
+      "eligible": true
+    },
+    {
+      "id": "86,22",
+      "eligible": true
+    },
+    {
+      "id": "74,23",
+      "eligible": true
+    },
+    {
+      "id": "75,23",
+      "eligible": false
+    },
+    {
+      "id": "76,23",
+      "eligible": false
+    },
+    {
+      "id": "77,23",
+      "eligible": false
+    },
+    {
+      "id": "78,23",
+      "eligible": true
+    },
+    {
+      "id": "79,23",
+      "eligible": false
+    },
+    {
+      "id": "80,23",
+      "eligible": false
+    },
+    {
+      "id": "81,23",
+      "eligible": true
+    },
+    {
+      "id": "82,23",
+      "eligible": true
+    },
+    {
+      "id": "83,23",
+      "eligible": true
+    },
+    {
+      "id": "84,23",
+      "eligible": true
+    },
+    {
+      "id": "73,24",
+      "eligible": true
+    },
+    {
+      "id": "74,24",
+      "eligible": true
+    },
+    {
+      "id": "75,24",
+      "eligible": true
+    },
+    {
+      "id": "76,24",
+      "eligible": false
+    },
+    {
+      "id": "77,24",
+      "eligible": true
+    },
+    {
+      "id": "79,24",
+      "eligible": true
+    },
+    {
+      "id": "80,24",
+      "eligible": false
+    },
+    {
+      "id": "81,24",
+      "eligible": false
+    },
+    {
+      "id": "82,24",
+      "eligible": false
+    },
+    {
+      "id": "83,24",
+      "eligible": true
+    },
+    {
+      "id": "84,24",
+      "eligible": true
+    },
+    {
+      "id": "78,25",
+      "eligible": true
+    },
+    {
+      "id": "79,25",
+      "eligible": false
+    },
+    {
+      "id": "80,25",
+      "eligible": true
+    },
+    {
+      "id": "81,25",
+      "eligible": true
+    },
+    {
+      "id": "75,26",
+      "eligible": false
+    },
+    {
+      "id": "76,26",
+      "eligible": false
+    },
+    {
+      "id": "77,26",
+      "eligible": true
+    },
+    {
+      "id": "78,26",
+      "eligible": true
+    },
+    {
+      "id": "79,26",
+      "eligible": false
+    },
+    {
+      "id": "80,26",
+      "eligible": true
+    },
+    {
+      "id": "74,27",
+      "eligible": false
+    },
+    {
+      "id": "75,27",
+      "eligible": true
+    },
+    {
+      "id": "76,27",
+      "eligible": true
+    },
+    {
+      "id": "77,27",
+      "eligible": false
+    },
+    {
+      "id": "74,28",
+      "eligible": true
+    },
+    {
+      "id": "85,0",
+      "eligible": true
+    },
+    {
+      "id": "86,0",
+      "eligible": true
+    },
+    {
+      "id": "87,0",
+      "eligible": true
+    },
+    {
+      "id": "88,0",
+      "eligible": false
+    },
+    {
+      "id": "89,0",
+      "eligible": false
+    },
+    {
+      "id": "90,0",
+      "eligible": false
+    },
+    {
+      "id": "91,0",
+      "eligible": false
+    },
+    {
+      "id": "92,0",
+      "eligible": false
+    },
+    {
+      "id": "93,0",
+      "eligible": false
+    },
+    {
+      "id": "94,0",
+      "eligible": false
+    },
+    {
+      "id": "95,0",
+      "eligible": false
+    },
+    {
+      "id": "96,0",
+      "eligible": false
+    },
+    {
+      "id": "97,0",
+      "eligible": false
+    },
+    {
+      "id": "98,0",
+      "eligible": false
+    },
+    {
+      "id": "99,0",
+      "eligible": false
+    },
+    {
+      "id": "100,0",
+      "eligible": false
+    },
+    {
+      "id": "101,0",
+      "eligible": false
+    },
+    {
+      "id": "102,0",
+      "eligible": false
+    },
+    {
+      "id": "103,0",
+      "eligible": false
+    },
+    {
+      "id": "104,0",
+      "eligible": false
+    },
+    {
+      "id": "105,0",
+      "eligible": false
+    },
+    {
+      "id": "106,0",
+      "eligible": false
+    },
+    {
+      "id": "107,0",
+      "eligible": false
+    },
+    {
+      "id": "87,1",
+      "eligible": true
+    },
+    {
+      "id": "88,1",
+      "eligible": false
+    },
+    {
+      "id": "89,1",
+      "eligible": false
+    },
+    {
+      "id": "90,1",
+      "eligible": false
+    },
+    {
+      "id": "91,1",
+      "eligible": false
+    },
+    {
+      "id": "92,1",
+      "eligible": false
+    },
+    {
+      "id": "93,1",
+      "eligible": false
+    },
+    {
+      "id": "94,1",
+      "eligible": false
+    },
+    {
+      "id": "95,1",
+      "eligible": false
+    },
+    {
+      "id": "96,1",
+      "eligible": false
+    },
+    {
+      "id": "97,1",
+      "eligible": false
+    },
+    {
+      "id": "98,1",
+      "eligible": false
+    },
+    {
+      "id": "99,1",
+      "eligible": false
+    },
+    {
+      "id": "100,1",
+      "eligible": false
+    },
+    {
+      "id": "101,1",
+      "eligible": false
+    },
+    {
+      "id": "102,1",
+      "eligible": false
+    },
+    {
+      "id": "103,1",
+      "eligible": false
+    },
+    {
+      "id": "104,1",
+      "eligible": false
+    },
+    {
+      "id": "105,1",
+      "eligible": false
+    },
+    {
+      "id": "106,1",
+      "eligible": false
+    },
+    {
+      "id": "107,1",
+      "eligible": false
+    },
+    {
+      "id": "86,2",
+      "eligible": true
+    },
+    {
+      "id": "87,2",
+      "eligible": true
+    },
+    {
+      "id": "88,2",
+      "eligible": false
+    },
+    {
+      "id": "89,2",
+      "eligible": false
+    },
+    {
+      "id": "90,2",
+      "eligible": false
+    },
+    {
+      "id": "91,2",
+      "eligible": false
+    },
+    {
+      "id": "92,2",
+      "eligible": false
+    },
+    {
+      "id": "93,2",
+      "eligible": false
+    },
+    {
+      "id": "94,2",
+      "eligible": false
+    },
+    {
+      "id": "95,2",
+      "eligible": true
+    },
+    {
+      "id": "96,2",
+      "eligible": true
+    },
+    {
+      "id": "97,2",
+      "eligible": true
+    },
+    {
+      "id": "98,2",
+      "eligible": true
+    },
+    {
+      "id": "99,2",
+      "eligible": false
+    },
+    {
+      "id": "100,2",
+      "eligible": false
+    },
+    {
+      "id": "101,2",
+      "eligible": true
+    },
+    {
+      "id": "102,2",
+      "eligible": false
+    },
+    {
+      "id": "103,2",
+      "eligible": false
+    },
+    {
+      "id": "104,2",
+      "eligible": false
+    },
+    {
+      "id": "105,2",
+      "eligible": false
+    },
+    {
+      "id": "106,2",
+      "eligible": false
+    },
+    {
+      "id": "107,2",
+      "eligible": false
+    },
+    {
+      "id": "85,3",
+      "eligible": true
+    },
+    {
+      "id": "86,3",
+      "eligible": true
+    },
+    {
+      "id": "87,3",
+      "eligible": false
+    },
+    {
+      "id": "88,3",
+      "eligible": false
+    },
+    {
+      "id": "89,3",
+      "eligible": false
+    },
+    {
+      "id": "90,3",
+      "eligible": false
+    },
+    {
+      "id": "91,3",
+      "eligible": false
+    },
+    {
+      "id": "92,3",
+      "eligible": false
+    },
+    {
+      "id": "93,3",
+      "eligible": false
+    },
+    {
+      "id": "94,3",
+      "eligible": true
+    },
+    {
+      "id": "98,3",
+      "eligible": true
+    },
+    {
+      "id": "99,3",
+      "eligible": false
+    },
+    {
+      "id": "100,3",
+      "eligible": false
+    },
+    {
+      "id": "101,3",
+      "eligible": true
+    },
+    {
+      "id": "102,3",
+      "eligible": false
+    },
+    {
+      "id": "103,3",
+      "eligible": false
+    },
+    {
+      "id": "104,3",
+      "eligible": false
+    },
+    {
+      "id": "105,3",
+      "eligible": false
+    },
+    {
+      "id": "106,3",
+      "eligible": false
+    },
+    {
+      "id": "107,3",
+      "eligible": false
+    },
+    {
+      "id": "87,4",
+      "eligible": true
+    },
+    {
+      "id": "88,4",
+      "eligible": false
+    },
+    {
+      "id": "89,4",
+      "eligible": false
+    },
+    {
+      "id": "90,4",
+      "eligible": false
+    },
+    {
+      "id": "91,4",
+      "eligible": false
+    },
+    {
+      "id": "92,4",
+      "eligible": false
+    },
+    {
+      "id": "93,4",
+      "eligible": false
+    },
+    {
+      "id": "94,4",
+      "eligible": false
+    },
+    {
+      "id": "95,4",
+      "eligible": true
+    },
+    {
+      "id": "98,4",
+      "eligible": true
+    },
+    {
+      "id": "99,4",
+      "eligible": true
+    },
+    {
+      "id": "100,4",
+      "eligible": false
+    },
+    {
+      "id": "101,4",
+      "eligible": true
+    },
+    {
+      "id": "102,4",
+      "eligible": false
+    },
+    {
+      "id": "103,4",
+      "eligible": false
+    },
+    {
+      "id": "104,4",
+      "eligible": false
+    },
+    {
+      "id": "105,4",
+      "eligible": false
+    },
+    {
+      "id": "106,4",
+      "eligible": false
+    },
+    {
+      "id": "107,4",
+      "eligible": false
+    },
+    {
+      "id": "86,5",
+      "eligible": true
+    },
+    {
+      "id": "87,5",
+      "eligible": true
+    },
+    {
+      "id": "88,5",
+      "eligible": false
+    },
+    {
+      "id": "89,5",
+      "eligible": false
+    },
+    {
+      "id": "90,5",
+      "eligible": false
+    },
+    {
+      "id": "91,5",
+      "eligible": false
+    },
+    {
+      "id": "92,5",
+      "eligible": false
+    },
+    {
+      "id": "93,5",
+      "eligible": false
+    },
+    {
+      "id": "94,5",
+      "eligible": true
+    },
+    {
+      "id": "99,5",
+      "eligible": true
+    },
+    {
+      "id": "100,5",
+      "eligible": false
+    },
+    {
+      "id": "101,5",
+      "eligible": true
+    },
+    {
+      "id": "102,5",
+      "eligible": false
+    },
+    {
+      "id": "103,5",
+      "eligible": false
+    },
+    {
+      "id": "104,5",
+      "eligible": false
+    },
+    {
+      "id": "105,5",
+      "eligible": false
+    },
+    {
+      "id": "106,5",
+      "eligible": false
+    },
+    {
+      "id": "107,5",
+      "eligible": false
+    },
+    {
+      "id": "88,6",
+      "eligible": true
+    },
+    {
+      "id": "89,6",
+      "eligible": false
+    },
+    {
+      "id": "90,6",
+      "eligible": false
+    },
+    {
+      "id": "91,6",
+      "eligible": false
+    },
+    {
+      "id": "92,6",
+      "eligible": false
+    },
+    {
+      "id": "93,6",
+      "eligible": false
+    },
+    {
+      "id": "94,6",
+      "eligible": false
+    },
+    {
+      "id": "95,6",
+      "eligible": true
+    },
+    {
+      "id": "96,6",
+      "eligible": true
+    },
+    {
+      "id": "99,6",
+      "eligible": true
+    },
+    {
+      "id": "100,6",
+      "eligible": false
+    },
+    {
+      "id": "101,6",
+      "eligible": false
+    },
+    {
+      "id": "102,6",
+      "eligible": true
+    },
+    {
+      "id": "103,6",
+      "eligible": false
+    },
+    {
+      "id": "104,6",
+      "eligible": false
+    },
+    {
+      "id": "105,6",
+      "eligible": false
+    },
+    {
+      "id": "106,6",
+      "eligible": false
+    },
+    {
+      "id": "107,6",
+      "eligible": false
+    },
+    {
+      "id": "85,7",
+      "eligible": true
+    },
+    {
+      "id": "86,7",
+      "eligible": true
+    },
+    {
+      "id": "87,7",
+      "eligible": true
+    },
+    {
+      "id": "88,7",
+      "eligible": true
+    },
+    {
+      "id": "89,7",
+      "eligible": false
+    },
+    {
+      "id": "90,7",
+      "eligible": false
+    },
+    {
+      "id": "91,7",
+      "eligible": false
+    },
+    {
+      "id": "92,7",
+      "eligible": false
+    },
+    {
+      "id": "93,7",
+      "eligible": false
+    },
+    {
+      "id": "94,7",
+      "eligible": true
+    },
+    {
+      "id": "99,7",
+      "eligible": true
+    },
+    {
+      "id": "100,7",
+      "eligible": false
+    },
+    {
+      "id": "101,7",
+      "eligible": true
+    },
+    {
+      "id": "102,7",
+      "eligible": false
+    },
+    {
+      "id": "103,7",
+      "eligible": false
+    },
+    {
+      "id": "104,7",
+      "eligible": false
+    },
+    {
+      "id": "105,7",
+      "eligible": false
+    },
+    {
+      "id": "106,7",
+      "eligible": false
+    },
+    {
+      "id": "107,7",
+      "eligible": false
+    },
+    {
+      "id": "87,8",
+      "eligible": true
+    },
+    {
+      "id": "90,8",
+      "eligible": true
+    },
+    {
+      "id": "91,8",
+      "eligible": true
+    },
+    {
+      "id": "92,8",
+      "eligible": true
+    },
+    {
+      "id": "93,8",
+      "eligible": true
+    },
+    {
+      "id": "94,8",
+      "eligible": true
+    },
+    {
+      "id": "100,8",
+      "eligible": true
+    },
+    {
+      "id": "101,8",
+      "eligible": false
+    },
+    {
+      "id": "102,8",
+      "eligible": false
+    },
+    {
+      "id": "103,8",
+      "eligible": false
+    },
+    {
+      "id": "104,8",
+      "eligible": false
+    },
+    {
+      "id": "105,8",
+      "eligible": false
+    },
+    {
+      "id": "106,8",
+      "eligible": false
+    },
+    {
+      "id": "107,8",
+      "eligible": false
+    },
+    {
+      "id": "89,9",
+      "eligible": true
+    },
+    {
+      "id": "90,9",
+      "eligible": false
+    },
+    {
+      "id": "94,9",
+      "eligible": true
+    },
+    {
+      "id": "101,9",
+      "eligible": true
+    },
+    {
+      "id": "102,9",
+      "eligible": false
+    },
+    {
+      "id": "103,9",
+      "eligible": false
+    },
+    {
+      "id": "104,9",
+      "eligible": false
+    },
+    {
+      "id": "105,9",
+      "eligible": false
+    },
+    {
+      "id": "106,9",
+      "eligible": false
+    },
+    {
+      "id": "107,9",
+      "eligible": false
+    },
+    {
+      "id": "89,10",
+      "eligible": true
+    },
+    {
+      "id": "91,10",
+      "eligible": true
+    },
+    {
+      "id": "94,10",
+      "eligible": true
+    },
+    {
+      "id": "102,10",
+      "eligible": true
+    },
+    {
+      "id": "103,10",
+      "eligible": false
+    },
+    {
+      "id": "104,10",
+      "eligible": false
+    },
+    {
+      "id": "105,10",
+      "eligible": false
+    },
+    {
+      "id": "106,10",
+      "eligible": false
+    },
+    {
+      "id": "107,10",
+      "eligible": true
+    },
+    {
+      "id": "102,11",
+      "eligible": false
+    },
+    {
+      "id": "103,11",
+      "eligible": false
+    },
+    {
+      "id": "104,11",
+      "eligible": false
+    },
+    {
+      "id": "105,11",
+      "eligible": false
+    },
+    {
+      "id": "106,11",
+      "eligible": true
+    },
+    {
+      "id": "104,12",
+      "eligible": false
+    },
+    {
+      "id": "105,12",
+      "eligible": true
+    },
+    {
+      "id": "106,12",
+      "eligible": false
+    },
+    {
+      "id": "104,13",
+      "eligible": true
+    },
+    {
+      "id": "96,19",
+      "eligible": false
+    },
+    {
+      "id": "97,19",
+      "eligible": false
+    },
+    {
+      "id": "92,20",
+      "eligible": false
+    },
+    {
+      "id": "96,20",
+      "eligible": true
+    },
+    {
+      "id": "97,20",
+      "eligible": false
+    },
+    {
+      "id": "98,20",
+      "eligible": false
+    },
+    {
+      "id": "99,20",
+      "eligible": false
+    },
+    {
+      "id": "91,21",
+      "eligible": false
+    },
+    {
+      "id": "92,21",
+      "eligible": true
+    },
+    {
+      "id": "94,21",
+      "eligible": false
+    },
+    {
+      "id": "95,21",
+      "eligible": true
+    },
+    {
+      "id": "96,21",
+      "eligible": false
+    },
+    {
+      "id": "97,21",
+      "eligible": false
+    },
+    {
+      "id": "98,21",
+      "eligible": true
+    },
+    {
+      "id": "99,21",
+      "eligible": true
+    },
+    {
+      "id": "91,22",
+      "eligible": true
+    },
+    {
+      "id": "92,22",
+      "eligible": true
+    },
+    {
+      "id": "94,22",
+      "eligible": true
+    },
+    {
+      "id": "95,22",
+      "eligible": false
+    },
+    {
+      "id": "96,22",
+      "eligible": false
+    },
+    {
+      "id": "97,22",
+      "eligible": false
+    },
+    {
+      "id": "98,22",
+      "eligible": true
+    },
+    {
+      "id": "99,22",
+      "eligible": false
+    },
+    {
+      "id": "100,22",
+      "eligible": false
+    },
+    {
+      "id": "90,23",
+      "eligible": false
+    },
+    {
+      "id": "91,23",
+      "eligible": true
+    },
+    {
+      "id": "92,23",
+      "eligible": true
+    },
+    {
+      "id": "95,23",
+      "eligible": false
+    },
+    {
+      "id": "96,23",
+      "eligible": true
+    },
+    {
+      "id": "97,23",
+      "eligible": true
+    },
+    {
+      "id": "98,23",
+      "eligible": false
+    },
+    {
+      "id": "99,23",
+      "eligible": false
+    },
+    {
+      "id": "100,23",
+      "eligible": true
+    },
+    {
+      "id": "90,24",
+      "eligible": false
+    },
+    {
+      "id": "91,24",
+      "eligible": false
+    },
+    {
+      "id": "92,24",
+      "eligible": false
+    },
+    {
+      "id": "93,24",
+      "eligible": true
+    },
+    {
+      "id": "94,24",
+      "eligible": true
+    },
+    {
+      "id": "95,24",
+      "eligible": true
+    },
+    {
+      "id": "96,24",
+      "eligible": false
+    },
+    {
+      "id": "97,24",
+      "eligible": false
+    },
+    {
+      "id": "98,24",
+      "eligible": false
+    },
+    {
+      "id": "99,24",
+      "eligible": false
+    },
+    {
+      "id": "100,24",
+      "eligible": false
+    },
+    {
+      "id": "91,25",
+      "eligible": false
+    },
+    {
+      "id": "92,25",
+      "eligible": false
+    },
+    {
+      "id": "93,25",
+      "eligible": false
+    },
+    {
+      "id": "94,25",
+      "eligible": false
+    },
+    {
+      "id": "95,25",
+      "eligible": false
+    },
+    {
+      "id": "96,25",
+      "eligible": false
+    },
+    {
+      "id": "97,25",
+      "eligible": false
+    },
+    {
+      "id": "98,25",
+      "eligible": false
+    },
+    {
+      "id": "99,25",
+      "eligible": false
+    },
+    {
+      "id": "94,26",
+      "eligible": false
+    },
+    {
+      "id": "95,26",
+      "eligible": false
+    },
+    {
+      "id": "96,26",
+      "eligible": false
+    },
+    {
+      "id": "97,26",
+      "eligible": false
+    },
+    {
+      "id": "98,26",
+      "eligible": false
+    },
+    {
+      "id": "99,26",
+      "eligible": false
+    },
+    {
+      "id": "95,27",
+      "eligible": false
+    },
+    {
+      "id": "96,27",
+      "eligible": false
+    },
+    {
+      "id": "97,27",
+      "eligible": false
+    },
+    {
+      "id": "98,27",
+      "eligible": false
+    },
+    {
+      "id": "96,28",
+      "eligible": false
+    },
+    {
+      "id": "97,28",
+      "eligible": false
+    },
+    {
+      "id": "98,28",
+      "eligible": false
+    },
+    {
+      "id": "96,29",
+      "eligible": false
+    },
+    {
+      "id": "97,29",
+      "eligible": false
+    },
+    {
+      "id": "97,30",
+      "eligible": false
+    },
+    {
+      "id": "76,45",
+      "eligible": true
+    },
+    {
+      "id": "77,45",
+      "eligible": false
+    },
+    {
+      "id": "76,46",
+      "eligible": true
+    },
+    {
+      "id": "77,46",
+      "eligible": false
+    },
+    {
+      "id": "78,46",
+      "eligible": false
+    },
+    {
+      "id": "79,46",
+      "eligible": true
+    },
+    {
+      "id": "80,46",
+      "eligible": true
+    },
+    {
+      "id": "76,47",
+      "eligible": true
+    },
+    {
+      "id": "77,47",
+      "eligible": true
+    },
+    {
+      "id": "78,47",
+      "eligible": false
+    },
+    {
+      "id": "79,47",
+      "eligible": false
+    },
+    {
+      "id": "80,47",
+      "eligible": false
+    },
+    {
+      "id": "77,48",
+      "eligible": false
+    },
+    {
+      "id": "78,48",
+      "eligible": false
+    },
+    {
+      "id": "79,48",
+      "eligible": false
+    },
+    {
+      "id": "80,48",
+      "eligible": false
+    },
+    {
+      "id": "76,49",
+      "eligible": false
+    },
+    {
+      "id": "77,49",
+      "eligible": false
+    },
+    {
+      "id": "78,49",
+      "eligible": false
+    },
+    {
+      "id": "79,49",
+      "eligible": true
+    },
+    {
+      "id": "80,49",
+      "eligible": false
+    },
+    {
+      "id": "77,50",
+      "eligible": false
+    },
+    {
+      "id": "78,50",
+      "eligible": false
+    },
+    {
+      "id": "79,50",
+      "eligible": true
+    },
+    {
+      "id": "80,50",
+      "eligible": false
+    },
+    {
+      "id": "77,51",
+      "eligible": true
+    },
+    {
+      "id": "78,51",
+      "eligible": true
+    },
+    {
+      "id": "79,51",
+      "eligible": false
+    },
+    {
+      "id": "80,51",
+      "eligible": false
+    },
+    {
+      "id": "77,52",
+      "eligible": false
+    },
+    {
+      "id": "78,52",
+      "eligible": true
+    },
+    {
+      "id": "79,52",
+      "eligible": false
+    },
+    {
+      "id": "80,52",
+      "eligible": false
+    },
+    {
+      "id": "78,53",
+      "eligible": true
+    },
+    {
+      "id": "79,53",
+      "eligible": false
+    },
+    {
+      "id": "80,53",
+      "eligible": false
+    },
+    {
+      "id": "78,54",
+      "eligible": true
+    },
+    {
+      "id": "79,54",
+      "eligible": false
+    },
+    {
+      "id": "80,54",
+      "eligible": false
+    },
+    {
+      "id": "81,54",
+      "eligible": false
+    },
+    {
+      "id": "78,55",
+      "eligible": false
+    },
+    {
+      "id": "79,55",
+      "eligible": false
+    },
+    {
+      "id": "80,55",
+      "eligible": false
+    },
+    {
+      "id": "81,55",
+      "eligible": false
+    },
+    {
+      "id": "78,56",
+      "eligible": false
+    },
+    {
+      "id": "79,56",
+      "eligible": true
+    },
+    {
+      "id": "80,56",
+      "eligible": true
+    },
+    {
+      "id": "81,56",
+      "eligible": true
+    },
+    {
+      "id": "88,23",
+      "eligible": false
+    },
+    {
+      "id": "89,23",
+      "eligible": true
+    },
+    {
+      "id": "88,24",
+      "eligible": false
+    },
+    {
+      "id": "89,24",
+      "eligible": false
+    },
+    {
+      "id": "87,25",
+      "eligible": true
+    },
+    {
+      "id": "88,25",
+      "eligible": false
+    },
+    {
+      "id": "89,25",
+      "eligible": false
+    },
+    {
+      "id": "90,25",
+      "eligible": false
+    },
+    {
+      "id": "87,26",
+      "eligible": false
+    },
+    {
+      "id": "88,26",
+      "eligible": false
+    },
+    {
+      "id": "89,26",
+      "eligible": false
+    },
+    {
+      "id": "90,26",
+      "eligible": false
+    },
+    {
+      "id": "91,26",
+      "eligible": false
+    },
+    {
+      "id": "92,26",
+      "eligible": false
+    },
+    {
+      "id": "93,26",
+      "eligible": false
+    },
+    {
+      "id": "86,27",
+      "eligible": false
+    },
+    {
+      "id": "87,27",
+      "eligible": false
+    },
+    {
+      "id": "88,27",
+      "eligible": false
+    },
+    {
+      "id": "89,27",
+      "eligible": false
+    },
+    {
+      "id": "90,27",
+      "eligible": false
+    },
+    {
+      "id": "91,27",
+      "eligible": false
+    },
+    {
+      "id": "92,27",
+      "eligible": false
+    },
+    {
+      "id": "93,27",
+      "eligible": false
+    },
+    {
+      "id": "94,27",
+      "eligible": false
+    },
+    {
+      "id": "90,28",
+      "eligible": false
+    },
+    {
+      "id": "91,28",
+      "eligible": false
+    },
+    {
+      "id": "92,28",
+      "eligible": false
+    },
+    {
+      "id": "93,28",
+      "eligible": false
+    },
+    {
+      "id": "94,28",
+      "eligible": false
+    },
+    {
+      "id": "95,28",
+      "eligible": false
+    },
+    {
+      "id": "91,29",
+      "eligible": false
+    },
+    {
+      "id": "92,29",
+      "eligible": false
+    },
+    {
+      "id": "93,29",
+      "eligible": false
+    },
+    {
+      "id": "94,29",
+      "eligible": false
+    },
+    {
+      "id": "95,29",
+      "eligible": false
+    },
+    {
+      "id": "94,30",
+      "eligible": false
+    },
+    {
+      "id": "95,30",
+      "eligible": false
+    },
+    {
+      "id": "96,30",
+      "eligible": false
+    },
+    {
+      "id": "104,42",
+      "eligible": true
+    },
+    {
+      "id": "77,43",
+      "eligible": true
+    },
+    {
+      "id": "78,43",
+      "eligible": true
+    },
+    {
+      "id": "79,43",
+      "eligible": false
+    },
+    {
+      "id": "82,43",
+      "eligible": true
+    },
+    {
+      "id": "83,43",
+      "eligible": true
+    },
+    {
+      "id": "84,43",
+      "eligible": false
+    },
+    {
+      "id": "85,43",
+      "eligible": false
+    },
+    {
+      "id": "92,43",
+      "eligible": false
+    },
+    {
+      "id": "102,43",
+      "eligible": true
+    },
+    {
+      "id": "103,43",
+      "eligible": false
+    },
+    {
+      "id": "104,43",
+      "eligible": true
+    },
+    {
+      "id": "105,43",
+      "eligible": true
+    },
+    {
+      "id": "77,44",
+      "eligible": true
+    },
+    {
+      "id": "78,44",
+      "eligible": false
+    },
+    {
+      "id": "79,44",
+      "eligible": false
+    },
+    {
+      "id": "80,44",
+      "eligible": true
+    },
+    {
+      "id": "81,44",
+      "eligible": true
+    },
+    {
+      "id": "82,44",
+      "eligible": true
+    },
+    {
+      "id": "83,44",
+      "eligible": false
+    },
+    {
+      "id": "84,44",
+      "eligible": false
+    },
+    {
+      "id": "85,44",
+      "eligible": false
+    },
+    {
+      "id": "86,44",
+      "eligible": false
+    },
+    {
+      "id": "87,44",
+      "eligible": false
+    },
+    {
+      "id": "88,44",
+      "eligible": false
+    },
+    {
+      "id": "89,44",
+      "eligible": false
+    },
+    {
+      "id": "90,44",
+      "eligible": false
+    },
+    {
+      "id": "91,44",
+      "eligible": false
+    },
+    {
+      "id": "92,44",
+      "eligible": false
+    },
+    {
+      "id": "93,44",
+      "eligible": false
+    },
+    {
+      "id": "94,44",
+      "eligible": false
+    },
+    {
+      "id": "104,44",
+      "eligible": false
+    },
+    {
+      "id": "105,44",
+      "eligible": true
+    },
+    {
+      "id": "106,44",
+      "eligible": true
+    },
+    {
+      "id": "78,45",
+      "eligible": false
+    },
+    {
+      "id": "79,45",
+      "eligible": false
+    },
+    {
+      "id": "80,45",
+      "eligible": false
+    },
+    {
+      "id": "81,45",
+      "eligible": false
+    },
+    {
+      "id": "82,45",
+      "eligible": false
+    },
+    {
+      "id": "83,45",
+      "eligible": false
+    },
+    {
+      "id": "84,45",
+      "eligible": false
+    },
+    {
+      "id": "85,45",
+      "eligible": false
+    },
+    {
+      "id": "86,45",
+      "eligible": false
+    },
+    {
+      "id": "87,45",
+      "eligible": false
+    },
+    {
+      "id": "88,45",
+      "eligible": false
+    },
+    {
+      "id": "89,45",
+      "eligible": false
+    },
+    {
+      "id": "90,45",
+      "eligible": false
+    },
+    {
+      "id": "91,45",
+      "eligible": false
+    },
+    {
+      "id": "92,45",
+      "eligible": false
+    },
+    {
+      "id": "93,45",
+      "eligible": true
+    },
+    {
+      "id": "81,46",
+      "eligible": false
+    },
+    {
+      "id": "82,46",
+      "eligible": false
+    },
+    {
+      "id": "83,46",
+      "eligible": false
+    },
+    {
+      "id": "84,46",
+      "eligible": false
+    },
+    {
+      "id": "85,46",
+      "eligible": false
+    },
+    {
+      "id": "86,46",
+      "eligible": false
+    },
+    {
+      "id": "87,46",
+      "eligible": false
+    },
+    {
+      "id": "88,46",
+      "eligible": false
+    },
+    {
+      "id": "89,46",
+      "eligible": false
+    },
+    {
+      "id": "90,46",
+      "eligible": false
+    },
+    {
+      "id": "91,46",
+      "eligible": false
+    },
+    {
+      "id": "92,46",
+      "eligible": false
+    },
+    {
+      "id": "93,46",
+      "eligible": true
+    },
+    {
+      "id": "81,47",
+      "eligible": false
+    },
+    {
+      "id": "82,47",
+      "eligible": false
+    },
+    {
+      "id": "83,47",
+      "eligible": false
+    },
+    {
+      "id": "84,47",
+      "eligible": false
+    },
+    {
+      "id": "85,47",
+      "eligible": false
+    },
+    {
+      "id": "86,47",
+      "eligible": false
+    },
+    {
+      "id": "87,47",
+      "eligible": false
+    },
+    {
+      "id": "88,47",
+      "eligible": false
+    },
+    {
+      "id": "89,47",
+      "eligible": false
+    },
+    {
+      "id": "90,47",
+      "eligible": false
+    },
+    {
+      "id": "91,47",
+      "eligible": false
+    },
+    {
+      "id": "92,47",
+      "eligible": true
+    },
+    {
+      "id": "81,48",
+      "eligible": false
+    },
+    {
+      "id": "82,48",
+      "eligible": false
+    },
+    {
+      "id": "83,48",
+      "eligible": false
+    },
+    {
+      "id": "84,48",
+      "eligible": false
+    },
+    {
+      "id": "85,48",
+      "eligible": false
+    },
+    {
+      "id": "86,48",
+      "eligible": true
+    },
+    {
+      "id": "87,48",
+      "eligible": false
+    },
+    {
+      "id": "88,48",
+      "eligible": false
+    },
+    {
+      "id": "89,48",
+      "eligible": false
+    },
+    {
+      "id": "90,48",
+      "eligible": false
+    },
+    {
+      "id": "91,48",
+      "eligible": false
+    },
+    {
+      "id": "92,48",
+      "eligible": true
+    },
+    {
+      "id": "81,49",
+      "eligible": false
+    },
+    {
+      "id": "82,49",
+      "eligible": true
+    },
+    {
+      "id": "83,49",
+      "eligible": true
+    },
+    {
+      "id": "84,49",
+      "eligible": true
+    },
+    {
+      "id": "85,49",
+      "eligible": true
+    },
+    {
+      "id": "86,49",
+      "eligible": false
+    },
+    {
+      "id": "87,49",
+      "eligible": false
+    },
+    {
+      "id": "88,49",
+      "eligible": false
+    },
+    {
+      "id": "89,49",
+      "eligible": false
+    },
+    {
+      "id": "90,49",
+      "eligible": false
+    },
+    {
+      "id": "91,49",
+      "eligible": false
+    },
+    {
+      "id": "81,50",
+      "eligible": false
+    },
+    {
+      "id": "82,50",
+      "eligible": false
+    },
+    {
+      "id": "83,50",
+      "eligible": false
+    },
+    {
+      "id": "84,50",
+      "eligible": false
+    },
+    {
+      "id": "85,50",
+      "eligible": false
+    },
+    {
+      "id": "86,50",
+      "eligible": false
+    },
+    {
+      "id": "87,50",
+      "eligible": false
+    },
+    {
+      "id": "88,50",
+      "eligible": false
+    },
+    {
+      "id": "89,50",
+      "eligible": false
+    },
+    {
+      "id": "90,50",
+      "eligible": false
+    },
+    {
+      "id": "91,50",
+      "eligible": true
+    },
+    {
+      "id": "81,51",
+      "eligible": true
+    },
+    {
+      "id": "82,51",
+      "eligible": false
+    },
+    {
+      "id": "83,51",
+      "eligible": false
+    },
+    {
+      "id": "84,51",
+      "eligible": false
+    },
+    {
+      "id": "85,51",
+      "eligible": false
+    },
+    {
+      "id": "86,51",
+      "eligible": false
+    },
+    {
+      "id": "87,51",
+      "eligible": false
+    },
+    {
+      "id": "88,51",
+      "eligible": false
+    },
+    {
+      "id": "89,51",
+      "eligible": false
+    },
+    {
+      "id": "90,51",
+      "eligible": false
+    },
+    {
+      "id": "91,51",
+      "eligible": true
+    },
+    {
+      "id": "81,52",
+      "eligible": false
+    },
+    {
+      "id": "82,52",
+      "eligible": false
+    },
+    {
+      "id": "83,52",
+      "eligible": false
+    },
+    {
+      "id": "84,52",
+      "eligible": false
+    },
+    {
+      "id": "85,52",
+      "eligible": false
+    },
+    {
+      "id": "86,52",
+      "eligible": false
+    },
+    {
+      "id": "87,52",
+      "eligible": false
+    },
+    {
+      "id": "88,52",
+      "eligible": false
+    },
+    {
+      "id": "89,52",
+      "eligible": false
+    },
+    {
+      "id": "90,52",
+      "eligible": true
+    },
+    {
+      "id": "91,52",
+      "eligible": true
+    },
+    {
+      "id": "81,53",
+      "eligible": true
+    },
+    {
+      "id": "82,53",
+      "eligible": false
+    },
+    {
+      "id": "83,53",
+      "eligible": false
+    },
+    {
+      "id": "84,53",
+      "eligible": false
+    },
+    {
+      "id": "85,53",
+      "eligible": false
+    },
+    {
+      "id": "86,53",
+      "eligible": false
+    },
+    {
+      "id": "87,53",
+      "eligible": false
+    },
+    {
+      "id": "88,53",
+      "eligible": false
+    },
+    {
+      "id": "89,53",
+      "eligible": true
+    },
+    {
+      "id": "82,54",
+      "eligible": true
+    },
+    {
+      "id": "83,54",
+      "eligible": false
+    },
+    {
+      "id": "84,54",
+      "eligible": false
+    },
+    {
+      "id": "85,54",
+      "eligible": false
+    },
+    {
+      "id": "86,54",
+      "eligible": false
+    },
+    {
+      "id": "87,54",
+      "eligible": false
+    },
+    {
+      "id": "88,54",
+      "eligible": false
+    },
+    {
+      "id": "89,54",
+      "eligible": true
+    },
+    {
+      "id": "82,55",
+      "eligible": true
+    },
+    {
+      "id": "83,55",
+      "eligible": false
+    },
+    {
+      "id": "84,55",
+      "eligible": false
+    },
+    {
+      "id": "85,55",
+      "eligible": true
+    },
+    {
+      "id": "86,55",
+      "eligible": true
+    },
+    {
+      "id": "87,55",
+      "eligible": true
+    },
+    {
+      "id": "83,56",
+      "eligible": true
+    },
+    {
+      "id": "84,56",
+      "eligible": false
+    },
+    {
+      "id": "85,56",
+      "eligible": false
+    },
+    {
+      "id": "83,57",
+      "eligible": true
+    },
+    {
+      "id": "84,57",
+      "eligible": true
+    },
+    {
+      "id": "68,15",
+      "eligible": true
+    },
+    {
+      "id": "69,15",
+      "eligible": true
+    },
+    {
+      "id": "67,16",
+      "eligible": true
+    },
+    {
+      "id": "68,16",
+      "eligible": true
+    },
+    {
+      "id": "69,16",
+      "eligible": false
+    },
+    {
+      "id": "70,16",
+      "eligible": true
+    },
+    {
+      "id": "71,16",
+      "eligible": false
+    },
+    {
+      "id": "65,17",
+      "eligible": true
+    },
+    {
+      "id": "66,17",
+      "eligible": true
+    },
+    {
+      "id": "67,17",
+      "eligible": false
+    },
+    {
+      "id": "68,17",
+      "eligible": false
+    },
+    {
+      "id": "69,17",
+      "eligible": false
+    },
+    {
+      "id": "70,17",
+      "eligible": false
+    },
+    {
+      "id": "63,18",
+      "eligible": true
+    },
+    {
+      "id": "64,18",
+      "eligible": false
+    },
+    {
+      "id": "65,18",
+      "eligible": false
+    },
+    {
+      "id": "66,18",
+      "eligible": false
+    },
+    {
+      "id": "67,18",
+      "eligible": false
+    },
+    {
+      "id": "68,18",
+      "eligible": false
+    },
+    {
+      "id": "69,18",
+      "eligible": false
+    },
+    {
+      "id": "70,18",
+      "eligible": true
+    },
+    {
+      "id": "63,19",
+      "eligible": true
+    },
+    {
+      "id": "64,19",
+      "eligible": true
+    },
+    {
+      "id": "65,19",
+      "eligible": false
+    },
+    {
+      "id": "66,19",
+      "eligible": false
+    },
+    {
+      "id": "67,19",
+      "eligible": true
+    },
+    {
+      "id": "68,19",
+      "eligible": false
+    },
+    {
+      "id": "69,19",
+      "eligible": true
+    },
+    {
+      "id": "65,20",
+      "eligible": false
+    },
+    {
+      "id": "66,20",
+      "eligible": false
+    },
+    {
+      "id": "67,20",
+      "eligible": true
+    },
+    {
+      "id": "68,20",
+      "eligible": false
+    },
+    {
+      "id": "69,20",
+      "eligible": false
+    },
+    {
+      "id": "70,20",
+      "eligible": true
+    },
+    {
+      "id": "63,21",
+      "eligible": false
+    },
+    {
+      "id": "64,21",
+      "eligible": false
+    },
+    {
+      "id": "65,21",
+      "eligible": true
+    },
+    {
+      "id": "66,21",
+      "eligible": true
+    },
+    {
+      "id": "67,21",
+      "eligible": false
+    },
+    {
+      "id": "68,21",
+      "eligible": false
+    },
+    {
+      "id": "69,21",
+      "eligible": false
+    },
+    {
+      "id": "70,21",
+      "eligible": false
+    },
+    {
+      "id": "63,22",
+      "eligible": true
+    },
+    {
+      "id": "64,22",
+      "eligible": true
+    },
+    {
+      "id": "65,22",
+      "eligible": true
+    },
+    {
+      "id": "66,22",
+      "eligible": false
+    },
+    {
+      "id": "67,22",
+      "eligible": false
+    },
+    {
+      "id": "68,22",
+      "eligible": false
+    },
+    {
+      "id": "69,22",
+      "eligible": false
+    },
+    {
+      "id": "70,22",
+      "eligible": true
+    },
+    {
+      "id": "61,23",
+      "eligible": true
+    },
+    {
+      "id": "62,23",
+      "eligible": true
+    },
+    {
+      "id": "63,23",
+      "eligible": false
+    },
+    {
+      "id": "64,23",
+      "eligible": false
+    },
+    {
+      "id": "65,23",
+      "eligible": false
+    },
+    {
+      "id": "66,23",
+      "eligible": false
+    },
+    {
+      "id": "67,23",
+      "eligible": false
+    },
+    {
+      "id": "68,23",
+      "eligible": true
+    },
+    {
+      "id": "62,24",
+      "eligible": true
+    },
+    {
+      "id": "63,24",
+      "eligible": true
+    },
+    {
+      "id": "64,24",
+      "eligible": false
+    },
+    {
+      "id": "65,24",
+      "eligible": true
+    },
+    {
+      "id": "66,24",
+      "eligible": true
+    },
+    {
+      "id": "67,24",
+      "eligible": true
+    },
+    {
+      "id": "63,25",
+      "eligible": true
+    },
+    {
+      "id": "64,25",
+      "eligible": true
+    },
+    {
+      "id": "75,8",
+      "eligible": false
+    },
+    {
+      "id": "76,8",
+      "eligible": false
+    },
+    {
+      "id": "77,8",
+      "eligible": false
+    },
+    {
+      "id": "73,9",
+      "eligible": false
+    },
+    {
+      "id": "74,9",
+      "eligible": false
+    },
+    {
+      "id": "75,9",
+      "eligible": false
+    },
+    {
+      "id": "76,9",
+      "eligible": false
+    },
+    {
+      "id": "74,10",
+      "eligible": false
+    },
+    {
+      "id": "75,10",
+      "eligible": false
+    },
+    {
+      "id": "76,10",
+      "eligible": true
+    },
+    {
+      "id": "78,10",
+      "eligible": true
+    },
+    {
+      "id": "72,11",
+      "eligible": false
+    },
+    {
+      "id": "73,11",
+      "eligible": false
+    },
+    {
+      "id": "74,11",
+      "eligible": false
+    },
+    {
+      "id": "75,11",
+      "eligible": false
+    },
+    {
+      "id": "76,11",
+      "eligible": true
+    },
+    {
+      "id": "77,11",
+      "eligible": true
+    },
+    {
+      "id": "78,11",
+      "eligible": false
+    },
+    {
+      "id": "72,12",
+      "eligible": false
+    },
+    {
+      "id": "73,12",
+      "eligible": false
+    },
+    {
+      "id": "74,12",
+      "eligible": false
+    },
+    {
+      "id": "75,12",
+      "eligible": false
+    },
+    {
+      "id": "76,12",
+      "eligible": false
+    },
+    {
+      "id": "77,12",
+      "eligible": true
+    },
+    {
+      "id": "72,13",
+      "eligible": true
+    },
+    {
+      "id": "73,13",
+      "eligible": false
+    },
+    {
+      "id": "74,13",
+      "eligible": false
+    },
+    {
+      "id": "75,13",
+      "eligible": false
+    },
+    {
+      "id": "76,13",
+      "eligible": false
+    },
+    {
+      "id": "77,13",
+      "eligible": true
+    },
+    {
+      "id": "72,14",
+      "eligible": false
+    },
+    {
+      "id": "73,14",
+      "eligible": false
+    },
+    {
+      "id": "75,14",
+      "eligible": false
+    },
+    {
+      "id": "97,10",
+      "eligible": false
+    },
+    {
+      "id": "97,11",
+      "eligible": false
+    },
+    {
+      "id": "98,11",
+      "eligible": false
+    },
+    {
+      "id": "97,12",
+      "eligible": true
+    },
+    {
+      "id": "98,12",
+      "eligible": true
+    },
+    {
+      "id": "97,13",
+      "eligible": true
+    },
+    {
+      "id": "98,13",
+      "eligible": true
+    },
+    {
+      "id": "99,13",
+      "eligible": false
+    },
+    {
+      "id": "101,13",
+      "eligible": true
+    },
+    {
+      "id": "102,13",
+      "eligible": false
+    },
+    {
+      "id": "97,14",
+      "eligible": true
+    },
+    {
+      "id": "98,14",
+      "eligible": true
+    },
+    {
+      "id": "99,14",
+      "eligible": true
+    },
+    {
+      "id": "102,14",
+      "eligible": true
+    },
+    {
+      "id": "98,15",
+      "eligible": true
+    },
+    {
+      "id": "99,15",
+      "eligible": true
+    },
+    {
+      "id": "100,15",
+      "eligible": false
+    },
+    {
+      "id": "98,16",
+      "eligible": true
+    },
+    {
+      "id": "99,16",
+      "eligible": false
+    },
+    {
+      "id": "100,16",
+      "eligible": false
+    },
+    {
+      "id": "102,16",
+      "eligible": false
+    },
+    {
+      "id": "103,16",
+      "eligible": false
+    },
+    {
+      "id": "99,17",
+      "eligible": false
+    },
+    {
+      "id": "100,17",
+      "eligible": true
+    },
+    {
+      "id": "101,17",
+      "eligible": true
+    },
+    {
+      "id": "102,17",
+      "eligible": false
+    },
+    {
+      "id": "103,17",
+      "eligible": true
+    },
+    {
+      "id": "104,17",
+      "eligible": true
+    },
+    {
+      "id": "105,17",
+      "eligible": false
+    },
+    {
+      "id": "106,17",
+      "eligible": true
+    },
+    {
+      "id": "107,17",
+      "eligible": true
+    },
+    {
+      "id": "101,18",
+      "eligible": false
+    },
+    {
+      "id": "102,18",
+      "eligible": false
+    },
+    {
+      "id": "103,18",
+      "eligible": false
+    },
+    {
+      "id": "104,18",
+      "eligible": false
+    },
+    {
+      "id": "105,18",
+      "eligible": false
+    },
+    {
+      "id": "106,18",
+      "eligible": false
+    },
+    {
+      "id": "101,19",
+      "eligible": false
+    },
+    {
+      "id": "102,19",
+      "eligible": false
+    },
+    {
+      "id": "103,19",
+      "eligible": false
+    },
+    {
+      "id": "104,19",
+      "eligible": false
+    },
+    {
+      "id": "105,19",
+      "eligible": false
+    },
+    {
+      "id": "98,17",
+      "eligible": false
+    },
+    {
+      "id": "98,18",
+      "eligible": false
+    },
+    {
+      "id": "99,18",
+      "eligible": false
+    },
+    {
+      "id": "100,18",
+      "eligible": true
+    },
+    {
+      "id": "107,18",
+      "eligible": false
+    },
+    {
+      "id": "98,19",
+      "eligible": false
+    },
+    {
+      "id": "99,19",
+      "eligible": false
+    },
+    {
+      "id": "100,19",
+      "eligible": false
+    },
+    {
+      "id": "106,19",
+      "eligible": false
+    },
+    {
+      "id": "107,19",
+      "eligible": false
+    },
+    {
+      "id": "100,20",
+      "eligible": false
+    },
+    {
+      "id": "101,20",
+      "eligible": true
+    },
+    {
+      "id": "102,20",
+      "eligible": true
+    },
+    {
+      "id": "103,20",
+      "eligible": false
+    },
+    {
+      "id": "104,20",
+      "eligible": false
+    },
+    {
+      "id": "105,20",
+      "eligible": false
+    },
+    {
+      "id": "106,20",
+      "eligible": false
+    },
+    {
+      "id": "107,20",
+      "eligible": false
+    },
+    {
+      "id": "100,21",
+      "eligible": false
+    },
+    {
+      "id": "101,21",
+      "eligible": false
+    },
+    {
+      "id": "102,21",
+      "eligible": true
+    },
+    {
+      "id": "103,21",
+      "eligible": false
+    },
+    {
+      "id": "104,21",
+      "eligible": false
+    },
+    {
+      "id": "105,21",
+      "eligible": false
+    },
+    {
+      "id": "106,21",
+      "eligible": false
+    },
+    {
+      "id": "107,21",
+      "eligible": false
+    },
+    {
+      "id": "101,22",
+      "eligible": false
+    },
+    {
+      "id": "102,22",
+      "eligible": false
+    },
+    {
+      "id": "103,22",
+      "eligible": true
+    },
+    {
+      "id": "104,22",
+      "eligible": false
+    },
+    {
+      "id": "105,22",
+      "eligible": false
+    },
+    {
+      "id": "106,22",
+      "eligible": false
+    },
+    {
+      "id": "107,22",
+      "eligible": false
+    },
+    {
+      "id": "101,23",
+      "eligible": false
+    },
+    {
+      "id": "102,23",
+      "eligible": false
+    },
+    {
+      "id": "103,23",
+      "eligible": true
+    },
+    {
+      "id": "104,23",
+      "eligible": true
+    },
+    {
+      "id": "105,23",
+      "eligible": false
+    },
+    {
+      "id": "106,23",
+      "eligible": false
+    },
+    {
+      "id": "107,23",
+      "eligible": false
+    },
+    {
+      "id": "101,24",
+      "eligible": false
+    },
+    {
+      "id": "102,24",
+      "eligible": false
+    },
+    {
+      "id": "103,24",
+      "eligible": false
+    },
+    {
+      "id": "104,24",
+      "eligible": false
+    },
+    {
+      "id": "105,24",
+      "eligible": true
+    },
+    {
+      "id": "106,24",
+      "eligible": false
+    },
+    {
+      "id": "107,24",
+      "eligible": false
+    },
+    {
+      "id": "100,25",
+      "eligible": false
+    },
+    {
+      "id": "101,25",
+      "eligible": false
+    },
+    {
+      "id": "102,25",
+      "eligible": false
+    },
+    {
+      "id": "103,25",
+      "eligible": false
+    },
+    {
+      "id": "104,25",
+      "eligible": false
+    },
+    {
+      "id": "105,25",
+      "eligible": false
+    },
+    {
+      "id": "106,25",
+      "eligible": false
+    },
+    {
+      "id": "107,25",
+      "eligible": false
+    },
+    {
+      "id": "100,26",
+      "eligible": false
+    },
+    {
+      "id": "101,26",
+      "eligible": false
+    },
+    {
+      "id": "104,26",
+      "eligible": false
+    },
+    {
+      "id": "105,26",
+      "eligible": false
+    },
+    {
+      "id": "106,26",
+      "eligible": false
+    },
+    {
+      "id": "107,26",
+      "eligible": false
+    },
+    {
+      "id": "105,27",
+      "eligible": false
+    },
+    {
+      "id": "106,27",
+      "eligible": false
+    },
+    {
+      "id": "107,27",
+      "eligible": false
+    },
+    {
+      "id": "105,28",
+      "eligible": false
+    },
+    {
+      "id": "106,28",
+      "eligible": false
+    },
+    {
+      "id": "107,28",
+      "eligible": false
+    },
+    {
+      "id": "106,29",
+      "eligible": false
+    },
+    {
+      "id": "107,29",
+      "eligible": false
+    },
+    {
+      "id": "106,30",
+      "eligible": false
+    },
+    {
+      "id": "107,30",
+      "eligible": false
+    },
+    {
+      "id": "106,31",
+      "eligible": false
+    },
+    {
+      "id": "107,31",
+      "eligible": false
+    },
+    {
+      "id": "100,31",
+      "eligible": false
+    },
+    {
+      "id": "101,31",
+      "eligible": false
+    },
+    {
+      "id": "102,31",
+      "eligible": false
+    },
+    {
+      "id": "103,31",
+      "eligible": false
+    },
+    {
+      "id": "104,31",
+      "eligible": false
+    },
+    {
+      "id": "105,31",
+      "eligible": false
+    },
+    {
+      "id": "97,32",
+      "eligible": false
+    },
+    {
+      "id": "98,32",
+      "eligible": false
+    },
+    {
+      "id": "99,32",
+      "eligible": false
+    },
+    {
+      "id": "100,32",
+      "eligible": false
+    },
+    {
+      "id": "101,32",
+      "eligible": false
+    },
+    {
+      "id": "102,32",
+      "eligible": false
+    },
+    {
+      "id": "103,32",
+      "eligible": false
+    },
+    {
+      "id": "104,32",
+      "eligible": false
+    },
+    {
+      "id": "105,32",
+      "eligible": false
+    },
+    {
+      "id": "106,32",
+      "eligible": false
+    },
+    {
+      "id": "107,32",
+      "eligible": false
+    },
+    {
+      "id": "96,33",
+      "eligible": false
+    },
+    {
+      "id": "97,33",
+      "eligible": false
+    },
+    {
+      "id": "98,33",
+      "eligible": false
+    },
+    {
+      "id": "99,33",
+      "eligible": false
+    },
+    {
+      "id": "100,33",
+      "eligible": false
+    },
+    {
+      "id": "101,33",
+      "eligible": false
+    },
+    {
+      "id": "102,33",
+      "eligible": false
+    },
+    {
+      "id": "103,33",
+      "eligible": false
+    },
+    {
+      "id": "104,33",
+      "eligible": false
+    },
+    {
+      "id": "105,33",
+      "eligible": false
+    },
+    {
+      "id": "106,33",
+      "eligible": false
+    },
+    {
+      "id": "107,33",
+      "eligible": false
+    },
+    {
+      "id": "96,34",
+      "eligible": false
+    },
+    {
+      "id": "97,34",
+      "eligible": false
+    },
+    {
+      "id": "98,34",
+      "eligible": false
+    },
+    {
+      "id": "99,34",
+      "eligible": false
+    },
+    {
+      "id": "100,34",
+      "eligible": false
+    },
+    {
+      "id": "101,34",
+      "eligible": false
+    },
+    {
+      "id": "102,34",
+      "eligible": false
+    },
+    {
+      "id": "103,34",
+      "eligible": true
+    },
+    {
+      "id": "104,34",
+      "eligible": true
+    },
+    {
+      "id": "105,34",
+      "eligible": false
+    },
+    {
+      "id": "106,34",
+      "eligible": false
+    },
+    {
+      "id": "107,34",
+      "eligible": false
+    },
+    {
+      "id": "96,35",
+      "eligible": false
+    },
+    {
+      "id": "97,35",
+      "eligible": false
+    },
+    {
+      "id": "98,35",
+      "eligible": false
+    },
+    {
+      "id": "99,35",
+      "eligible": false
+    },
+    {
+      "id": "100,35",
+      "eligible": true
+    },
+    {
+      "id": "101,35",
+      "eligible": true
+    },
+    {
+      "id": "102,35",
+      "eligible": true
+    },
+    {
+      "id": "104,35",
+      "eligible": false
+    },
+    {
+      "id": "105,35",
+      "eligible": true
+    },
+    {
+      "id": "106,35",
+      "eligible": false
+    },
+    {
+      "id": "107,35",
+      "eligible": false
+    },
+    {
+      "id": "97,36",
+      "eligible": false
+    },
+    {
+      "id": "98,36",
+      "eligible": false
+    },
+    {
+      "id": "99,36",
+      "eligible": false
+    },
+    {
+      "id": "100,36",
+      "eligible": false
+    },
+    {
+      "id": "106,36",
+      "eligible": true
+    },
+    {
+      "id": "107,36",
+      "eligible": false
+    },
+    {
+      "id": "106,37",
+      "eligible": true
+    },
+    {
+      "id": "107,37",
+      "eligible": false
+    },
+    {
+      "id": "107,38",
+      "eligible": true
+    },
+    {
+      "id": "100,39",
+      "eligible": false
+    },
+    {
+      "id": "101,39",
+      "eligible": true
+    },
+    {
+      "id": "100,40",
+      "eligible": false
+    },
+    {
+      "id": "101,40",
+      "eligible": true
+    },
+    {
+      "id": "99,41",
+      "eligible": true
+    },
+    {
+      "id": "100,41",
+      "eligible": true
+    },
+    {
+      "id": "101,41",
+      "eligible": true
+    },
+    {
+      "id": "102,26",
+      "eligible": false
+    },
+    {
+      "id": "103,26",
+      "eligible": false
+    },
+    {
+      "id": "99,27",
+      "eligible": false
+    },
+    {
+      "id": "100,27",
+      "eligible": false
+    },
+    {
+      "id": "101,27",
+      "eligible": false
+    },
+    {
+      "id": "102,27",
+      "eligible": false
+    },
+    {
+      "id": "103,27",
+      "eligible": false
+    },
+    {
+      "id": "104,27",
+      "eligible": false
+    },
+    {
+      "id": "99,28",
+      "eligible": false
+    },
+    {
+      "id": "100,28",
+      "eligible": false
+    },
+    {
+      "id": "101,28",
+      "eligible": false
+    },
+    {
+      "id": "102,28",
+      "eligible": false
+    },
+    {
+      "id": "103,28",
+      "eligible": false
+    },
+    {
+      "id": "104,28",
+      "eligible": false
+    },
+    {
+      "id": "98,29",
+      "eligible": false
+    },
+    {
+      "id": "99,29",
+      "eligible": false
+    },
+    {
+      "id": "100,29",
+      "eligible": false
+    },
+    {
+      "id": "101,29",
+      "eligible": false
+    },
+    {
+      "id": "102,29",
+      "eligible": false
+    },
+    {
+      "id": "103,29",
+      "eligible": false
+    },
+    {
+      "id": "104,29",
+      "eligible": false
+    },
+    {
+      "id": "105,29",
+      "eligible": false
+    },
+    {
+      "id": "98,30",
+      "eligible": false
+    },
+    {
+      "id": "99,30",
+      "eligible": false
+    },
+    {
+      "id": "100,30",
+      "eligible": false
+    },
+    {
+      "id": "101,30",
+      "eligible": false
+    },
+    {
+      "id": "102,30",
+      "eligible": false
+    },
+    {
+      "id": "103,30",
+      "eligible": false
+    },
+    {
+      "id": "104,30",
+      "eligible": false
+    },
+    {
+      "id": "105,30",
+      "eligible": false
+    },
+    {
+      "id": "97,31",
+      "eligible": false
+    },
+    {
+      "id": "98,31",
+      "eligible": false
+    },
+    {
+      "id": "99,31",
+      "eligible": false
+    }
+  ]
+}

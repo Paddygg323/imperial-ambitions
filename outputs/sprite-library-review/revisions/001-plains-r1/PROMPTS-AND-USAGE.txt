@@ -1,0 +1,16 @@
+Built-in image generation. Reference: originals/01-terrain.png, tile 001 only. Preserve pixel-art grass, palette and hex shape. No text; cream backdrop.
+
+00: No flowers whatsoever. Remove all white and yellow blossoms; green grass only. This is the quiet dominant default.
+01: Exactly one tiny white daisy near upper-left interior.
+02: Exactly two tiny white daisies near lower-right interior.
+03: Exactly three tiny yellow buttercups in a small loose upper-right cluster.
+04: Exactly one tiny yellow flower near lower-left interior.
+05: Exactly two tiny white daisies loosely spaced near middle-left.
+06: Exactly three tiny white daisies clustered near lower-middle.
+07: Exactly four tiny yellow flowers loosely clustered near upper-middle.
+08: Exactly two tiny white daisies and one tiny yellow flower near middle-right.
+09: Exactly three tiny white daisies and two tiny yellow flowers in two small separated patches.
+10: Exactly four tiny white daisies and three tiny yellow flowers in two small irregular patches, still sparser than the reference.
+
+Most plains use flowerless artwork. Restrict flowers to a few specific local areas, forming occasional small irregular clusters. Vary floral artwork within clusters; never scatter flowers uniformly over the whole map. No floral variant may exceed original 001 flower coverage.
+Review only. Game unchanged.

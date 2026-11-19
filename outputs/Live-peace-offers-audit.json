@@ -1,0 +1,28 @@
+{
+  "scope": "Player-to-computer Great Power peace offers connected to public command and turn resolution",
+  "focusedTests": 12,
+  "focusedEvidence": "work/rebuild-v2/live-peace-offer-tests.txt",
+  "fullEvidence": "work/rebuild-v2/tests-live-peace-offers-full.txt",
+  "fullStatus": "passed",
+  "browserScript": "game/test/peace-offers-browser.mjs",
+  "packaged": true,
+  "sourceInspection": [
+    "573c41..573c4a invokes recipient acceptance virtual2d8",
+    "573c88..573c96 dispatches acceptance virtual230",
+    "50b891..50b8a2 commits treaty status4 via525cf0",
+    "50b8d3..50b92a handles recipient threatened alliances",
+    "525d20 peace transition is covered by Native-peace-settlement-audit.json"
+  ],
+  "remaining": [
+    "AI initiation and human response interface are not implemented",
+    "Alliance agreement creation and proposer-side promise consequences remain incomplete",
+    "Subject propagation remains incomplete",
+    "Physical Pixel and full campaign not verified"
+  ],
+  "runtime": "3-183",
+  "fullPassed": 786,
+  "apkSha256": "e78b1c12427fda7a2ef688b412dc5599a5c79ed212386986538af259d6cc8ae7",
+  "browserEvidence": "work/rebuild-v2/peace-offers-browser.txt",
+  "browserPassed": true,
+  "physicalPixelTested": false
+}

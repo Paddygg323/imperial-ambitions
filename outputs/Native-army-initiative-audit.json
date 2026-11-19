@@ -1,0 +1,2045 @@
+{
+  "scope": "Native CalculateSpeed4c2930 and category lookup; supplied ownership,\nadjacency and RNG calls only. No added general bonus (routine reads no XP).\n",
+  "cases": [
+    {
+      "ids": [
+        0
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1005,
+      "score": 1005
+    },
+    {
+      "ids": [
+        0
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 5,
+      "score": 5
+    },
+    {
+      "ids": [
+        0
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        0
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1005,
+      "score": 1007
+    },
+    {
+      "ids": [
+        0
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 5,
+      "score": 7
+    },
+    {
+      "ids": [
+        0
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        1
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1005,
+      "score": 1005
+    },
+    {
+      "ids": [
+        1
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 5,
+      "score": 5
+    },
+    {
+      "ids": [
+        1
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        1
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1005,
+      "score": 1007
+    },
+    {
+      "ids": [
+        1
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 5,
+      "score": 7
+    },
+    {
+      "ids": [
+        1
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        2
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1005,
+      "score": 1005
+    },
+    {
+      "ids": [
+        2
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 5,
+      "score": 5
+    },
+    {
+      "ids": [
+        2
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        2
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1005,
+      "score": 1007
+    },
+    {
+      "ids": [
+        2
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 5,
+      "score": 7
+    },
+    {
+      "ids": [
+        2
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        3
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1005,
+      "score": 1005
+    },
+    {
+      "ids": [
+        3
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 5,
+      "score": 5
+    },
+    {
+      "ids": [
+        3
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        3
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1005,
+      "score": 1007
+    },
+    {
+      "ids": [
+        3
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 5,
+      "score": 7
+    },
+    {
+      "ids": [
+        3
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        4
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1003,
+      "score": 1003
+    },
+    {
+      "ids": [
+        4
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 3,
+      "score": 3
+    },
+    {
+      "ids": [
+        4
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        4
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1003,
+      "score": 1005
+    },
+    {
+      "ids": [
+        4
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 3,
+      "score": 5
+    },
+    {
+      "ids": [
+        4
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        5
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1003,
+      "score": 1003
+    },
+    {
+      "ids": [
+        5
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 3,
+      "score": 3
+    },
+    {
+      "ids": [
+        5
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        5
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1003,
+      "score": 1005
+    },
+    {
+      "ids": [
+        5
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 3,
+      "score": 5
+    },
+    {
+      "ids": [
+        5
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        6
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1003,
+      "score": 1003
+    },
+    {
+      "ids": [
+        6
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 3,
+      "score": 3
+    },
+    {
+      "ids": [
+        6
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        6
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1003,
+      "score": 1005
+    },
+    {
+      "ids": [
+        6
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 3,
+      "score": 5
+    },
+    {
+      "ids": [
+        6
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        7
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1003,
+      "score": 1003
+    },
+    {
+      "ids": [
+        7
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 3,
+      "score": 3
+    },
+    {
+      "ids": [
+        7
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        7
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1003,
+      "score": 1005
+    },
+    {
+      "ids": [
+        7
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 3,
+      "score": 5
+    },
+    {
+      "ids": [
+        7
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        8
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1003,
+      "score": 1003
+    },
+    {
+      "ids": [
+        8
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 3,
+      "score": 3
+    },
+    {
+      "ids": [
+        8
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        8
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1003,
+      "score": 1005
+    },
+    {
+      "ids": [
+        8
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 3,
+      "score": 5
+    },
+    {
+      "ids": [
+        8
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        9
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1003,
+      "score": 1003
+    },
+    {
+      "ids": [
+        9
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 3,
+      "score": 3
+    },
+    {
+      "ids": [
+        9
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        9
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1003,
+      "score": 1005
+    },
+    {
+      "ids": [
+        9
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 3,
+      "score": 5
+    },
+    {
+      "ids": [
+        9
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        10
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1003,
+      "score": 1003
+    },
+    {
+      "ids": [
+        10
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 3,
+      "score": 3
+    },
+    {
+      "ids": [
+        10
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        10
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1003,
+      "score": 1005
+    },
+    {
+      "ids": [
+        10
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 3,
+      "score": 5
+    },
+    {
+      "ids": [
+        10
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        11
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1003,
+      "score": 1003
+    },
+    {
+      "ids": [
+        11
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 3,
+      "score": 3
+    },
+    {
+      "ids": [
+        11
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        11
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1003,
+      "score": 1005
+    },
+    {
+      "ids": [
+        11
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 3,
+      "score": 5
+    },
+    {
+      "ids": [
+        11
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        12
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1003,
+      "score": 1003
+    },
+    {
+      "ids": [
+        12
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 3,
+      "score": 3
+    },
+    {
+      "ids": [
+        12
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        12
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1003,
+      "score": 1005
+    },
+    {
+      "ids": [
+        12
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 3,
+      "score": 5
+    },
+    {
+      "ids": [
+        12
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        16
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1003,
+      "score": 1003
+    },
+    {
+      "ids": [
+        16
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 3,
+      "score": 3
+    },
+    {
+      "ids": [
+        16
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        16
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1003,
+      "score": 1005
+    },
+    {
+      "ids": [
+        16
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 3,
+      "score": 5
+    },
+    {
+      "ids": [
+        16
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        20
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1005,
+      "score": 1005
+    },
+    {
+      "ids": [
+        20
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 5,
+      "score": 5
+    },
+    {
+      "ids": [
+        20
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        20
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1005,
+      "score": 1007
+    },
+    {
+      "ids": [
+        20
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 5,
+      "score": 7
+    },
+    {
+      "ids": [
+        20
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        21
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1005,
+      "score": 1005
+    },
+    {
+      "ids": [
+        21
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 5,
+      "score": 5
+    },
+    {
+      "ids": [
+        21
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        21
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1005,
+      "score": 1007
+    },
+    {
+      "ids": [
+        21
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 5,
+      "score": 7
+    },
+    {
+      "ids": [
+        21
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        22
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1005,
+      "score": 1005
+    },
+    {
+      "ids": [
+        22
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 5,
+      "score": 5
+    },
+    {
+      "ids": [
+        22
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        22
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1005,
+      "score": 1007
+    },
+    {
+      "ids": [
+        22
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 5,
+      "score": 7
+    },
+    {
+      "ids": [
+        22
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        23
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1005,
+      "score": 1005
+    },
+    {
+      "ids": [
+        23
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 5,
+      "score": 5
+    },
+    {
+      "ids": [
+        23
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        23
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1005,
+      "score": 1007
+    },
+    {
+      "ids": [
+        23
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 5,
+      "score": 7
+    },
+    {
+      "ids": [
+        23
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        24
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1005,
+      "score": 1005
+    },
+    {
+      "ids": [
+        24
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 5,
+      "score": 5
+    },
+    {
+      "ids": [
+        24
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        24
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1005,
+      "score": 1007
+    },
+    {
+      "ids": [
+        24
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 5,
+      "score": 7
+    },
+    {
+      "ids": [
+        24
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        25
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1005,
+      "score": 1005
+    },
+    {
+      "ids": [
+        25
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 5,
+      "score": 5
+    },
+    {
+      "ids": [
+        25
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        25
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1005,
+      "score": 1007
+    },
+    {
+      "ids": [
+        25
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 5,
+      "score": 7
+    },
+    {
+      "ids": [
+        25
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        29
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1005,
+      "score": 1005
+    },
+    {
+      "ids": [
+        29
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 5,
+      "score": 5
+    },
+    {
+      "ids": [
+        29
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        29
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1005,
+      "score": 1007
+    },
+    {
+      "ids": [
+        29
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 5,
+      "score": 7
+    },
+    {
+      "ids": [
+        29
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        30
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1005,
+      "score": 1005
+    },
+    {
+      "ids": [
+        30
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 5,
+      "score": 5
+    },
+    {
+      "ids": [
+        30
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        30
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1005,
+      "score": 1007
+    },
+    {
+      "ids": [
+        30
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 5,
+      "score": 7
+    },
+    {
+      "ids": [
+        30
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        31
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1005,
+      "score": 1005
+    },
+    {
+      "ids": [
+        31
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 5,
+      "score": 5
+    },
+    {
+      "ids": [
+        31
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        31
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1005,
+      "score": 1007
+    },
+    {
+      "ids": [
+        31
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 5,
+      "score": 7
+    },
+    {
+      "ids": [
+        31
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        33
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1001,
+      "score": 1001
+    },
+    {
+      "ids": [
+        33
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 1,
+      "score": 1
+    },
+    {
+      "ids": [
+        33
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        33
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1001,
+      "score": 1003
+    },
+    {
+      "ids": [
+        33
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 1,
+      "score": 3
+    },
+    {
+      "ids": [
+        33
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        34
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1001,
+      "score": 1001
+    },
+    {
+      "ids": [
+        34
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 1,
+      "score": 1
+    },
+    {
+      "ids": [
+        34
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        34
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1001,
+      "score": 1003
+    },
+    {
+      "ids": [
+        34
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 1,
+      "score": 3
+    },
+    {
+      "ids": [
+        34
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        35
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1001,
+      "score": 1001
+    },
+    {
+      "ids": [
+        35
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 1,
+      "score": 1
+    },
+    {
+      "ids": [
+        35
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        35
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1001,
+      "score": 1003
+    },
+    {
+      "ids": [
+        35
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 1,
+      "score": 3
+    },
+    {
+      "ids": [
+        35
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        36
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1001,
+      "score": 1001
+    },
+    {
+      "ids": [
+        36
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 1,
+      "score": 1
+    },
+    {
+      "ids": [
+        36
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        36
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1001,
+      "score": 1003
+    },
+    {
+      "ids": [
+        36
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 1,
+      "score": 3
+    },
+    {
+      "ids": [
+        36
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        37
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1001,
+      "score": 1001
+    },
+    {
+      "ids": [
+        37
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 1,
+      "score": 1
+    },
+    {
+      "ids": [
+        37
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        37
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1001,
+      "score": 1003
+    },
+    {
+      "ids": [
+        37
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 1,
+      "score": 3
+    },
+    {
+      "ids": [
+        37
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        38
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1001,
+      "score": 1001
+    },
+    {
+      "ids": [
+        38
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 1,
+      "score": 1
+    },
+    {
+      "ids": [
+        38
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        38
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1001,
+      "score": 1003
+    },
+    {
+      "ids": [
+        38
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 1,
+      "score": 3
+    },
+    {
+      "ids": [
+        38
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        39
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1001,
+      "score": 1001
+    },
+    {
+      "ids": [
+        39
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 1,
+      "score": 1
+    },
+    {
+      "ids": [
+        39
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        39
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1001,
+      "score": 1003
+    },
+    {
+      "ids": [
+        39
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 1,
+      "score": 3
+    },
+    {
+      "ids": [
+        39
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        0,
+        4
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1004,
+      "score": 1004
+    },
+    {
+      "ids": [
+        0,
+        4
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 4,
+      "score": 4
+    },
+    {
+      "ids": [
+        0,
+        4
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        0,
+        4
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1004,
+      "score": 1006
+    },
+    {
+      "ids": [
+        0,
+        4
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 4,
+      "score": 6
+    },
+    {
+      "ids": [
+        0,
+        4
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        4,
+        20
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1004,
+      "score": 1004
+    },
+    {
+      "ids": [
+        4,
+        20
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 4,
+      "score": 4
+    },
+    {
+      "ids": [
+        4,
+        20
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        4,
+        20
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1004,
+      "score": 1006
+    },
+    {
+      "ids": [
+        4,
+        20
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 4,
+      "score": 6
+    },
+    {
+      "ids": [
+        4,
+        20
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        20,
+        21
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1005,
+      "score": 1005
+    },
+    {
+      "ids": [
+        20,
+        21
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 5,
+      "score": 5
+    },
+    {
+      "ids": [
+        20,
+        21
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        20,
+        21
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1005,
+      "score": 1007
+    },
+    {
+      "ids": [
+        20,
+        21
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 5,
+      "score": 7
+    },
+    {
+      "ids": [
+        20,
+        21
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        36,
+        20
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1003,
+      "score": 1003
+    },
+    {
+      "ids": [
+        36,
+        20
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 3,
+      "score": 3
+    },
+    {
+      "ids": [
+        36,
+        20
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        36,
+        20
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1003,
+      "score": 1005
+    },
+    {
+      "ids": [
+        36,
+        20
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 3,
+      "score": 5
+    },
+    {
+      "ids": [
+        36,
+        20
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        36,
+        4
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1002,
+      "score": 1002
+    },
+    {
+      "ids": [
+        36,
+        4
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 2,
+      "score": 2
+    },
+    {
+      "ids": [
+        36,
+        4
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        36,
+        4
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1002,
+      "score": 1004
+    },
+    {
+      "ids": [
+        36,
+        4
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 2,
+      "score": 4
+    },
+    {
+      "ids": [
+        36,
+        4
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        16,
+        20
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1004,
+      "score": 1004
+    },
+    {
+      "ids": [
+        16,
+        20
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 4,
+      "score": 4
+    },
+    {
+      "ids": [
+        16,
+        20
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        16,
+        20
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1004,
+      "score": 1006
+    },
+    {
+      "ids": [
+        16,
+        20
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 4,
+      "score": 6
+    },
+    {
+      "ids": [
+        16,
+        20
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    },
+    {
+      "ids": [
+        16,
+        36
+      ],
+      "roll": 0,
+      "mode": "land",
+      "base": 1002,
+      "score": 1002
+    },
+    {
+      "ids": [
+        16,
+        36
+      ],
+      "roll": 0,
+      "mode": "sea",
+      "base": 2,
+      "score": 2
+    },
+    {
+      "ids": [
+        16,
+        36
+      ],
+      "roll": 0,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2000
+    },
+    {
+      "ids": [
+        16,
+        36
+      ],
+      "roll": 2,
+      "mode": "land",
+      "base": 1002,
+      "score": 1004
+    },
+    {
+      "ids": [
+        16,
+        36
+      ],
+      "roll": 2,
+      "mode": "sea",
+      "base": 2,
+      "score": 4
+    },
+    {
+      "ids": [
+        16,
+        36
+      ],
+      "roll": 2,
+      "mode": "friendly",
+      "base": 2000,
+      "score": 2002
+    }
+  ]
+}

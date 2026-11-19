@@ -1,0 +1,9 @@
+Runtime 249 — town and rural artwork update
+Published successfully: https://imperial-ambitions-playtest-paddy.paddygarrettb.chatgpt.site
+Source commit: 05d7d8ac968a7158b2e1a1771397379322ac4f42
+Site version: 6
+Deployment: appgdep_6afcd70b4e4c819199782026dd782d6a
+
+Implemented: small/large town sprites for actual fort levels 0/I/II/III; cattle herd; natural grain; cultivated grain; broad mountain ridge. Gameplay data and rules unchanged.
+Assets: game/assets/towns-forts.png and game/assets/rural-landscape.png, generated using built-in image generation with transparent backgrounds. Art direction: cohesive painted overhead historical strategy sprites; substantial small urban towns, readable walls/towers/bastions; compact cattle herd, golden natural grain versus orderly wheat fields, connected mountain ridge. Town background corrected through image generation editing.
+Validation: 4 unit tests passed; zoom browser passed; isolated artwork browser captures passed; offline browser passed; Android bundle version 249 validated with 350 assets. Screenshots: outputs/visual-review/art249/. No physical Pixel validation for this build. No claim of overall store readiness.

@@ -1,0 +1,138 @@
+{
+  "scope": "Read-only native grant and treaty settlement checks. Real50aaf0/525d20/524030/5243c0.\nCountry cash callbacks, embassy getter, date and active-country query supplied;\nindependent recipients only. No Windows game process or save is touched.\n",
+  "grants": [
+    {
+      "amount": 1000,
+      "prior": 50,
+      "relationship": 52,
+      "cashDelivered": 1000
+    },
+    {
+      "amount": 1000,
+      "prior": 90,
+      "relationship": 92,
+      "cashDelivered": 1000
+    },
+    {
+      "amount": 1000,
+      "prior": 250,
+      "relationship": 252,
+      "cashDelivered": 1000
+    },
+    {
+      "amount": 1000,
+      "prior": 255,
+      "relationship": 255,
+      "cashDelivered": 1000
+    },
+    {
+      "amount": 3000,
+      "prior": 50,
+      "relationship": 54,
+      "cashDelivered": 3000
+    },
+    {
+      "amount": 3000,
+      "prior": 90,
+      "relationship": 94,
+      "cashDelivered": 3000
+    },
+    {
+      "amount": 3000,
+      "prior": 250,
+      "relationship": 254,
+      "cashDelivered": 3000
+    },
+    {
+      "amount": 3000,
+      "prior": 255,
+      "relationship": 255,
+      "cashDelivered": 3000
+    },
+    {
+      "amount": 5000,
+      "prior": 50,
+      "relationship": 56,
+      "cashDelivered": 5000
+    },
+    {
+      "amount": 5000,
+      "prior": 90,
+      "relationship": 96,
+      "cashDelivered": 5000
+    },
+    {
+      "amount": 5000,
+      "prior": 250,
+      "relationship": 255,
+      "cashDelivered": 5000
+    },
+    {
+      "amount": 5000,
+      "prior": 255,
+      "relationship": 255,
+      "cashDelivered": 5000
+    },
+    {
+      "amount": 10000,
+      "prior": 50,
+      "relationship": 60,
+      "cashDelivered": 10000
+    },
+    {
+      "amount": 10000,
+      "prior": 90,
+      "relationship": 100,
+      "cashDelivered": 10000
+    },
+    {
+      "amount": 10000,
+      "prior": 250,
+      "relationship": 255,
+      "cashDelivered": 10000
+    },
+    {
+      "amount": 10000,
+      "prior": 255,
+      "relationship": 255,
+      "cashDelivered": 10000
+    }
+  ],
+  "pacts": [
+    {
+      "prior": 50,
+      "afterPact": 60,
+      "afterDeclaration": 10,
+      "observerAfterDeclaration": 50,
+      "sameAsNativeDeclarationWithSamePrior": true
+    },
+    {
+      "prior": 90,
+      "afterPact": 100,
+      "afterDeclaration": 49,
+      "observerAfterDeclaration": 50,
+      "sameAsNativeDeclarationWithSamePrior": true
+    },
+    {
+      "prior": 150,
+      "afterPact": 160,
+      "afterDeclaration": 49,
+      "observerAfterDeclaration": 50,
+      "sameAsNativeDeclarationWithSamePrior": true
+    },
+    {
+      "prior": 250,
+      "afterPact": 255,
+      "afterDeclaration": 49,
+      "observerAfterDeclaration": 50,
+      "sameAsNativeDeclarationWithSamePrior": true
+    },
+    {
+      "prior": 255,
+      "afterPact": 255,
+      "afterDeclaration": 49,
+      "observerAfterDeclaration": 50,
+      "sameAsNativeDeclarationWithSamePrior": true
+    }
+  ]
+}

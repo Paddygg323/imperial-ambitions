@@ -1,0 +1,3 @@
+INSTRUMENTATION_RESULT: checks=Native unreadable-file handling, byte-preserving quarantine, UTF-8 size rejection and path allowlist passed; primary campaign untouched.
+INSTRUMENTATION_RESULT: result=PASS
+INSTRUMENTATION_CODE: -1

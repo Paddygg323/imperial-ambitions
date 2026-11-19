@@ -1,0 +1,1609 @@
+{
+  "scope": "Native campaign experience -> tactical medals conversion 62025e..620279.\nExecute original arithmetic for every legal experience value, no stubs.\n",
+  "cases": [
+    {
+      "experience": 0,
+      "medals": 0
+    },
+    {
+      "experience": 1,
+      "medals": 0
+    },
+    {
+      "experience": 2,
+      "medals": 0
+    },
+    {
+      "experience": 3,
+      "medals": 0
+    },
+    {
+      "experience": 4,
+      "medals": 0
+    },
+    {
+      "experience": 5,
+      "medals": 0
+    },
+    {
+      "experience": 6,
+      "medals": 0
+    },
+    {
+      "experience": 7,
+      "medals": 0
+    },
+    {
+      "experience": 8,
+      "medals": 0
+    },
+    {
+      "experience": 9,
+      "medals": 0
+    },
+    {
+      "experience": 10,
+      "medals": 0
+    },
+    {
+      "experience": 11,
+      "medals": 0
+    },
+    {
+      "experience": 12,
+      "medals": 0
+    },
+    {
+      "experience": 13,
+      "medals": 0
+    },
+    {
+      "experience": 14,
+      "medals": 0
+    },
+    {
+      "experience": 15,
+      "medals": 0
+    },
+    {
+      "experience": 16,
+      "medals": 0
+    },
+    {
+      "experience": 17,
+      "medals": 0
+    },
+    {
+      "experience": 18,
+      "medals": 0
+    },
+    {
+      "experience": 19,
+      "medals": 0
+    },
+    {
+      "experience": 20,
+      "medals": 0
+    },
+    {
+      "experience": 21,
+      "medals": 0
+    },
+    {
+      "experience": 22,
+      "medals": 0
+    },
+    {
+      "experience": 23,
+      "medals": 0
+    },
+    {
+      "experience": 24,
+      "medals": 0
+    },
+    {
+      "experience": 25,
+      "medals": 0
+    },
+    {
+      "experience": 26,
+      "medals": 0
+    },
+    {
+      "experience": 27,
+      "medals": 0
+    },
+    {
+      "experience": 28,
+      "medals": 0
+    },
+    {
+      "experience": 29,
+      "medals": 0
+    },
+    {
+      "experience": 30,
+      "medals": 0
+    },
+    {
+      "experience": 31,
+      "medals": 0
+    },
+    {
+      "experience": 32,
+      "medals": 0
+    },
+    {
+      "experience": 33,
+      "medals": 0
+    },
+    {
+      "experience": 34,
+      "medals": 0
+    },
+    {
+      "experience": 35,
+      "medals": 0
+    },
+    {
+      "experience": 36,
+      "medals": 0
+    },
+    {
+      "experience": 37,
+      "medals": 0
+    },
+    {
+      "experience": 38,
+      "medals": 0
+    },
+    {
+      "experience": 39,
+      "medals": 0
+    },
+    {
+      "experience": 40,
+      "medals": 0
+    },
+    {
+      "experience": 41,
+      "medals": 0
+    },
+    {
+      "experience": 42,
+      "medals": 0
+    },
+    {
+      "experience": 43,
+      "medals": 0
+    },
+    {
+      "experience": 44,
+      "medals": 0
+    },
+    {
+      "experience": 45,
+      "medals": 0
+    },
+    {
+      "experience": 46,
+      "medals": 0
+    },
+    {
+      "experience": 47,
+      "medals": 0
+    },
+    {
+      "experience": 48,
+      "medals": 0
+    },
+    {
+      "experience": 49,
+      "medals": 0
+    },
+    {
+      "experience": 50,
+      "medals": 0
+    },
+    {
+      "experience": 51,
+      "medals": 0
+    },
+    {
+      "experience": 52,
+      "medals": 0
+    },
+    {
+      "experience": 53,
+      "medals": 0
+    },
+    {
+      "experience": 54,
+      "medals": 0
+    },
+    {
+      "experience": 55,
+      "medals": 0
+    },
+    {
+      "experience": 56,
+      "medals": 0
+    },
+    {
+      "experience": 57,
+      "medals": 0
+    },
+    {
+      "experience": 58,
+      "medals": 0
+    },
+    {
+      "experience": 59,
+      "medals": 0
+    },
+    {
+      "experience": 60,
+      "medals": 0
+    },
+    {
+      "experience": 61,
+      "medals": 0
+    },
+    {
+      "experience": 62,
+      "medals": 0
+    },
+    {
+      "experience": 63,
+      "medals": 0
+    },
+    {
+      "experience": 64,
+      "medals": 0
+    },
+    {
+      "experience": 65,
+      "medals": 0
+    },
+    {
+      "experience": 66,
+      "medals": 0
+    },
+    {
+      "experience": 67,
+      "medals": 0
+    },
+    {
+      "experience": 68,
+      "medals": 0
+    },
+    {
+      "experience": 69,
+      "medals": 0
+    },
+    {
+      "experience": 70,
+      "medals": 0
+    },
+    {
+      "experience": 71,
+      "medals": 0
+    },
+    {
+      "experience": 72,
+      "medals": 0
+    },
+    {
+      "experience": 73,
+      "medals": 0
+    },
+    {
+      "experience": 74,
+      "medals": 0
+    },
+    {
+      "experience": 75,
+      "medals": 0
+    },
+    {
+      "experience": 76,
+      "medals": 0
+    },
+    {
+      "experience": 77,
+      "medals": 0
+    },
+    {
+      "experience": 78,
+      "medals": 0
+    },
+    {
+      "experience": 79,
+      "medals": 0
+    },
+    {
+      "experience": 80,
+      "medals": 0
+    },
+    {
+      "experience": 81,
+      "medals": 0
+    },
+    {
+      "experience": 82,
+      "medals": 0
+    },
+    {
+      "experience": 83,
+      "medals": 0
+    },
+    {
+      "experience": 84,
+      "medals": 0
+    },
+    {
+      "experience": 85,
+      "medals": 0
+    },
+    {
+      "experience": 86,
+      "medals": 0
+    },
+    {
+      "experience": 87,
+      "medals": 0
+    },
+    {
+      "experience": 88,
+      "medals": 0
+    },
+    {
+      "experience": 89,
+      "medals": 0
+    },
+    {
+      "experience": 90,
+      "medals": 0
+    },
+    {
+      "experience": 91,
+      "medals": 0
+    },
+    {
+      "experience": 92,
+      "medals": 0
+    },
+    {
+      "experience": 93,
+      "medals": 0
+    },
+    {
+      "experience": 94,
+      "medals": 0
+    },
+    {
+      "experience": 95,
+      "medals": 0
+    },
+    {
+      "experience": 96,
+      "medals": 0
+    },
+    {
+      "experience": 97,
+      "medals": 0
+    },
+    {
+      "experience": 98,
+      "medals": 0
+    },
+    {
+      "experience": 99,
+      "medals": 0
+    },
+    {
+      "experience": 100,
+      "medals": 1
+    },
+    {
+      "experience": 101,
+      "medals": 1
+    },
+    {
+      "experience": 102,
+      "medals": 1
+    },
+    {
+      "experience": 103,
+      "medals": 1
+    },
+    {
+      "experience": 104,
+      "medals": 1
+    },
+    {
+      "experience": 105,
+      "medals": 1
+    },
+    {
+      "experience": 106,
+      "medals": 1
+    },
+    {
+      "experience": 107,
+      "medals": 1
+    },
+    {
+      "experience": 108,
+      "medals": 1
+    },
+    {
+      "experience": 109,
+      "medals": 1
+    },
+    {
+      "experience": 110,
+      "medals": 1
+    },
+    {
+      "experience": 111,
+      "medals": 1
+    },
+    {
+      "experience": 112,
+      "medals": 1
+    },
+    {
+      "experience": 113,
+      "medals": 1
+    },
+    {
+      "experience": 114,
+      "medals": 1
+    },
+    {
+      "experience": 115,
+      "medals": 1
+    },
+    {
+      "experience": 116,
+      "medals": 1
+    },
+    {
+      "experience": 117,
+      "medals": 1
+    },
+    {
+      "experience": 118,
+      "medals": 1
+    },
+    {
+      "experience": 119,
+      "medals": 1
+    },
+    {
+      "experience": 120,
+      "medals": 1
+    },
+    {
+      "experience": 121,
+      "medals": 1
+    },
+    {
+      "experience": 122,
+      "medals": 1
+    },
+    {
+      "experience": 123,
+      "medals": 1
+    },
+    {
+      "experience": 124,
+      "medals": 1
+    },
+    {
+      "experience": 125,
+      "medals": 1
+    },
+    {
+      "experience": 126,
+      "medals": 1
+    },
+    {
+      "experience": 127,
+      "medals": 1
+    },
+    {
+      "experience": 128,
+      "medals": 1
+    },
+    {
+      "experience": 129,
+      "medals": 1
+    },
+    {
+      "experience": 130,
+      "medals": 1
+    },
+    {
+      "experience": 131,
+      "medals": 1
+    },
+    {
+      "experience": 132,
+      "medals": 1
+    },
+    {
+      "experience": 133,
+      "medals": 1
+    },
+    {
+      "experience": 134,
+      "medals": 1
+    },
+    {
+      "experience": 135,
+      "medals": 1
+    },
+    {
+      "experience": 136,
+      "medals": 1
+    },
+    {
+      "experience": 137,
+      "medals": 1
+    },
+    {
+      "experience": 138,
+      "medals": 1
+    },
+    {
+      "experience": 139,
+      "medals": 1
+    },
+    {
+      "experience": 140,
+      "medals": 1
+    },
+    {
+      "experience": 141,
+      "medals": 1
+    },
+    {
+      "experience": 142,
+      "medals": 1
+    },
+    {
+      "experience": 143,
+      "medals": 1
+    },
+    {
+      "experience": 144,
+      "medals": 1
+    },
+    {
+      "experience": 145,
+      "medals": 1
+    },
+    {
+      "experience": 146,
+      "medals": 1
+    },
+    {
+      "experience": 147,
+      "medals": 1
+    },
+    {
+      "experience": 148,
+      "medals": 1
+    },
+    {
+      "experience": 149,
+      "medals": 1
+    },
+    {
+      "experience": 150,
+      "medals": 1
+    },
+    {
+      "experience": 151,
+      "medals": 1
+    },
+    {
+      "experience": 152,
+      "medals": 1
+    },
+    {
+      "experience": 153,
+      "medals": 1
+    },
+    {
+      "experience": 154,
+      "medals": 1
+    },
+    {
+      "experience": 155,
+      "medals": 1
+    },
+    {
+      "experience": 156,
+      "medals": 1
+    },
+    {
+      "experience": 157,
+      "medals": 1
+    },
+    {
+      "experience": 158,
+      "medals": 1
+    },
+    {
+      "experience": 159,
+      "medals": 1
+    },
+    {
+      "experience": 160,
+      "medals": 1
+    },
+    {
+      "experience": 161,
+      "medals": 1
+    },
+    {
+      "experience": 162,
+      "medals": 1
+    },
+    {
+      "experience": 163,
+      "medals": 1
+    },
+    {
+      "experience": 164,
+      "medals": 1
+    },
+    {
+      "experience": 165,
+      "medals": 1
+    },
+    {
+      "experience": 166,
+      "medals": 1
+    },
+    {
+      "experience": 167,
+      "medals": 1
+    },
+    {
+      "experience": 168,
+      "medals": 1
+    },
+    {
+      "experience": 169,
+      "medals": 1
+    },
+    {
+      "experience": 170,
+      "medals": 1
+    },
+    {
+      "experience": 171,
+      "medals": 1
+    },
+    {
+      "experience": 172,
+      "medals": 1
+    },
+    {
+      "experience": 173,
+      "medals": 1
+    },
+    {
+      "experience": 174,
+      "medals": 1
+    },
+    {
+      "experience": 175,
+      "medals": 1
+    },
+    {
+      "experience": 176,
+      "medals": 1
+    },
+    {
+      "experience": 177,
+      "medals": 1
+    },
+    {
+      "experience": 178,
+      "medals": 1
+    },
+    {
+      "experience": 179,
+      "medals": 1
+    },
+    {
+      "experience": 180,
+      "medals": 1
+    },
+    {
+      "experience": 181,
+      "medals": 1
+    },
+    {
+      "experience": 182,
+      "medals": 1
+    },
+    {
+      "experience": 183,
+      "medals": 1
+    },
+    {
+      "experience": 184,
+      "medals": 1
+    },
+    {
+      "experience": 185,
+      "medals": 1
+    },
+    {
+      "experience": 186,
+      "medals": 1
+    },
+    {
+      "experience": 187,
+      "medals": 1
+    },
+    {
+      "experience": 188,
+      "medals": 1
+    },
+    {
+      "experience": 189,
+      "medals": 1
+    },
+    {
+      "experience": 190,
+      "medals": 1
+    },
+    {
+      "experience": 191,
+      "medals": 1
+    },
+    {
+      "experience": 192,
+      "medals": 1
+    },
+    {
+      "experience": 193,
+      "medals": 1
+    },
+    {
+      "experience": 194,
+      "medals": 1
+    },
+    {
+      "experience": 195,
+      "medals": 1
+    },
+    {
+      "experience": 196,
+      "medals": 1
+    },
+    {
+      "experience": 197,
+      "medals": 1
+    },
+    {
+      "experience": 198,
+      "medals": 1
+    },
+    {
+      "experience": 199,
+      "medals": 1
+    },
+    {
+      "experience": 200,
+      "medals": 2
+    },
+    {
+      "experience": 201,
+      "medals": 2
+    },
+    {
+      "experience": 202,
+      "medals": 2
+    },
+    {
+      "experience": 203,
+      "medals": 2
+    },
+    {
+      "experience": 204,
+      "medals": 2
+    },
+    {
+      "experience": 205,
+      "medals": 2
+    },
+    {
+      "experience": 206,
+      "medals": 2
+    },
+    {
+      "experience": 207,
+      "medals": 2
+    },
+    {
+      "experience": 208,
+      "medals": 2
+    },
+    {
+      "experience": 209,
+      "medals": 2
+    },
+    {
+      "experience": 210,
+      "medals": 2
+    },
+    {
+      "experience": 211,
+      "medals": 2
+    },
+    {
+      "experience": 212,
+      "medals": 2
+    },
+    {
+      "experience": 213,
+      "medals": 2
+    },
+    {
+      "experience": 214,
+      "medals": 2
+    },
+    {
+      "experience": 215,
+      "medals": 2
+    },
+    {
+      "experience": 216,
+      "medals": 2
+    },
+    {
+      "experience": 217,
+      "medals": 2
+    },
+    {
+      "experience": 218,
+      "medals": 2
+    },
+    {
+      "experience": 219,
+      "medals": 2
+    },
+    {
+      "experience": 220,
+      "medals": 2
+    },
+    {
+      "experience": 221,
+      "medals": 2
+    },
+    {
+      "experience": 222,
+      "medals": 2
+    },
+    {
+      "experience": 223,
+      "medals": 2
+    },
+    {
+      "experience": 224,
+      "medals": 2
+    },
+    {
+      "experience": 225,
+      "medals": 2
+    },
+    {
+      "experience": 226,
+      "medals": 2
+    },
+    {
+      "experience": 227,
+      "medals": 2
+    },
+    {
+      "experience": 228,
+      "medals": 2
+    },
+    {
+      "experience": 229,
+      "medals": 2
+    },
+    {
+      "experience": 230,
+      "medals": 2
+    },
+    {
+      "experience": 231,
+      "medals": 2
+    },
+    {
+      "experience": 232,
+      "medals": 2
+    },
+    {
+      "experience": 233,
+      "medals": 2
+    },
+    {
+      "experience": 234,
+      "medals": 2
+    },
+    {
+      "experience": 235,
+      "medals": 2
+    },
+    {
+      "experience": 236,
+      "medals": 2
+    },
+    {
+      "experience": 237,
+      "medals": 2
+    },
+    {
+      "experience": 238,
+      "medals": 2
+    },
+    {
+      "experience": 239,
+      "medals": 2
+    },
+    {
+      "experience": 240,
+      "medals": 2
+    },
+    {
+      "experience": 241,
+      "medals": 2
+    },
+    {
+      "experience": 242,
+      "medals": 2
+    },
+    {
+      "experience": 243,
+      "medals": 2
+    },
+    {
+      "experience": 244,
+      "medals": 2
+    },
+    {
+      "experience": 245,
+      "medals": 2
+    },
+    {
+      "experience": 246,
+      "medals": 2
+    },
+    {
+      "experience": 247,
+      "medals": 2
+    },
+    {
+      "experience": 248,
+      "medals": 2
+    },
+    {
+      "experience": 249,
+      "medals": 2
+    },
+    {
+      "experience": 250,
+      "medals": 2
+    },
+    {
+      "experience": 251,
+      "medals": 2
+    },
+    {
+      "experience": 252,
+      "medals": 2
+    },
+    {
+      "experience": 253,
+      "medals": 2
+    },
+    {
+      "experience": 254,
+      "medals": 2
+    },
+    {
+      "experience": 255,
+      "medals": 2
+    },
+    {
+      "experience": 256,
+      "medals": 2
+    },
+    {
+      "experience": 257,
+      "medals": 2
+    },
+    {
+      "experience": 258,
+      "medals": 2
+    },
+    {
+      "experience": 259,
+      "medals": 2
+    },
+    {
+      "experience": 260,
+      "medals": 2
+    },
+    {
+      "experience": 261,
+      "medals": 2
+    },
+    {
+      "experience": 262,
+      "medals": 2
+    },
+    {
+      "experience": 263,
+      "medals": 2
+    },
+    {
+      "experience": 264,
+      "medals": 2
+    },
+    {
+      "experience": 265,
+      "medals": 2
+    },
+    {
+      "experience": 266,
+      "medals": 2
+    },
+    {
+      "experience": 267,
+      "medals": 2
+    },
+    {
+      "experience": 268,
+      "medals": 2
+    },
+    {
+      "experience": 269,
+      "medals": 2
+    },
+    {
+      "experience": 270,
+      "medals": 2
+    },
+    {
+      "experience": 271,
+      "medals": 2
+    },
+    {
+      "experience": 272,
+      "medals": 2
+    },
+    {
+      "experience": 273,
+      "medals": 2
+    },
+    {
+      "experience": 274,
+      "medals": 2
+    },
+    {
+      "experience": 275,
+      "medals": 2
+    },
+    {
+      "experience": 276,
+      "medals": 2
+    },
+    {
+      "experience": 277,
+      "medals": 2
+    },
+    {
+      "experience": 278,
+      "medals": 2
+    },
+    {
+      "experience": 279,
+      "medals": 2
+    },
+    {
+      "experience": 280,
+      "medals": 2
+    },
+    {
+      "experience": 281,
+      "medals": 2
+    },
+    {
+      "experience": 282,
+      "medals": 2
+    },
+    {
+      "experience": 283,
+      "medals": 2
+    },
+    {
+      "experience": 284,
+      "medals": 2
+    },
+    {
+      "experience": 285,
+      "medals": 2
+    },
+    {
+      "experience": 286,
+      "medals": 2
+    },
+    {
+      "experience": 287,
+      "medals": 2
+    },
+    {
+      "experience": 288,
+      "medals": 2
+    },
+    {
+      "experience": 289,
+      "medals": 2
+    },
+    {
+      "experience": 290,
+      "medals": 2
+    },
+    {
+      "experience": 291,
+      "medals": 2
+    },
+    {
+      "experience": 292,
+      "medals": 2
+    },
+    {
+      "experience": 293,
+      "medals": 2
+    },
+    {
+      "experience": 294,
+      "medals": 2
+    },
+    {
+      "experience": 295,
+      "medals": 2
+    },
+    {
+      "experience": 296,
+      "medals": 2
+    },
+    {
+      "experience": 297,
+      "medals": 2
+    },
+    {
+      "experience": 298,
+      "medals": 2
+    },
+    {
+      "experience": 299,
+      "medals": 2
+    },
+    {
+      "experience": 300,
+      "medals": 3
+    },
+    {
+      "experience": 301,
+      "medals": 3
+    },
+    {
+      "experience": 302,
+      "medals": 3
+    },
+    {
+      "experience": 303,
+      "medals": 3
+    },
+    {
+      "experience": 304,
+      "medals": 3
+    },
+    {
+      "experience": 305,
+      "medals": 3
+    },
+    {
+      "experience": 306,
+      "medals": 3
+    },
+    {
+      "experience": 307,
+      "medals": 3
+    },
+    {
+      "experience": 308,
+      "medals": 3
+    },
+    {
+      "experience": 309,
+      "medals": 3
+    },
+    {
+      "experience": 310,
+      "medals": 3
+    },
+    {
+      "experience": 311,
+      "medals": 3
+    },
+    {
+      "experience": 312,
+      "medals": 3
+    },
+    {
+      "experience": 313,
+      "medals": 3
+    },
+    {
+      "experience": 314,
+      "medals": 3
+    },
+    {
+      "experience": 315,
+      "medals": 3
+    },
+    {
+      "experience": 316,
+      "medals": 3
+    },
+    {
+      "experience": 317,
+      "medals": 3
+    },
+    {
+      "experience": 318,
+      "medals": 3
+    },
+    {
+      "experience": 319,
+      "medals": 3
+    },
+    {
+      "experience": 320,
+      "medals": 3
+    },
+    {
+      "experience": 321,
+      "medals": 3
+    },
+    {
+      "experience": 322,
+      "medals": 3
+    },
+    {
+      "experience": 323,
+      "medals": 3
+    },
+    {
+      "experience": 324,
+      "medals": 3
+    },
+    {
+      "experience": 325,
+      "medals": 3
+    },
+    {
+      "experience": 326,
+      "medals": 3
+    },
+    {
+      "experience": 327,
+      "medals": 3
+    },
+    {
+      "experience": 328,
+      "medals": 3
+    },
+    {
+      "experience": 329,
+      "medals": 3
+    },
+    {
+      "experience": 330,
+      "medals": 3
+    },
+    {
+      "experience": 331,
+      "medals": 3
+    },
+    {
+      "experience": 332,
+      "medals": 3
+    },
+    {
+      "experience": 333,
+      "medals": 3
+    },
+    {
+      "experience": 334,
+      "medals": 3
+    },
+    {
+      "experience": 335,
+      "medals": 3
+    },
+    {
+      "experience": 336,
+      "medals": 3
+    },
+    {
+      "experience": 337,
+      "medals": 3
+    },
+    {
+      "experience": 338,
+      "medals": 3
+    },
+    {
+      "experience": 339,
+      "medals": 3
+    },
+    {
+      "experience": 340,
+      "medals": 3
+    },
+    {
+      "experience": 341,
+      "medals": 3
+    },
+    {
+      "experience": 342,
+      "medals": 3
+    },
+    {
+      "experience": 343,
+      "medals": 3
+    },
+    {
+      "experience": 344,
+      "medals": 3
+    },
+    {
+      "experience": 345,
+      "medals": 3
+    },
+    {
+      "experience": 346,
+      "medals": 3
+    },
+    {
+      "experience": 347,
+      "medals": 3
+    },
+    {
+      "experience": 348,
+      "medals": 3
+    },
+    {
+      "experience": 349,
+      "medals": 3
+    },
+    {
+      "experience": 350,
+      "medals": 3
+    },
+    {
+      "experience": 351,
+      "medals": 3
+    },
+    {
+      "experience": 352,
+      "medals": 3
+    },
+    {
+      "experience": 353,
+      "medals": 3
+    },
+    {
+      "experience": 354,
+      "medals": 3
+    },
+    {
+      "experience": 355,
+      "medals": 3
+    },
+    {
+      "experience": 356,
+      "medals": 3
+    },
+    {
+      "experience": 357,
+      "medals": 3
+    },
+    {
+      "experience": 358,
+      "medals": 3
+    },
+    {
+      "experience": 359,
+      "medals": 3
+    },
+    {
+      "experience": 360,
+      "medals": 3
+    },
+    {
+      "experience": 361,
+      "medals": 3
+    },
+    {
+      "experience": 362,
+      "medals": 3
+    },
+    {
+      "experience": 363,
+      "medals": 3
+    },
+    {
+      "experience": 364,
+      "medals": 3
+    },
+    {
+      "experience": 365,
+      "medals": 3
+    },
+    {
+      "experience": 366,
+      "medals": 3
+    },
+    {
+      "experience": 367,
+      "medals": 3
+    },
+    {
+      "experience": 368,
+      "medals": 3
+    },
+    {
+      "experience": 369,
+      "medals": 3
+    },
+    {
+      "experience": 370,
+      "medals": 3
+    },
+    {
+      "experience": 371,
+      "medals": 3
+    },
+    {
+      "experience": 372,
+      "medals": 3
+    },
+    {
+      "experience": 373,
+      "medals": 3
+    },
+    {
+      "experience": 374,
+      "medals": 3
+    },
+    {
+      "experience": 375,
+      "medals": 3
+    },
+    {
+      "experience": 376,
+      "medals": 3
+    },
+    {
+      "experience": 377,
+      "medals": 3
+    },
+    {
+      "experience": 378,
+      "medals": 3
+    },
+    {
+      "experience": 379,
+      "medals": 3
+    },
+    {
+      "experience": 380,
+      "medals": 3
+    },
+    {
+      "experience": 381,
+      "medals": 3
+    },
+    {
+      "experience": 382,
+      "medals": 3
+    },
+    {
+      "experience": 383,
+      "medals": 3
+    },
+    {
+      "experience": 384,
+      "medals": 3
+    },
+    {
+      "experience": 385,
+      "medals": 3
+    },
+    {
+      "experience": 386,
+      "medals": 3
+    },
+    {
+      "experience": 387,
+      "medals": 3
+    },
+    {
+      "experience": 388,
+      "medals": 3
+    },
+    {
+      "experience": 389,
+      "medals": 3
+    },
+    {
+      "experience": 390,
+      "medals": 3
+    },
+    {
+      "experience": 391,
+      "medals": 3
+    },
+    {
+      "experience": 392,
+      "medals": 3
+    },
+    {
+      "experience": 393,
+      "medals": 3
+    },
+    {
+      "experience": 394,
+      "medals": 3
+    },
+    {
+      "experience": 395,
+      "medals": 3
+    },
+    {
+      "experience": 396,
+      "medals": 3
+    },
+    {
+      "experience": 397,
+      "medals": 3
+    },
+    {
+      "experience": 398,
+      "medals": 3
+    },
+    {
+      "experience": 399,
+      "medals": 3
+    },
+    {
+      "experience": 400,
+      "medals": 4
+    }
+  ]
+}

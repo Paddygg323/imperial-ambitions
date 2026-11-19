@@ -1,0 +1,7 @@
+INSTRUMENTATION_RESULT: error=java.lang.AssertionError: JavaScript timed out: document.querySelector('#navigation [data-panel=research]').click()
+	at com.paddy.imperialism.rebuild.tests.LifecycleChecks.js(LifecycleChecks.java:20)
+	at com.paddy.imperialism.rebuild.tests.LifecycleChecks.onStart(LifecycleChecks.java:40)
+	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2597)
+
+INSTRUMENTATION_RESULT: result=FAIL
+INSTRUMENTATION_CODE: 0

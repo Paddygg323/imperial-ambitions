@@ -1,0 +1,20 @@
+DRAFT — PRIVATE REVIEW, NOT PUBLISHED
+Prepared 2026-11-17 for the current offline Android development build.
+Final app name, publisher identity, support address and public policy URL await the publisher.
+
+Privacy policy
+This game runs on your device. It has no account sign-in, advertising SDK, analytics SDK or in-app purchases. The Android package requests no Internet permission. The game does not send gameplay, save files or device identifiers to the developer.
+
+Saved campaigns
+Campaigns and settings are stored locally on your device. Android cloud backup is disabled in this build. Uninstalling the app or clearing its data removes local campaigns. Use Export save to keep a backup before uninstalling or changing devices.
+
+Import and export
+You choose a document through Android's document picker when importing or exporting. The app reads the selected import and writes the selected export. If you choose a cloud document provider, that provider handles the file under its own privacy policy. The app keeps a temporary private copy while an export is pending so Android can restart the app without losing the export; it removes that copy after completion or cancellation.
+
+Control of your data
+You can export a campaign, start a new campaign, or remove all local app data using Android settings. Automatic recovery copies may remain on this device to protect unreadable saves. They are removed with app data. Documents you export are separate files under your control.
+
+Contact
+[PUBLISHER SUPPORT CONTACT REQUIRED BEFORE PUBLICATION]
+
+Review basis: android/src/main/AndroidManifest.xml, MainActivity.java and game/app.mjs at revision242. Re-review if networking, advertising, telemetry, billing or backup behaviour changes.

@@ -1,0 +1,19 @@
+Runtime 253 / public Site version 10
+
+Published: https://imperial-ambitions-playtest-paddy.paddygarrettb.chatgpt.site
+Source commit: 882a7bb4839599f3edea98cdd3774add2dbd0912
+Deployment: appgdep_6afe36a08fd48191b95ecd13b0ad5aee (succeeded)
+
+Tin: filled upper notch; map width and height use 0.85 of the previous deposit footprint.
+Copper and iron: matching recoloured deposit silhouettes. Copper means map copper, not manufactured bronze.
+Coal: darker angular cluster in the same pixel-art family.
+Swamp: brighter grass around the perimeter, softer terrain blend, retained bog centre. Tin development levels retain approved piles, blended over the new swamp.
+
+Five source images created using the built-in image generation tool and copied unchanged into outputs/sprite-library-review/revisions/minerals-swamp-r253. Each PNG has an adjacent .png.prompt.txt containing its exact prompt. Previous artwork remains archived. Composite library previews use the same isolated deposits over terrain; source PNGs are not destructively edited.
+
+Validation: seven focused tests passed; all 49 sprite mappings decoded; home, nation, phone-layout and mineral/swamp comparison rendered without browser errors or fixture-state mutation. Map view test passed against the rebuilt Android assets. Offline browser reload and service-worker install passed. New resource overlays only receive prospected resources. No gameplay/save rules changed.
+
+Android version 253 APK built and signature verified; 383 assets verified by hash. Unsigned AAB validated. Not installed or tested on a physical Pixel this turn.
+
+Preview: outputs/visual-review/sprites253/minerals-swamp.png
+PC game, hotseat mod and saves untouched.

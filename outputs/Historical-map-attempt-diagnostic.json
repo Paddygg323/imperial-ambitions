@@ -1,0 +1,121 @@
+{
+  "scope": "Assembly diagnostic using native-audited historical field loops and pre-picture rivers. Not a full native pipeline parity test or playable-map acceptance.",
+  "cases": [
+    {
+      "seed": 1,
+      "accepted": true,
+      "stage": "accepted",
+      "randomState": 2168613839,
+      "seaCount": 74,
+      "segments": 184,
+      "milliseconds": 27,
+      "tilesHash": "e54edbf30cfeb8364590612e9a634973370e7311a506a245351b87f8c364ae22"
+    },
+    {
+      "seed": 2,
+      "accepted": false,
+      "stage": "ocean-coverage",
+      "randomState": 2181717398,
+      "seaCount": 100,
+      "milliseconds": 14,
+      "tilesHash": "d1b7723f6723c45036cb39b25e0a63880328ec36b48e06caab08da24ae830396"
+    },
+    {
+      "seed": 3,
+      "accepted": true,
+      "stage": "accepted",
+      "randomState": 4126876800,
+      "seaCount": 75,
+      "segments": 185,
+      "milliseconds": 14,
+      "tilesHash": "d1d03e3fea412ccd0d08b74d1d2ba87eb4cbc949aeec97b2fc17a7a71e237317"
+    },
+    {
+      "seed": 4,
+      "accepted": true,
+      "stage": "accepted",
+      "randomState": 803519481,
+      "seaCount": 75,
+      "segments": 185,
+      "milliseconds": 9,
+      "tilesHash": "64bd67e9b189b53df18173652faeae20c74d3341c0178e62b85c967f3c8d352b"
+    },
+    {
+      "seed": 5,
+      "accepted": false,
+      "stage": "ocean-coverage",
+      "randomState": 2562656366,
+      "seaCount": 98,
+      "milliseconds": 7,
+      "tilesHash": "ea805ac87ba7e695341babd3394cf2fff5b171142bbea879d46dbe78b6c38d2c"
+    },
+    {
+      "seed": 6,
+      "accepted": true,
+      "stage": "accepted",
+      "randomState": 94950914,
+      "seaCount": 73,
+      "segments": 186,
+      "milliseconds": 7,
+      "tilesHash": "2d330acd39ff95f08cda1436cb923112e1faa20cc7afa6fd30394c298edc799f"
+    },
+    {
+      "seed": 7,
+      "accepted": false,
+      "stage": "coasts",
+      "randomState": 3644877402,
+      "milliseconds": 0,
+      "tilesHash": null
+    },
+    {
+      "seed": 8,
+      "accepted": true,
+      "stage": "accepted",
+      "randomState": 640614055,
+      "seaCount": 74,
+      "segments": 190,
+      "milliseconds": 56,
+      "tilesHash": "87946e890b249a86b305a13e8008526076cc8f47ce18f4c231ef005a5bfa5f7e"
+    },
+    {
+      "seed": 9,
+      "accepted": true,
+      "stage": "accepted",
+      "randomState": 1919861691,
+      "seaCount": 73,
+      "segments": 186,
+      "milliseconds": 11,
+      "tilesHash": "85073e1f1ab0122bda6e892cefa071059866bd798681a3b86a1bde2f31856b61"
+    },
+    {
+      "seed": 10,
+      "accepted": false,
+      "stage": "capital-sites",
+      "randomState": 1497238460,
+      "seaCount": 73,
+      "segments": 188,
+      "milliseconds": 12,
+      "tilesHash": "ce0f47e9feadd92bf1ed24259a653da0aecfbf6781e19396ad69ba83e9311a08"
+    },
+    {
+      "seed": 11,
+      "accepted": true,
+      "stage": "accepted",
+      "randomState": 695187121,
+      "seaCount": 77,
+      "segments": 180,
+      "milliseconds": 53,
+      "tilesHash": "50f296b18de7c64d9f44ff86f3264621226dee66d3eb2e1109b48ab7f7905b21"
+    },
+    {
+      "seed": 12,
+      "accepted": true,
+      "stage": "accepted",
+      "randomState": 1278197201,
+      "seaCount": 71,
+      "segments": 180,
+      "milliseconds": 6,
+      "tilesHash": "35cd5ab3009a5b6ead486f584b8a286f275f68fc661e8a83120b0432bf27b701"
+    }
+  ]
+}

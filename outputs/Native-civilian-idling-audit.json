@@ -1,0 +1,1334 @@
+{
+  "scope": "Native civilian-idling gate4e6284..4e63b6. Turn and active-country\nqueries are supplied; population scoring, human selection and skip branches run\nunchanged. Includes original preset -> simulation+bc initialization fragment.\n",
+  "weights": [
+    1,
+    4,
+    6,
+    8
+  ],
+  "presets": [
+    true,
+    true,
+    false,
+    false,
+    false
+  ],
+  "cases": [
+    {
+      "enabled": false,
+      "turn": 0,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 0,
+      "ai": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 0,
+      "ai": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 0,
+      "ai": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "humans": [
+        [
+          7,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 0,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 1,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 1,
+      "ai": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 1,
+      "ai": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 1,
+      "ai": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "humans": [
+        [
+          7,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 1,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 3,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 3,
+      "ai": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 3,
+      "ai": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 3,
+      "ai": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "humans": [
+        [
+          7,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 3,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 5,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 5,
+      "ai": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 5,
+      "ai": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 5,
+      "ai": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "humans": [
+        [
+          7,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 5,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 6,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 6,
+      "ai": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 6,
+      "ai": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 6,
+      "ai": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "humans": [
+        [
+          7,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 6,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 10,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 10,
+      "ai": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 10,
+      "ai": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 10,
+      "ai": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "humans": [
+        [
+          7,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 10,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 15,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 15,
+      "ai": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 15,
+      "ai": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 15,
+      "ai": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "humans": [
+        [
+          7,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": false,
+      "turn": 15,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [],
+      "idle": false
+    },
+    {
+      "enabled": true,
+      "turn": 0,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 0,
+      "ai": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 0,
+      "ai": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 0,
+      "ai": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "humans": [
+        [
+          7,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 0,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 1,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": true,
+      "turn": 1,
+      "ai": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": true,
+      "turn": 1,
+      "ai": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": true,
+      "turn": 1,
+      "ai": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "humans": [
+        [
+          7,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": true,
+      "turn": 1,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [],
+      "idle": false
+    },
+    {
+      "enabled": true,
+      "turn": 3,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": true,
+      "turn": 3,
+      "ai": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 3,
+      "ai": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 3,
+      "ai": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "humans": [
+        [
+          7,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 3,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [],
+      "idle": false
+    },
+    {
+      "enabled": true,
+      "turn": 5,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 5,
+      "ai": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 5,
+      "ai": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 5,
+      "ai": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "humans": [
+        [
+          7,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 5,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 6,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": false
+    },
+    {
+      "enabled": true,
+      "turn": 6,
+      "ai": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 6,
+      "ai": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 6,
+      "ai": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "humans": [
+        [
+          7,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 6,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [],
+      "idle": false
+    },
+    {
+      "enabled": true,
+      "turn": 10,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 10,
+      "ai": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 10,
+      "ai": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 10,
+      "ai": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "humans": [
+        [
+          7,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 10,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 15,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 15,
+      "ai": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 15,
+      "ai": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "humans": [
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 15,
+      "ai": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "humans": [
+        [
+          7,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          0,
+          0
+        ]
+      ],
+      "idle": true
+    },
+    {
+      "enabled": true,
+      "turn": 15,
+      "ai": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "humans": [],
+      "idle": true
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "runtime": 252,
+  "spriteCount": 45,
+  "sourceFiles": {
+    "revisions/001-plains-r1/001-default.png": "ea91c85168.png",
+    "revisions/001-plains-r1/001-flower-01.png": "4ad2694735.png",
+    "revisions/001-plains-r1/001-flower-02.png": "00c393a85b.png",
+    "revisions/001-plains-r1/001-flower-03.png": "52272a543b.png",
+    "revisions/001-plains-r1/001-flower-04.png": "be811aaebc.png",
+    "revisions/001-plains-r1/001-flower-05.png": "84c1c3dc21.png",
+    "revisions/001-plains-r1/001-flower-06.png": "90d35b9edb.png",
+    "revisions/001-plains-r1/001-flower-07.png": "cb87f6520a.png",
+    "revisions/001-plains-r1/001-flower-08.png": "82b2b6705e.png",
+    "revisions/001-plains-r1/001-flower-09.png": "65a30ad622.png",
+    "revisions/001-plains-r1/001-flower-10.png": "0e888b9523.png",
+    "originals/01-terrain.png": "c22de5988b.png",
+    "revisions/terrain-r1/003-r1.png": "be36ab3a68.png",
+    "revisions/terrain-r2/004-natural-peaks.png": "759239e87d.png",
+    "revisions/terrain-r2/005-approved.png": "29ad0a4b1f.png",
+    "revisions/terrain-r1/006-r1.png": "517360aefc.png",
+    "originals/02-resource-tiles.png": "c5be6f5221.png",
+    "revisions/015-low-bushes-r4/comparison.png": "c660a1c389.png",
+    "revisions/resource-ground-r1/018.png": "91b5c17379.png",
+    "revisions/019-light-ore-r10/proposal.png": "6a3e7960f9.png",
+    "revisions/010-structure-options/option-1.png": "42b5377de1.png",
+    "revisions/010-grass-r5/levels-1-4.png": "4d894218df.png",
+    "revisions/019-mine-levels-r3/levels-1-4.png": "80d4c3151d.png",
+    "revisions/014-cotton-progression/levels-1-4-proposal.png": "7b3eaf9469.png",
+    "revisions/015-development-r1/levels-1-4.png": "a9c66c0375.png"
+  },
+  "scope": "Terrain and resources only. Units deferred. Source PNGs copied unchanged; canvas clips labels and presentation borders at runtime."
+}

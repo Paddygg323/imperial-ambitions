@@ -1,0 +1,329 @@
+{
+  "scope": "Original RaiseExperience at 4c2b70, complete routine with linked army list.\nNo OS calls or stubs. Confirms surviving-only 35/20 awards and cap400.\n",
+  "cases": [
+    {
+      "won": false,
+      "experience": 0,
+      "hp": 0,
+      "result": 0
+    },
+    {
+      "won": false,
+      "experience": 0,
+      "hp": 1,
+      "result": 20
+    },
+    {
+      "won": false,
+      "experience": 0,
+      "hp": 100,
+      "result": 20
+    },
+    {
+      "won": false,
+      "experience": 65,
+      "hp": 0,
+      "result": 65
+    },
+    {
+      "won": false,
+      "experience": 65,
+      "hp": 1,
+      "result": 85
+    },
+    {
+      "won": false,
+      "experience": 65,
+      "hp": 100,
+      "result": 85
+    },
+    {
+      "won": false,
+      "experience": 80,
+      "hp": 0,
+      "result": 80
+    },
+    {
+      "won": false,
+      "experience": 80,
+      "hp": 1,
+      "result": 100
+    },
+    {
+      "won": false,
+      "experience": 80,
+      "hp": 100,
+      "result": 100
+    },
+    {
+      "won": false,
+      "experience": 99,
+      "hp": 0,
+      "result": 99
+    },
+    {
+      "won": false,
+      "experience": 99,
+      "hp": 1,
+      "result": 119
+    },
+    {
+      "won": false,
+      "experience": 99,
+      "hp": 100,
+      "result": 119
+    },
+    {
+      "won": false,
+      "experience": 100,
+      "hp": 0,
+      "result": 100
+    },
+    {
+      "won": false,
+      "experience": 100,
+      "hp": 1,
+      "result": 120
+    },
+    {
+      "won": false,
+      "experience": 100,
+      "hp": 100,
+      "result": 120
+    },
+    {
+      "won": false,
+      "experience": 365,
+      "hp": 0,
+      "result": 365
+    },
+    {
+      "won": false,
+      "experience": 365,
+      "hp": 1,
+      "result": 385
+    },
+    {
+      "won": false,
+      "experience": 365,
+      "hp": 100,
+      "result": 385
+    },
+    {
+      "won": false,
+      "experience": 380,
+      "hp": 0,
+      "result": 380
+    },
+    {
+      "won": false,
+      "experience": 380,
+      "hp": 1,
+      "result": 400
+    },
+    {
+      "won": false,
+      "experience": 380,
+      "hp": 100,
+      "result": 400
+    },
+    {
+      "won": false,
+      "experience": 399,
+      "hp": 0,
+      "result": 399
+    },
+    {
+      "won": false,
+      "experience": 399,
+      "hp": 1,
+      "result": 400
+    },
+    {
+      "won": false,
+      "experience": 399,
+      "hp": 100,
+      "result": 400
+    },
+    {
+      "won": false,
+      "experience": 400,
+      "hp": 0,
+      "result": 400
+    },
+    {
+      "won": false,
+      "experience": 400,
+      "hp": 1,
+      "result": 400
+    },
+    {
+      "won": false,
+      "experience": 400,
+      "hp": 100,
+      "result": 400
+    },
+    {
+      "won": true,
+      "experience": 0,
+      "hp": 0,
+      "result": 0
+    },
+    {
+      "won": true,
+      "experience": 0,
+      "hp": 1,
+      "result": 35
+    },
+    {
+      "won": true,
+      "experience": 0,
+      "hp": 100,
+      "result": 35
+    },
+    {
+      "won": true,
+      "experience": 65,
+      "hp": 0,
+      "result": 65
+    },
+    {
+      "won": true,
+      "experience": 65,
+      "hp": 1,
+      "result": 100
+    },
+    {
+      "won": true,
+      "experience": 65,
+      "hp": 100,
+      "result": 100
+    },
+    {
+      "won": true,
+      "experience": 80,
+      "hp": 0,
+      "result": 80
+    },
+    {
+      "won": true,
+      "experience": 80,
+      "hp": 1,
+      "result": 115
+    },
+    {
+      "won": true,
+      "experience": 80,
+      "hp": 100,
+      "result": 115
+    },
+    {
+      "won": true,
+      "experience": 99,
+      "hp": 0,
+      "result": 99
+    },
+    {
+      "won": true,
+      "experience": 99,
+      "hp": 1,
+      "result": 134
+    },
+    {
+      "won": true,
+      "experience": 99,
+      "hp": 100,
+      "result": 134
+    },
+    {
+      "won": true,
+      "experience": 100,
+      "hp": 0,
+      "result": 100
+    },
+    {
+      "won": true,
+      "experience": 100,
+      "hp": 1,
+      "result": 135
+    },
+    {
+      "won": true,
+      "experience": 100,
+      "hp": 100,
+      "result": 135
+    },
+    {
+      "won": true,
+      "experience": 365,
+      "hp": 0,
+      "result": 365
+    },
+    {
+      "won": true,
+      "experience": 365,
+      "hp": 1,
+      "result": 400
+    },
+    {
+      "won": true,
+      "experience": 365,
+      "hp": 100,
+      "result": 400
+    },
+    {
+      "won": true,
+      "experience": 380,
+      "hp": 0,
+      "result": 380
+    },
+    {
+      "won": true,
+      "experience": 380,
+      "hp": 1,
+      "result": 400
+    },
+    {
+      "won": true,
+      "experience": 380,
+      "hp": 100,
+      "result": 400
+    },
+    {
+      "won": true,
+      "experience": 399,
+      "hp": 0,
+      "result": 399
+    },
+    {
+      "won": true,
+      "experience": 399,
+      "hp": 1,
+      "result": 400
+    },
+    {
+      "won": true,
+      "experience": 399,
+      "hp": 100,
+      "result": 400
+    },
+    {
+      "won": true,
+      "experience": 400,
+      "hp": 0,
+      "result": 400
+    },
+    {
+      "won": true,
+      "experience": 400,
+      "hp": 1,
+      "result": 400
+    },
+    {
+      "won": true,
+      "experience": 400,
+      "hp": 100,
+      "result": 400
+    }
+  ]
+}

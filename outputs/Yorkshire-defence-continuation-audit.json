@@ -1,0 +1,275 @@
+{
+  "turn": 141,
+  "year": 1741,
+  "province": {
+    "id": "e1-7",
+    "name": "Yorkshire",
+    "owner": "england",
+    "town": "77,19",
+    "capital": false,
+    "historicalCapital": false,
+    "old": true,
+    "fort": 1,
+    "nativeId": 22,
+    "startingCapital": false,
+    "nameVerified": true
+  },
+  "cash": -2657,
+  "army": [
+    {
+      "id": "a22",
+      "owner": "england",
+      "type": "lancer",
+      "province": "e1-7",
+      "hp": 34,
+      "experience": 70,
+      "defending": false,
+      "order": null,
+      "medals": 0
+    },
+    {
+      "id": "a23",
+      "owner": "england",
+      "type": "regular",
+      "province": "e1-7",
+      "hp": 6,
+      "experience": 35,
+      "defending": false,
+      "order": null,
+      "medals": 0
+    },
+    {
+      "id": "a884",
+      "owner": "england",
+      "type": "regular",
+      "province": "e1-7",
+      "hp": 38,
+      "experience": 70,
+      "order": null,
+      "defending": false,
+      "medals": 0
+    },
+    {
+      "id": "a892",
+      "owner": "england",
+      "type": "culverin",
+      "province": "e1-7",
+      "hp": 48,
+      "experience": 70,
+      "order": null,
+      "defending": false,
+      "medals": 0
+    },
+    {
+      "id": "a1034",
+      "owner": "england",
+      "type": "regular",
+      "province": "e1-7",
+      "hp": 49,
+      "experience": 35,
+      "order": null,
+      "defending": false,
+      "medals": 0
+    },
+    {
+      "id": "a1035",
+      "owner": "england",
+      "type": "regular",
+      "province": "e1-7",
+      "hp": 49,
+      "experience": 35,
+      "order": null,
+      "defending": false,
+      "medals": 0
+    }
+  ],
+  "result": {
+    "province": "e1-7",
+    "winner": "england",
+    "fortBefore": 1,
+    "fortAfter": 1,
+    "fortReduced": false,
+    "armies": {
+      "sweden": {
+        "survivors": [
+          {
+            "id": "a36",
+            "type": "musketeer",
+            "hp": 100,
+            "medals": 2,
+            "experience": 240,
+            "disposition": "field"
+          },
+          {
+            "id": "a750",
+            "type": "caliverman",
+            "hp": 95,
+            "medals": 2,
+            "experience": 225,
+            "disposition": "field"
+          },
+          {
+            "id": "a774",
+            "type": "halberdier",
+            "hp": 34,
+            "medals": 2,
+            "experience": 295,
+            "disposition": "escaped"
+          },
+          {
+            "id": "a775",
+            "type": "musketeer",
+            "hp": 100,
+            "medals": 2,
+            "experience": 295,
+            "disposition": "field"
+          },
+          {
+            "id": "a964",
+            "type": "royalArtillery",
+            "hp": 66,
+            "medals": 2,
+            "experience": 220,
+            "disposition": "field"
+          },
+          {
+            "id": "a979",
+            "type": "royalArtillery",
+            "hp": 8,
+            "medals": 2,
+            "experience": 200,
+            "disposition": "escaped"
+          }
+        ],
+        "losses": []
+      },
+      "england": {
+        "survivors": [
+          {
+            "id": "a22",
+            "type": "lancer",
+            "hp": 34,
+            "medals": 0,
+            "experience": 70,
+            "disposition": "escaped"
+          },
+          {
+            "id": "a23",
+            "type": "regular",
+            "hp": 6,
+            "medals": 0,
+            "experience": 35,
+            "disposition": "escaped"
+          },
+          {
+            "id": "a884",
+            "type": "regular",
+            "hp": 38,
+            "medals": 0,
+            "experience": 70,
+            "disposition": "escaped"
+          },
+          {
+            "id": "a892",
+            "type": "culverin",
+            "hp": 48,
+            "medals": 0,
+            "experience": 70,
+            "disposition": "escaped"
+          },
+          {
+            "id": "a1034",
+            "type": "regular",
+            "hp": 49,
+            "medals": 0,
+            "experience": 35,
+            "disposition": "escaped"
+          },
+          {
+            "id": "a1035",
+            "type": "regular",
+            "hp": 49,
+            "medals": 0,
+            "experience": 35,
+            "disposition": "escaped"
+          }
+        ],
+        "losses": [
+          {
+            "id": "a21",
+            "type": "arquebusier",
+            "disposition": "destroyed"
+          }
+        ]
+      }
+    }
+  },
+  "retreats": [
+    {
+      "id": "a36",
+      "province": "e1-6",
+      "destroyed": false
+    },
+    {
+      "id": "a750",
+      "province": "e1-6",
+      "destroyed": false
+    },
+    {
+      "id": "a774",
+      "province": "e1-6",
+      "destroyed": false
+    },
+    {
+      "id": "a775",
+      "province": "e1-6",
+      "destroyed": false
+    },
+    {
+      "id": "a964",
+      "province": "e1-6",
+      "destroyed": false
+    },
+    {
+      "id": "a979",
+      "province": "e1-6",
+      "destroyed": false
+    }
+  ],
+  "unpaid": [
+    {
+      "kind": "research",
+      "tech": "75",
+      "funded": 0,
+      "plannedFunding": 400,
+      "investment": 3200,
+      "completed": false,
+      "text": "Scientific Cattle Breeding: $0 funded of $400 planned",
+      "nation": "england"
+    },
+    {
+      "kind": "research",
+      "tech": "76",
+      "funded": 0,
+      "plannedFunding": 400,
+      "investment": 2000,
+      "completed": false,
+      "text": "Scientific Sheep Breeding: $0 funded of $400 planned",
+      "nation": "england"
+    },
+    {
+      "kind": "research",
+      "tech": "43",
+      "funded": 0,
+      "plannedFunding": 300,
+      "investment": 1800,
+      "completed": false,
+      "text": "Sugar Industry: $0 funded of $300 planned",
+      "nation": "england"
+    }
+  ],
+  "limits": [
+    "Both tactical sides use rebuild policy; not manual tactical skill or Pixel evidence",
+    "Defensive victory does not constitute campaign victory or economic recovery"
+  ]
+}

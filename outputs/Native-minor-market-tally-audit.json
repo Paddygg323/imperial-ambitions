@@ -1,0 +1,4325 @@
+{
+  "scope": "Original647ab0 TallyMinorsTradeBids including native647da0 Power.\nActive-nation and order getters supplied; all tally/year-weight arithmetic native.\n",
+  "cases": [
+    {
+      "turn": 0,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 0
+    },
+    {
+      "turn": 0,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 0,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 0,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 0,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.0,
+      "quantity": 0
+    },
+    {
+      "turn": 0,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 2,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.4,
+      "quantity": 8
+    },
+    {
+      "turn": 0,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 1000,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 13.334019532552391,
+      "quantity": 38
+    },
+    {
+      "turn": 0,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.0,
+      "quantity": 0
+    },
+    {
+      "turn": 0,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.3000000000000003,
+      "quantity": 6
+    },
+    {
+      "turn": 0,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 26.86290729765717,
+      "quantity": 1064
+    },
+    {
+      "turn": 0,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 0,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 0,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 0,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 0,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 0,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 2,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 0,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 1000,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 0,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.0,
+      "quantity": 0
+    },
+    {
+      "turn": 0,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.5,
+      "quantity": 11
+    },
+    {
+      "turn": 0,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 7.715610000000002,
+      "quantity": 21
+    },
+    {
+      "turn": 5,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 0
+    },
+    {
+      "turn": 5,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 5,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 5,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 0,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.0,
+      "quantity": 0
+    },
+    {
+      "turn": 5,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 2,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.4,
+      "quantity": 8
+    },
+    {
+      "turn": 5,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 1000,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 13.334019532552391,
+      "quantity": 38
+    },
+    {
+      "turn": 5,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.0,
+      "quantity": 0
+    },
+    {
+      "turn": 5,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.3000000000000003,
+      "quantity": 6
+    },
+    {
+      "turn": 5,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 26.86290729765717,
+      "quantity": 1064
+    },
+    {
+      "turn": 5,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 5,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 5,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 5,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 0,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 5,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 2,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 5,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 1000,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 5,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.0,
+      "quantity": 0
+    },
+    {
+      "turn": 5,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.5,
+      "quantity": 11
+    },
+    {
+      "turn": 5,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 7.715610000000002,
+      "quantity": 21
+    },
+    {
+      "turn": 6,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 0
+    },
+    {
+      "turn": 6,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 6,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 6,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 0,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.0,
+      "quantity": 0
+    },
+    {
+      "turn": 6,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 2,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.36,
+      "quantity": 8
+    },
+    {
+      "turn": 6,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 1000,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 11.470942593001858,
+      "quantity": 38
+    },
+    {
+      "turn": 6,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.0,
+      "quantity": 0
+    },
+    {
+      "turn": 6,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.2700000000000005,
+      "quantity": 6
+    },
+    {
+      "turn": 6,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 21.7736234165555,
+      "quantity": 1064
+    },
+    {
+      "turn": 6,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 6,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 6,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 6,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 0,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 6,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 2,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 6,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 1000,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 6,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.0,
+      "quantity": 0
+    },
+    {
+      "turn": 6,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.449999999999999,
+      "quantity": 11
+    },
+    {
+      "turn": 6,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 7.523334564900002,
+      "quantity": 21
+    },
+    {
+      "turn": 10,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 0
+    },
+    {
+      "turn": 10,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 10,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 10,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 0,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.0,
+      "quantity": 0
+    },
+    {
+      "turn": 10,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 2,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.36,
+      "quantity": 8
+    },
+    {
+      "turn": 10,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 1000,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 11.470942593001858,
+      "quantity": 38
+    },
+    {
+      "turn": 10,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.0,
+      "quantity": 0
+    },
+    {
+      "turn": 10,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.2700000000000005,
+      "quantity": 6
+    },
+    {
+      "turn": 10,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 21.7736234165555,
+      "quantity": 1064
+    },
+    {
+      "turn": 10,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 10,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 10,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 10,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 0,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 10,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 2,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 10,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 1000,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 10,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.0,
+      "quantity": 0
+    },
+    {
+      "turn": 10,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.449999999999999,
+      "quantity": 11
+    },
+    {
+      "turn": 10,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 7.523334564900002,
+      "quantity": 21
+    },
+    {
+      "turn": 11,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 0
+    },
+    {
+      "turn": 11,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 11,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 11,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 0,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.0,
+      "quantity": 0
+    },
+    {
+      "turn": 11,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 2,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.32,
+      "quantity": 8
+    },
+    {
+      "turn": 11,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 1000,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 9.924999914372222,
+      "quantity": 38
+    },
+    {
+      "turn": 11,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.0,
+      "quantity": 0
+    },
+    {
+      "turn": 11,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.24,
+      "quantity": 6
+    },
+    {
+      "turn": 11,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 17.6143909367781,
+      "quantity": 1064
+    },
+    {
+      "turn": 11,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 11,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 11,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 11,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 0,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 11,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 2,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 11,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 1000,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 11,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.0,
+      "quantity": 0
+    },
+    {
+      "turn": 11,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.4,
+      "quantity": 11
+    },
+    {
+      "turn": 11,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 7.335929036800001,
+      "quantity": 21
+    },
+    {
+      "turn": 15,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 0
+    },
+    {
+      "turn": 15,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 15,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 15,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 0,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.0,
+      "quantity": 0
+    },
+    {
+      "turn": 15,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 2,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.32,
+      "quantity": 8
+    },
+    {
+      "turn": 15,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 1000,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 9.924999914372222,
+      "quantity": 38
+    },
+    {
+      "turn": 15,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.0,
+      "quantity": 0
+    },
+    {
+      "turn": 15,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.24,
+      "quantity": 6
+    },
+    {
+      "turn": 15,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 17.6143909367781,
+      "quantity": 1064
+    },
+    {
+      "turn": 15,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 15,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 15,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 15,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 0,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 15,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 2,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 15,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 1000,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 15,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.0,
+      "quantity": 0
+    },
+    {
+      "turn": 15,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.4,
+      "quantity": 11
+    },
+    {
+      "turn": 15,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 7.335929036800001,
+      "quantity": 21
+    },
+    {
+      "turn": 16,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 0
+    },
+    {
+      "turn": 16,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 16,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 16,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 0,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.0,
+      "quantity": 0
+    },
+    {
+      "turn": 16,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 2,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.28,
+      "quantity": 8
+    },
+    {
+      "turn": 16,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 1000,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 8.641354339455894,
+      "quantity": 38
+    },
+    {
+      "turn": 16,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.0,
+      "quantity": 0
+    },
+    {
+      "turn": 16,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.21,
+      "quantity": 6
+    },
+    {
+      "turn": 16,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 14.221589588932387,
+      "quantity": 1064
+    },
+    {
+      "turn": 16,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 16,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 16,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 16,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 0,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 16,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 2,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 16,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 1000,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 16,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.0,
+      "quantity": 0
+    },
+    {
+      "turn": 16,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.350000000000001,
+      "quantity": 11
+    },
+    {
+      "turn": 16,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 7.153290740700002,
+      "quantity": 21
+    },
+    {
+      "turn": 20,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 0
+    },
+    {
+      "turn": 20,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 20,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 20,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 0,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.0,
+      "quantity": 0
+    },
+    {
+      "turn": 20,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 2,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.28,
+      "quantity": 8
+    },
+    {
+      "turn": 20,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 1000,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 8.641354339455894,
+      "quantity": 38
+    },
+    {
+      "turn": 20,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.0,
+      "quantity": 0
+    },
+    {
+      "turn": 20,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.21,
+      "quantity": 6
+    },
+    {
+      "turn": 20,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 14.221589588932387,
+      "quantity": 1064
+    },
+    {
+      "turn": 20,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 20,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 20,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 20,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 0,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 20,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 2,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 20,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 1000,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 20,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.0,
+      "quantity": 0
+    },
+    {
+      "turn": 20,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.350000000000001,
+      "quantity": 11
+    },
+    {
+      "turn": 20,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 7.153290740700002,
+      "quantity": 21
+    },
+    {
+      "turn": 21,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 0
+    },
+    {
+      "turn": 21,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 21,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 21,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 0,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.0,
+      "quantity": 0
+    },
+    {
+      "turn": 21,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 2,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.24,
+      "quantity": 8
+    },
+    {
+      "turn": 21,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 1000,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 7.5743959205644185,
+      "quantity": 38
+    },
+    {
+      "turn": 21,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.0,
+      "quantity": 0
+    },
+    {
+      "turn": 21,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.18,
+      "quantity": 6
+    },
+    {
+      "turn": 21,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 11.459248984719174,
+      "quantity": 1064
+    },
+    {
+      "turn": 21,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 21,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 21,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 21,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 0,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 21,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 2,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 21,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 1000,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 21,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.0,
+      "quantity": 0
+    },
+    {
+      "turn": 21,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.300000000000001,
+      "quantity": 11
+    },
+    {
+      "turn": 21,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.975318537600001,
+      "quantity": 21
+    },
+    {
+      "turn": 25,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 0
+    },
+    {
+      "turn": 25,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 25,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 25,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 0,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.0,
+      "quantity": 0
+    },
+    {
+      "turn": 25,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 2,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.24,
+      "quantity": 8
+    },
+    {
+      "turn": 25,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 1000,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 7.5743959205644185,
+      "quantity": 38
+    },
+    {
+      "turn": 25,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.0,
+      "quantity": 0
+    },
+    {
+      "turn": 25,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.18,
+      "quantity": 6
+    },
+    {
+      "turn": 25,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 11.459248984719174,
+      "quantity": 1064
+    },
+    {
+      "turn": 25,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 25,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 25,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 25,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 0,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 25,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 2,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 25,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 1000,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 25,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.0,
+      "quantity": 0
+    },
+    {
+      "turn": 25,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.300000000000001,
+      "quantity": 11
+    },
+    {
+      "turn": 25,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.975318537600001,
+      "quantity": 21
+    },
+    {
+      "turn": 26,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 0
+    },
+    {
+      "turn": 26,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 26,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 26,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 0,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.0,
+      "quantity": 0
+    },
+    {
+      "turn": 26,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 2,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.2,
+      "quantity": 8
+    },
+    {
+      "turn": 26,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 1000,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 6.686249178574062,
+      "quantity": 38
+    },
+    {
+      "turn": 26,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.0,
+      "quantity": 0
+    },
+    {
+      "turn": 26,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.1500000000000004,
+      "quantity": 6
+    },
+    {
+      "turn": 26,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 9.214571267753437,
+      "quantity": 1064
+    },
+    {
+      "turn": 26,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 26,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 26,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 26,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 0,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 26,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 2,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 26,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 1000,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 26,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.0,
+      "quantity": 0
+    },
+    {
+      "turn": 26,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.249999999999999,
+      "quantity": 11
+    },
+    {
+      "turn": 26,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.8019128125,
+      "quantity": 21
+    },
+    {
+      "turn": 30,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 0
+    },
+    {
+      "turn": 30,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 30,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 30,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 0,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.0,
+      "quantity": 0
+    },
+    {
+      "turn": 30,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 2,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.2,
+      "quantity": 8
+    },
+    {
+      "turn": 30,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 1000,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 6.686249178574062,
+      "quantity": 38
+    },
+    {
+      "turn": 30,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.0,
+      "quantity": 0
+    },
+    {
+      "turn": 30,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.1500000000000004,
+      "quantity": 6
+    },
+    {
+      "turn": 30,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 9.214571267753437,
+      "quantity": 1064
+    },
+    {
+      "turn": 30,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 30,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 30,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 30,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 0,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 30,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 2,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 30,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 1000,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 30,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.0,
+      "quantity": 0
+    },
+    {
+      "turn": 30,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.249999999999999,
+      "quantity": 11
+    },
+    {
+      "turn": 30,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.8019128125,
+      "quantity": 21
+    },
+    {
+      "turn": 31,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 0
+    },
+    {
+      "turn": 31,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 31,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 31,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 0,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.0,
+      "quantity": 0
+    },
+    {
+      "turn": 31,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 2,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.16,
+      "quantity": 8
+    },
+    {
+      "turn": 31,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 1000,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 5.945511322400987,
+      "quantity": 38
+    },
+    {
+      "turn": 31,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.0,
+      "quantity": 0
+    },
+    {
+      "turn": 31,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.12,
+      "quantity": 6
+    },
+    {
+      "turn": 31,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 7.394146629495438,
+      "quantity": 1064
+    },
+    {
+      "turn": 31,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 31,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 31,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 31,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 0,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 31,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 2,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 31,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 1000,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 31,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.0,
+      "quantity": 0
+    },
+    {
+      "turn": 31,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.2,
+      "quantity": 11
+    },
+    {
+      "turn": 31,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.6329754624,
+      "quantity": 21
+    },
+    {
+      "turn": 100,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 0
+    },
+    {
+      "turn": 100,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 100,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 100,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 0,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.0,
+      "quantity": 0
+    },
+    {
+      "turn": 100,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 2,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.04,
+      "quantity": 8
+    },
+    {
+      "turn": 100,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 1000,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.369599370455441,
+      "quantity": 38
+    },
+    {
+      "turn": 100,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.0,
+      "quantity": 0
+    },
+    {
+      "turn": 100,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.0300000000000002,
+      "quantity": 6
+    },
+    {
+      "turn": 100,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.7714890550452913,
+      "quantity": 1064
+    },
+    {
+      "turn": 100,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 100,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 100,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 100,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 0,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 100,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 2,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 100,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 1000,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 100,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.0,
+      "quantity": 0
+    },
+    {
+      "turn": 100,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.049999999999999,
+      "quantity": 11
+    },
+    {
+      "turn": 100,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.1520150601,
+      "quantity": 21
+    },
+    {
+      "turn": 101,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 0
+    },
+    {
+      "turn": 101,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 101,
+      "orders": [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 1,
+      "offers": 1,
+      "adjustedOffers": 1.0,
+      "quantity": 1
+    },
+    {
+      "turn": 101,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 0,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.0,
+      "quantity": 0
+    },
+    {
+      "turn": 101,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 2,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.04,
+      "quantity": 8
+    },
+    {
+      "turn": 101,
+      "orders": [
+        -1,
+        -1,
+        2,
+        4,
+        8,
+        24
+      ],
+      "limit": 1000,
+      "requests": 2,
+      "offers": 4,
+      "adjustedOffers": 4.369599370455441,
+      "quantity": 38
+    },
+    {
+      "turn": 101,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.0,
+      "quantity": 0
+    },
+    {
+      "turn": 101,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.0300000000000002,
+      "quantity": 6
+    },
+    {
+      "turn": 101,
+      "orders": [
+        25,
+        40,
+        999,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 3,
+      "adjustedOffers": 3.7714890550452913,
+      "quantity": 1064
+    },
+    {
+      "turn": 101,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 101,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 101,
+      "orders": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 101,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 0,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 101,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 2,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 101,
+      "orders": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "limit": 1000,
+      "requests": 6,
+      "offers": 0,
+      "adjustedOffers": 0.0,
+      "quantity": 0
+    },
+    {
+      "turn": 101,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 0,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.0,
+      "quantity": 0
+    },
+    {
+      "turn": 101,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 2,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.049999999999999,
+      "quantity": 11
+    },
+    {
+      "turn": 101,
+      "orders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "limit": 1000,
+      "requests": 0,
+      "offers": 6,
+      "adjustedOffers": 6.1520150601,
+      "quantity": 21
+    }
+  ]
+}

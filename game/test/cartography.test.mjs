@@ -1,0 +1,2 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {labelPlacer} from '../cartography.mjs';
+test('map labels respect viewport, controls and previously placed labels',()=>{const labels=labelPlacer(400,600);labels.reserve({x:200,y:0,w:200,h:55});assert.equal(labels.place(300,25,50,15),false);assert.equal(labels.place(100,100,70,20),true);assert.equal(labels.place(130,110,70,20),false);assert.equal(labels.place(200,110,70,20),true);assert.equal(labels.place(2,200,50,20),false);});

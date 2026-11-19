@@ -1,0 +1,2092 @@
+{
+  "scope": "Native minor bid selection511b7e..511c79, after eligibility gates.",
+  "cases": [
+    {
+      "cash": 0,
+      "prices": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 0,
+      "selected": [
+        0
+      ],
+      "budgets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 0,
+      "prices": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 1,
+      "selected": [
+        1
+      ],
+      "budgets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 0,
+      "prices": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 8,
+      "selected": [
+        8
+      ],
+      "budgets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 0,
+      "prices": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 32767,
+      "selected": [
+        7
+      ],
+      "budgets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 0,
+      "prices": [
+        100,
+        150,
+        299,
+        300,
+        301,
+        250,
+        125,
+        200,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 0,
+      "selected": [
+        0,
+        1,
+        6
+      ],
+      "budgets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 0,
+      "prices": [
+        100,
+        150,
+        299,
+        300,
+        301,
+        250,
+        125,
+        200,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 1,
+      "selected": [
+        0,
+        2,
+        6
+      ],
+      "budgets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 0,
+      "prices": [
+        100,
+        150,
+        299,
+        300,
+        301,
+        250,
+        125,
+        200,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 8,
+      "selected": [
+        0,
+        3,
+        6
+      ],
+      "budgets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 0,
+      "prices": [
+        100,
+        150,
+        299,
+        300,
+        301,
+        250,
+        125,
+        200,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 32767,
+      "selected": [
+        0,
+        2,
+        6
+      ],
+      "budgets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 0,
+      "prices": [
+        100,
+        200,
+        250,
+        300,
+        350,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 0,
+      "selected": [
+        0,
+        2
+      ],
+      "budgets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 0,
+      "prices": [
+        100,
+        200,
+        250,
+        300,
+        350,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 1,
+      "selected": [
+        0,
+        3
+      ],
+      "budgets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 0,
+      "prices": [
+        100,
+        200,
+        250,
+        300,
+        350,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 8,
+      "selected": [
+        0,
+        2
+      ],
+      "budgets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 0,
+      "prices": [
+        100,
+        200,
+        250,
+        300,
+        350,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 32767,
+      "selected": [
+        0,
+        3
+      ],
+      "budgets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 1200,
+      "prices": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 0,
+      "selected": [
+        0
+      ],
+      "budgets": [
+        1200,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 1200,
+      "prices": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 1,
+      "selected": [
+        1
+      ],
+      "budgets": [
+        0,
+        1200,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 1200,
+      "prices": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 8,
+      "selected": [
+        8
+      ],
+      "budgets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1200
+      ]
+    },
+    {
+      "cash": 1200,
+      "prices": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 32767,
+      "selected": [
+        7
+      ],
+      "budgets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1200,
+        0
+      ]
+    },
+    {
+      "cash": 1200,
+      "prices": [
+        100,
+        150,
+        299,
+        300,
+        301,
+        250,
+        125,
+        200,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 0,
+      "selected": [
+        0,
+        1,
+        6
+      ],
+      "budgets": [
+        400,
+        400,
+        0,
+        0,
+        0,
+        0,
+        400,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 1200,
+      "prices": [
+        100,
+        150,
+        299,
+        300,
+        301,
+        250,
+        125,
+        200,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 1,
+      "selected": [
+        0,
+        2,
+        6
+      ],
+      "budgets": [
+        400,
+        0,
+        400,
+        0,
+        0,
+        0,
+        400,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 1200,
+      "prices": [
+        100,
+        150,
+        299,
+        300,
+        301,
+        250,
+        125,
+        200,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 8,
+      "selected": [
+        0,
+        3,
+        6
+      ],
+      "budgets": [
+        400,
+        0,
+        0,
+        400,
+        0,
+        0,
+        400,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 1200,
+      "prices": [
+        100,
+        150,
+        299,
+        300,
+        301,
+        250,
+        125,
+        200,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 32767,
+      "selected": [
+        0,
+        2,
+        6
+      ],
+      "budgets": [
+        400,
+        0,
+        400,
+        0,
+        0,
+        0,
+        400,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 1200,
+      "prices": [
+        100,
+        200,
+        250,
+        300,
+        350,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 0,
+      "selected": [
+        0,
+        2
+      ],
+      "budgets": [
+        600,
+        0,
+        600,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 1200,
+      "prices": [
+        100,
+        200,
+        250,
+        300,
+        350,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 1,
+      "selected": [
+        0,
+        3
+      ],
+      "budgets": [
+        600,
+        0,
+        0,
+        600,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 1200,
+      "prices": [
+        100,
+        200,
+        250,
+        300,
+        350,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 8,
+      "selected": [
+        0,
+        2
+      ],
+      "budgets": [
+        600,
+        0,
+        600,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 1200,
+      "prices": [
+        100,
+        200,
+        250,
+        300,
+        350,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 32767,
+      "selected": [
+        0,
+        3
+      ],
+      "budgets": [
+        600,
+        0,
+        0,
+        600,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 10001,
+      "prices": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 0,
+      "selected": [
+        0
+      ],
+      "budgets": [
+        10001,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 10001,
+      "prices": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 1,
+      "selected": [
+        1
+      ],
+      "budgets": [
+        0,
+        10001,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 10001,
+      "prices": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 8,
+      "selected": [
+        8
+      ],
+      "budgets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        10001
+      ]
+    },
+    {
+      "cash": 10001,
+      "prices": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 32767,
+      "selected": [
+        7
+      ],
+      "budgets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        10001,
+        0
+      ]
+    },
+    {
+      "cash": 10001,
+      "prices": [
+        100,
+        150,
+        299,
+        300,
+        301,
+        250,
+        125,
+        200,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 0,
+      "selected": [
+        0,
+        1,
+        6
+      ],
+      "budgets": [
+        3333,
+        3333,
+        0,
+        0,
+        0,
+        0,
+        3333,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 10001,
+      "prices": [
+        100,
+        150,
+        299,
+        300,
+        301,
+        250,
+        125,
+        200,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 1,
+      "selected": [
+        0,
+        2,
+        6
+      ],
+      "budgets": [
+        3333,
+        0,
+        3333,
+        0,
+        0,
+        0,
+        3333,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 10001,
+      "prices": [
+        100,
+        150,
+        299,
+        300,
+        301,
+        250,
+        125,
+        200,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 8,
+      "selected": [
+        0,
+        3,
+        6
+      ],
+      "budgets": [
+        3333,
+        0,
+        0,
+        3333,
+        0,
+        0,
+        3333,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 10001,
+      "prices": [
+        100,
+        150,
+        299,
+        300,
+        301,
+        250,
+        125,
+        200,
+        250
+      ],
+      "enabled": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 32767,
+      "selected": [
+        0,
+        2,
+        6
+      ],
+      "budgets": [
+        3333,
+        0,
+        3333,
+        0,
+        0,
+        0,
+        3333,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 10001,
+      "prices": [
+        100,
+        200,
+        250,
+        300,
+        350,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 0,
+      "selected": [
+        0,
+        2
+      ],
+      "budgets": [
+        5000,
+        0,
+        5000,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 10001,
+      "prices": [
+        100,
+        200,
+        250,
+        300,
+        350,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 1,
+      "selected": [
+        0,
+        3
+      ],
+      "budgets": [
+        5000,
+        0,
+        0,
+        5000,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 10001,
+      "prices": [
+        100,
+        200,
+        250,
+        300,
+        350,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 8,
+      "selected": [
+        0,
+        2
+      ],
+      "budgets": [
+        5000,
+        0,
+        5000,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "cash": 10001,
+      "prices": [
+        100,
+        200,
+        250,
+        300,
+        350,
+        250,
+        250,
+        250,
+        250
+      ],
+      "enabled": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "low": 150,
+      "high": 300,
+      "random": 32767,
+      "selected": [
+        0,
+        3
+      ],
+      "budgets": [
+        5000,
+        0,
+        0,
+        5000,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "purchases": [
+    {
+      "budget": 0,
+      "quantity": 1,
+      "price": 250,
+      "result": null
+    },
+    {
+      "budget": 0,
+      "quantity": 3,
+      "price": 250,
+      "result": null
+    },
+    {
+      "budget": 0,
+      "quantity": 8,
+      "price": 250,
+      "result": null
+    },
+    {
+      "budget": 1,
+      "quantity": 1,
+      "price": 250,
+      "result": {
+        "quantity": 0,
+        "stop": true
+      }
+    },
+    {
+      "budget": 1,
+      "quantity": 3,
+      "price": 250,
+      "result": {
+        "quantity": 0,
+        "stop": true
+      }
+    },
+    {
+      "budget": 1,
+      "quantity": 8,
+      "price": 250,
+      "result": {
+        "quantity": 0,
+        "stop": true
+      }
+    },
+    {
+      "budget": 249,
+      "quantity": 1,
+      "price": 250,
+      "result": {
+        "quantity": 0,
+        "stop": true
+      }
+    },
+    {
+      "budget": 249,
+      "quantity": 3,
+      "price": 250,
+      "result": {
+        "quantity": 0,
+        "stop": true
+      }
+    },
+    {
+      "budget": 249,
+      "quantity": 8,
+      "price": 250,
+      "result": {
+        "quantity": 0,
+        "stop": true
+      }
+    },
+    {
+      "budget": 250,
+      "quantity": 1,
+      "price": 250,
+      "result": {
+        "quantity": 1,
+        "stop": false
+      }
+    },
+    {
+      "budget": 250,
+      "quantity": 3,
+      "price": 250,
+      "result": {
+        "quantity": 1,
+        "stop": true
+      }
+    },
+    {
+      "budget": 250,
+      "quantity": 8,
+      "price": 250,
+      "result": {
+        "quantity": 1,
+        "stop": true
+      }
+    },
+    {
+      "budget": 500,
+      "quantity": 1,
+      "price": 250,
+      "result": {
+        "quantity": 1,
+        "stop": false
+      }
+    },
+    {
+      "budget": 500,
+      "quantity": 3,
+      "price": 250,
+      "result": {
+        "quantity": 2,
+        "stop": true
+      }
+    },
+    {
+      "budget": 500,
+      "quantity": 8,
+      "price": 250,
+      "result": {
+        "quantity": 2,
+        "stop": true
+      }
+    },
+    {
+      "budget": 999,
+      "quantity": 1,
+      "price": 250,
+      "result": {
+        "quantity": 1,
+        "stop": false
+      }
+    },
+    {
+      "budget": 999,
+      "quantity": 3,
+      "price": 250,
+      "result": {
+        "quantity": 3,
+        "stop": false
+      }
+    },
+    {
+      "budget": 999,
+      "quantity": 8,
+      "price": 250,
+      "result": {
+        "quantity": 3,
+        "stop": true
+      }
+    },
+    {
+      "budget": 1000,
+      "quantity": 1,
+      "price": 250,
+      "result": {
+        "quantity": 1,
+        "stop": false
+      }
+    },
+    {
+      "budget": 1000,
+      "quantity": 3,
+      "price": 250,
+      "result": {
+        "quantity": 3,
+        "stop": false
+      }
+    },
+    {
+      "budget": 1000,
+      "quantity": 8,
+      "price": 250,
+      "result": {
+        "quantity": 4,
+        "stop": true
+      }
+    }
+  ],
+  "thresholds": [
+    {
+      "random": 0,
+      "low": 170,
+      "high": 350
+    },
+    {
+      "random": 1,
+      "low": 171,
+      "high": 351
+    },
+    {
+      "random": 2,
+      "low": 172,
+      "high": 352
+    },
+    {
+      "random": 3,
+      "low": 173,
+      "high": 353
+    },
+    {
+      "random": 4,
+      "low": 174,
+      "high": 354
+    },
+    {
+      "random": 5,
+      "low": 175,
+      "high": 355
+    },
+    {
+      "random": 6,
+      "low": 176,
+      "high": 356
+    },
+    {
+      "random": 7,
+      "low": 177,
+      "high": 357
+    },
+    {
+      "random": 8,
+      "low": 178,
+      "high": 358
+    },
+    {
+      "random": 9,
+      "low": 179,
+      "high": 359
+    },
+    {
+      "random": 10,
+      "low": 180,
+      "high": 360
+    },
+    {
+      "random": 11,
+      "low": 181,
+      "high": 361
+    },
+    {
+      "random": 12,
+      "low": 182,
+      "high": 362
+    },
+    {
+      "random": 13,
+      "low": 183,
+      "high": 363
+    },
+    {
+      "random": 14,
+      "low": 184,
+      "high": 364
+    },
+    {
+      "random": 15,
+      "low": 185,
+      "high": 365
+    },
+    {
+      "random": 16,
+      "low": 186,
+      "high": 366
+    },
+    {
+      "random": 17,
+      "low": 187,
+      "high": 367
+    },
+    {
+      "random": 18,
+      "low": 188,
+      "high": 368
+    },
+    {
+      "random": 19,
+      "low": 189,
+      "high": 369
+    },
+    {
+      "random": 20,
+      "low": 190,
+      "high": 370
+    },
+    {
+      "random": 21,
+      "low": 191,
+      "high": 371
+    },
+    {
+      "random": 22,
+      "low": 192,
+      "high": 372
+    },
+    {
+      "random": 23,
+      "low": 193,
+      "high": 373
+    },
+    {
+      "random": 24,
+      "low": 194,
+      "high": 374
+    },
+    {
+      "random": 25,
+      "low": 195,
+      "high": 375
+    },
+    {
+      "random": 26,
+      "low": 196,
+      "high": 376
+    },
+    {
+      "random": 27,
+      "low": 197,
+      "high": 377
+    },
+    {
+      "random": 28,
+      "low": 198,
+      "high": 378
+    },
+    {
+      "random": 29,
+      "low": 199,
+      "high": 379
+    },
+    {
+      "random": 30,
+      "low": 200,
+      "high": 380
+    },
+    {
+      "random": 31,
+      "low": 201,
+      "high": 381
+    },
+    {
+      "random": 32,
+      "low": 202,
+      "high": 382
+    },
+    {
+      "random": 33,
+      "low": 203,
+      "high": 383
+    },
+    {
+      "random": 34,
+      "low": 204,
+      "high": 384
+    },
+    {
+      "random": 35,
+      "low": 205,
+      "high": 385
+    },
+    {
+      "random": 36,
+      "low": 206,
+      "high": 386
+    },
+    {
+      "random": 37,
+      "low": 207,
+      "high": 387
+    },
+    {
+      "random": 38,
+      "low": 208,
+      "high": 388
+    },
+    {
+      "random": 39,
+      "low": 209,
+      "high": 389
+    },
+    {
+      "random": 40,
+      "low": 210,
+      "high": 390
+    },
+    {
+      "random": 41,
+      "low": 211,
+      "high": 391
+    },
+    {
+      "random": 42,
+      "low": 212,
+      "high": 392
+    },
+    {
+      "random": 43,
+      "low": 213,
+      "high": 393
+    },
+    {
+      "random": 44,
+      "low": 214,
+      "high": 394
+    },
+    {
+      "random": 45,
+      "low": 215,
+      "high": 395
+    },
+    {
+      "random": 46,
+      "low": 216,
+      "high": 396
+    },
+    {
+      "random": 47,
+      "low": 217,
+      "high": 397
+    },
+    {
+      "random": 48,
+      "low": 218,
+      "high": 398
+    },
+    {
+      "random": 49,
+      "low": 219,
+      "high": 399
+    },
+    {
+      "random": 50,
+      "low": 220,
+      "high": 400
+    },
+    {
+      "random": 51,
+      "low": 221,
+      "high": 401
+    },
+    {
+      "random": 52,
+      "low": 222,
+      "high": 402
+    },
+    {
+      "random": 53,
+      "low": 223,
+      "high": 403
+    },
+    {
+      "random": 54,
+      "low": 224,
+      "high": 404
+    },
+    {
+      "random": 55,
+      "low": 225,
+      "high": 405
+    },
+    {
+      "random": 56,
+      "low": 226,
+      "high": 406
+    },
+    {
+      "random": 57,
+      "low": 227,
+      "high": 407
+    },
+    {
+      "random": 58,
+      "low": 228,
+      "high": 408
+    },
+    {
+      "random": 59,
+      "low": 229,
+      "high": 409
+    },
+    {
+      "random": 60,
+      "low": 230,
+      "high": 410
+    },
+    {
+      "random": 61,
+      "low": 231,
+      "high": 411
+    },
+    {
+      "random": 62,
+      "low": 232,
+      "high": 412
+    },
+    {
+      "random": 63,
+      "low": 233,
+      "high": 413
+    },
+    {
+      "random": 64,
+      "low": 234,
+      "high": 414
+    },
+    {
+      "random": 65,
+      "low": 235,
+      "high": 415
+    },
+    {
+      "random": 66,
+      "low": 236,
+      "high": 416
+    },
+    {
+      "random": 67,
+      "low": 237,
+      "high": 417
+    },
+    {
+      "random": 68,
+      "low": 238,
+      "high": 418
+    },
+    {
+      "random": 69,
+      "low": 239,
+      "high": 419
+    },
+    {
+      "random": 32767,
+      "low": 177,
+      "high": 357
+    }
+  ]
+}

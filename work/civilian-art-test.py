@@ -1,0 +1,7 @@
+from pathlib import Path
+p=Path('game/test/civilian-art-browser.mjs');base=Path('game/test/visual-review.mjs').read_text();s=base[:base.index('for(const width')]+'''
+await page.evaluate(async()=>{const {drawCivilianWork}=await import('./map-markers.mjs');const art=new Image();art.src='./assets/atlas.png';await art.decode();const canvas=document.createElement('canvas');canvas.width=390;canvas.height=200;canvas.style='position:fixed;inset:0;background:#b0b080;z-index:9999;width:390px;height:200px';document.body.append(canvas);window.workArt=canvas;window.paintWork=phase=>{const c=canvas.getContext('2d');c.fillStyle='#a9ad80';c.fillRect(0,0,390,200);for(const [i,type] of ['builder','engineer','explorer'].entries()){const x=65+i*130,y=125;c.drawImage(art,i*256,115,256,355,x-20,y-58,40,58);drawCivilianWork(c,type,x,y-8,phase,54);c.fillStyle='#293d32';c.font='15px Georgia';c.textAlign='center';c.fillText(type,x,165);}};paintWork(0);});
+const first=await page.evaluate(()=>workArt.toDataURL());await page.evaluate(()=>paintWork(1));assert.notEqual(await page.evaluate(()=>workArt.toDataURL()),first);
+await page.locator('canvas').last().screenshot({path:'outputs/visual-review/civilian-distinct-work.png'});assert.deepEqual(errors,[]);console.log('PASS: distinct hammer, drafting paper and telescope artwork renders and changes pose without simulation state.');
+}finally{await browser.close();}
+''';p.write_text(s)

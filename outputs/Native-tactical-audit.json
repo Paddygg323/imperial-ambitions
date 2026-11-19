@@ -1,0 +1,260 @@
+{
+  "sourceSHA256": "63346490c488d2a4ef528e3c0884d823e60ac59f602fa82657b39aa040253279",
+  "damageFunction": "0x6212b0",
+  "armorFunction": "0x621060",
+  "armorConstant": 0.01,
+  "damageCases": [
+    {
+      "hp": 100,
+      "effective": 100,
+      "physicalLoss": 10,
+      "effectiveLoss": 20,
+      "result": {
+        "hp": 90,
+        "effective": 80,
+        "state": 0
+      }
+    },
+    {
+      "hp": 100,
+      "effective": 100,
+      "physicalLoss": 0,
+      "effectiveLoss": 100,
+      "result": {
+        "hp": 100,
+        "effective": 0,
+        "state": 1
+      }
+    },
+    {
+      "hp": 100,
+      "effective": 100,
+      "physicalLoss": 100,
+      "effectiveLoss": 100,
+      "result": {
+        "hp": 0,
+        "effective": 0,
+        "state": 3
+      }
+    },
+    {
+      "hp": 40,
+      "effective": 10,
+      "physicalLoss": 5,
+      "effectiveLoss": 15,
+      "result": {
+        "hp": 35,
+        "effective": 0,
+        "state": 1
+      }
+    },
+    {
+      "hp": 20,
+      "effective": 15,
+      "physicalLoss": 30,
+      "effectiveLoss": 30,
+      "result": {
+        "hp": 0,
+        "effective": 0,
+        "state": 3
+      }
+    },
+    {
+      "hp": 100,
+      "effective": 60,
+      "physicalLoss": 10,
+      "effectiveLoss": 10,
+      "result": {
+        "hp": 90,
+        "effective": 50,
+        "state": 0
+      }
+    },
+    {
+      "hp": 100,
+      "effective": 100,
+      "physicalLoss": 0,
+      "effectiveLoss": 0,
+      "result": {
+        "hp": 100,
+        "effective": 100,
+        "state": 0
+      }
+    },
+    {
+      "hp": 30,
+      "effective": 30,
+      "physicalLoss": 15,
+      "effectiveLoss": 30,
+      "result": {
+        "hp": 15,
+        "effective": 0,
+        "state": 1
+      }
+    },
+    {
+      "hp": 100,
+      "effective": 100,
+      "physicalLoss": 1,
+      "effectiveLoss": 1,
+      "result": {
+        "hp": 99,
+        "effective": 99,
+        "state": 0
+      }
+    }
+  ],
+  "armorCases": [
+    {
+      "unit": "levy",
+      "defence": 3,
+      "multiplier": 0.6000000238418579
+    },
+    {
+      "unit": "caliverman",
+      "defence": 5,
+      "multiplier": 0.4000000059604645
+    },
+    {
+      "unit": "skirmisher",
+      "defence": 6,
+      "multiplier": 0.30000001192092896
+    },
+    {
+      "unit": "sharpshooter",
+      "defence": 7,
+      "multiplier": 0.20000000298023224
+    },
+    {
+      "unit": "pikeman",
+      "defence": 5,
+      "multiplier": 0.4000000059604645
+    },
+    {
+      "unit": "halberdier",
+      "defence": 6,
+      "multiplier": 0.30000001192092896
+    },
+    {
+      "unit": "regular",
+      "defence": 5,
+      "multiplier": 0.4000000059604645
+    },
+    {
+      "unit": "rifleInfantry",
+      "defence": 6,
+      "multiplier": 0.30000001192092896
+    },
+    {
+      "unit": "arquebusier",
+      "defence": 3,
+      "multiplier": 0.6000000238418579
+    },
+    {
+      "unit": "musketeer",
+      "defence": 4,
+      "multiplier": 0.5
+    },
+    {
+      "unit": "grenadier",
+      "defence": 5,
+      "multiplier": 0.4000000059604645
+    },
+    {
+      "unit": "guard",
+      "defence": 6,
+      "multiplier": 0.30000001192092896
+    },
+    {
+      "unit": "bowman",
+      "defence": 2,
+      "multiplier": 0.699999988079071
+    },
+    {
+      "unit": "general",
+      "defence": 3,
+      "multiplier": 0.6000000238418579
+    },
+    {
+      "unit": "squire",
+      "defence": 4,
+      "multiplier": 0.5
+    },
+    {
+      "unit": "cossack",
+      "defence": 5,
+      "multiplier": 0.4000000059604645
+    },
+    {
+      "unit": "hussar",
+      "defence": 6,
+      "multiplier": 0.30000001192092896
+    },
+    {
+      "unit": "scout",
+      "defence": 6,
+      "multiplier": 0.30000001192092896
+    },
+    {
+      "unit": "knight",
+      "defence": 6,
+      "multiplier": 0.30000001192092896
+    },
+    {
+      "unit": "lancer",
+      "defence": 5,
+      "multiplier": 0.4000000059604645
+    },
+    {
+      "unit": "harquebusier",
+      "defence": 5,
+      "multiplier": 0.4000000059604645
+    },
+    {
+      "unit": "cuirassier",
+      "defence": 5,
+      "multiplier": 0.4000000059604645
+    },
+    {
+      "unit": "carbineCavalry",
+      "defence": 5,
+      "multiplier": 0.4000000059604645
+    },
+    {
+      "unit": "horseArtillery",
+      "defence": 2,
+      "multiplier": 0.699999988079071
+    },
+    {
+      "unit": "lightArtillery",
+      "defence": 3,
+      "multiplier": 0.6000000238418579
+    },
+    {
+      "unit": "fieldArtillery",
+      "defence": 4,
+      "multiplier": 0.5
+    },
+    {
+      "unit": "culverin",
+      "defence": 2,
+      "multiplier": 0.699999988079071
+    },
+    {
+      "unit": "royalArtillery",
+      "defence": 2,
+      "multiplier": 0.699999988079071
+    },
+    {
+      "unit": "heavyArtillery",
+      "defence": 2,
+      "multiplier": 0.699999988079071
+    },
+    {
+      "unit": "siegeGun",
+      "defence": 3,
+      "multiplier": 0.6000000238418579
+    }
+  ],
+  "limits": "These routines apply already-calculated damage and retrieve armor vulnerability. Attack damage, morale-loss calculation, terrain, walls, experience, opportunity fire and battle AI are not proved by this audit."
+}

@@ -1,0 +1,35 @@
+{
+  "turns": [
+    149,
+    150,
+    151,
+    152
+  ],
+  "workersBefore": 10,
+  "workersAfter": 11,
+  "labourAfter": 17,
+  "grainBefore": 11,
+  "grainAfter": 12,
+  "developmentTile": "81,23",
+  "developmentCost": {
+    "lumber": 8,
+    "castIron": 8
+  },
+  "cash": -2498,
+  "researchShortfall": {
+    "kind": "research",
+    "tech": "65",
+    "funded": 0,
+    "plannedFunding": 400,
+    "investment": 1200,
+    "completed": false,
+    "text": "Early Steam Engine: $0 funded of $400 planned",
+    "nation": "england"
+  },
+  "limits": [
+    "Turn149->150 battle used tactical policy on both sides through legal commands; not manual touch evidence",
+    "Recruitment was supported by existing food; new grain supports further growth not yet enacted",
+    "Reduced funding still unaffordable; not a successful financial recovery",
+    "Full campaign and physical Pixel validation remain incomplete"
+  ]
+}

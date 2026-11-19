@@ -1,0 +1,622 @@
+{
+  "scope": "Original635a10 initialization,635da0 packed effect installation and636300 category8/item8 and category3/item-1 queries; no stubs.",
+  "cases": [
+    {
+      "known": [],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "7"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 1
+    },
+    {
+      "known": [
+        "27"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "37"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "47"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "48"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "50"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "53"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "57"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "59"
+      ],
+      "militaryLevel": 33,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "68"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 2
+    },
+    {
+      "known": [
+        "74"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "82"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "83"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "84"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "85"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "88"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "90"
+      ],
+      "militaryLevel": 34,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "100"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "103"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "104"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "106"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "107"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "108"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "109"
+      ],
+      "militaryLevel": 35,
+      "fortificationLevel": 0
+    },
+    {
+      "known": [
+        "7"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 1
+    },
+    {
+      "known": [
+        "7",
+        "27"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 1
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 1
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 1
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 1
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 1
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 1
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53",
+        "57"
+      ],
+      "militaryLevel": 0,
+      "fortificationLevel": 1
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53",
+        "57",
+        "59"
+      ],
+      "militaryLevel": 33,
+      "fortificationLevel": 1
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53",
+        "57",
+        "59",
+        "68"
+      ],
+      "militaryLevel": 33,
+      "fortificationLevel": 2
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53",
+        "57",
+        "59",
+        "68",
+        "74"
+      ],
+      "militaryLevel": 33,
+      "fortificationLevel": 2
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53",
+        "57",
+        "59",
+        "68",
+        "74",
+        "82"
+      ],
+      "militaryLevel": 33,
+      "fortificationLevel": 2
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53",
+        "57",
+        "59",
+        "68",
+        "74",
+        "82",
+        "83"
+      ],
+      "militaryLevel": 33,
+      "fortificationLevel": 2
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53",
+        "57",
+        "59",
+        "68",
+        "74",
+        "82",
+        "83",
+        "84"
+      ],
+      "militaryLevel": 33,
+      "fortificationLevel": 2
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53",
+        "57",
+        "59",
+        "68",
+        "74",
+        "82",
+        "83",
+        "84",
+        "85"
+      ],
+      "militaryLevel": 33,
+      "fortificationLevel": 2
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53",
+        "57",
+        "59",
+        "68",
+        "74",
+        "82",
+        "83",
+        "84",
+        "85",
+        "88"
+      ],
+      "militaryLevel": 33,
+      "fortificationLevel": 2
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53",
+        "57",
+        "59",
+        "68",
+        "74",
+        "82",
+        "83",
+        "84",
+        "85",
+        "88",
+        "90"
+      ],
+      "militaryLevel": 34,
+      "fortificationLevel": 2
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53",
+        "57",
+        "59",
+        "68",
+        "74",
+        "82",
+        "83",
+        "84",
+        "85",
+        "88",
+        "90",
+        "100"
+      ],
+      "militaryLevel": 34,
+      "fortificationLevel": 2
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53",
+        "57",
+        "59",
+        "68",
+        "74",
+        "82",
+        "83",
+        "84",
+        "85",
+        "88",
+        "90",
+        "100",
+        "103"
+      ],
+      "militaryLevel": 34,
+      "fortificationLevel": 2
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53",
+        "57",
+        "59",
+        "68",
+        "74",
+        "82",
+        "83",
+        "84",
+        "85",
+        "88",
+        "90",
+        "100",
+        "103",
+        "104"
+      ],
+      "militaryLevel": 34,
+      "fortificationLevel": 2
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53",
+        "57",
+        "59",
+        "68",
+        "74",
+        "82",
+        "83",
+        "84",
+        "85",
+        "88",
+        "90",
+        "100",
+        "103",
+        "104",
+        "106"
+      ],
+      "militaryLevel": 34,
+      "fortificationLevel": 2
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53",
+        "57",
+        "59",
+        "68",
+        "74",
+        "82",
+        "83",
+        "84",
+        "85",
+        "88",
+        "90",
+        "100",
+        "103",
+        "104",
+        "106",
+        "107"
+      ],
+      "militaryLevel": 34,
+      "fortificationLevel": 2
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53",
+        "57",
+        "59",
+        "68",
+        "74",
+        "82",
+        "83",
+        "84",
+        "85",
+        "88",
+        "90",
+        "100",
+        "103",
+        "104",
+        "106",
+        "107",
+        "108"
+      ],
+      "militaryLevel": 34,
+      "fortificationLevel": 2
+    },
+    {
+      "known": [
+        "7",
+        "27",
+        "37",
+        "47",
+        "48",
+        "50",
+        "53",
+        "57",
+        "59",
+        "68",
+        "74",
+        "82",
+        "83",
+        "84",
+        "85",
+        "88",
+        "90",
+        "100",
+        "103",
+        "104",
+        "106",
+        "107",
+        "108",
+        "109"
+      ],
+      "militaryLevel": 35,
+      "fortificationLevel": 2
+    }
+  ]
+}

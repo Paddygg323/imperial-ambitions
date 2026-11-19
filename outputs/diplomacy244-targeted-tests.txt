@@ -1,0 +1,20 @@
+✔ native-backed grant amounts and pact gains, with clamping (2286.945ms)
+✔ cancel, replace, reload and repeat grants do not duplicate cash or relations (92.1892ms)
+✔ eligibility, insufficient funds, war refund and pending pact rescind (180.1835ms)
+✔ recurring grants stop without overdrawing and old saves stay unchanged (55.6891ms)
+✔ pending office refund and full diplomatic phase settle aid exactly once (1106.189ms)
+✔ new save fields reject malformed policies and rankings never display raw scores (50.4722ms)
+✔ historical land attack requires war, stages selected regiments and preserves ownership (184.5167ms)
+✔ land orders reject overseas shortcuts and duplicate or foreign selections atomically (163.4359ms)
+✔ tribal investment protection and changed relations are rechecked at resolution (114.4608ms)
+✔ touch attack choices use the same war, adjacency and existing-order validation (85.5748ms)
+✔ independent New World province can be attacked without declaring war (137.0784ms)
+✔ a non-aggression pact blocks direct tribal attacks until a declaration settles (105.1499ms)
+ℹ tests 12
+ℹ suites 0
+ℹ pass 12
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 4144.8446

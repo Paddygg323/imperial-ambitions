@@ -1,0 +1,21 @@
+{
+  "initialTurn": 146,
+  "finalTurn": 147,
+  "ship": {
+    "id": "s26",
+    "owner": "england",
+    "type": "carrack",
+    "cargo": 3,
+    "location": "home",
+    "hp": 25,
+    "order": null,
+    "sleep": false
+  },
+  "previousFreeCargo": 9,
+  "freeCargo": 12,
+  "cash": -1168,
+  "limits": [
+    "Corrected test-driver route selection; no game rule change",
+    "No complete campaign or physical Pixel test"
+  ]
+}

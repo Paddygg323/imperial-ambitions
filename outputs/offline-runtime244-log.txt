@@ -1,0 +1,1 @@
+Installed service worker, confirmed new runtime dependencies in precache, reloaded offline and opened save menu at 412x915 without page errors. Desktop Chromium, not Pixel.

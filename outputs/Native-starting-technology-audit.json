@@ -1,0 +1,761 @@
+{
+  "scope": "Native starting technology grant selection; completion callback intercepted.",
+  "routine": "0x63bdff..0x63bf7a",
+  "settings": "simulation+0x88 and +0x8a; AI uses4-setting",
+  "cases": [
+    {
+      "agriculture": 0,
+      "technology": 0,
+      "human": false,
+      "packedIds": [],
+      "known": []
+    },
+    {
+      "agriculture": 0,
+      "technology": 0,
+      "human": true,
+      "packedIds": [
+        136193,
+        136705,
+        201729,
+        202241,
+        259,
+        269,
+        270,
+        459271,
+        1639944
+      ],
+      "known": [
+        "8",
+        "11",
+        "26",
+        "38",
+        "7",
+        "12",
+        "22",
+        "10",
+        "27"
+      ]
+    },
+    {
+      "agriculture": 0,
+      "technology": 1,
+      "human": false,
+      "packedIds": [],
+      "known": []
+    },
+    {
+      "agriculture": 0,
+      "technology": 1,
+      "human": true,
+      "packedIds": [
+        136193,
+        136705,
+        201729,
+        202241,
+        259,
+        269,
+        270
+      ],
+      "known": [
+        "8",
+        "11",
+        "26",
+        "38",
+        "7",
+        "12",
+        "22"
+      ]
+    },
+    {
+      "agriculture": 0,
+      "technology": 2,
+      "human": false,
+      "packedIds": [],
+      "known": []
+    },
+    {
+      "agriculture": 0,
+      "technology": 2,
+      "human": true,
+      "packedIds": [
+        136193,
+        136705,
+        201729,
+        202241
+      ],
+      "known": [
+        "8",
+        "11",
+        "26",
+        "38"
+      ]
+    },
+    {
+      "agriculture": 0,
+      "technology": 3,
+      "human": false,
+      "packedIds": [
+        259,
+        269,
+        270
+      ],
+      "known": [
+        "7",
+        "12",
+        "22"
+      ]
+    },
+    {
+      "agriculture": 0,
+      "technology": 3,
+      "human": true,
+      "packedIds": [
+        136193,
+        136705,
+        201729,
+        202241
+      ],
+      "known": [
+        "8",
+        "11",
+        "26",
+        "38"
+      ]
+    },
+    {
+      "agriculture": 0,
+      "technology": 4,
+      "human": false,
+      "packedIds": [
+        259,
+        269,
+        270,
+        136193,
+        459271,
+        1639944
+      ],
+      "known": [
+        "7",
+        "12",
+        "22",
+        "8",
+        "10",
+        "27"
+      ]
+    },
+    {
+      "agriculture": 0,
+      "technology": 4,
+      "human": true,
+      "packedIds": [
+        136193,
+        136705,
+        201729,
+        202241
+      ],
+      "known": [
+        "8",
+        "11",
+        "26",
+        "38"
+      ]
+    },
+    {
+      "agriculture": 1,
+      "technology": 0,
+      "human": false,
+      "packedIds": [],
+      "known": []
+    },
+    {
+      "agriculture": 1,
+      "technology": 0,
+      "human": true,
+      "packedIds": [
+        136193,
+        136705,
+        259,
+        269,
+        270,
+        459271,
+        1639944
+      ],
+      "known": [
+        "8",
+        "11",
+        "7",
+        "12",
+        "22",
+        "10",
+        "27"
+      ]
+    },
+    {
+      "agriculture": 1,
+      "technology": 1,
+      "human": false,
+      "packedIds": [],
+      "known": []
+    },
+    {
+      "agriculture": 1,
+      "technology": 1,
+      "human": true,
+      "packedIds": [
+        136193,
+        136705,
+        259,
+        269,
+        270
+      ],
+      "known": [
+        "8",
+        "11",
+        "7",
+        "12",
+        "22"
+      ]
+    },
+    {
+      "agriculture": 1,
+      "technology": 2,
+      "human": false,
+      "packedIds": [],
+      "known": []
+    },
+    {
+      "agriculture": 1,
+      "technology": 2,
+      "human": true,
+      "packedIds": [
+        136193,
+        136705
+      ],
+      "known": [
+        "8",
+        "11"
+      ]
+    },
+    {
+      "agriculture": 1,
+      "technology": 3,
+      "human": false,
+      "packedIds": [
+        259,
+        269,
+        270
+      ],
+      "known": [
+        "7",
+        "12",
+        "22"
+      ]
+    },
+    {
+      "agriculture": 1,
+      "technology": 3,
+      "human": true,
+      "packedIds": [
+        136193,
+        136705
+      ],
+      "known": [
+        "8",
+        "11"
+      ]
+    },
+    {
+      "agriculture": 1,
+      "technology": 4,
+      "human": false,
+      "packedIds": [
+        259,
+        269,
+        270,
+        136193,
+        459271,
+        1639944
+      ],
+      "known": [
+        "7",
+        "12",
+        "22",
+        "8",
+        "10",
+        "27"
+      ]
+    },
+    {
+      "agriculture": 1,
+      "technology": 4,
+      "human": true,
+      "packedIds": [
+        136193,
+        136705
+      ],
+      "known": [
+        "8",
+        "11"
+      ]
+    },
+    {
+      "agriculture": 2,
+      "technology": 0,
+      "human": false,
+      "packedIds": [
+        136193,
+        136705
+      ],
+      "known": [
+        "8",
+        "11"
+      ]
+    },
+    {
+      "agriculture": 2,
+      "technology": 0,
+      "human": true,
+      "packedIds": [
+        136193,
+        136705,
+        259,
+        269,
+        270,
+        459271,
+        1639944
+      ],
+      "known": [
+        "8",
+        "11",
+        "7",
+        "12",
+        "22",
+        "10",
+        "27"
+      ]
+    },
+    {
+      "agriculture": 2,
+      "technology": 1,
+      "human": false,
+      "packedIds": [
+        136193,
+        136705
+      ],
+      "known": [
+        "8",
+        "11"
+      ]
+    },
+    {
+      "agriculture": 2,
+      "technology": 1,
+      "human": true,
+      "packedIds": [
+        136193,
+        136705,
+        259,
+        269,
+        270
+      ],
+      "known": [
+        "8",
+        "11",
+        "7",
+        "12",
+        "22"
+      ]
+    },
+    {
+      "agriculture": 2,
+      "technology": 2,
+      "human": false,
+      "packedIds": [
+        136193,
+        136705
+      ],
+      "known": [
+        "8",
+        "11"
+      ]
+    },
+    {
+      "agriculture": 2,
+      "technology": 2,
+      "human": true,
+      "packedIds": [
+        136193,
+        136705
+      ],
+      "known": [
+        "8",
+        "11"
+      ]
+    },
+    {
+      "agriculture": 2,
+      "technology": 3,
+      "human": false,
+      "packedIds": [
+        136193,
+        136705,
+        259,
+        269,
+        270
+      ],
+      "known": [
+        "8",
+        "11",
+        "7",
+        "12",
+        "22"
+      ]
+    },
+    {
+      "agriculture": 2,
+      "technology": 3,
+      "human": true,
+      "packedIds": [
+        136193,
+        136705
+      ],
+      "known": [
+        "8",
+        "11"
+      ]
+    },
+    {
+      "agriculture": 2,
+      "technology": 4,
+      "human": false,
+      "packedIds": [
+        136193,
+        136705,
+        259,
+        269,
+        270,
+        459271,
+        1639944
+      ],
+      "known": [
+        "8",
+        "11",
+        "7",
+        "12",
+        "22",
+        "10",
+        "27"
+      ]
+    },
+    {
+      "agriculture": 2,
+      "technology": 4,
+      "human": true,
+      "packedIds": [
+        136193,
+        136705
+      ],
+      "known": [
+        "8",
+        "11"
+      ]
+    },
+    {
+      "agriculture": 3,
+      "technology": 0,
+      "human": false,
+      "packedIds": [
+        136193,
+        136705
+      ],
+      "known": [
+        "8",
+        "11"
+      ]
+    },
+    {
+      "agriculture": 3,
+      "technology": 0,
+      "human": true,
+      "packedIds": [
+        259,
+        269,
+        270,
+        136193,
+        459271,
+        1639944
+      ],
+      "known": [
+        "7",
+        "12",
+        "22",
+        "8",
+        "10",
+        "27"
+      ]
+    },
+    {
+      "agriculture": 3,
+      "technology": 1,
+      "human": false,
+      "packedIds": [
+        136193,
+        136705
+      ],
+      "known": [
+        "8",
+        "11"
+      ]
+    },
+    {
+      "agriculture": 3,
+      "technology": 1,
+      "human": true,
+      "packedIds": [
+        259,
+        269,
+        270
+      ],
+      "known": [
+        "7",
+        "12",
+        "22"
+      ]
+    },
+    {
+      "agriculture": 3,
+      "technology": 2,
+      "human": false,
+      "packedIds": [
+        136193,
+        136705
+      ],
+      "known": [
+        "8",
+        "11"
+      ]
+    },
+    {
+      "agriculture": 3,
+      "technology": 2,
+      "human": true,
+      "packedIds": [],
+      "known": []
+    },
+    {
+      "agriculture": 3,
+      "technology": 3,
+      "human": false,
+      "packedIds": [
+        136193,
+        136705,
+        259,
+        269,
+        270
+      ],
+      "known": [
+        "8",
+        "11",
+        "7",
+        "12",
+        "22"
+      ]
+    },
+    {
+      "agriculture": 3,
+      "technology": 3,
+      "human": true,
+      "packedIds": [],
+      "known": []
+    },
+    {
+      "agriculture": 3,
+      "technology": 4,
+      "human": false,
+      "packedIds": [
+        136193,
+        136705,
+        259,
+        269,
+        270,
+        459271,
+        1639944
+      ],
+      "known": [
+        "8",
+        "11",
+        "7",
+        "12",
+        "22",
+        "10",
+        "27"
+      ]
+    },
+    {
+      "agriculture": 3,
+      "technology": 4,
+      "human": true,
+      "packedIds": [],
+      "known": []
+    },
+    {
+      "agriculture": 4,
+      "technology": 0,
+      "human": false,
+      "packedIds": [
+        136193,
+        136705,
+        201729,
+        202241
+      ],
+      "known": [
+        "8",
+        "11",
+        "26",
+        "38"
+      ]
+    },
+    {
+      "agriculture": 4,
+      "technology": 0,
+      "human": true,
+      "packedIds": [
+        259,
+        269,
+        270,
+        136193,
+        459271,
+        1639944
+      ],
+      "known": [
+        "7",
+        "12",
+        "22",
+        "8",
+        "10",
+        "27"
+      ]
+    },
+    {
+      "agriculture": 4,
+      "technology": 1,
+      "human": false,
+      "packedIds": [
+        136193,
+        136705,
+        201729,
+        202241
+      ],
+      "known": [
+        "8",
+        "11",
+        "26",
+        "38"
+      ]
+    },
+    {
+      "agriculture": 4,
+      "technology": 1,
+      "human": true,
+      "packedIds": [
+        259,
+        269,
+        270
+      ],
+      "known": [
+        "7",
+        "12",
+        "22"
+      ]
+    },
+    {
+      "agriculture": 4,
+      "technology": 2,
+      "human": false,
+      "packedIds": [
+        136193,
+        136705,
+        201729,
+        202241
+      ],
+      "known": [
+        "8",
+        "11",
+        "26",
+        "38"
+      ]
+    },
+    {
+      "agriculture": 4,
+      "technology": 2,
+      "human": true,
+      "packedIds": [],
+      "known": []
+    },
+    {
+      "agriculture": 4,
+      "technology": 3,
+      "human": false,
+      "packedIds": [
+        136193,
+        136705,
+        201729,
+        202241,
+        259,
+        269,
+        270
+      ],
+      "known": [
+        "8",
+        "11",
+        "26",
+        "38",
+        "7",
+        "12",
+        "22"
+      ]
+    },
+    {
+      "agriculture": 4,
+      "technology": 3,
+      "human": true,
+      "packedIds": [],
+      "known": []
+    },
+    {
+      "agriculture": 4,
+      "technology": 4,
+      "human": false,
+      "packedIds": [
+        136193,
+        136705,
+        201729,
+        202241,
+        259,
+        269,
+        270,
+        459271,
+        1639944
+      ],
+      "known": [
+        "8",
+        "11",
+        "26",
+        "38",
+        "7",
+        "12",
+        "22",
+        "10",
+        "27"
+      ]
+    },
+    {
+      "agriculture": 4,
+      "technology": 4,
+      "human": true,
+      "packedIds": [],
+      "known": []
+    }
+  ]
+}

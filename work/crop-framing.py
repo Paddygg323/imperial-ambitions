@@ -1,0 +1,2 @@
+from pathlib import Path
+p=Path('game/map.mjs');s=p.read_text(encoding='utf-8');old="ctx.drawImage(resources,index%6*256,Math.floor(index/6)*512+140,256,300,x-scale*.36,y-scale*.35,scale*.72,scale*.66);";new="const plant=['sugarCane','tobacco'].includes(resource),width=scale*(plant?.64:.72),height=scale*(plant?.60:.66);ctx.drawImage(resources,index%6*256,index<6?100:590,256,index<6?360:340,x-width/2,y-height*.53,width,height);";assert old in s;s=s.replace(old,new);p.write_text(s,encoding='utf-8')

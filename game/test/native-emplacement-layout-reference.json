@@ -1,0 +1,50 @@
+{
+  "source": "Original 0x610766..0x6107e2; isolated arithmetic 0x6107a4..0x6107d1 executed. Table 0x7119b0. Whole deployment/list iteration not emulated.",
+  "cases": [
+    {
+      "width": 17,
+      "index": 0,
+      "tile": 302
+    },
+    {
+      "width": 17,
+      "index": 1,
+      "tile": 70
+    },
+    {
+      "width": 17,
+      "index": 2,
+      "tile": 360
+    },
+    {
+      "width": 23,
+      "index": 0,
+      "tile": 308
+    },
+    {
+      "width": 23,
+      "index": 1,
+      "tile": 76
+    },
+    {
+      "width": 23,
+      "index": 2,
+      "tile": 366
+    },
+    {
+      "width": 29,
+      "index": 0,
+      "tile": 314
+    },
+    {
+      "width": 29,
+      "index": 1,
+      "tile": 82
+    },
+    {
+      "width": 29,
+      "index": 2,
+      "tile": 372
+    }
+  ]
+}

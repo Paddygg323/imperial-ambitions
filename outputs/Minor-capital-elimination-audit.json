@@ -1,0 +1,28 @@
+{
+  "runtime": "3-180",
+  "rule": "Capital loss eliminates any country. Remaining provinces enter anarchy, produce no resources and retain defensive garrisons.",
+  "source": "work/rebuild/manual.txt, Conquests with the Military lines997-1001 and Capital Cities lines1184-1187",
+  "changes": [
+    "Generalized conquest elimination from Great Powers to minors and tribes",
+    "Stopped eliminated minor domestic production, market participation and external-resource forecasts",
+    "Disabled further diplomatic offices, peace offers and foreign development in eliminated minors",
+    "Load-time repair marks earlier phone saves without annexation or duplicate rewards/news",
+    "Purchased-resource planning retains claims but assigns zero transport capacity to anarchy"
+  ],
+  "tests": {
+    "focused": "work/rebuild-v2/minor-capital-loss.txt",
+    "full": "work/rebuild-v2/tests-minor-elimination-full.txt",
+    "passed": 774,
+    "failed": 0,
+    "seconds": 93.67,
+    "packagedBrowser": "work/rebuild-v2/android-browser-latest.txt"
+  },
+  "apkSha256": "0916d5d310c6a63cff7422d893beca5b14e715febe4461b327614c43e29291ac",
+  "pixelTested": false,
+  "completeGame": false,
+  "limitations": [
+    "Great Power peace evaluation and original AI planning refresh remain staged",
+    "No new full campaign or physical Pixel run",
+    "Original conquest spoils and peaceful foreign civilian deportation remain separate incomplete consequences"
+  ]
+}

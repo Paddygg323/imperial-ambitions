@@ -1,0 +1,93 @@
+{
+  "scope": "Actual naval war-support dispatch5a44a0..5a44f7, with final winner and\nfleet-empty flags supplied. Actual country event/adjustment routines execute.\nWinner discovery and flag producers separately traced in5a4218..5a43a7.\n",
+  "cases": [
+    {
+      "winner": 0,
+      "eliminated": [
+        false,
+        false
+      ],
+      "support": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "winner": 0,
+      "eliminated": [
+        false,
+        true
+      ],
+      "support": [
+        0.5199999809265137,
+        0.46000000834465027
+      ]
+    },
+    {
+      "winner": 0,
+      "eliminated": [
+        true,
+        false
+      ],
+      "support": [
+        0.5199999809265137,
+        0.46000000834465027
+      ]
+    },
+    {
+      "winner": 0,
+      "eliminated": [
+        true,
+        true
+      ],
+      "support": [
+        0.5199999809265137,
+        0.46000000834465027
+      ]
+    },
+    {
+      "winner": 1,
+      "eliminated": [
+        false,
+        false
+      ],
+      "support": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "winner": 1,
+      "eliminated": [
+        false,
+        true
+      ],
+      "support": [
+        0.47999998927116394,
+        0.5400000214576721
+      ]
+    },
+    {
+      "winner": 1,
+      "eliminated": [
+        true,
+        false
+      ],
+      "support": [
+        0.47999998927116394,
+        0.5400000214576721
+      ]
+    },
+    {
+      "winner": 1,
+      "eliminated": [
+        true,
+        true
+      ],
+      "support": [
+        0.47999998927116394,
+        0.5400000214576721
+      ]
+    }
+  ]
+}

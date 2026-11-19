@@ -1,0 +1,26 @@
+I reviewed the diplomacy source files, the native-reference JSON, the test file, and all screenshot sets under `outputs/royal-review/runtime244`. Read-only — no edits made, no store-readiness claim.
+
+## Blockers (concrete, verified in code)
+
+**1. Armed overture never disarms after a successful map tap → repeat/accidental orders on later taps.**
+`app.mjs:394-398` (`case 'diplomacyCountry'`) issues the command when `choice.command` exists but never clears `diplomacyUI.action` afterward. Compare to `diplomacyMode` (line 399) and `diplomacyMapView` (line 405), which both reset `action=null`. Since `diplomaticChoice` re-arms (`armed = ui.mode==='treaties' && !!ui.action`) on *every* subsequent tap while mode stays `'treaties'`, the very next tap on a *different* country — even one meant only to glance at its info, or to hit the tiny pending-order marker and miss — re-issues the same order: a second war declaration, another $10,000 grant, another pact offer, etc. This applies to every treaty action and to `grants`/`subsidies` modes too (amount/policy also stay armed). This is exactly the "accidental map orders" risk flagged — it's not theoretical, it's the default control flow.
+
+**2. Pending-order marker hit-target is far too small, sitting on top of the same tap target it's meant to let you avoid.**
+`diplomacy-map.mjs:28` draws the marker as a 16×18 unit rect, nested *inside* the country's own `<g data-action="diplomacyCountry">` (`diplomacy-map.mjs:22`). `closest()` resolves clicks correctly in isolation, but at the "europe" viewBox (515 units wide) rendered into the ~300px-wide map on a 360px screen (confirmed in `treaties-360.png`), that marker is roughly **9px wide** — well under any usable touch-target size. Combined with bug #1, a slightly-missed tap on the marker (meant to inspect/rescind a pending order) lands on the country polygon instead and silently fires a new order if anything is still armed.
+
+**3. Mobile tab bar clips the last label at 360px width.**
+`royal.css:133` — the `max-width:650px` rule sets `.diplomacy-tools button span{max-width:100%;overflow-wrap:normal}`. `overflow-wrap:normal` is a no-op (it's the default — it does not allow breaking a long single word like "Information"), so at 360px the fifth tab's label is cut to "Informati…" and bleeds past the panel border, confirmed in `information-360.png`/`treaties-360.png` vs. the same panel at 412px and 915px where it renders fully. Likely a typo for `overflow-wrap:anywhere`/`break-word`. 360px is one of your own three tested widths, so this isn't an edge case you can skip.
+
+## Correctly implemented (verified)
+
+- **Precise table removed, military hidden from AI exposure**: no `Power15`/`Trade50`/raw-score strings found anywhere in the snapshot. `power-rankings.mjs` uses its own lightweight `strategicRegimentRating`/`strategicNavyRating`, not the real AI formula in `strategic-strength.mjs` (`strategicStrength` border/nonborder is never imported by the UI). Army/navy are separate categories among the required 8, rendered as 5%-bucketed bars with rank-only `aria-label`s — the test `diplomatic-aid.test.mjs:45` explicitly asserts no raw numbers leak (`aria-valuenow|15<|50<|fielded military rating`).
+- **Grant/office reserve-refund-save cycle**: `diplomatic-aid.mjs` reserves cash on order, refunds on cancel/ineligibility-at-settlement/war, and the test file exercises cancel→reload→repeat→renew sequences without cash duplication. `engine.mjs:152-158` mirrors the same pattern for consulate/embassy costs.
+- **Native parity for amounts/gains**: `GRANT_AMOUNTS`/`GRANT_GAIN` in `diplomatic-aid.mjs:6-7` match the $1k/3k/5k/10k → +2/+4/+6/+10 and pact +10 figures in `Native-diplomacy244-reference.json`, and the test replays that exact JSON. I could not independently verify the war-matrix-at-equal-relations claim since `trade-relations.mjs`/`war-history.mjs` (where `recordWarRelations` actually lives) aren't in this snapshot — code comments and the reference JSON's `sameAsNativeDeclarationWithSamePrior` flag are consistent with the claim, but that's as far as static review can confirm.
+- **Eligibility logic**: embassy-required gating for minors, war/pending-declaration blocks, duplicate-office/duplicate-offer guards, and Great-Power-vs-minor pact restrictions all check out against `diplomacy.mjs`/`diplomatic-aid.mjs`.
+
+## Optional / polish (not blocking)
+
+- Grant UI copy ("Requires an embassy") is technically inaccurate when the recipient is a Great Power, since Great Powers can never hold an embassy (`officeCost` forbids it) yet `grantEligibility` deliberately bypasses the embassy check for them. Harmless but misleading hint text.
+- In "Favoured partners" mode, the Political/Relations map toggle buttons render with neither marked `aria-pressed`, since the view is force-overridden to `'partners'`. Not incorrect, just a slightly orphaned control.
+
+Recommend fixing #1 before anything else — it's a real-money, real-reputation correctness bug, not just cosmetic, and #2/#3 make it materially easier to trigger on the phone widths you're targeting.

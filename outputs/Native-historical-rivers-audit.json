@@ -1,0 +1,1058 @@
+{
+  "sourceHashes": {
+    "countries": "195afcc26b996d3b31e20ef86dbcf198e69042586640a700fc26817be2d0ec74",
+    "terrain": "6021ceda149af9e50f06de6e82aa8ae05f55b81f45f567c646f4155da16bdad9",
+    "rivers": "37c252e0fc491368c784b40f826d2be6a3e50ac6f6101d70b25a4fa185c511d5"
+  },
+  "scope": "Original568230 CreateRiversFromBuf and recursive568780 on historical scenario.\nIncludes native54d110 river conversion before access queries.\nNo function stubs. Raster sampling matches original557580..5575b4 (108x60).\n",
+  "width": 108,
+  "height": 60,
+  "sourceCounts": {
+    "255": 5304,
+    "1": 1046,
+    "2": 15,
+    "0": 115
+  },
+  "rivers": [
+    {
+      "x": 92,
+      "y": 1,
+      "code": 44,
+      "source": 2,
+      "owner": 2,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 93,
+      "y": 1,
+      "code": 17,
+      "source": 0,
+      "owner": 2,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 94,
+      "y": 1,
+      "code": 23,
+      "source": 0,
+      "owner": 2,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 101,
+      "y": 1,
+      "code": 47,
+      "source": 2,
+      "owner": 2,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 95,
+      "y": 2,
+      "code": 25,
+      "source": 0,
+      "owner": 2,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 101,
+      "y": 2,
+      "code": 11,
+      "source": 0,
+      "owner": 2,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 95,
+      "y": 3,
+      "code": 58,
+      "source": 0,
+      "owner": 255,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 101,
+      "y": 3,
+      "code": 26,
+      "source": 0,
+      "owner": 2,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 101,
+      "y": 4,
+      "code": 11,
+      "source": 0,
+      "owner": 2,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 101,
+      "y": 5,
+      "code": 25,
+      "source": 0,
+      "owner": 2,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 102,
+      "y": 6,
+      "code": 26,
+      "source": 0,
+      "owner": 2,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 101,
+      "y": 7,
+      "code": 12,
+      "source": 0,
+      "owner": 2,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 101,
+      "y": 8,
+      "code": 12,
+      "source": 0,
+      "owner": 2,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 100,
+      "y": 9,
+      "code": 51,
+      "source": 0,
+      "owner": 255,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 105,
+      "y": 10,
+      "code": 47,
+      "source": 2,
+      "owner": 2,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 104,
+      "y": 11,
+      "code": 11,
+      "source": 0,
+      "owner": 2,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 105,
+      "y": 12,
+      "code": 25,
+      "source": 0,
+      "owner": 2,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 105,
+      "y": 13,
+      "code": 58,
+      "source": 0,
+      "owner": 255,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 97,
+      "y": 17,
+      "code": 52,
+      "source": 0,
+      "owner": 255,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 98,
+      "y": 17,
+      "code": 23,
+      "source": 0,
+      "owner": 9,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 67,
+      "y": 18,
+      "code": 46,
+      "source": 2,
+      "owner": 6,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 99,
+      "y": 18,
+      "code": 21,
+      "source": 0,
+      "owner": 9,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 100,
+      "y": 18,
+      "code": 23,
+      "source": 0,
+      "owner": 9,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 67,
+      "y": 19,
+      "code": 26,
+      "source": 0,
+      "owner": 6,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 100,
+      "y": 19,
+      "code": 25,
+      "source": 0,
+      "owner": 9,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 67,
+      "y": 20,
+      "code": 12,
+      "source": 0,
+      "owner": 6,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 78,
+      "y": 20,
+      "code": 46,
+      "source": 2,
+      "owner": 1,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 101,
+      "y": 20,
+      "code": 22,
+      "source": 0,
+      "owner": 9,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 102,
+      "y": 20,
+      "code": 24,
+      "source": 0,
+      "owner": 9,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 65,
+      "y": 21,
+      "code": 15,
+      "source": 0,
+      "owner": 6,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 66,
+      "y": 21,
+      "code": 13,
+      "source": 0,
+      "owner": 6,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 78,
+      "y": 21,
+      "code": 26,
+      "source": 0,
+      "owner": 1,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 84,
+      "y": 21,
+      "code": 55,
+      "source": 0,
+      "owner": 255,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 98,
+      "y": 21,
+      "code": 16,
+      "source": 0,
+      "owner": 3,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 99,
+      "y": 21,
+      "code": 24,
+      "source": 0,
+      "owner": 3,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 102,
+      "y": 21,
+      "code": 25,
+      "source": 0,
+      "owner": 9,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 62,
+      "y": 22,
+      "code": 53,
+      "source": 0,
+      "owner": 255,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 63,
+      "y": 22,
+      "code": 20,
+      "source": 0,
+      "owner": 6,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 64,
+      "y": 22,
+      "code": 20,
+      "source": 0,
+      "owner": 6,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 65,
+      "y": 22,
+      "code": 14,
+      "source": 0,
+      "owner": 6,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 78,
+      "y": 22,
+      "code": 11,
+      "source": 0,
+      "owner": 1,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 81,
+      "y": 22,
+      "code": 46,
+      "source": 2,
+      "owner": 1,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 84,
+      "y": 22,
+      "code": 12,
+      "source": 0,
+      "owner": 1,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 98,
+      "y": 22,
+      "code": 12,
+      "source": 0,
+      "owner": 3,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 100,
+      "y": 22,
+      "code": 25,
+      "source": 0,
+      "owner": 3,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 103,
+      "y": 22,
+      "code": 25,
+      "source": 0,
+      "owner": 9,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 78,
+      "y": 23,
+      "code": 26,
+      "source": 0,
+      "owner": 1,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 81,
+      "y": 23,
+      "code": 21,
+      "source": 0,
+      "owner": 1,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 82,
+      "y": 23,
+      "code": 17,
+      "source": 0,
+      "owner": 1,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 83,
+      "y": 23,
+      "code": 13,
+      "source": 0,
+      "owner": 1,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 91,
+      "y": 23,
+      "code": 15,
+      "source": 0,
+      "owner": 3,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 92,
+      "y": 23,
+      "code": 18,
+      "source": 0,
+      "owner": 3,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 93,
+      "y": 23,
+      "code": 57,
+      "source": 0,
+      "owner": 255,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 94,
+      "y": 23,
+      "code": 52,
+      "source": 0,
+      "owner": 255,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 95,
+      "y": 23,
+      "code": 18,
+      "source": 0,
+      "owner": 3,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 96,
+      "y": 23,
+      "code": 19,
+      "source": 0,
+      "owner": 3,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 97,
+      "y": 23,
+      "code": 13,
+      "source": 0,
+      "owner": 3,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 100,
+      "y": 23,
+      "code": 25,
+      "source": 0,
+      "owner": 3,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 103,
+      "y": 23,
+      "code": 22,
+      "source": 0,
+      "owner": 9,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 104,
+      "y": 23,
+      "code": 24,
+      "source": 0,
+      "owner": 9,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 78,
+      "y": 24,
+      "code": 51,
+      "source": 0,
+      "owner": 255,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 91,
+      "y": 24,
+      "code": 11,
+      "source": 0,
+      "owner": 3,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 101,
+      "y": 24,
+      "code": 26,
+      "source": 0,
+      "owner": 9,
+      "foreignRouteResult": 1
+    },
+    {
+      "x": 105,
+      "y": 24,
+      "code": 21,
+      "source": 0,
+      "owner": 9,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 106,
+      "y": 24,
+      "code": 48,
+      "source": 2,
+      "owner": 9,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 91,
+      "y": 25,
+      "code": 50,
+      "source": 2,
+      "owner": 3,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 100,
+      "y": 25,
+      "code": 12,
+      "source": 0,
+      "owner": 9,
+      "foreignRouteResult": 1
+    },
+    {
+      "x": 100,
+      "y": 26,
+      "code": 12,
+      "source": 0,
+      "owner": 9,
+      "foreignRouteResult": 1
+    },
+    {
+      "x": 99,
+      "y": 27,
+      "code": 12,
+      "source": 0,
+      "owner": 11,
+      "foreignRouteResult": 1
+    },
+    {
+      "x": 99,
+      "y": 28,
+      "code": 11,
+      "source": 0,
+      "owner": 11,
+      "foreignRouteResult": 1
+    },
+    {
+      "x": 83,
+      "y": 29,
+      "code": 54,
+      "source": 0,
+      "owner": 255,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 99,
+      "y": 29,
+      "code": 22,
+      "source": 0,
+      "owner": 11,
+      "foreignRouteResult": 1
+    },
+    {
+      "x": 100,
+      "y": 29,
+      "code": 20,
+      "source": 0,
+      "owner": 11,
+      "foreignRouteResult": 1
+    },
+    {
+      "x": 101,
+      "y": 29,
+      "code": 49,
+      "source": 2,
+      "owner": 11,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 84,
+      "y": 30,
+      "code": 22,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 85,
+      "y": 30,
+      "code": 24,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 85,
+      "y": 31,
+      "code": 22,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 86,
+      "y": 31,
+      "code": 24,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 95,
+      "y": 31,
+      "code": 47,
+      "source": 2,
+      "owner": 0,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 87,
+      "y": 32,
+      "code": 22,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 88,
+      "y": 32,
+      "code": 24,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 95,
+      "y": 32,
+      "code": 12,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 88,
+      "y": 33,
+      "code": 50,
+      "source": 2,
+      "owner": 0,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 94,
+      "y": 33,
+      "code": 12,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 83,
+      "y": 34,
+      "code": 15,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 84,
+      "y": 34,
+      "code": 17,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 85,
+      "y": 34,
+      "code": 18,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 86,
+      "y": 34,
+      "code": 24,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 94,
+      "y": 34,
+      "code": 12,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 82,
+      "y": 35,
+      "code": 11,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 86,
+      "y": 35,
+      "code": 22,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 87,
+      "y": 35,
+      "code": 24,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 93,
+      "y": 35,
+      "code": 11,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 83,
+      "y": 36,
+      "code": 58,
+      "source": 0,
+      "owner": 255,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 88,
+      "y": 36,
+      "code": 25,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 94,
+      "y": 36,
+      "code": 25,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 88,
+      "y": 37,
+      "code": 50,
+      "source": 2,
+      "owner": 0,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 94,
+      "y": 37,
+      "code": 25,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 95,
+      "y": 38,
+      "code": 25,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 95,
+      "y": 39,
+      "code": 22,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 96,
+      "y": 39,
+      "code": 19,
+      "source": 0,
+      "owner": 0,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 97,
+      "y": 39,
+      "code": 56,
+      "source": 0,
+      "owner": 255,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 82,
+      "y": 45,
+      "code": 47,
+      "source": 2,
+      "owner": 5,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 79,
+      "y": 46,
+      "code": 15,
+      "source": 0,
+      "owner": 4,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 80,
+      "y": 46,
+      "code": 18,
+      "source": 0,
+      "owner": 4,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 81,
+      "y": 46,
+      "code": 20,
+      "source": 0,
+      "owner": 5,
+      "foreignRouteResult": 1
+    },
+    {
+      "x": 82,
+      "y": 46,
+      "code": 14,
+      "source": 0,
+      "owner": 5,
+      "foreignRouteResult": 1
+    },
+    {
+      "x": 75,
+      "y": 47,
+      "code": 52,
+      "source": 0,
+      "owner": 255,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 76,
+      "y": 47,
+      "code": 17,
+      "source": 0,
+      "owner": 4,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 77,
+      "y": 47,
+      "code": 18,
+      "source": 0,
+      "owner": 4,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 78,
+      "y": 47,
+      "code": 14,
+      "source": 0,
+      "owner": 4,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 86,
+      "y": 48,
+      "code": 15,
+      "source": 0,
+      "owner": 5,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 87,
+      "y": 48,
+      "code": 48,
+      "source": 2,
+      "owner": 5,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 79,
+      "y": 49,
+      "code": 16,
+      "source": 0,
+      "owner": 4,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 80,
+      "y": 49,
+      "code": 49,
+      "source": 2,
+      "owner": 4,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 82,
+      "y": 49,
+      "code": 16,
+      "source": 0,
+      "owner": 5,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 83,
+      "y": 49,
+      "code": 19,
+      "source": 0,
+      "owner": 5,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 84,
+      "y": 49,
+      "code": 17,
+      "source": 0,
+      "owner": 5,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 85,
+      "y": 49,
+      "code": 13,
+      "source": 0,
+      "owner": 5,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 79,
+      "y": 50,
+      "code": 12,
+      "source": 0,
+      "owner": 4,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 82,
+      "y": 50,
+      "code": 12,
+      "source": 0,
+      "owner": 5,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 78,
+      "y": 51,
+      "code": 12,
+      "source": 0,
+      "owner": 4,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 81,
+      "y": 51,
+      "code": 12,
+      "source": 0,
+      "owner": 5,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 78,
+      "y": 52,
+      "code": 12,
+      "source": 0,
+      "owner": 4,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 81,
+      "y": 52,
+      "code": 11,
+      "source": 0,
+      "owner": 5,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 77,
+      "y": 53,
+      "code": 51,
+      "source": 0,
+      "owner": 255,
+      "foreignRouteResult": 255
+    },
+    {
+      "x": 81,
+      "y": 53,
+      "code": 25,
+      "source": 0,
+      "owner": 5,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 82,
+      "y": 54,
+      "code": 25,
+      "source": 0,
+      "owner": 5,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 82,
+      "y": 55,
+      "code": 26,
+      "source": 0,
+      "owner": 5,
+      "foreignRouteResult": 0
+    },
+    {
+      "x": 82,
+      "y": 56,
+      "code": 51,
+      "source": 0,
+      "owner": 255,
+      "foreignRouteResult": 255
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "scope": "Starting civilian placement section50c40f..50c526, with actual SeekOpenTile\n552a90, radial iterator552d30 and coordinate step5ab800. Allocation/constructor\nand civilian insertion are intercepted; insertion preserves owner-linked tile lists.\nThe menu mode flag is supplied; no fleet grant is covered here.\n",
+  "cases": [
+    {
+      "human": false,
+      "menuMode": 0,
+      "capital": 3290,
+      "civilians": [
+        {
+          "nativeType": 0,
+          "tile": 3181,
+          "owner": 2
+        },
+        {
+          "nativeType": 1,
+          "tile": 3290,
+          "owner": 2
+        },
+        {
+          "nativeType": 2,
+          "tile": 3182,
+          "owner": 2
+        }
+      ]
+    },
+    {
+      "human": false,
+      "menuMode": 1,
+      "capital": 3290,
+      "civilians": [
+        {
+          "nativeType": 0,
+          "tile": 3181,
+          "owner": 2
+        },
+        {
+          "nativeType": 1,
+          "tile": 3290,
+          "owner": 2
+        },
+        {
+          "nativeType": 2,
+          "tile": 3182,
+          "owner": 2
+        }
+      ]
+    },
+    {
+      "human": false,
+      "menuMode": 2,
+      "capital": 3290,
+      "civilians": [
+        {
+          "nativeType": 0,
+          "tile": 3181,
+          "owner": 2
+        },
+        {
+          "nativeType": 1,
+          "tile": 3290,
+          "owner": 2
+        },
+        {
+          "nativeType": 2,
+          "tile": 3182,
+          "owner": 2
+        }
+      ]
+    },
+    {
+      "human": true,
+      "menuMode": 0,
+      "capital": 3290,
+      "civilians": [
+        {
+          "nativeType": 0,
+          "tile": 3181,
+          "owner": 2
+        },
+        {
+          "nativeType": 1,
+          "tile": 3290,
+          "owner": 2
+        },
+        {
+          "nativeType": 2,
+          "tile": 3182,
+          "owner": 2
+        }
+      ]
+    },
+    {
+      "human": true,
+      "menuMode": 1,
+      "capital": 3290,
+      "civilians": [
+        {
+          "nativeType": 2,
+          "tile": 3181,
+          "owner": 2
+        }
+      ]
+    },
+    {
+      "human": true,
+      "menuMode": 2,
+      "capital": 3290,
+      "civilians": [
+        {
+          "nativeType": 2,
+          "tile": 3181,
+          "owner": 2
+        }
+      ]
+    }
+  ]
+}

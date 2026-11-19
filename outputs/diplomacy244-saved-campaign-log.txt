@@ -1,0 +1,1 @@
+PASS: isolated copy of England1538 opens diplomacy and8rankings without any saved-data changes. Original backup and live campaign untouched.

@@ -1,0 +1,328 @@
+{
+  "runtime": "3-181",
+  "fullTests": 777,
+  "fullTestEvidence": "work/rebuild-v2/tests-live-interior-planning-full.txt",
+  "openingEvidence": "work/rebuild-v2/opening-economy-live-planning.json",
+  "initial": {
+    "turn": 0,
+    "year": 1500,
+    "workers": 4,
+    "labour": 4,
+    "foodNeeds": {
+      "grain": 5,
+      "protein": 5,
+      "total": 10
+    },
+    "incoming": {
+      "wool": 1,
+      "timber": 1,
+      "tin": 0,
+      "copper": 0,
+      "iron": 0,
+      "coal": 0,
+      "cotton": 0,
+      "sugarCane": 0,
+      "tobacco": 0,
+      "furs": 0,
+      "horses": 0,
+      "fabric": 0,
+      "lumber": 0,
+      "paper": 0,
+      "bronze": 0,
+      "castIron": 0,
+      "steel": 0,
+      "sugar": 0,
+      "cigars": 0,
+      "hats": 0,
+      "grain": 6,
+      "fish": 3,
+      "meat": 2,
+      "spices": 0,
+      "silver": 0,
+      "gold": 0,
+      "gems": 0,
+      "diamonds": 0
+    },
+    "stock": {
+      "wool": 6,
+      "timber": 20,
+      "tin": 6,
+      "copper": 6,
+      "iron": 20,
+      "coal": 0,
+      "cotton": 0,
+      "sugarCane": 0,
+      "tobacco": 0,
+      "furs": 0,
+      "horses": 6,
+      "fabric": 4,
+      "lumber": 5,
+      "paper": 5,
+      "bronze": 4,
+      "castIron": 8,
+      "steel": 0,
+      "sugar": 0,
+      "cigars": 0,
+      "hats": 0,
+      "grain": 30,
+      "fish": 20,
+      "meat": 10,
+      "spices": 0,
+      "silver": 0,
+      "gold": 0,
+      "gems": 0,
+      "diamonds": 0
+    },
+    "cash": 12000,
+    "known": [
+      "8",
+      "11"
+    ],
+    "projects": []
+  },
+  "final": {
+    "turn": 12,
+    "year": 1524,
+    "workers": 6,
+    "labour": 6,
+    "foodNeeds": {
+      "grain": 6,
+      "protein": 6,
+      "total": 12
+    },
+    "incoming": {
+      "wool": 1,
+      "timber": 2,
+      "tin": 0,
+      "copper": 0,
+      "iron": 1,
+      "coal": 0,
+      "cotton": 0,
+      "sugarCane": 0,
+      "tobacco": 0,
+      "furs": 0,
+      "horses": 0,
+      "fabric": 0,
+      "lumber": 0,
+      "paper": 0,
+      "bronze": 0,
+      "castIron": 0,
+      "steel": 0,
+      "sugar": 0,
+      "cigars": 0,
+      "hats": 0,
+      "grain": 7,
+      "fish": 3,
+      "meat": 3,
+      "spices": 0,
+      "silver": 0,
+      "gold": 0,
+      "gems": 0,
+      "diamonds": 0
+    },
+    "stock": {
+      "wool": 10,
+      "timber": 16,
+      "tin": 6,
+      "copper": 6,
+      "iron": 10,
+      "coal": 0,
+      "cotton": 0,
+      "sugarCane": 0,
+      "tobacco": 0,
+      "furs": 0,
+      "horses": 6,
+      "fabric": 4,
+      "lumber": 8,
+      "paper": 5,
+      "bronze": 4,
+      "castIron": 8,
+      "steel": 0,
+      "sugar": 0,
+      "cigars": 0,
+      "hats": 0,
+      "grain": 40,
+      "fish": 32,
+      "meat": 0,
+      "spices": 0,
+      "silver": 0,
+      "gold": 0,
+      "gems": 0,
+      "diamonds": 0
+    },
+    "cash": 7100,
+    "known": [
+      "8",
+      "11",
+      "7",
+      "9"
+    ],
+    "projects": [
+      {
+        "tech": "26",
+        "funding": 200,
+        "investment": 2400,
+        "progress": 0.40617966651916504
+      },
+      {
+        "tech": "38",
+        "funding": 200,
+        "investment": 800,
+        "progress": 0.11402508616447449
+      }
+    ]
+  },
+  "foodReports": [
+    {
+      "kind": "food",
+      "population": 10,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 31,
+        "meat": 7,
+        "fish": 23
+      },
+      "nation": "england"
+    },
+    {
+      "kind": "food",
+      "population": 10,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 32,
+        "meat": 4,
+        "fish": 26
+      },
+      "nation": "england"
+    },
+    {
+      "kind": "food",
+      "population": 10,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 33,
+        "meat": 1,
+        "fish": 29
+      },
+      "nation": "england"
+    },
+    {
+      "kind": "food",
+      "population": 10,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 34,
+        "meat": 0,
+        "fish": 30
+      },
+      "nation": "england"
+    },
+    {
+      "kind": "food",
+      "population": 10,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 35,
+        "meat": 0,
+        "fish": 30
+      },
+      "nation": "england"
+    },
+    {
+      "kind": "food",
+      "population": 10,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 36,
+        "meat": 0,
+        "fish": 30
+      },
+      "nation": "england"
+    },
+    {
+      "kind": "food",
+      "population": 11,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 36,
+        "meat": 0,
+        "fish": 31
+      },
+      "nation": "england"
+    },
+    {
+      "kind": "food",
+      "population": 11,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 36,
+        "meat": 0,
+        "fish": 32
+      },
+      "nation": "england"
+    },
+    {
+      "kind": "food",
+      "population": 12,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 37,
+        "meat": 0,
+        "fish": 32
+      },
+      "nation": "england"
+    },
+    {
+      "kind": "food",
+      "population": 12,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 38,
+        "meat": 0,
+        "fish": 32
+      },
+      "nation": "england"
+    },
+    {
+      "kind": "food",
+      "population": 12,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 39,
+        "meat": 0,
+        "fish": 32
+      },
+      "nation": "england"
+    },
+    {
+      "kind": "food",
+      "population": 12,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 40,
+        "meat": 0,
+        "fish": 32
+      },
+      "nation": "england"
+    }
+  ],
+  "browserEvidence": "work/rebuild-v2/android-browser-latest.txt",
+  "limitations": [
+    "Controlled 12-turn opening, not a completed campaign",
+    "Chromium packaged assets, not physical Android WebView",
+    "Civilian order selection remains heuristic"
+  ],
+  "apkSha256": "c39c623ab73c188bdda324c0011199e6a65c2a5e155c0f8a7904b54394e0643b"
+}

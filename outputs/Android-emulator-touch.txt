@@ -1,0 +1,3 @@
+INSTRUMENTATION_RESULT: checks=Actual Android touchscreen taps selected an engineer, issued an adjacent road, rescinded it through Undo, and started funded research.
+INSTRUMENTATION_RESULT: result=PASS
+INSTRUMENTATION_CODE: -1

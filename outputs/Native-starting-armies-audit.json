@@ -1,0 +1,2472 @@
+{
+  "scope": "Execute original InitialMilitia province classification and regiment-grant\nselection4fe818..4fea24 for great powers. Map capital flag, human ownership,\nnormal menu mode and raw simulation+8c difficulty are supplied. Allocation,\nregiment constructor, IRegiment and order callback are intercepted; this proves\nrequested regiment types and initial order arguments, not their downstream\ninitialization or the UI-to-difficulty mapping. PC game files are read only.\n",
+  "constructorSuffix": {
+    "start": "65650e",
+    "end": "656535",
+    "nativeStrength": 500,
+    "experience": 0,
+    "scope": "Scalar initialization only; phone represents full strength as100 percent."
+  },
+  "cases": [
+    {
+      "rawDifficulty": 0,
+      "owner": 0,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 0,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 0,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 0,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 1,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 1,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 1,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 1,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 2,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 2,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 2,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 2,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 3,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 3,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 3,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 3,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 4,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 4,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 4,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 4,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 5,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 5,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 5,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 0,
+      "owner": 5,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 0,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 0,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 0,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 0,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 1,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 1,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 1,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 1,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 2,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 2,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 2,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 2,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 3,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 3,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 3,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 3,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 4,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 4,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 4,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 4,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 5,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 5,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 5,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 1,
+      "owner": 5,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 0,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 0,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 0,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 0,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 1,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 1,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 1,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 1,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 2,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 2,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 2,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 2,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 3,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 3,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 3,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 3,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 4,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 4,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 4,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 4,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 5,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 5,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 5,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 2,
+      "owner": 5,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 0,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 0,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 0,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 0,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 1,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 1,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 1,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 1,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 2,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 2,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 2,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 2,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 3,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 3,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 3,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 3,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 4,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 4,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 4,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 4,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 5,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 5,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 5,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 3,
+      "owner": 5,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 12,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 0,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 0,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 0,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 0,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 0,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 1,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 1,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 1,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 1,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 1,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 2,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 2,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 2,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 2,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 2,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 3,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 3,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 3,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 3,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 3,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 4,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 4,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 4,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 4,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 4,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 5,
+      "human": false,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 5,
+      "human": false,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 4,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 24,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        },
+        {
+          "nativeType": 8,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 5,
+      "human": true,
+      "capital": false,
+      "regiments": []
+    },
+    {
+      "rawDifficulty": 4,
+      "owner": 5,
+      "human": true,
+      "capital": true,
+      "regiments": [
+        {
+          "nativeType": 0,
+          "province": 7,
+          "owner": 5,
+          "extra": 0,
+          "order": [
+            2,
+            -1
+          ]
+        }
+      ]
+    }
+  ]
+}

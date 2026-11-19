@@ -1,0 +1,1517 @@
+{
+  "scope": "Native hostile merchant interception withdrawal threshold5a16f2..1712.\nStarts after strength getters; arithmetic and signed16 conversions run unchanged.\nDoes not validate force selection, route eligibility or cargo settlement.\n",
+  "cases": [
+    {
+      "raiders": 0,
+      "escorts": 0,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 1,
+      "escorts": 0,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 49,
+      "escorts": 0,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 50,
+      "escorts": 0,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 99,
+      "escorts": 0,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 100,
+      "escorts": 0,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 199,
+      "escorts": 0,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 200,
+      "escorts": 0,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 0,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 0,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 0,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 0,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 1,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 1,
+      "escorts": 1,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 49,
+      "escorts": 1,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 50,
+      "escorts": 1,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 99,
+      "escorts": 1,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 100,
+      "escorts": 1,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 199,
+      "escorts": 1,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 200,
+      "escorts": 1,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 1,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 1,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 1,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 1,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 20,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 1,
+      "escorts": 20,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 49,
+      "escorts": 20,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 50,
+      "escorts": 20,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 99,
+      "escorts": 20,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 100,
+      "escorts": 20,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 199,
+      "escorts": 20,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 200,
+      "escorts": 20,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 20,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 20,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 20,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 20,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 100,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 1,
+      "escorts": 100,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 49,
+      "escorts": 100,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 50,
+      "escorts": 100,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 99,
+      "escorts": 100,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 100,
+      "escorts": 100,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 199,
+      "escorts": 100,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 200,
+      "escorts": 100,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 100,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 100,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 100,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 100,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 32767,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 1,
+      "escorts": 32767,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 49,
+      "escorts": 32767,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 50,
+      "escorts": 32767,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 99,
+      "escorts": 32767,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 100,
+      "escorts": 32767,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 199,
+      "escorts": 32767,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 200,
+      "escorts": 32767,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 201,
+      "escorts": 32767,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 32767,
+      "escorts": 32767,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 32768,
+      "escorts": 32767,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 32767,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 32768,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 1,
+      "escorts": 32768,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 49,
+      "escorts": 32768,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 50,
+      "escorts": 32768,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 99,
+      "escorts": 32768,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 100,
+      "escorts": 32768,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 199,
+      "escorts": 32768,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 200,
+      "escorts": 32768,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 32768,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 32768,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 32768,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 65535,
+      "escorts": 32768,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 0,
+      "escorts": 65535,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 1,
+      "escorts": 65535,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 49,
+      "escorts": 65535,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 50,
+      "escorts": 65535,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 99,
+      "escorts": 65535,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 100,
+      "escorts": 65535,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 199,
+      "escorts": 65535,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 200,
+      "escorts": 65535,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 65535,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 65535,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 65535,
+      "aggression": 0,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 65535,
+      "aggression": 0,
+      "withdraw": false
+    },
+    {
+      "raiders": 0,
+      "escorts": 0,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 1,
+      "escorts": 0,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 49,
+      "escorts": 0,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 50,
+      "escorts": 0,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 99,
+      "escorts": 0,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 100,
+      "escorts": 0,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 199,
+      "escorts": 0,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 200,
+      "escorts": 0,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 0,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 0,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 0,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 0,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 1,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 1,
+      "escorts": 1,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 49,
+      "escorts": 1,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 50,
+      "escorts": 1,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 99,
+      "escorts": 1,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 100,
+      "escorts": 1,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 199,
+      "escorts": 1,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 200,
+      "escorts": 1,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 1,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 1,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 1,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 1,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 20,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 1,
+      "escorts": 20,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 49,
+      "escorts": 20,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 50,
+      "escorts": 20,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 99,
+      "escorts": 20,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 100,
+      "escorts": 20,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 199,
+      "escorts": 20,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 200,
+      "escorts": 20,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 20,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 20,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 20,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 20,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 100,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 1,
+      "escorts": 100,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 49,
+      "escorts": 100,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 50,
+      "escorts": 100,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 99,
+      "escorts": 100,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 100,
+      "escorts": 100,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 199,
+      "escorts": 100,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 200,
+      "escorts": 100,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 100,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 100,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 100,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 100,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 32767,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 1,
+      "escorts": 32767,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 49,
+      "escorts": 32767,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 50,
+      "escorts": 32767,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 99,
+      "escorts": 32767,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 100,
+      "escorts": 32767,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 199,
+      "escorts": 32767,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 200,
+      "escorts": 32767,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 201,
+      "escorts": 32767,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 32767,
+      "escorts": 32767,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 32767,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 32767,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 32768,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 1,
+      "escorts": 32768,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 49,
+      "escorts": 32768,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 50,
+      "escorts": 32768,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 99,
+      "escorts": 32768,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 100,
+      "escorts": 32768,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 199,
+      "escorts": 32768,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 200,
+      "escorts": 32768,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 32768,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 32768,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 32768,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 65535,
+      "escorts": 32768,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 0,
+      "escorts": 65535,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 1,
+      "escorts": 65535,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 49,
+      "escorts": 65535,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 50,
+      "escorts": 65535,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 99,
+      "escorts": 65535,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 100,
+      "escorts": 65535,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 199,
+      "escorts": 65535,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 200,
+      "escorts": 65535,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 65535,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 65535,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 65535,
+      "aggression": 1,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 65535,
+      "aggression": 1,
+      "withdraw": false
+    },
+    {
+      "raiders": 0,
+      "escorts": 0,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 1,
+      "escorts": 0,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 49,
+      "escorts": 0,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 50,
+      "escorts": 0,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 99,
+      "escorts": 0,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 100,
+      "escorts": 0,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 199,
+      "escorts": 0,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 200,
+      "escorts": 0,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 0,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 0,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 0,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 0,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 1,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 1,
+      "escorts": 1,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 49,
+      "escorts": 1,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 50,
+      "escorts": 1,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 99,
+      "escorts": 1,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 100,
+      "escorts": 1,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 199,
+      "escorts": 1,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 200,
+      "escorts": 1,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 1,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 1,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 1,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 1,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 20,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 1,
+      "escorts": 20,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 49,
+      "escorts": 20,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 50,
+      "escorts": 20,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 99,
+      "escorts": 20,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 100,
+      "escorts": 20,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 199,
+      "escorts": 20,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 200,
+      "escorts": 20,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 20,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 20,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 20,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 20,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 100,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 1,
+      "escorts": 100,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 49,
+      "escorts": 100,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 50,
+      "escorts": 100,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 99,
+      "escorts": 100,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 100,
+      "escorts": 100,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 199,
+      "escorts": 100,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 200,
+      "escorts": 100,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 100,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 100,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 100,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 100,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 32767,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 1,
+      "escorts": 32767,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 49,
+      "escorts": 32767,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 50,
+      "escorts": 32767,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 99,
+      "escorts": 32767,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 100,
+      "escorts": 32767,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 199,
+      "escorts": 32767,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 200,
+      "escorts": 32767,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 201,
+      "escorts": 32767,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 32767,
+      "escorts": 32767,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 32767,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 32767,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 0,
+      "escorts": 32768,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 1,
+      "escorts": 32768,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 49,
+      "escorts": 32768,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 50,
+      "escorts": 32768,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 99,
+      "escorts": 32768,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 100,
+      "escorts": 32768,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 199,
+      "escorts": 32768,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 200,
+      "escorts": 32768,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 32768,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 32768,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 32768,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 32768,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 0,
+      "escorts": 65535,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 1,
+      "escorts": 65535,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 49,
+      "escorts": 65535,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 50,
+      "escorts": 65535,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 99,
+      "escorts": 65535,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 100,
+      "escorts": 65535,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 199,
+      "escorts": 65535,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 200,
+      "escorts": 65535,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 201,
+      "escorts": 65535,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 32767,
+      "escorts": 65535,
+      "aggression": 2,
+      "withdraw": false
+    },
+    {
+      "raiders": 32768,
+      "escorts": 65535,
+      "aggression": 2,
+      "withdraw": true
+    },
+    {
+      "raiders": 65535,
+      "escorts": 65535,
+      "aggression": 2,
+      "withdraw": true
+    }
+  ]
+}

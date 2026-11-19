@@ -1,0 +1,101 @@
+{
+  "scope": "Execute original AI forecast/order scheduling (515c1c..515cd0).\nCallees are intercepted: this proves sequencing and mode gates, not their work.\nAlso assert the real country -> interior minister -> SeekResources dispatch chain.\n",
+  "dispatch": {
+    "countryVtable": "6fe508",
+    "civilianWrapper": "516bc0",
+    "interiorOrders": "4e6260",
+    "resourceScan": "4edeb0",
+    "scanCall": "4e64b1"
+  },
+  "cases": [
+    {
+      "mode": 0,
+      "events": [
+        "demand",
+        "priorities",
+        "valuations",
+        "prepare",
+        "economicOrders",
+        "civilianOrders",
+        "orders110",
+        "orders120",
+        "orders17c"
+      ]
+    },
+    {
+      "mode": 1,
+      "events": [
+        "demand",
+        "priorities",
+        "valuations",
+        "prepare",
+        "economicOrders"
+      ]
+    },
+    {
+      "mode": 11,
+      "events": [
+        "demand",
+        "priorities",
+        "valuations",
+        "prepare",
+        "economicOrders"
+      ]
+    },
+    {
+      "mode": 12,
+      "events": [
+        "demand",
+        "priorities",
+        "valuations",
+        "prepare",
+        "economicOrders",
+        "orders17c"
+      ]
+    },
+    {
+      "mode": 15,
+      "events": [
+        "demand",
+        "priorities",
+        "valuations",
+        "prepare",
+        "economicOrders",
+        "orders17c"
+      ]
+    },
+    {
+      "mode": 16,
+      "events": [
+        "demand",
+        "priorities",
+        "valuations",
+        "prepare",
+        "economicOrders",
+        "civilianOrders",
+        "orders110",
+        "orders120",
+        "orders17c"
+      ]
+    },
+    {
+      "mode": 20,
+      "events": [
+        "demand",
+        "priorities",
+        "valuations",
+        "prepare",
+        "economicOrders",
+        "civilianOrders",
+        "orders110",
+        "orders120",
+        "orders17c"
+      ]
+    }
+  ],
+  "limits": [
+    "Mode field meaning not yet identified",
+    "Interior orders can skip the scan under a separate simulation gate",
+    "Callee effects not executed by this scheduling audit"
+  ]
+}

@@ -1,0 +1,553 @@
+{
+  "function": "0x638710",
+  "cases": [
+    {
+      "division": 1,
+      "fundingLevel": 0,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.0
+    },
+    {
+      "division": 1,
+      "fundingLevel": 1,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.05000000074505806
+    },
+    {
+      "division": 1,
+      "fundingLevel": 2,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.07924812287092209
+    },
+    {
+      "division": 1,
+      "fundingLevel": 4,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.11609640717506409
+    },
+    {
+      "division": 1,
+      "fundingLevel": 8,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.15849624574184418
+    },
+    {
+      "division": 2,
+      "fundingLevel": 0,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.0
+    },
+    {
+      "division": 2,
+      "fundingLevel": 1,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.04500000178813934
+    },
+    {
+      "division": 2,
+      "fundingLevel": 2,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.07132331281900406
+    },
+    {
+      "division": 2,
+      "fundingLevel": 4,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.10448677092790604
+    },
+    {
+      "division": 2,
+      "fundingLevel": 8,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.14264662563800812
+    },
+    {
+      "division": 3,
+      "fundingLevel": 0,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.0
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.03999999910593033
+    },
+    {
+      "division": 3,
+      "fundingLevel": 2,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.06339849531650543
+    },
+    {
+      "division": 3,
+      "fundingLevel": 4,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.09287711977958679
+    },
+    {
+      "division": 3,
+      "fundingLevel": 8,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.12679699063301086
+    },
+    {
+      "division": 4,
+      "fundingLevel": 0,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.0
+    },
+    {
+      "division": 4,
+      "fundingLevel": 1,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.03500000014901161
+    },
+    {
+      "division": 4,
+      "fundingLevel": 2,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.0554736889898777
+    },
+    {
+      "division": 4,
+      "fundingLevel": 4,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.08126748353242874
+    },
+    {
+      "division": 4,
+      "fundingLevel": 8,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.1109473779797554
+    },
+    {
+      "division": 5,
+      "fundingLevel": 0,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.0
+    },
+    {
+      "division": 5,
+      "fundingLevel": 1,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.029999999329447746
+    },
+    {
+      "division": 5,
+      "fundingLevel": 2,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.04754887521266937
+    },
+    {
+      "division": 5,
+      "fundingLevel": 4,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.0696578398346901
+    },
+    {
+      "division": 5,
+      "fundingLevel": 8,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.09509775042533875
+    },
+    {
+      "division": 6,
+      "fundingLevel": 0,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.0
+    },
+    {
+      "division": 6,
+      "fundingLevel": 1,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.02500000037252903
+    },
+    {
+      "division": 6,
+      "fundingLevel": 2,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.039624061435461044
+    },
+    {
+      "division": 6,
+      "fundingLevel": 4,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.05804820358753204
+    },
+    {
+      "division": 6,
+      "fundingLevel": 8,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.07924812287092209
+    },
+    {
+      "division": 7,
+      "fundingLevel": 0,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.0
+    },
+    {
+      "division": 7,
+      "fundingLevel": 1,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.019999999552965164
+    },
+    {
+      "division": 7,
+      "fundingLevel": 2,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.031699247658252716
+    },
+    {
+      "division": 7,
+      "fundingLevel": 4,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.046438559889793396
+    },
+    {
+      "division": 7,
+      "fundingLevel": 8,
+      "modifier": 100,
+      "difficulty": 2,
+      "known": 0,
+      "spies": 0,
+      "gain": 0.06339849531650543
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 122,
+      "difficulty": 0,
+      "known": 1,
+      "spies": 0,
+      "gain": 0.07992927730083466
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 122,
+      "difficulty": 0,
+      "known": 2,
+      "spies": 0,
+      "gain": 0.09031412750482559
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 122,
+      "difficulty": 0,
+      "known": 4,
+      "spies": 0,
+      "gain": 0.09031412750482559
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 122,
+      "difficulty": 0,
+      "known": 1,
+      "spies": 1,
+      "gain": 0.10828463733196259
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 122,
+      "difficulty": 0,
+      "known": 2,
+      "spies": 2,
+      "gain": 0.13663999736309052
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 122,
+      "difficulty": 0,
+      "known": 4,
+      "spies": 2,
+      "gain": 0.13663999736309052
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 122,
+      "difficulty": 4,
+      "known": 1,
+      "spies": 0,
+      "gain": 0.05138310417532921
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 122,
+      "difficulty": 4,
+      "known": 2,
+      "spies": 0,
+      "gain": 0.05805908143520355
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 122,
+      "difficulty": 4,
+      "known": 4,
+      "spies": 0,
+      "gain": 0.05805908143520355
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 122,
+      "difficulty": 4,
+      "known": 1,
+      "spies": 1,
+      "gain": 0.0696115493774414
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 122,
+      "difficulty": 4,
+      "known": 2,
+      "spies": 2,
+      "gain": 0.0878399983048439
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 122,
+      "difficulty": 4,
+      "known": 4,
+      "spies": 2,
+      "gain": 0.0878399983048439
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 150,
+      "difficulty": 0,
+      "known": 1,
+      "spies": 0,
+      "gain": 0.09827370196580887
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 150,
+      "difficulty": 0,
+      "known": 2,
+      "spies": 0,
+      "gain": 0.11104195564985275
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 150,
+      "difficulty": 0,
+      "known": 4,
+      "spies": 0,
+      "gain": 0.11104195564985275
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 150,
+      "difficulty": 0,
+      "known": 1,
+      "spies": 1,
+      "gain": 0.13313685357570648
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 150,
+      "difficulty": 0,
+      "known": 2,
+      "spies": 2,
+      "gain": 0.1679999977350235
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 150,
+      "difficulty": 0,
+      "known": 4,
+      "spies": 2,
+      "gain": 0.1679999977350235
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 150,
+      "difficulty": 4,
+      "known": 1,
+      "spies": 0,
+      "gain": 0.06317594647407532
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 150,
+      "difficulty": 4,
+      "known": 2,
+      "spies": 0,
+      "gain": 0.07138411700725555
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 150,
+      "difficulty": 4,
+      "known": 4,
+      "spies": 0,
+      "gain": 0.07138411700725555
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 150,
+      "difficulty": 4,
+      "known": 1,
+      "spies": 1,
+      "gain": 0.08558797091245651
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 150,
+      "difficulty": 4,
+      "known": 2,
+      "spies": 2,
+      "gain": 0.10799999535083771
+    },
+    {
+      "division": 3,
+      "fundingLevel": 1,
+      "modifier": 150,
+      "difficulty": 4,
+      "known": 4,
+      "spies": 2,
+      "gain": 0.10799999535083771
+    }
+  ],
+  "divisionRates": [
+    99.0,
+    0.05000000074505806,
+    0.04500000178813934,
+    0.03999999910593033,
+    0.03500000014901161,
+    0.029999999329447746,
+    0.02500000037252903,
+    0.019999999552965164
+  ],
+  "difficultyRates": [
+    1.399999976158142,
+    1.2000000476837158,
+    1.0,
+    0.949999988079071,
+    0.8999999761581421
+  ]
+}

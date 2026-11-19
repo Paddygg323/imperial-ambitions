@@ -1,0 +1,520 @@
+{
+  "scope": "Execute original5f9980 country economy scheduler with callback bodies supplied.\nProves invocation order and eligibility only, not callback internals.\n",
+  "cases": [
+    {
+      "missing": -1,
+      "phase": 6,
+      "status": 0,
+      "calls": [
+        {
+          "nation": 5,
+          "stage": "refreshPotential"
+        },
+        {
+          "nation": 5,
+          "stage": "deliverDomestic"
+        },
+        {
+          "nation": 5,
+          "stage": "addCreated"
+        },
+        {
+          "nation": 5,
+          "stage": "finishCity"
+        },
+        {
+          "nation": 5,
+          "stage": "accrueInterest"
+        },
+        {
+          "nation": 5,
+          "stage": "startCityProduction"
+        },
+        {
+          "nation": 5,
+          "stage": "afterCity"
+        },
+        {
+          "nation": 4,
+          "stage": "refreshPotential"
+        },
+        {
+          "nation": 4,
+          "stage": "deliverDomestic"
+        },
+        {
+          "nation": 4,
+          "stage": "addCreated"
+        },
+        {
+          "nation": 4,
+          "stage": "finishCity"
+        },
+        {
+          "nation": 4,
+          "stage": "accrueInterest"
+        },
+        {
+          "nation": 4,
+          "stage": "startCityProduction"
+        },
+        {
+          "nation": 4,
+          "stage": "afterCity"
+        },
+        {
+          "nation": 3,
+          "stage": "refreshPotential"
+        },
+        {
+          "nation": 3,
+          "stage": "deliverDomestic"
+        },
+        {
+          "nation": 3,
+          "stage": "addCreated"
+        },
+        {
+          "nation": 3,
+          "stage": "finishCity"
+        },
+        {
+          "nation": 3,
+          "stage": "accrueInterest"
+        },
+        {
+          "nation": 3,
+          "stage": "startCityProduction"
+        },
+        {
+          "nation": 3,
+          "stage": "afterCity"
+        },
+        {
+          "nation": 2,
+          "stage": "refreshPotential"
+        },
+        {
+          "nation": 2,
+          "stage": "deliverDomestic"
+        },
+        {
+          "nation": 2,
+          "stage": "addCreated"
+        },
+        {
+          "nation": 2,
+          "stage": "finishCity"
+        },
+        {
+          "nation": 2,
+          "stage": "accrueInterest"
+        },
+        {
+          "nation": 2,
+          "stage": "startCityProduction"
+        },
+        {
+          "nation": 2,
+          "stage": "afterCity"
+        },
+        {
+          "nation": 1,
+          "stage": "refreshPotential"
+        },
+        {
+          "nation": 1,
+          "stage": "deliverDomestic"
+        },
+        {
+          "nation": 1,
+          "stage": "addCreated"
+        },
+        {
+          "nation": 1,
+          "stage": "finishCity"
+        },
+        {
+          "nation": 1,
+          "stage": "accrueInterest"
+        },
+        {
+          "nation": 1,
+          "stage": "startCityProduction"
+        },
+        {
+          "nation": 1,
+          "stage": "afterCity"
+        },
+        {
+          "nation": 0,
+          "stage": "refreshPotential"
+        },
+        {
+          "nation": 0,
+          "stage": "deliverDomestic"
+        },
+        {
+          "nation": 0,
+          "stage": "addCreated"
+        },
+        {
+          "nation": 0,
+          "stage": "finishCity"
+        },
+        {
+          "nation": 0,
+          "stage": "accrueInterest"
+        },
+        {
+          "nation": 0,
+          "stage": "startCityProduction"
+        },
+        {
+          "nation": 0,
+          "stage": "afterCity"
+        }
+      ]
+    },
+    {
+      "missing": 2,
+      "phase": 6,
+      "status": 0,
+      "calls": [
+        {
+          "nation": 5,
+          "stage": "refreshPotential"
+        },
+        {
+          "nation": 5,
+          "stage": "deliverDomestic"
+        },
+        {
+          "nation": 5,
+          "stage": "addCreated"
+        },
+        {
+          "nation": 5,
+          "stage": "finishCity"
+        },
+        {
+          "nation": 5,
+          "stage": "accrueInterest"
+        },
+        {
+          "nation": 5,
+          "stage": "startCityProduction"
+        },
+        {
+          "nation": 5,
+          "stage": "afterCity"
+        },
+        {
+          "nation": 4,
+          "stage": "refreshPotential"
+        },
+        {
+          "nation": 4,
+          "stage": "deliverDomestic"
+        },
+        {
+          "nation": 4,
+          "stage": "addCreated"
+        },
+        {
+          "nation": 4,
+          "stage": "finishCity"
+        },
+        {
+          "nation": 4,
+          "stage": "accrueInterest"
+        },
+        {
+          "nation": 4,
+          "stage": "startCityProduction"
+        },
+        {
+          "nation": 4,
+          "stage": "afterCity"
+        },
+        {
+          "nation": 3,
+          "stage": "refreshPotential"
+        },
+        {
+          "nation": 3,
+          "stage": "deliverDomestic"
+        },
+        {
+          "nation": 3,
+          "stage": "addCreated"
+        },
+        {
+          "nation": 3,
+          "stage": "finishCity"
+        },
+        {
+          "nation": 3,
+          "stage": "accrueInterest"
+        },
+        {
+          "nation": 3,
+          "stage": "startCityProduction"
+        },
+        {
+          "nation": 3,
+          "stage": "afterCity"
+        },
+        {
+          "nation": 1,
+          "stage": "refreshPotential"
+        },
+        {
+          "nation": 1,
+          "stage": "deliverDomestic"
+        },
+        {
+          "nation": 1,
+          "stage": "addCreated"
+        },
+        {
+          "nation": 1,
+          "stage": "finishCity"
+        },
+        {
+          "nation": 1,
+          "stage": "accrueInterest"
+        },
+        {
+          "nation": 1,
+          "stage": "startCityProduction"
+        },
+        {
+          "nation": 1,
+          "stage": "afterCity"
+        },
+        {
+          "nation": 0,
+          "stage": "refreshPotential"
+        },
+        {
+          "nation": 0,
+          "stage": "deliverDomestic"
+        },
+        {
+          "nation": 0,
+          "stage": "addCreated"
+        },
+        {
+          "nation": 0,
+          "stage": "finishCity"
+        },
+        {
+          "nation": 0,
+          "stage": "accrueInterest"
+        },
+        {
+          "nation": 0,
+          "stage": "startCityProduction"
+        },
+        {
+          "nation": 0,
+          "stage": "afterCity"
+        }
+      ]
+    },
+    {
+      "missing": -1,
+      "phase": 5,
+      "status": 0,
+      "calls": []
+    },
+    {
+      "missing": -1,
+      "phase": 6,
+      "status": 100,
+      "calls": []
+    },
+    {
+      "missing": -1,
+      "phase": 6,
+      "status": 149,
+      "calls": []
+    },
+    {
+      "missing": -1,
+      "phase": 6,
+      "status": 150,
+      "calls": [
+        {
+          "nation": 5,
+          "stage": "refreshPotential"
+        },
+        {
+          "nation": 5,
+          "stage": "deliverDomestic"
+        },
+        {
+          "nation": 5,
+          "stage": "addCreated"
+        },
+        {
+          "nation": 5,
+          "stage": "finishCity"
+        },
+        {
+          "nation": 5,
+          "stage": "accrueInterest"
+        },
+        {
+          "nation": 5,
+          "stage": "startCityProduction"
+        },
+        {
+          "nation": 5,
+          "stage": "afterCity"
+        },
+        {
+          "nation": 4,
+          "stage": "refreshPotential"
+        },
+        {
+          "nation": 4,
+          "stage": "deliverDomestic"
+        },
+        {
+          "nation": 4,
+          "stage": "addCreated"
+        },
+        {
+          "nation": 4,
+          "stage": "finishCity"
+        },
+        {
+          "nation": 4,
+          "stage": "accrueInterest"
+        },
+        {
+          "nation": 4,
+          "stage": "startCityProduction"
+        },
+        {
+          "nation": 4,
+          "stage": "afterCity"
+        },
+        {
+          "nation": 3,
+          "stage": "refreshPotential"
+        },
+        {
+          "nation": 3,
+          "stage": "deliverDomestic"
+        },
+        {
+          "nation": 3,
+          "stage": "addCreated"
+        },
+        {
+          "nation": 3,
+          "stage": "finishCity"
+        },
+        {
+          "nation": 3,
+          "stage": "accrueInterest"
+        },
+        {
+          "nation": 3,
+          "stage": "startCityProduction"
+        },
+        {
+          "nation": 3,
+          "stage": "afterCity"
+        },
+        {
+          "nation": 2,
+          "stage": "refreshPotential"
+        },
+        {
+          "nation": 2,
+          "stage": "deliverDomestic"
+        },
+        {
+          "nation": 2,
+          "stage": "addCreated"
+        },
+        {
+          "nation": 2,
+          "stage": "finishCity"
+        },
+        {
+          "nation": 2,
+          "stage": "accrueInterest"
+        },
+        {
+          "nation": 2,
+          "stage": "startCityProduction"
+        },
+        {
+          "nation": 2,
+          "stage": "afterCity"
+        },
+        {
+          "nation": 1,
+          "stage": "refreshPotential"
+        },
+        {
+          "nation": 1,
+          "stage": "deliverDomestic"
+        },
+        {
+          "nation": 1,
+          "stage": "addCreated"
+        },
+        {
+          "nation": 1,
+          "stage": "finishCity"
+        },
+        {
+          "nation": 1,
+          "stage": "accrueInterest"
+        },
+        {
+          "nation": 1,
+          "stage": "startCityProduction"
+        },
+        {
+          "nation": 1,
+          "stage": "afterCity"
+        },
+        {
+          "nation": 0,
+          "stage": "refreshPotential"
+        },
+        {
+          "nation": 0,
+          "stage": "deliverDomestic"
+        },
+        {
+          "nation": 0,
+          "stage": "addCreated"
+        },
+        {
+          "nation": 0,
+          "stage": "finishCity"
+        },
+        {
+          "nation": 0,
+          "stage": "accrueInterest"
+        },
+        {
+          "nation": 0,
+          "stage": "startCityProduction"
+        },
+        {
+          "nation": 0,
+          "stage": "afterCity"
+        }
+      ]
+    }
+  ]
+}

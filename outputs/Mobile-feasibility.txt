@@ -1,0 +1,81 @@
+Imperialism II mobile project — feasibility checkpoint, 5 October 2026
+
+Target: Android FIRST per user update; iPhone later. Full original game; execution on phones; no Windows
+PC host or streaming. Separate devices plan concurrently and control both sides
+of human battles. Durable saves, reconnects, private reports and round barriers
+are required. Original installation and reference project remain read-only.
+
+Evidence inspected
+Phone-version-scope.txt, Inspection-and-test-report.md, Combat-fix-status.txt
+in the separate reference project's outputs directory.
+They establish a native x86 Windows binary, Windows API dependencies, resource
+containers and binary patches. They do not establish portable engine source.
+Windows transport probes and local combat tests are not mobile gameplay tests.
+
+Candidate A: original engine inside a local phone runtime
+Android: Winlator uses Wine and Box86/Box64. This is a plausible full-content
+runtime candidate, not verified Imperialism II compatibility.
+iPhone: UTM SE emulates x86 without JIT. An x86 guest with the required Windows
+API environment is a candidate; guest setup, storage, software dependencies,
+graphics, sound, speed and networking all require actual device testing.
+UTM's accelerated iOS edition depends on JIT workarounds or jailbreaking, so it
+cannot be assumed to satisfy a reliable independent no-PC setup.
+An on-phone guest is different from a physical Windows PC host. Whether this
+form of execution satisfies the user's intended product is pending clarification.
+
+Candidate B: dedicated mobile application
+Requires source acquisition/porting or extensive engine reconstruction, plus
+resource decoding, UI adaptation, AI and multiplayer. Existing patch addresses
+and a mismatched linker map are research clues, not portable implementations.
+Full rule parity cannot be promised from a generic strategy-game prototype.
+If compatibility fails on either target, this is a major development programme.
+
+Decision: test Candidate A first if acceptable to the user; keep Candidate B as
+the dedicated-app route. No cosmetic shell has been substituted for the game.
+No custom APK, IPA or successful phone gameplay demonstration exists at this checkpoint.
+An Android compatibility-test archive and instructions are now prepared; this
+contains the unchanged engine and is not itself an Android application.
+This workspace has Node available; adb, Java, Gradle and Python were not found
+on PATH in the initial inspection. No phone-control connection was established.
+
+Acceptance gates, in order
+1. Record actual phone models, OS versions and runtime versions. Import the
+   user's game files privately; never bundle or publish original assets.
+2. On EACH phone, launch the original engine without a PC service; verify map,
+   text, touch pointer, sound, historical Europe and generated-map setup.
+3. Complete single-player strategic rounds and a manual battle; save, terminate
+   the runtime and load again. Measure turn time and sustained responsiveness.
+4. Two real phone instances host/join the native network game. Start on LAN;
+   discovery success and transport packets alone do not pass this gate.
+5. Select different major nations, issue distinct concurrent orders; first End
+   Turn must wait, last End Turn must advance the shared round once. Verify
+   private trade/diplomacy reports and correct participant battle control.
+6. Test human battle with reversed roles, AI battle, retreat and victory; campaign
+   resumes only after all required combat and reports finish.
+7. Disconnect during planning, submission, battle and results. Restore the seat
+   and save without duplicate resolution. Native reconnect support is unknown;
+   do not claim a network relay adds persistence the engine does not possess.
+8. Test internet connectivity separately. A relay/VPN may carry traffic, but it
+   must not run the game. Phone host survival, mobile OS suspension, background
+   networking and eliminated-host behaviour require explicit tests.
+9. Longer campaigns, every difficulty/custom rule, nation AI, minor diplomacy,
+   research, economy, exploration, navies and victory must pass on both targets.
+
+Network architecture constraint
+Retain native simulation semantics for the compatibility experiment. Do not add
+a second round resolver around the engine's End Turn. A new authoritative
+protocol requires a verified engine interface and transactional checkpoints.
+Exactly-once logical resolution needs persisted state/idempotent retries; a
+server receiving six End Turn messages is insufficient proof of gameplay.
+
+Primary sources checked 5 October 2026
+Winlator: https://github.com/brunodev85/winlator
+UTM architecture/JIT/SE: https://github.com/utmapp/UTM/blob/main/README.md
+UTM iOS installation: https://docs.getutm.app/installation/ios/
+UTM guest networking: https://docs.getutm.app/settings-qemu/devices/network/network/
+Wine DirectPlay implementation: https://github.com/wine-mirror/wine/tree/master/dlls/dplayx
+These document runtime capabilities, not Imperialism II support.
+
+Outstanding input: phone models/OS; whether an entirely on-phone emulator is
+acceptable or a dedicated mobile app is required; access to device testing.
+No Claude review or physical phone gameplay testing was performed in this chat.

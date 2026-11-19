@@ -1,0 +1,28 @@
+Imperial Ambitions designer repository verification
+19 November 2026 — runtime 254 snapshot
+
+Verified in this standalone handover directory:
+- Full Node suite: 958 tests passed, 0 failed, 0 skipped; 333 test files.
+- Browser smoke: desktop and 412-pixel phone layouts started without page errors.
+- All 51 reviewed runtime sprite mappings decoded.
+- Asset check: 51 runtime sprite mappings and 121 library entries resolve.
+- Content audit: no credential-pattern matches or excluded secret/binary file types found.
+- No tracked signing keys, environment credentials, APKs or AABs.
+
+Portability changes made only to the handover copy:
+- Added local start, sprite-library, unit-test and browser-smoke commands.
+- Moved the historical map fixtures into game/test/fixtures and updated test imports.
+- The siege test creates its diagnostic output directory before writing.
+- Android helpers accept documented environment-based toolchain paths.
+- Updated the library's obsolete integration message and added the designer brief,
+  source mapping, architecture, provenance and known-limit documentation.
+
+The original working game project, Windows game, hotseat mod and campaign saves
+were not modified by these handover portability changes.
+
+These checks establish that the checkout runs and its automated suite passes.
+They do not constitute acceptance of the appearance, a complete campaign/balance
+review, a new Android build, a physical Pixel test or app-store readiness.
+
+GitHub visibility: intended private. The upload and remote commit are verified
+separately after publication; this file is not evidence of a successful upload.

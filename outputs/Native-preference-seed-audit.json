@@ -1,0 +1,29 @@
+{
+  "scope": "Original simulation initialization5f5e65..5f5e8a stores time(NULL) at+128.\nOnly CRT clock call6832c0 supplied; fixed clock inputs include uint32 boundaries.\nSeparate serialization field transfer is visible at5f6367..5f6374.\n",
+  "cases": [
+    {
+      "clock": 0,
+      "stored": 0
+    },
+    {
+      "clock": 1,
+      "stored": 1
+    },
+    {
+      "clock": 123456,
+      "stored": 123456
+    },
+    {
+      "clock": 2147483647,
+      "stored": 2147483647
+    },
+    {
+      "clock": 2147483648,
+      "stored": 2147483648
+    },
+    {
+      "clock": 4294967295,
+      "stored": 4294967295
+    }
+  ]
+}

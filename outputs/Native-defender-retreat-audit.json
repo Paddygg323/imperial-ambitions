@@ -1,0 +1,165 @@
+{
+  "scope": "Original RetreatDefender 4bcdf0. Native adjacency/ownership selection and\niteration; RNG supplied, unit order/move/destruction callbacks recorded.\n",
+  "cases": [
+    {
+      "owners": [
+        1,
+        1,
+        1
+      ],
+      "roll": 0,
+      "destination": 1,
+      "destroyed": 0
+    },
+    {
+      "owners": [
+        1,
+        1,
+        1
+      ],
+      "roll": 1,
+      "destination": 2,
+      "destroyed": 0
+    },
+    {
+      "owners": [
+        1,
+        1,
+        1
+      ],
+      "roll": 2,
+      "destination": 3,
+      "destroyed": 0
+    },
+    {
+      "owners": [
+        1,
+        1,
+        1
+      ],
+      "roll": 7,
+      "destination": 2,
+      "destroyed": 0
+    },
+    {
+      "owners": [
+        0,
+        1,
+        2
+      ],
+      "roll": 0,
+      "destination": 2,
+      "destroyed": 0
+    },
+    {
+      "owners": [
+        0,
+        1,
+        2
+      ],
+      "roll": 1,
+      "destination": 2,
+      "destroyed": 0
+    },
+    {
+      "owners": [
+        0,
+        1,
+        2
+      ],
+      "roll": 2,
+      "destination": 2,
+      "destroyed": 0
+    },
+    {
+      "owners": [
+        0,
+        1,
+        2
+      ],
+      "roll": 7,
+      "destination": 2,
+      "destroyed": 0
+    },
+    {
+      "owners": [
+        2,
+        2,
+        1
+      ],
+      "roll": 0,
+      "destination": 3,
+      "destroyed": 0
+    },
+    {
+      "owners": [
+        2,
+        2,
+        1
+      ],
+      "roll": 1,
+      "destination": 3,
+      "destroyed": 0
+    },
+    {
+      "owners": [
+        2,
+        2,
+        1
+      ],
+      "roll": 2,
+      "destination": 3,
+      "destroyed": 0
+    },
+    {
+      "owners": [
+        2,
+        2,
+        1
+      ],
+      "roll": 7,
+      "destination": 3,
+      "destroyed": 0
+    },
+    {
+      "owners": [
+        0,
+        0,
+        0
+      ],
+      "roll": 0,
+      "destination": null,
+      "destroyed": 2
+    },
+    {
+      "owners": [
+        0,
+        0,
+        0
+      ],
+      "roll": 1,
+      "destination": null,
+      "destroyed": 2
+    },
+    {
+      "owners": [
+        0,
+        0,
+        0
+      ],
+      "roll": 2,
+      "destination": null,
+      "destroyed": 2
+    },
+    {
+      "owners": [
+        0,
+        0,
+        0
+      ],
+      "roll": 7,
+      "destination": null,
+      "destroyed": 2
+    }
+  ]
+}

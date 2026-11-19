@@ -1,0 +1,11 @@
+{
+  "runtime": "3-185",
+  "change": "Research reports retain funded, plannedFunding, cumulative investment and completed fields, including final completed-project payment. Visible completed text includes actual turn spending; short funding states planned amount.",
+  "focusedPassed": 8,
+  "focusedEvidence": "work/rebuild-v2/research-funding-report-tests.txt",
+  "fullPassed": 798,
+  "fullEvidence": "work/rebuild-v2/tests-research-funding-report-full.txt",
+  "packagedBrowserPassed": true,
+  "browserEvidence": "work/rebuild-v2/android-browser-latest.txt",
+  "pixelTested": false
+}

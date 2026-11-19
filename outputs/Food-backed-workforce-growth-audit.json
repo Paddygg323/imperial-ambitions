@@ -1,0 +1,38 @@
+{
+  "scope": "Existing public-command campaign: transported food supports recruitment across saved tactical combat and exactly one economy settlement",
+  "initialTurn": 155,
+  "finalTurn": 156,
+  "workers": [
+    11,
+    13
+  ],
+  "labour": [
+    17,
+    19
+  ],
+  "foodForecastBeforeCasualties": {
+    "grain": 12,
+    "protein": 11,
+    "total": 23
+  },
+  "deliveredFood": {
+    "grain": 12,
+    "protein": 11
+  },
+  "starved": 0,
+  "unfit": 0,
+  "researchFunded": 700,
+  "completedTechnology": "44",
+  "cash": [
+    234,
+    427
+  ],
+  "sales": 1040,
+  "purchases": 184,
+  "limits": [
+    "Two other research projects still unfunded",
+    "One English regiment lost during the battle; food population consequently changes",
+    "Headless tactical policy for both sides, not human touch combat",
+    "Not a completed campaign or physical Pixel test"
+  ]
+}

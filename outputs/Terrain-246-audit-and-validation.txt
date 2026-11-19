@@ -1,0 +1,13 @@
+Terrain audit and desert update246 — 17 November 2026
+
+The full terrain overhaul is NOT complete. Source audit:
+- Plains/open range/farms/plantations: shared newer royal-meadow paint layer over blended colour and older terrain substrate. Resource and development illustrations are separate.
+- Fertile hills/barren hills/mountains: newer royal-relief atlas above ground.
+- Desert: new dedicated royal-desert.png in246, pale straw yellow sunbaked earth, fine fissures and shallow sandy ripples. Replaces older low-opacity terrain-sheet sampling. World-anchored texture across adjoining desert hexes; existing colour blending retained underneath. No terrain/resource distribution or game-rule changes.
+- Swamp, barren tundra, furry tundra: older terrain-sheet backgrounds still present; no dedicated new painted surface in this pass.
+- Hardwood/scrub forest and towns: retained atlas illustrations, with meadow/ground changes beneath; not newly redrawn in246.
+- Ocean: newer royal-ocean painted asset from243; strategic view remains parchment.
+
+Built-in image_gen generated the desert asset (not CLI). Final prompt: square seamless top-down pale straw YELLOW desert, sunbaked earth, delicate fine fissures and shallow sandy ripples, ochre shadows/butter-yellow highlights, quiet restrained contrast; no large dunes, objects, plants, border, text or horizon. Intended historical strategy-map hand-painted style. User requested yellower after initial orange dune candidate; final source is exec-0331e8a6-a4bc-4d04-be50-ca72c9da1319.png, copied to game/assets/royal-desert.png.
+
+Synthetic isolated test screenshots: outputs/visual-review/desert246/local.png, nation.png, phone.png. England terrain was changed ONLY in disposable memory to show a large desert fixture, not in player saves. Rendering left fixture bytes unchanged, no JavaScript errors. These screenshots are not evidence that England is desert in the game. Browser visual inspection completed. APK/AAB built; no physical Pixel check or installation this revision.

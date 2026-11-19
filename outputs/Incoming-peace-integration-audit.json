@@ -1,0 +1,30 @@
+{
+  "scope": "Saved incoming human peace offers and explicit public response command; AI delivery not yet enabled",
+  "implementation": [
+    "game/incoming-peace.mjs",
+    "game/peace-settlement.mjs",
+    "game/engine.mjs",
+    "game/app.mjs"
+  ],
+  "focusedPassed": 9,
+  "focusedEvidence": "work/rebuild-v2/incoming-peace-tests.txt",
+  "fullStatus": "passed",
+  "fullEvidence": "work/rebuild-v2/tests-incoming-peace-full.txt",
+  "verified": [
+    "Duplicate offers suppressed; queue does not change war or orders",
+    "Incoming offer survives save/reload",
+    "Only human and boolean response accepted",
+    "Rejection keeps wars/orders; acceptance applies peace and threatened human alliance consequences",
+    "Expired offers dismiss without reapplying settlement",
+    "Malformed incoming save records rejected"
+  ],
+  "remaining": [
+    "Wire native AI seeking into audited turn scheduling and offer delivery",
+    "Run packaged touch response checks after integration",
+    "AI-to-AI proposals and proposer-side alliance promises remain incomplete",
+    "APK stays3-183; no Pixel/full-campaign claim"
+  ],
+  "fullPassed": 793,
+  "fullDurationMs": 112365.0636,
+  "supersededBy": "outputs/Live-incoming-peace-audit.json"
+}

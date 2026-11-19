@@ -1,0 +1,257 @@
+{
+  "scope": "Original50de00 territorial multiplier: actual count loop over supplied\nprovince records, distinguishing Old World marker<12 from overseas>=12.\n",
+  "cases": [
+    {
+      "total": 1,
+      "old": 0,
+      "overseas": 0,
+      "result": 1.0
+    },
+    {
+      "total": 1,
+      "old": 0,
+      "overseas": 1,
+      "result": 1.0
+    },
+    {
+      "total": 1,
+      "old": 0,
+      "overseas": 12,
+      "result": 1.0
+    },
+    {
+      "total": 1,
+      "old": 1,
+      "overseas": 0,
+      "result": 1.5
+    },
+    {
+      "total": 1,
+      "old": 1,
+      "overseas": 1,
+      "result": 1.5
+    },
+    {
+      "total": 1,
+      "old": 1,
+      "overseas": 12,
+      "result": 1.5
+    },
+    {
+      "total": 10,
+      "old": 0,
+      "overseas": 0,
+      "result": 1.0
+    },
+    {
+      "total": 10,
+      "old": 0,
+      "overseas": 1,
+      "result": 1.0
+    },
+    {
+      "total": 10,
+      "old": 0,
+      "overseas": 12,
+      "result": 1.0
+    },
+    {
+      "total": 10,
+      "old": 5,
+      "overseas": 0,
+      "result": 1.0
+    },
+    {
+      "total": 10,
+      "old": 5,
+      "overseas": 1,
+      "result": 1.0
+    },
+    {
+      "total": 10,
+      "old": 5,
+      "overseas": 12,
+      "result": 1.0
+    },
+    {
+      "total": 10,
+      "old": 6,
+      "overseas": 0,
+      "result": 1.1
+    },
+    {
+      "total": 10,
+      "old": 6,
+      "overseas": 1,
+      "result": 1.1
+    },
+    {
+      "total": 10,
+      "old": 6,
+      "overseas": 12,
+      "result": 1.1
+    },
+    {
+      "total": 10,
+      "old": 10,
+      "overseas": 0,
+      "result": 1.5
+    },
+    {
+      "total": 10,
+      "old": 10,
+      "overseas": 1,
+      "result": 1.5
+    },
+    {
+      "total": 10,
+      "old": 10,
+      "overseas": 12,
+      "result": 1.5
+    },
+    {
+      "total": 83,
+      "old": 0,
+      "overseas": 0,
+      "result": 1.0
+    },
+    {
+      "total": 83,
+      "old": 0,
+      "overseas": 1,
+      "result": 1.0
+    },
+    {
+      "total": 83,
+      "old": 0,
+      "overseas": 12,
+      "result": 1.0
+    },
+    {
+      "total": 83,
+      "old": 41,
+      "overseas": 0,
+      "result": 1.0
+    },
+    {
+      "total": 83,
+      "old": 41,
+      "overseas": 1,
+      "result": 1.0
+    },
+    {
+      "total": 83,
+      "old": 41,
+      "overseas": 12,
+      "result": 1.0
+    },
+    {
+      "total": 83,
+      "old": 42,
+      "overseas": 0,
+      "result": 1.0060240963855422
+    },
+    {
+      "total": 83,
+      "old": 42,
+      "overseas": 1,
+      "result": 1.0060240963855422
+    },
+    {
+      "total": 83,
+      "old": 42,
+      "overseas": 12,
+      "result": 1.0060240963855422
+    },
+    {
+      "total": 83,
+      "old": 83,
+      "overseas": 0,
+      "result": 1.5
+    },
+    {
+      "total": 83,
+      "old": 83,
+      "overseas": 1,
+      "result": 1.5
+    },
+    {
+      "total": 83,
+      "old": 83,
+      "overseas": 12,
+      "result": 1.5
+    },
+    {
+      "total": 100,
+      "old": 0,
+      "overseas": 0,
+      "result": 1.0
+    },
+    {
+      "total": 100,
+      "old": 0,
+      "overseas": 1,
+      "result": 1.0
+    },
+    {
+      "total": 100,
+      "old": 0,
+      "overseas": 12,
+      "result": 1.0
+    },
+    {
+      "total": 100,
+      "old": 50,
+      "overseas": 0,
+      "result": 1.0
+    },
+    {
+      "total": 100,
+      "old": 50,
+      "overseas": 1,
+      "result": 1.0
+    },
+    {
+      "total": 100,
+      "old": 50,
+      "overseas": 12,
+      "result": 1.0
+    },
+    {
+      "total": 100,
+      "old": 51,
+      "overseas": 0,
+      "result": 1.01
+    },
+    {
+      "total": 100,
+      "old": 51,
+      "overseas": 1,
+      "result": 1.01
+    },
+    {
+      "total": 100,
+      "old": 51,
+      "overseas": 12,
+      "result": 1.01
+    },
+    {
+      "total": 100,
+      "old": 100,
+      "overseas": 0,
+      "result": 1.5
+    },
+    {
+      "total": 100,
+      "old": 100,
+      "overseas": 1,
+      "result": 1.5
+    },
+    {
+      "total": 100,
+      "old": 100,
+      "overseas": 12,
+      "result": 1.5
+    }
+  ]
+}

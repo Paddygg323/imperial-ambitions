@@ -1,0 +1,114 @@
+{
+  "scope": "Original transport-disaster setup5a98e8 and DoEvent534cd0.\nNative initializer runs; year query, diagnostic printf and event enqueue supplied.\nDoes not model event probability or current/previous-list rotation.\n",
+  "detail": 3,
+  "cases": [
+    {
+      "nation": 0,
+      "present": false,
+      "events": []
+    },
+    {
+      "nation": 0,
+      "present": true,
+      "events": [
+        {
+          "kind": 8,
+          "nation": 0,
+          "detail": 3,
+          "extra": 4294967295,
+          "priority": 0
+        }
+      ]
+    },
+    {
+      "nation": 1,
+      "present": false,
+      "events": []
+    },
+    {
+      "nation": 1,
+      "present": true,
+      "events": [
+        {
+          "kind": 8,
+          "nation": 1,
+          "detail": 3,
+          "extra": 4294967295,
+          "priority": 0
+        }
+      ]
+    },
+    {
+      "nation": 2,
+      "present": false,
+      "events": []
+    },
+    {
+      "nation": 2,
+      "present": true,
+      "events": [
+        {
+          "kind": 8,
+          "nation": 2,
+          "detail": 3,
+          "extra": 4294967295,
+          "priority": 0
+        }
+      ]
+    },
+    {
+      "nation": 3,
+      "present": false,
+      "events": []
+    },
+    {
+      "nation": 3,
+      "present": true,
+      "events": [
+        {
+          "kind": 8,
+          "nation": 3,
+          "detail": 3,
+          "extra": 4294967295,
+          "priority": 0
+        }
+      ]
+    },
+    {
+      "nation": 4,
+      "present": false,
+      "events": []
+    },
+    {
+      "nation": 4,
+      "present": true,
+      "events": [
+        {
+          "kind": 8,
+          "nation": 4,
+          "detail": 3,
+          "extra": 4294967295,
+          "priority": 0
+        }
+      ]
+    },
+    {
+      "nation": 5,
+      "present": false,
+      "events": []
+    },
+    {
+      "nation": 5,
+      "present": true,
+      "events": [
+        {
+          "kind": 8,
+          "nation": 5,
+          "detail": 3,
+          "extra": 4294967295,
+          "priority": 0
+        }
+      ]
+    }
+  ]
+}

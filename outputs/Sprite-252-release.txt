@@ -1,0 +1,15 @@
+Runtime 252 / public Site version 9
+
+Published: https://imperial-ambitions-playtest-paddy.paddygarrettb.chatgpt.site
+Source commit: 17aff5889caad7baee3f9c0de51750b643df2ead
+Deployment: appgdep_6afe323d1a348191adbd0b0ea06ac64e (succeeded)
+
+Integrated 45 terrain/resource sprite mappings from 25 source PNGs. Includes flowerless plains and ten rare flower variants, sea, accepted green hills, mountains, swamp, flat desert, tundra, forests, cattle, sheep, horses, grain levels 0–4, cotton and spice development sets, sugar, tobacco, corrected fur tundra, tin ore and approved mine levels 1–4. Units and towns retain existing artwork pending the next review.
+
+Source PNGs copied unchanged. Canvas extracts the colored hex, excludes review labels/borders, and feathers terrain edges. Ground renders before roads, towns and units. Resource choice uses existing prospecting visibility. No economic, research, movement, combat or save rules changed. Flower patches are sparse and deterministic. Sea texture still fades with zoom.
+
+Validation: six focused tests passed; all 45 sprite mappings decoded in Chromium; local/nation/412px phone-layout screenshots inspected; fixture state unchanged; no browser page errors. Initial crop issue exposing cream review borders was fixed and screenshots rerun. Map view browser test passed. Service-worker install and offline reload passed outside sandbox after loopback restriction blocked the initial run.
+
+Android version 252 development APK built and signature verified; 378 bundled assets verified by hash. Unsigned AAB validated with bundletool. Neither installed nor tested on a physical Pixel this turn. This is a graphical update to the development playtest, not a store-readiness certification.
+
+Rejected alternatives remain in the review archive, not the shipped renderer. PC installation, hotseat build and saves untouched.

@@ -1,0 +1,2309 @@
+{
+  "scope": "Native646820 CalculateNewItemPrice. Bid/offer queries and price-write callback\nsupplied; x87 calculation, truncation, seller exception and bounds run natively.\n",
+  "cases": [
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": -8,
+      "sellers": 0,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": -8,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": -2.5,
+      "sellers": 0,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": -2.5,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": -1,
+      "sellers": 0,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": -1,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": -0.25,
+      "sellers": 0,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": -0.25,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": 0,
+      "sellers": 0,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": 0,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": 0.25,
+      "sellers": 0,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": 0.25,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": 1,
+      "sellers": 0,
+      "price": 11
+    },
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": 1,
+      "sellers": 3,
+      "price": 11
+    },
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": 2.5,
+      "sellers": 0,
+      "price": 12
+    },
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": 2.5,
+      "sellers": 3,
+      "price": 12
+    },
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": 8,
+      "sellers": 0,
+      "price": 18
+    },
+    {
+      "savedPrevious": 10,
+      "material": false,
+      "previous": 10,
+      "delta": 8,
+      "sellers": 3,
+      "price": 18
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": -8,
+      "sellers": 0,
+      "price": 11
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": -8,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": -2.5,
+      "sellers": 0,
+      "price": 11
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": -2.5,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": -1,
+      "sellers": 0,
+      "price": 11
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": -1,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": -0.25,
+      "sellers": 0,
+      "price": 11
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": -0.25,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": 0,
+      "sellers": 0,
+      "price": 11
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": 0,
+      "sellers": 3,
+      "price": 11
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": 0.25,
+      "sellers": 0,
+      "price": 11
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": 0.25,
+      "sellers": 3,
+      "price": 11
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": 1,
+      "sellers": 0,
+      "price": 12
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": 1,
+      "sellers": 3,
+      "price": 12
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": 2.5,
+      "sellers": 0,
+      "price": 13
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": 2.5,
+      "sellers": 3,
+      "price": 13
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": 8,
+      "sellers": 0,
+      "price": 19
+    },
+    {
+      "savedPrevious": 11,
+      "material": false,
+      "previous": 11,
+      "delta": 8,
+      "sellers": 3,
+      "price": 19
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": -8,
+      "sellers": 0,
+      "price": 50
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": -8,
+      "sellers": 3,
+      "price": 42
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": -2.5,
+      "sellers": 0,
+      "price": 50
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": -2.5,
+      "sellers": 3,
+      "price": 47
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": -1,
+      "sellers": 0,
+      "price": 50
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": -1,
+      "sellers": 3,
+      "price": 49
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": -0.25,
+      "sellers": 0,
+      "price": 50
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": -0.25,
+      "sellers": 3,
+      "price": 49
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": 0,
+      "sellers": 0,
+      "price": 50
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": 0,
+      "sellers": 3,
+      "price": 50
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": 0.25,
+      "sellers": 0,
+      "price": 50
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": 0.25,
+      "sellers": 3,
+      "price": 50
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": 1,
+      "sellers": 0,
+      "price": 51
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": 1,
+      "sellers": 3,
+      "price": 51
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": 2.5,
+      "sellers": 0,
+      "price": 52
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": 2.5,
+      "sellers": 3,
+      "price": 52
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": 8,
+      "sellers": 0,
+      "price": 58
+    },
+    {
+      "savedPrevious": 50,
+      "material": false,
+      "previous": 50,
+      "delta": 8,
+      "sellers": 3,
+      "price": 58
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": -8,
+      "sellers": 0,
+      "price": 100
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": -8,
+      "sellers": 3,
+      "price": 92
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": -2.5,
+      "sellers": 0,
+      "price": 100
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": -2.5,
+      "sellers": 3,
+      "price": 97
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": -1,
+      "sellers": 0,
+      "price": 100
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": -1,
+      "sellers": 3,
+      "price": 99
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": -0.25,
+      "sellers": 0,
+      "price": 100
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": -0.25,
+      "sellers": 3,
+      "price": 99
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": 0,
+      "sellers": 0,
+      "price": 100
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": 0,
+      "sellers": 3,
+      "price": 100
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": 0.25,
+      "sellers": 0,
+      "price": 100
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": 0.25,
+      "sellers": 3,
+      "price": 100
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": 1,
+      "sellers": 0,
+      "price": 101
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": 1,
+      "sellers": 3,
+      "price": 101
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": 2.5,
+      "sellers": 0,
+      "price": 102
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": 2.5,
+      "sellers": 3,
+      "price": 102
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": 8,
+      "sellers": 0,
+      "price": 108
+    },
+    {
+      "savedPrevious": 100,
+      "material": false,
+      "previous": 100,
+      "delta": 8,
+      "sellers": 3,
+      "price": 108
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": -8,
+      "sellers": 0,
+      "price": 250
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": -8,
+      "sellers": 3,
+      "price": 230
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": -2.5,
+      "sellers": 0,
+      "price": 250
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": -2.5,
+      "sellers": 3,
+      "price": 243
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": -1,
+      "sellers": 0,
+      "price": 250
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": -1,
+      "sellers": 3,
+      "price": 247
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": -0.25,
+      "sellers": 0,
+      "price": 250
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": -0.25,
+      "sellers": 3,
+      "price": 249
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": 0,
+      "sellers": 0,
+      "price": 250
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": 0,
+      "sellers": 3,
+      "price": 250
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": 0.25,
+      "sellers": 0,
+      "price": 250
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": 0.25,
+      "sellers": 3,
+      "price": 250
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": 1,
+      "sellers": 0,
+      "price": 252
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": 1,
+      "sellers": 3,
+      "price": 252
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": 2.5,
+      "sellers": 0,
+      "price": 256
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": 2.5,
+      "sellers": 3,
+      "price": 256
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": 8,
+      "sellers": 0,
+      "price": 270
+    },
+    {
+      "savedPrevious": 250,
+      "material": false,
+      "previous": 250,
+      "delta": 8,
+      "sellers": 3,
+      "price": 270
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": -8,
+      "sellers": 0,
+      "price": 999
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": -8,
+      "sellers": 3,
+      "price": 919
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": -2.5,
+      "sellers": 0,
+      "price": 999
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": -2.5,
+      "sellers": 3,
+      "price": 974
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": -1,
+      "sellers": 0,
+      "price": 999
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": -1,
+      "sellers": 3,
+      "price": 989
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": -0.25,
+      "sellers": 0,
+      "price": 999
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": -0.25,
+      "sellers": 3,
+      "price": 996
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": 0,
+      "sellers": 0,
+      "price": 999
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": 0,
+      "sellers": 3,
+      "price": 999
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": 0.25,
+      "sellers": 0,
+      "price": 1001
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": 0.25,
+      "sellers": 3,
+      "price": 1001
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": 1,
+      "sellers": 0,
+      "price": 1008
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": 1,
+      "sellers": 3,
+      "price": 1008
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": 2.5,
+      "sellers": 0,
+      "price": 1023
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": 2.5,
+      "sellers": 3,
+      "price": 1023
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": 8,
+      "sellers": 0,
+      "price": 1078
+    },
+    {
+      "savedPrevious": 999,
+      "material": false,
+      "previous": 999,
+      "delta": 8,
+      "sellers": 3,
+      "price": 1078
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": -8,
+      "sellers": 0,
+      "price": 31000
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": -8,
+      "sellers": 3,
+      "price": 28520
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": -2.5,
+      "sellers": 0,
+      "price": 31000
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": -2.5,
+      "sellers": 3,
+      "price": 30225
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": -1,
+      "sellers": 0,
+      "price": 31000
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": -1,
+      "sellers": 3,
+      "price": 30690
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": -0.25,
+      "sellers": 0,
+      "price": 31000
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": -0.25,
+      "sellers": 3,
+      "price": 30922
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": 0,
+      "sellers": 0,
+      "price": 31000
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": 0,
+      "sellers": 3,
+      "price": 31000
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": 0.25,
+      "sellers": 0,
+      "price": 31077
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": 0.25,
+      "sellers": 3,
+      "price": 31077
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": 1,
+      "sellers": 0,
+      "price": 31310
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": 1,
+      "sellers": 3,
+      "price": 31310
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": 2.5,
+      "sellers": 0,
+      "price": 31775
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": 2.5,
+      "sellers": 3,
+      "price": 31775
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": 8,
+      "sellers": 0,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 31000,
+      "material": false,
+      "previous": 31000,
+      "delta": 8,
+      "sellers": 3,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": -8,
+      "sellers": 0,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": -8,
+      "sellers": 3,
+      "price": 29440
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": -2.5,
+      "sellers": 0,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": -2.5,
+      "sellers": 3,
+      "price": 31200
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": -1,
+      "sellers": 0,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": -1,
+      "sellers": 3,
+      "price": 31680
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": -0.25,
+      "sellers": 0,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": -0.25,
+      "sellers": 3,
+      "price": 31920
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": 0,
+      "sellers": 0,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": 0,
+      "sellers": 3,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": 0.25,
+      "sellers": 0,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": 0.25,
+      "sellers": 3,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": 1,
+      "sellers": 0,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": 1,
+      "sellers": 3,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": 2.5,
+      "sellers": 0,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": 2.5,
+      "sellers": 3,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": 8,
+      "sellers": 0,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": false,
+      "previous": 32000,
+      "delta": 8,
+      "sellers": 3,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": -8,
+      "sellers": 0,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": -8,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": -2.5,
+      "sellers": 0,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": -2.5,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": -1,
+      "sellers": 0,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": -1,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": -0.25,
+      "sellers": 0,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": -0.25,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": 0,
+      "sellers": 0,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": 0,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": 0.25,
+      "sellers": 0,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": 0.25,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": 1,
+      "sellers": 0,
+      "price": 11
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": 1,
+      "sellers": 3,
+      "price": 11
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": 2.5,
+      "sellers": 0,
+      "price": 12
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": 2.5,
+      "sellers": 3,
+      "price": 12
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": 8,
+      "sellers": 0,
+      "price": 18
+    },
+    {
+      "savedPrevious": 10,
+      "material": true,
+      "previous": 10,
+      "delta": 8,
+      "sellers": 3,
+      "price": 18
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": -8,
+      "sellers": 0,
+      "price": 10
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": -8,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": -2.5,
+      "sellers": 0,
+      "price": 10
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": -2.5,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": -1,
+      "sellers": 0,
+      "price": 10
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": -1,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": -0.25,
+      "sellers": 0,
+      "price": 10
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": -0.25,
+      "sellers": 3,
+      "price": 10
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": 0,
+      "sellers": 0,
+      "price": 11
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": 0,
+      "sellers": 3,
+      "price": 11
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": 0.25,
+      "sellers": 0,
+      "price": 11
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": 0.25,
+      "sellers": 3,
+      "price": 11
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": 1,
+      "sellers": 0,
+      "price": 12
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": 1,
+      "sellers": 3,
+      "price": 12
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": 2.5,
+      "sellers": 0,
+      "price": 13
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": 2.5,
+      "sellers": 3,
+      "price": 13
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": 8,
+      "sellers": 0,
+      "price": 19
+    },
+    {
+      "savedPrevious": 11,
+      "material": true,
+      "previous": 11,
+      "delta": 8,
+      "sellers": 3,
+      "price": 19
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": -8,
+      "sellers": 0,
+      "price": 42
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": -8,
+      "sellers": 3,
+      "price": 42
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": -2.5,
+      "sellers": 0,
+      "price": 47
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": -2.5,
+      "sellers": 3,
+      "price": 47
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": -1,
+      "sellers": 0,
+      "price": 49
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": -1,
+      "sellers": 3,
+      "price": 49
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": -0.25,
+      "sellers": 0,
+      "price": 49
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": -0.25,
+      "sellers": 3,
+      "price": 49
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": 0,
+      "sellers": 0,
+      "price": 50
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": 0,
+      "sellers": 3,
+      "price": 50
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": 0.25,
+      "sellers": 0,
+      "price": 50
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": 0.25,
+      "sellers": 3,
+      "price": 50
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": 1,
+      "sellers": 0,
+      "price": 51
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": 1,
+      "sellers": 3,
+      "price": 51
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": 2.5,
+      "sellers": 0,
+      "price": 52
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": 2.5,
+      "sellers": 3,
+      "price": 52
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": 8,
+      "sellers": 0,
+      "price": 58
+    },
+    {
+      "savedPrevious": 50,
+      "material": true,
+      "previous": 50,
+      "delta": 8,
+      "sellers": 3,
+      "price": 58
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": -8,
+      "sellers": 0,
+      "price": 92
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": -8,
+      "sellers": 3,
+      "price": 92
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": -2.5,
+      "sellers": 0,
+      "price": 97
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": -2.5,
+      "sellers": 3,
+      "price": 97
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": -1,
+      "sellers": 0,
+      "price": 99
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": -1,
+      "sellers": 3,
+      "price": 99
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": -0.25,
+      "sellers": 0,
+      "price": 99
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": -0.25,
+      "sellers": 3,
+      "price": 99
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": 0,
+      "sellers": 0,
+      "price": 100
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": 0,
+      "sellers": 3,
+      "price": 100
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": 0.25,
+      "sellers": 0,
+      "price": 100
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": 0.25,
+      "sellers": 3,
+      "price": 100
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": 1,
+      "sellers": 0,
+      "price": 101
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": 1,
+      "sellers": 3,
+      "price": 101
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": 2.5,
+      "sellers": 0,
+      "price": 102
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": 2.5,
+      "sellers": 3,
+      "price": 102
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": 8,
+      "sellers": 0,
+      "price": 108
+    },
+    {
+      "savedPrevious": 100,
+      "material": true,
+      "previous": 100,
+      "delta": 8,
+      "sellers": 3,
+      "price": 108
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": -8,
+      "sellers": 0,
+      "price": 230
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": -8,
+      "sellers": 3,
+      "price": 230
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": -2.5,
+      "sellers": 0,
+      "price": 243
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": -2.5,
+      "sellers": 3,
+      "price": 243
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": -1,
+      "sellers": 0,
+      "price": 247
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": -1,
+      "sellers": 3,
+      "price": 247
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": -0.25,
+      "sellers": 0,
+      "price": 249
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": -0.25,
+      "sellers": 3,
+      "price": 249
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": 0,
+      "sellers": 0,
+      "price": 250
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": 0,
+      "sellers": 3,
+      "price": 250
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": 0.25,
+      "sellers": 0,
+      "price": 250
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": 0.25,
+      "sellers": 3,
+      "price": 250
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": 1,
+      "sellers": 0,
+      "price": 252
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": 1,
+      "sellers": 3,
+      "price": 252
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": 2.5,
+      "sellers": 0,
+      "price": 256
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": 2.5,
+      "sellers": 3,
+      "price": 256
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": 8,
+      "sellers": 0,
+      "price": 270
+    },
+    {
+      "savedPrevious": 250,
+      "material": true,
+      "previous": 250,
+      "delta": 8,
+      "sellers": 3,
+      "price": 270
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": -8,
+      "sellers": 0,
+      "price": 919
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": -8,
+      "sellers": 3,
+      "price": 919
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": -2.5,
+      "sellers": 0,
+      "price": 974
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": -2.5,
+      "sellers": 3,
+      "price": 974
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": -1,
+      "sellers": 0,
+      "price": 989
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": -1,
+      "sellers": 3,
+      "price": 989
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": -0.25,
+      "sellers": 0,
+      "price": 996
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": -0.25,
+      "sellers": 3,
+      "price": 996
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": 0,
+      "sellers": 0,
+      "price": 999
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": 0,
+      "sellers": 3,
+      "price": 999
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": 0.25,
+      "sellers": 0,
+      "price": 1001
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": 0.25,
+      "sellers": 3,
+      "price": 1001
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": 1,
+      "sellers": 0,
+      "price": 1008
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": 1,
+      "sellers": 3,
+      "price": 1008
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": 2.5,
+      "sellers": 0,
+      "price": 1023
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": 2.5,
+      "sellers": 3,
+      "price": 1023
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": 8,
+      "sellers": 0,
+      "price": 1078
+    },
+    {
+      "savedPrevious": 999,
+      "material": true,
+      "previous": 999,
+      "delta": 8,
+      "sellers": 3,
+      "price": 1078
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": -8,
+      "sellers": 0,
+      "price": 28520
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": -8,
+      "sellers": 3,
+      "price": 28520
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": -2.5,
+      "sellers": 0,
+      "price": 30225
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": -2.5,
+      "sellers": 3,
+      "price": 30225
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": -1,
+      "sellers": 0,
+      "price": 30690
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": -1,
+      "sellers": 3,
+      "price": 30690
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": -0.25,
+      "sellers": 0,
+      "price": 30922
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": -0.25,
+      "sellers": 3,
+      "price": 30922
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": 0,
+      "sellers": 0,
+      "price": 31000
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": 0,
+      "sellers": 3,
+      "price": 31000
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": 0.25,
+      "sellers": 0,
+      "price": 31077
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": 0.25,
+      "sellers": 3,
+      "price": 31077
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": 1,
+      "sellers": 0,
+      "price": 31310
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": 1,
+      "sellers": 3,
+      "price": 31310
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": 2.5,
+      "sellers": 0,
+      "price": 31775
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": 2.5,
+      "sellers": 3,
+      "price": 31775
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": 8,
+      "sellers": 0,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 31000,
+      "material": true,
+      "previous": 31000,
+      "delta": 8,
+      "sellers": 3,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": -8,
+      "sellers": 0,
+      "price": 29440
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": -8,
+      "sellers": 3,
+      "price": 29440
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": -2.5,
+      "sellers": 0,
+      "price": 31200
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": -2.5,
+      "sellers": 3,
+      "price": 31200
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": -1,
+      "sellers": 0,
+      "price": 31680
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": -1,
+      "sellers": 3,
+      "price": 31680
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": -0.25,
+      "sellers": 0,
+      "price": 31920
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": -0.25,
+      "sellers": 3,
+      "price": 31920
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": 0,
+      "sellers": 0,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": 0,
+      "sellers": 3,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": 0.25,
+      "sellers": 0,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": 0.25,
+      "sellers": 3,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": 1,
+      "sellers": 0,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": 1,
+      "sellers": 3,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": 2.5,
+      "sellers": 0,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": 2.5,
+      "sellers": 3,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": 8,
+      "sellers": 0,
+      "price": 32000
+    },
+    {
+      "savedPrevious": 32000,
+      "material": true,
+      "previous": 32000,
+      "delta": 8,
+      "sellers": 3,
+      "price": 32000
+    }
+  ]
+}

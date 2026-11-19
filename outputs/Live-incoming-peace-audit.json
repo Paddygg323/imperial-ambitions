@@ -1,0 +1,38 @@
+{
+  "scope": "AI Great Power peace offers and saved human decision boundary live in development APK",
+  "focusedPassed": 4,
+  "focusedEvidence": "work/rebuild-v2/live-incoming-peace-tests.txt",
+  "fullStatus": "passed",
+  "fullEvidence": "work/rebuild-v2/tests-live-incoming-peace-full.txt",
+  "implementation": [
+    "Native reverse nation scan collects proposals before settlement",
+    "Great Power deliveries sorted by original proposer/target index",
+    "Human proposals persist before market; explicit boolean acceptance or rejection required",
+    "Saved pendingDiplomacy prevents duplicate proposal generation and AI planning on resume",
+    "Response reports carried into turn reports",
+    "Computer recipients evaluate peace without human input"
+  ],
+  "sourceEvidence": [
+    "outputs/Native-peace-seeking-audit.json",
+    "outputs/Native-foreign-minister-dispatch-audit.json",
+    "Native5249cd..524c4b iterates proposer0..5,target0..21;524bd0 dispatches recipient a4 for peace0x130"
+  ],
+  "compatibility": [
+    "Legacy transport model retains previous behavior",
+    "Wars without recorded dates are not assigned invented dates and do not generate automatic peace offers"
+  ],
+  "remaining": [
+    "Exact surrounding native response-stage timing and proposer-side alliance promises",
+    "Alliance creation and subject treaties",
+    "Pixel testing and complete campaign"
+  ],
+  "fullPassed": 797,
+  "fullDurationMs": 115837.0436,
+  "runtime": "3-184",
+  "packagedTouchPassed": true,
+  "packagedTouchEvidence": "work/rebuild-v2/incoming-peace-browser.txt",
+  "screenshot": "work/rebuild-v2/phone-incoming-peace.png",
+  "pixelTested": false,
+  "completeGame": false,
+  "touchFix": "Packaged test exposed missing respondPeace click handler; wired and reran acceptance/rejection/reload/continuation successfully."
+}

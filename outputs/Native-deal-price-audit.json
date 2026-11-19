@@ -1,0 +1,3525 @@
+{
+  "scope": "Execute native646ab0 GetDealPrice with real war and GreatPower checks.\nSynthetic country policy/status records; no function stubs.\n",
+  "cases": [
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 50,
+      "status": "independent",
+      "price": 5
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 50,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 50,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 50,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 75,
+      "status": "independent",
+      "price": 7
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 75,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 75,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 75,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 90,
+      "status": "independent",
+      "price": 9
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 90,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 90,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 90,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 95,
+      "status": "independent",
+      "price": 9
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 95,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 95,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 95,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 100,
+      "status": "independent",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 100,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 100,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 100,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 105,
+      "status": "independent",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 105,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 105,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 105,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 110,
+      "status": "independent",
+      "price": 11
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 110,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 110,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 110,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 125,
+      "status": "independent",
+      "price": 12
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 125,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 125,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 125,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 150,
+      "status": "independent",
+      "price": 15
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 150,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 150,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 150,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 200,
+      "status": "independent",
+      "price": 20
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 200,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 200,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 200,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 300,
+      "status": "independent",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 300,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 300,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 10,
+      "alternative": 27,
+      "policy": 300,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 50,
+      "status": "independent",
+      "price": 49
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 50,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 50,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 50,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 75,
+      "status": "independent",
+      "price": 74
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 75,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 75,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 75,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 90,
+      "status": "independent",
+      "price": 89
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 90,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 90,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 90,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 95,
+      "status": "independent",
+      "price": 94
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 95,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 95,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 95,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 100,
+      "status": "independent",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 100,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 100,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 100,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 105,
+      "status": "independent",
+      "price": 103
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 105,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 105,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 105,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 110,
+      "status": "independent",
+      "price": 108
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 110,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 110,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 110,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 125,
+      "status": "independent",
+      "price": 123
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 125,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 125,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 125,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 150,
+      "status": "independent",
+      "price": 148
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 150,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 150,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 150,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 200,
+      "status": "independent",
+      "price": 198
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 200,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 200,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 200,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 300,
+      "status": "independent",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 300,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 300,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 99,
+      "alternative": 116,
+      "policy": 300,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 50,
+      "status": "independent",
+      "price": 50
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 50,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 50,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 50,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 75,
+      "status": "independent",
+      "price": 75
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 75,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 75,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 75,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 90,
+      "status": "independent",
+      "price": 90
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 90,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 90,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 90,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 95,
+      "status": "independent",
+      "price": 95
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 95,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 95,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 95,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 100,
+      "status": "independent",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 100,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 100,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 100,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 105,
+      "status": "independent",
+      "price": 105
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 105,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 105,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 105,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 110,
+      "status": "independent",
+      "price": 110
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 110,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 110,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 110,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 125,
+      "status": "independent",
+      "price": 125
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 125,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 125,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 125,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 150,
+      "status": "independent",
+      "price": 150
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 150,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 150,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 150,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 200,
+      "status": "independent",
+      "price": 200
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 200,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 200,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 200,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 300,
+      "status": "independent",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 300,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 300,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 100,
+      "alternative": 117,
+      "policy": 300,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 50,
+      "status": "independent",
+      "price": 125
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 50,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 50,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 50,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 75,
+      "status": "independent",
+      "price": 188
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 75,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 75,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 75,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 90,
+      "status": "independent",
+      "price": 225
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 90,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 90,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 90,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 95,
+      "status": "independent",
+      "price": 238
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 95,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 95,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 95,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 100,
+      "status": "independent",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 100,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 100,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 100,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 105,
+      "status": "independent",
+      "price": 263
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 105,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 105,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 105,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 110,
+      "status": "independent",
+      "price": 276
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 110,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 110,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 110,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 125,
+      "status": "independent",
+      "price": 313
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 125,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 125,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 125,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 150,
+      "status": "independent",
+      "price": 376
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 150,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 150,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 150,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 200,
+      "status": "independent",
+      "price": 502
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 200,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 200,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 200,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 300,
+      "status": "independent",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 300,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 300,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 251,
+      "alternative": 268,
+      "policy": 300,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 50,
+      "status": "independent",
+      "price": 16000
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 50,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 50,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 50,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 75,
+      "status": "independent",
+      "price": 24000
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 75,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 75,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 75,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 90,
+      "status": "independent",
+      "price": 28800
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 90,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 90,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 90,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 95,
+      "status": "independent",
+      "price": 30400
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 95,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 95,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 95,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 100,
+      "status": "independent",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 100,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 100,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 100,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 105,
+      "status": "independent",
+      "price": 33600
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 105,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 105,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 105,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 110,
+      "status": "independent",
+      "price": 35200
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 110,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 110,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 110,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 125,
+      "status": "independent",
+      "price": 40000
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 125,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 125,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 125,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 150,
+      "status": "independent",
+      "price": 48000
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 150,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 150,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 150,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 200,
+      "status": "independent",
+      "price": 64000
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 200,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 200,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 200,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 300,
+      "status": "independent",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 300,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 300,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": true,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 300,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 50,
+      "status": "independent",
+      "price": 15
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 50,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 50,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 50,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 75,
+      "status": "independent",
+      "price": 12
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 75,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 75,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 75,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 90,
+      "status": "independent",
+      "price": 11
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 90,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 90,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 90,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 95,
+      "status": "independent",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 95,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 95,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 95,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 100,
+      "status": "independent",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 100,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 100,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 100,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 105,
+      "status": "independent",
+      "price": 9
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 105,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 105,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 105,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 110,
+      "status": "independent",
+      "price": 9
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 110,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 110,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 110,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 125,
+      "status": "independent",
+      "price": 7
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 125,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 125,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 125,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 150,
+      "status": "independent",
+      "price": 5
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 150,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 150,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 150,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 200,
+      "status": "independent",
+      "price": 0
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 200,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 200,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 200,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 300,
+      "status": "independent",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 300,
+      "status": "sellerSubject",
+      "price": 10
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 300,
+      "status": "buyerSubject",
+      "price": 27
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 10,
+      "alternative": 27,
+      "policy": 300,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 50,
+      "status": "independent",
+      "price": 148
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 50,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 50,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 50,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 75,
+      "status": "independent",
+      "price": 123
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 75,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 75,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 75,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 90,
+      "status": "independent",
+      "price": 108
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 90,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 90,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 90,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 95,
+      "status": "independent",
+      "price": 103
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 95,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 95,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 95,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 100,
+      "status": "independent",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 100,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 100,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 100,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 105,
+      "status": "independent",
+      "price": 94
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 105,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 105,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 105,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 110,
+      "status": "independent",
+      "price": 89
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 110,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 110,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 110,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 125,
+      "status": "independent",
+      "price": 74
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 125,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 125,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 125,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 150,
+      "status": "independent",
+      "price": 49
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 150,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 150,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 150,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 200,
+      "status": "independent",
+      "price": 0
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 200,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 200,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 200,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 300,
+      "status": "independent",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 300,
+      "status": "sellerSubject",
+      "price": 99
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 300,
+      "status": "buyerSubject",
+      "price": 116
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 99,
+      "alternative": 116,
+      "policy": 300,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 50,
+      "status": "independent",
+      "price": 150
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 50,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 50,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 50,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 75,
+      "status": "independent",
+      "price": 125
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 75,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 75,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 75,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 90,
+      "status": "independent",
+      "price": 110
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 90,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 90,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 90,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 95,
+      "status": "independent",
+      "price": 105
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 95,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 95,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 95,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 100,
+      "status": "independent",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 100,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 100,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 100,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 105,
+      "status": "independent",
+      "price": 95
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 105,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 105,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 105,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 110,
+      "status": "independent",
+      "price": 90
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 110,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 110,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 110,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 125,
+      "status": "independent",
+      "price": 75
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 125,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 125,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 125,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 150,
+      "status": "independent",
+      "price": 50
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 150,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 150,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 150,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 200,
+      "status": "independent",
+      "price": 0
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 200,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 200,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 200,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 300,
+      "status": "independent",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 300,
+      "status": "sellerSubject",
+      "price": 100
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 300,
+      "status": "buyerSubject",
+      "price": 117
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 100,
+      "alternative": 117,
+      "policy": 300,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 50,
+      "status": "independent",
+      "price": 376
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 50,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 50,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 50,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 75,
+      "status": "independent",
+      "price": 313
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 75,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 75,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 75,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 90,
+      "status": "independent",
+      "price": 276
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 90,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 90,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 90,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 95,
+      "status": "independent",
+      "price": 263
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 95,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 95,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 95,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 100,
+      "status": "independent",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 100,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 100,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 100,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 105,
+      "status": "independent",
+      "price": 238
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 105,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 105,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 105,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 110,
+      "status": "independent",
+      "price": 225
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 110,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 110,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 110,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 125,
+      "status": "independent",
+      "price": 188
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 125,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 125,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 125,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 150,
+      "status": "independent",
+      "price": 125
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 150,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 150,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 150,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 200,
+      "status": "independent",
+      "price": 0
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 200,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 200,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 200,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 300,
+      "status": "independent",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 300,
+      "status": "sellerSubject",
+      "price": 251
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 300,
+      "status": "buyerSubject",
+      "price": 268
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 251,
+      "alternative": 268,
+      "policy": 300,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 50,
+      "status": "independent",
+      "price": 48000
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 50,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 50,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 50,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 75,
+      "status": "independent",
+      "price": 40000
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 75,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 75,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 75,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 90,
+      "status": "independent",
+      "price": 35200
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 90,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 90,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 90,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 95,
+      "status": "independent",
+      "price": 33600
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 95,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 95,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 95,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 100,
+      "status": "independent",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 100,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 100,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 100,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 105,
+      "status": "independent",
+      "price": 30400
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 105,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 105,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 105,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 110,
+      "status": "independent",
+      "price": 28800
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 110,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 110,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 110,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 125,
+      "status": "independent",
+      "price": 24000
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 125,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 125,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 125,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 150,
+      "status": "independent",
+      "price": 16000
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 150,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 150,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 150,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 200,
+      "status": "independent",
+      "price": 0
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 200,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 200,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 200,
+      "status": "war",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 300,
+      "status": "independent",
+      "price": -1
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 300,
+      "status": "sellerSubject",
+      "price": 32000
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 300,
+      "status": "buyerSubject",
+      "price": 32017
+    },
+    {
+      "sellerGreatPower": false,
+      "world": 32000,
+      "alternative": 32017,
+      "policy": 300,
+      "status": "war",
+      "price": -1
+    }
+  ]
+}

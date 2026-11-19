@@ -1,0 +1,3 @@
+INSTRUMENTATION_RESULT: checks=API36 real WebView startup, funded research, native Back, rotation, market lock and staged export passed. Process restart check follows separately.
+INSTRUMENTATION_RESULT: result=PASS
+INSTRUMENTATION_CODE: -1

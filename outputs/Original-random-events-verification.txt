@@ -1,0 +1,28 @@
+Original random-event verification — 16 November 2026
+
+Primary evidence: original English string resources, extracted in work/rebuild/strings.json. Manual lines 305–306 confirms good/bad random events appear in Turn Summary; setup supports Random Events On/Off.
+
+Confirmed player-facing effects:
+43777: The relationship with [1:] has been improved as a result of a wedding joining the royal families.
+43778: Our relationship with [1:] has been damaged by our ambassador’s blundering use of the canape fork during desert at a royal fete. 
+43779: Half of our stored grain has been devoured by rats.
+43780: An unfortunate series of road accidents have reduced by 1 the amount of each resource received by land transport.
+43781: An earthquake has damaged mines in the province of [1:].  All the mines at level 2 or higher have been reduced by one level.
+43782: Immigration has added two peasants to the workforce in our city.
+43783: The country of [1:] has contributed two trading ships to our merchant fleet as a gesture showing their gratitude for being allowed to join our empire.
+43784: Our recruiting efforts were spoiled by a plague.  The fabric expended was lost.
+
+Other event/reward reports (do not assume these are independent random rolls):
+43785: Military conquest has spread enthusiasm for the army throughout the population, improving the quality of the raw recruits. All new army units start with one medal of experience.
+43786: Commercial marine interests protected by our fleet have contributed a new flag ship to show their appreciation for the growing power of the navy.
+43787: The fortifications which previously ringed the conquered capital of [1:] have been broken down, brought home, and used to increase the fortifications around our home city.
+43788: After conquering the capital of [1:], a large number of their men volunteered to join our army, and have been formed into a new infantry regiment.
+43789: During our conquest of a New World capital,  information was received which reveals the existence of the previously unknown nation of [1 :].
+43790: The goods taken in a series of privateering raids have inspired a wealthy citizen to fund a new privateering ship, which has now joined our navy.
+43791: not used
+43792: An enemy spy from [1:] was detected and captured.  He has chosen to join our forces.
+43793: To handle the ever increasing forces in the army, a new general has been appointed.
+
+Not verified: exact probabilities, relation delta, eligibility/cooldowns, grain rounding, or precise scheduling. BumperCrop handler name exists in shipped MAP but corresponding English text is blank; do not treat as confirmed active feature.
+Important binary analysis limitation: shipped MAP addresses do not match installed EXE function layout. Initial direct-address disassembly invalid for these functions. Do not infer effects/probabilities from that dump.
+No gameplay changes made in this verification.

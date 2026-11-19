@@ -1,0 +1,22 @@
+Terrain overhaul247 — all land terrain codes
+
+All 18 terrain codes now use the same new surface system:
+0 Plains,1 Cotton plantation,2 Open range,3 Horse ranch,4 Grain farm,5 Spice orchard,6 Fertile hills,12 Hardwood forest,13 Town,15 Sugar plantation,16 Tobacco plantation: painted meadow family.
+7 Barren hills,8 Mountains,14 Scrub forest: painted dry earth family.
+9 Swamp: painted wetland family.
+10 Desert: pale yellow dry-earth texture, as requested.
+11 Barren tundra,17 Furry tundra: painted cool sage lichen earth family.
+
+New coordinated feature sprites: low green hills, bare rocky hills, mountains, broadleaf forest, sparse scrub and wetland reeds/pool. Source alpha retained; measured crop bounds include margins. Empty terrain remains restrained. Old terrain.png and older relief/forest artwork are no longer used by the campaign terrain renderer. Retained resource/development/town illustrations and existing painted ocean; this is not a claim that every resource icon or town was redrawn.
+
+All images generated with built-in image_gen. Project assets: royal-ground.png (four quadrant meadow/dry earth/wetland/tundra atlas); royal-biomes.png (transparent six feature atlas); royal-desert.png (yellow desert). Prompts specified unified hand-painted historical strategy art, overhead camera, upper-left lighting, quiet ground, no text/hexagons/frames, isolated transparent feature clusters. Generated files retained unmodified; ground repetitions are reflected in browser canvas to avoid hard repeat seams. No Python bitmap editing.
+
+Checks: isolated showroom local/nation/phone renderer screenshots, unchanged fixture bytes, no JS errors; terrain interpolation tests2/2; existing Home/Nation/World, pinch, anchored-wheel selection and label draw-order browser tests passed. Showroom geography is synthetic in memory and does not change player campaigns. All game rules, resource distribution and fog rules retained. No Pixel test this revision. Public release and Claude review recorded separately after completion.
+
+Final checks: all three new terrain image assets precached; offline reload/navigation passed. APK and AAB247 built and validated,345 assets verified. Claude reviewed screenshots and flagged biome distinction and possible halo/crop boundaries; new edited feature atlas and cooler tundra/marsh colours applied. Parent inspected final phone screenshot; no claim of Claude approval or physical-device validation.
+
+Runtime247 published successfully, Site version4.
+Commit d33a9401a28505c7b2a8810b7dfe67271d7313bd
+Deployment appgdep_6afccec7cddc8191bada87b91755117a
+URL https://imperial-ambitions-playtest-paddy.paddygarrettb.chatgpt.site
+Live local preview opened247 and restored England1538,$-148,9workers. Viewed actual New World desert/marsh/scrub terrain; no campaign orders issued.

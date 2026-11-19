@@ -1,0 +1,4421 @@
+{
+  "scope": "Original captured-cargo credit5a462c through real Great Power vtable+1d4,\n509d60 and city AddWarehouseItem4da320. No substituted calls. Captured quantity\nis supplied; battle/cargo determination is covered by separate naval audits.\n",
+  "cases": [
+    {
+      "good": 0,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 0,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 0,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 0,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 0,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 0,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 0,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 0,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 0,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 0,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 0,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 0,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 0,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 0,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 0,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 0,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 0,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 0,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 0,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 0,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 0,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 0,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 0,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 0,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 1,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 1,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 1,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 1,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 1,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 1,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 1,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 1,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 1,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 1,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 1,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 1,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 1,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 1,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 1,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 1,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 1,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 1,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 1,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 1,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 1,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 1,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 1,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 1,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 2,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 2,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 2,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 2,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 2,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 2,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 2,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 2,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 2,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 2,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 2,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 2,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 2,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 2,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 2,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 2,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 2,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 2,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 2,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 2,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 2,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 2,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 2,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 2,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 3,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 3,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 3,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 3,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 3,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 3,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 3,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 3,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 3,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 3,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 3,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 3,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 3,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 3,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 3,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 3,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 3,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 3,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 3,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 3,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 3,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 3,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 3,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 3,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 4,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 4,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 4,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 4,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 4,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 4,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 4,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 4,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 4,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 4,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 4,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 4,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 4,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 4,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 4,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 4,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 4,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 4,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 4,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 4,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 4,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 4,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 4,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 4,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 5,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 5,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 5,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 5,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 5,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 5,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 5,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 5,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 5,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 5,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 5,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 5,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 5,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 5,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 5,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 5,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 5,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 5,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 5,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 5,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 5,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 5,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 5,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 5,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 6,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 6,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 6,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 6,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 6,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 6,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 6,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 6,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 6,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 6,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 6,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 6,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 6,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 6,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 6,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 6,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 6,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 6,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 6,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 6,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 6,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 6,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 6,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 6,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 7,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 7,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 7,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 7,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 7,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 7,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 7,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 7,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 7,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 7,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 7,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 7,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 7,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 7,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 7,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 7,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 7,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 7,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 7,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 7,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 7,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 7,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 7,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 7,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 8,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 8,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 8,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 8,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 8,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 8,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 8,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 8,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 8,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 8,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 8,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 8,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 8,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 8,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 8,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 8,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 8,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 8,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 8,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 8,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 8,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 8,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 8,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 8,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 9,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 9,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 9,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 9,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 9,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 9,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 9,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 9,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 9,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 9,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 9,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 9,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 9,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 9,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 9,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 9,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 9,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 9,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 9,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 9,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 9,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 9,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 9,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 9,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 10,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 10,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 10,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 10,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 10,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 10,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 10,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 10,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 10,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 10,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 10,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 10,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 10,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 10,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 10,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 10,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 10,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 10,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 10,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 10,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 10,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 10,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 10,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 10,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 11,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 11,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 11,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 11,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 11,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 11,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 11,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 11,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 11,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 11,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 11,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 11,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 11,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 11,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 11,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 11,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 11,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 11,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 11,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 11,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 11,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 11,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 11,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 11,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 12,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 12,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 12,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 12,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 12,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 12,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 12,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 12,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 12,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 12,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 12,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 12,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 12,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 12,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 12,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 12,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 12,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 12,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 12,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 12,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 12,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 12,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 12,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 12,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 13,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 13,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 13,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 13,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 13,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 13,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 13,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 13,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 13,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 13,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 13,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 13,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 13,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 13,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 13,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 13,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 13,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 13,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 13,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 13,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 13,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 13,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 13,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 13,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 14,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 14,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 14,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 14,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 14,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 14,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 14,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 14,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 14,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 14,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 14,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 14,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 14,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 14,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 14,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 14,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 14,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 14,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 14,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 14,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 14,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 14,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 14,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 14,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 15,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 15,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 15,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 15,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 15,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 15,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 15,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 15,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 15,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 15,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 15,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 15,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 15,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 15,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 15,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 15,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 15,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 15,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 15,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 15,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 15,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 15,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 15,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 15,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 16,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 16,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 16,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 16,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 16,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 16,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 16,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 16,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 16,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 16,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 16,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 16,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 16,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 16,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 16,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 16,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 16,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 16,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 16,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 16,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 16,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 16,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 16,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 16,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 17,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 17,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 17,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 17,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 17,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 17,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 17,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 17,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 17,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 17,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 17,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 17,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 17,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 17,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 17,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 17,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 17,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 17,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 17,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 17,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 17,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 17,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 17,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 17,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 18,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 18,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 18,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 18,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 18,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 18,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 18,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 18,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 18,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 18,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 18,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 18,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 18,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 18,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 18,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 18,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 18,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 18,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 18,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 18,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 18,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 18,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 18,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 18,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 19,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 19,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 19,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 19,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 19,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 19,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 19,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 19,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 19,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 19,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 19,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 19,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 19,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 19,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 19,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 19,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 19,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 19,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 19,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 19,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 19,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 19,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 19,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 19,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 20,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 20,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 20,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 20,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 20,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 20,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 20,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 20,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 20,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 20,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 20,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 20,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 20,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 20,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 20,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 20,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 20,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 20,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 20,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 20,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 20,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 20,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 20,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 20,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 21,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 21,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 21,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 21,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 21,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 21,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 21,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 21,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 21,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 21,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 21,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 21,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 21,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 21,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 21,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 21,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 21,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 21,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 21,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 21,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 21,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 21,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 21,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 21,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 22,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 22,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 1,
+      "resultDebt": 0
+    },
+    {
+      "good": 22,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 4,
+      "resultDebt": 0
+    },
+    {
+      "good": 22,
+      "stock": 0,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 22,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 22,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 0
+    },
+    {
+      "good": 22,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 22,
+      "stock": 0,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 22,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 0,
+      "resultDebt": 5
+    },
+    {
+      "good": 22,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 0,
+      "resultDebt": 4
+    },
+    {
+      "good": 22,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 0,
+      "resultDebt": 1
+    },
+    {
+      "good": 22,
+      "stock": 0,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 3,
+      "resultDebt": 0
+    },
+    {
+      "good": 22,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 22,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 1,
+      "resultStock": 8,
+      "resultDebt": 0
+    },
+    {
+      "good": 22,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 4,
+      "resultStock": 11,
+      "resultDebt": 0
+    },
+    {
+      "good": 22,
+      "stock": 7,
+      "debt": 0,
+      "quantity": 8,
+      "resultStock": 15,
+      "resultDebt": 0
+    },
+    {
+      "good": 22,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 22,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 0
+    },
+    {
+      "good": 22,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 4,
+      "resultStock": 10,
+      "resultDebt": 0
+    },
+    {
+      "good": 22,
+      "stock": 7,
+      "debt": 1,
+      "quantity": 8,
+      "resultStock": 14,
+      "resultDebt": 0
+    },
+    {
+      "good": 22,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 0,
+      "resultStock": 7,
+      "resultDebt": 5
+    },
+    {
+      "good": 22,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 1,
+      "resultStock": 7,
+      "resultDebt": 4
+    },
+    {
+      "good": 22,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 4,
+      "resultStock": 7,
+      "resultDebt": 1
+    },
+    {
+      "good": 22,
+      "stock": 7,
+      "debt": 5,
+      "quantity": 8,
+      "resultStock": 10,
+      "resultDebt": 0
+    }
+  ]
+}

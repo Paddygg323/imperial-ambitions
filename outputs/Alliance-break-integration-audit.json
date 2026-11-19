@@ -1,0 +1,19 @@
+{
+  "scope": "Original broken-alliance relationship penalty, required by peace acceptance; not yet connected to live treaty offers",
+  "nativeRoutine": "524330 -> 5243c0 flag0",
+  "nativeCases": 360,
+  "nativeEvidence": "outputs/Native-alliance-break-relations-audit.json",
+  "focusedLog": "work/rebuild-v2/alliance-break-relations-tests.txt",
+  "fullLog": "work/rebuild-v2/tests-alliance-break-full.txt",
+  "fullStatus": "passed",
+  "implementation": [
+    "game/war-relations.mjs",
+    "game/trade-relations.mjs"
+  ],
+  "limitations": [
+    "Independent countries; subject propagation remains unimplemented",
+    "No live alliance creation or peace acceptance UI yet",
+    "APK remains3-182"
+  ],
+  "fullPassed": 782
+}

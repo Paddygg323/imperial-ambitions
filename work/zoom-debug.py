@@ -1,0 +1,3 @@
+from pathlib import Path
+p=Path('game/map.mjs');s=p.read_text(encoding='utf-8').replace('return {draw,focus,fit,fitNation,', 'return {viewport:()=>({scale,cx,cy,width:w,height:h}),draw,focus,fit,fitNation,');p.write_text(s,encoding='utf-8')
+p=Path('game/test/zoom-browser.mjs');s=p.read_text(encoding='utf-8').replace("await page.mouse.move(x,y);await page.mouse.wheel", "console.log('before',await page.evaluate(()=>zoomTestMap.viewport()),x,y,box);await page.mouse.move(x,y);await page.mouse.wheel").replace("await page.mouse.click(x,y);assert.equal", "await page.waitForTimeout(100);console.log('after',await page.evaluate(()=>zoomTestMap.viewport()));await page.mouse.click(x,y);assert.equal");p.write_text(s,encoding='utf-8')

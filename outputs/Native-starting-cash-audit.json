@@ -1,0 +1,65 @@
+{
+  "scope": "Execute original major-power treasury setup, after base country initialization.",
+  "routine": "0x503585..0x5035c1",
+  "table": "0x6fd288",
+  "setting": "simulation+0x8e; independent of resources+0x90 and credit",
+  "rows": [
+    50000,
+    25000,
+    12000,
+    8000,
+    5000
+  ],
+  "cases": [
+    {
+      "difficulty": 0,
+      "human": false,
+      "cash": 12000
+    },
+    {
+      "difficulty": 0,
+      "human": true,
+      "cash": 50000
+    },
+    {
+      "difficulty": 1,
+      "human": false,
+      "cash": 12000
+    },
+    {
+      "difficulty": 1,
+      "human": true,
+      "cash": 25000
+    },
+    {
+      "difficulty": 2,
+      "human": false,
+      "cash": 12000
+    },
+    {
+      "difficulty": 2,
+      "human": true,
+      "cash": 12000
+    },
+    {
+      "difficulty": 3,
+      "human": false,
+      "cash": 12000
+    },
+    {
+      "difficulty": 3,
+      "human": true,
+      "cash": 8000
+    },
+    {
+      "difficulty": 4,
+      "human": false,
+      "cash": 12000
+    },
+    {
+      "difficulty": 4,
+      "human": true,
+      "cash": 5000
+    }
+  ]
+}

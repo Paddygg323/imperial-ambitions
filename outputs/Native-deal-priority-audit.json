@@ -1,0 +1,8005 @@
+{
+  "scope": "Native6483a0 deal comparator. Real simulation getter5f7b20 reads turn+42; no function stubs.\n",
+  "cases": [
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 0
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 0
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 0
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 9
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 9
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 9
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 10
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 10
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 10
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 11
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 11
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 11
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 0,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 64,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 255,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 100,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 75,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 0,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 1,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 50,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 100,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 125,
+        "good": 19
+      },
+      "turn": 100,
+      "result": -1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 0,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 1,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 50,
+      "result": 1
+    },
+    {
+      "left": {
+        "buyer": 1,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 32000,
+        "good": 19
+      },
+      "right": {
+        "buyer": 2,
+        "seller": 0,
+        "quantity": 2,
+        "relation": 128,
+        "price": 10,
+        "good": 19
+      },
+      "turn": 100,
+      "result": 1
+    }
+  ]
+}

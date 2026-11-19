@@ -1,0 +1,1 @@
+Packaged Android-origin campaigns: save roundtrip, diplomacy, upgrades, fleet/army and port controls, plus colonial redeployment touch order/reload pass at412x915. Colony ownership supplied as explicit fixture; Chromium, not Android WebView.

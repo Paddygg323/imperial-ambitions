@@ -1,0 +1,245 @@
+{
+  "scope": "Controlled sixteen-turn continuation through two failed financial checkpoints and subsequent recovery; all original checkpoints preserved",
+  "first": {
+    "turn": 28,
+    "year": 1556,
+    "cash": 2661,
+    "workers": 8,
+    "labour": 8,
+    "food": {
+      "grain": 6,
+      "protein": 8,
+      "total": 14
+    },
+    "incoming": {
+      "wool": 4,
+      "timber": 2,
+      "tin": 0,
+      "copper": 0,
+      "iron": 2,
+      "coal": 0,
+      "cotton": 0,
+      "sugarCane": 0,
+      "tobacco": 0,
+      "furs": 0,
+      "horses": 0,
+      "fabric": 0,
+      "lumber": 0,
+      "paper": 0,
+      "bronze": 0,
+      "castIron": 0,
+      "steel": 0,
+      "sugar": 0,
+      "cigars": 0,
+      "hats": 0,
+      "grain": 9,
+      "fish": 3,
+      "meat": 5,
+      "spices": 0,
+      "silver": 0,
+      "gold": 0,
+      "gems": 0,
+      "diamonds": 0
+    },
+    "stock": {
+      "wool": 30,
+      "timber": 4,
+      "tin": 6,
+      "copper": 6,
+      "iron": 2,
+      "coal": 0,
+      "cotton": 0,
+      "sugarCane": 0,
+      "tobacco": 0,
+      "furs": 0,
+      "horses": 6,
+      "fabric": 6,
+      "lumber": 6,
+      "paper": 2,
+      "bronze": 4,
+      "castIron": 7,
+      "steel": 0,
+      "sugar": 0,
+      "cigars": 0,
+      "hats": 0,
+      "grain": 74,
+      "fish": 32,
+      "meat": 0,
+      "spices": 0,
+      "silver": 0,
+      "gold": 0,
+      "gems": 0,
+      "diamonds": 0
+    },
+    "known": [
+      "8",
+      "11",
+      "7",
+      "9",
+      "26",
+      "38",
+      "30",
+      "35"
+    ],
+    "projects": [
+      {
+        "tech": "36",
+        "funding": 200,
+        "investment": 1400,
+        "progress": 0.23542657494544983
+      },
+      {
+        "tech": "39",
+        "funding": 200,
+        "investment": 800,
+        "progress": 0.20521779358386993
+      },
+      {
+        "tech": "27",
+        "funding": 200,
+        "investment": 600,
+        "progress": 0.18976664543151855
+      }
+    ]
+  },
+  "last": {
+    "turn": 44,
+    "year": 1588,
+    "cash": 10567,
+    "workers": 12,
+    "labour": 12,
+    "food": {
+      "grain": 9,
+      "protein": 9,
+      "total": 18
+    },
+    "incoming": {
+      "wool": 4,
+      "timber": 4,
+      "tin": 0,
+      "copper": 0,
+      "iron": 2,
+      "coal": 0,
+      "cotton": 0,
+      "sugarCane": 0,
+      "tobacco": 0,
+      "furs": 0,
+      "horses": 0,
+      "fabric": 0,
+      "lumber": 0,
+      "paper": 0,
+      "bronze": 0,
+      "castIron": 0,
+      "steel": 0,
+      "sugar": 0,
+      "cigars": 0,
+      "hats": 0,
+      "grain": 9,
+      "fish": 3,
+      "meat": 7,
+      "spices": 0,
+      "silver": 0,
+      "gold": 0,
+      "gems": 0,
+      "diamonds": 0
+    },
+    "stock": {
+      "wool": 34,
+      "timber": 8,
+      "tin": 6,
+      "copper": 6,
+      "iron": 12,
+      "coal": 0,
+      "cotton": 0,
+      "sugarCane": 0,
+      "tobacco": 0,
+      "furs": 0,
+      "horses": 6,
+      "fabric": 3,
+      "lumber": 3,
+      "paper": 6,
+      "bronze": 2,
+      "castIron": 4,
+      "steel": 0,
+      "sugar": 0,
+      "cigars": 0,
+      "hats": 0,
+      "grain": 96,
+      "fish": 42,
+      "meat": 0,
+      "spices": 0,
+      "silver": 0,
+      "gold": 0,
+      "gems": 0,
+      "diamonds": 0
+    },
+    "known": [
+      "8",
+      "11",
+      "7",
+      "9",
+      "26",
+      "38",
+      "30",
+      "35",
+      "27",
+      "36",
+      "39",
+      "22",
+      "45",
+      "10"
+    ],
+    "projects": [
+      {
+        "tech": "31",
+        "funding": 200,
+        "investment": 400,
+        "progress": 0.14786659181118011
+      }
+    ]
+  },
+  "summaries": [
+    {
+      "phase": "export-economy",
+      "turn": 35,
+      "year": 1570,
+      "cash": -161,
+      "workers": 10
+    },
+    {
+      "phase": "export-recovery",
+      "turn": 36,
+      "year": 1572,
+      "cash": -281,
+      "workers": 11
+    },
+    {
+      "phase": "diversified-exports",
+      "turn": 44,
+      "year": 1588,
+      "cash": 10567,
+      "workers": 12
+    }
+  ],
+  "checks": 64,
+  "sales": 16326,
+  "research": 8400,
+  "interest": 20,
+  "underfunded": [
+    {
+      "turn": 36,
+      "year": 1572,
+      "scheduled": 600,
+      "paid": 100
+    }
+  ],
+  "starved": 0,
+  "sick": 0,
+  "allSixPowersAlive": true,
+  "limits": [
+    "Not complete campaign or physical Pixel/touch play",
+    "Initial export plan failed; continuous funding was interrupted as detailed",
+    "Wool stock must be monitored: fabric output can exceed domestic replenishment",
+    "Research, army, naval and conquest campaign integration still needs continued play"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "scope": "Source-only planning context for sovereign-owned and purchased foreign tiles",
+  "implemented": [
+    "Native transport potential adapter accepts minor countries using the existing globally discovered minor road/steel rule",
+    "Foreign distance fields require explicit sovereign transport traces",
+    "Purchased tiles retain sovereign connections and do not enter purchaser domestic transport",
+    "Save/reload preserves planning inputs without mutating state"
+  ],
+  "verification": {
+    "passed": 5,
+    "failed": 0,
+    "log": "work/rebuild-v2/planning-foreign-context.txt"
+  },
+  "discoveredGap": {
+    "scenario": "France owns a purchased resource in Ireland; England captures the Irish capital province",
+    "minor": "ireland",
+    "capital": "70,20",
+    "capitalOwner": "england",
+    "remainingIrishProvinces": 4,
+    "purchasedTile": "67,16",
+    "planningError": "Owned capital required",
+    "nextWork": "Audit original minor-capital conquest lifecycle before enabling automatic planning refresh",
+    "resolution": "Fixed in3-180: country eliminated, remaining provinces in anarchy, no transport capacity; older phone saves repaired on load."
+  },
+  "liveAIRefreshEnabled": false,
+  "apkChanged": false
+}

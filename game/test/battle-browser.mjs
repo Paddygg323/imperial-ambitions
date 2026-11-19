@@ -1,0 +1,104 @@
+import {createRequire} from 'node:module';
+import assert from 'node:assert/strict';
+import {spawn} from 'node:child_process';
+import fs from 'node:fs';
+const require=createRequire(import.meta.url),{chromium}=require('C:/Users/paddy/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const server=spawn(process.execPath,['game/server.cjs'],{env:{...process.env,IMP_PORT:'18775'},windowsHide:true,stdio:['ignore','pipe','pipe']});
+await new Promise((resolve,reject)=>{server.stdout.once('data',resolve);server.once('error',reject);server.once('exit',c=>reject(Error('Server exited '+c)));});
+let browser;
+try{
+ browser=await chromium.launch({executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe',headless:true});
+ const page=await browser.newPage({viewport:{width:412,height:915},isMobile:true,hasTouch:true});const errors=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.goto('http://127.0.0.1:18775');
+ await page.evaluate(async()=>{
+  const {createBattle}=await import('./battle.mjs'),{mountBattle}=await import('./battle-view.mjs');
+  document.querySelectorAll('link[rel=stylesheet]').forEach(n=>n.remove());const css=document.createElement('link');css.rel='stylesheet';css.href='./battle-view.css';document.head.append(css);document.body.style.margin='0';document.body.innerHTML='<main id="battle"></main>';
+  const forces={england:[{id:'e1',owner:'england',type:'pikeman',hp:100}],france:[{id:'f1',owner:'france',type:'pikeman',hp:100}]};
+  const battle=createBattle({attacker:'england',defender:'france',province:'test',nations:{england:{known:[]},france:{known:[]}},forces,activeWidth:17,cells:Array.from({length:464},()=>({terrain:1}))});
+  window.battleView=mountBattle(document.querySelector('#battle'),{battle,player:'england',onChange:b=>localStorage.setItem('battle-ui-test',JSON.stringify(b))});
+ });
+ assert.match(await page.locator('[data-tile="235"]').getAttribute('aria-label'),/Move 2, cover/);
+ await page.locator('[data-unit=e1]').tap();await page.locator('[data-tile="235"]').tap();
+ assert.equal(await page.evaluate(()=>battleView.getState().units[0].tile),235);
+ await page.locator('[data-do=undeploy]').tap();assert.equal(await page.evaluate(()=>battleView.getState().units[0].tile),null);
+ await page.locator('[data-tile="235"]').tap();
+ for(const width of [320,375,412,540]){
+  await page.setViewportSize({width,height:915});assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
+  assert.ok(await page.locator('.battle-viewport').evaluate(e=>e.clientHeight>=160));
+ }
+ await page.setViewportSize({width:412,height:915});
+ await page.locator('[data-do=ready]').tap();await page.waitForFunction(()=>battleView.getState().phase==='combat');
+ assert.equal(await page.evaluate(()=>battleView.getState().activeSide),0);
+ const destination=await page.evaluate(async()=>{const {openFieldPaths}=await import('./battle.mjs');return [...openFieldPaths(battleView.getState(),'e1').keys()].find(t=>t!==235);});
+ await page.locator(`[data-tile="${destination}"]`).tap();assert.equal(await page.evaluate(()=>battleView.getState().units[0].tile),destination);
+ await page.locator('[data-do=overview]').tap();assert.match(await page.locator('.battle-hint').innerText(),/Overview/);
+ await page.locator(`[data-tile="${destination}"]`).tap();assert.match(await page.locator('.battle-hint').innerText(),/Drag/);
+ fs.mkdirSync('work/rebuild-v2',{recursive:true});await page.screenshot({path:'work/rebuild-v2/phone-battle.png'});
+ await page.locator('[data-do=endTurn]').tap();await page.waitForFunction(()=>battleView.getState().activeSide===0||battleView.getState().phase==='finished');
+ assert.ok(await page.evaluate(()=>battleView.getState().round>=2));
+ await page.evaluate(()=>battleView.destroy());assert.equal(await page.locator('#battle button').count(),0);
+ await page.evaluate(async()=>{
+  const {mountBattle}=await import('./battle-view.mjs');const b=JSON.parse(localStorage.getItem('battle-ui-test'));
+  for(const c of b.cells)c.unit=null;
+  Object.assign(b,{phase:'combat',activeSide:0,round:3});
+  Object.assign(b.units[0],{tile:235,type:'arquebusier',done:false,fireReady:true,state:0});
+  Object.assign(b.units[1],{tile:236,hp:1,effective:1,state:0});
+  for(const u of b.units)b.cells[u.tile].unit=u.id;
+  window.battleView=mountBattle(document.querySelector('#battle'),{battle:JSON.parse(JSON.stringify(b)),player:'england',onFinish:s=>{window.battleWinner=s.winner;}});
+ });
+ await page.locator('[data-unit=e1]').tap();await page.locator('[data-tile="236"]').tap();
+ assert.equal(await page.evaluate(()=>window.battleWinner),'england');
+ assert.match(await page.locator('#battle header').innerText(),/England wins/);
+ assert.match(await page.locator('.battle-result').innerText(),/France: 0 surviving, 1 lost/);
+ assert.equal(await page.locator('[data-do=endTurn]').count(),0);
+ await page.evaluate(()=>battleView.destroy());
+ await page.evaluate(async()=>{
+  const {createBattle}=await import('./battle.mjs'),{mountBattle}=await import('./battle-view.mjs');
+  const b=createBattle({attacker:'england',defender:'france',province:'siege',nations:{england:{known:[]},france:{known:[]}},forces:{england:[{id:'gun',owner:'england',type:'culverin',hp:100}],france:[{id:'guard',owner:'france',type:'pikeman',hp:100}]},activeWidth:29,fortLevel:1,cells:Array.from({length:464},()=>({terrain:0}))});
+  Object.assign(b,{phase:'combat',activeSide:0,round:1});
+  Object.assign(b.units[0],{tile:253,moveLeft:2});Object.assign(b.units[1],{tile:258});
+  for(const u of b.units)b.cells[u.tile].unit=u.id;
+  window.siegeFixture=structuredClone(b);
+  window.battleView=mountBattle(document.querySelector('#battle'),{battle:b,player:'england',onChange:b=>localStorage.setItem('siege-ui-test',JSON.stringify(b))});
+ });
+ await page.locator('[data-unit=gun]').tap();
+ const wall=page.locator('[data-tile="255"]');
+ assert.match(await wall.getAttribute('aria-label'),/Fort wall, section health 150, bombard here/);
+ assert.match(await wall.getAttribute('class'),/target/);
+ await wall.tap();
+ const remaining=await page.evaluate(()=>battleView.getState().fortification.segments[4]);
+ assert.ok(remaining<150&&remaining>0);assert.equal(await wall.locator('small').innerText(),String(remaining));
+ assert.equal(await page.locator('.wall.target').count(),0);
+ await page.screenshot({path:'work/rebuild-v2/phone-siege.png'});
+ await page.evaluate(async()=>{
+  battleView.destroy();const {mountBattle}=await import('./battle-view.mjs');
+  const b=JSON.parse(localStorage.getItem('siege-ui-test'));b.fortification.segments[4]=1;
+  Object.assign(b.units[0],{done:false,fireReady:true});
+  window.battleView=mountBattle(document.querySelector('#battle'),{battle:b,player:'england'});
+ });
+ await page.locator('[data-unit=gun]').tap();await wall.tap();
+ assert.match(await wall.getAttribute('aria-label'),/Breached wall, section health 0/);
+ assert.match(await wall.getAttribute('class'),/breach/);
+ assert.match(await page.locator('[data-tile="284"]').getAttribute('aria-label'),/Breached wall/);
+ await page.locator('[data-do=endTurn]').tap();
+ await page.waitForFunction(()=>battleView.getState().phase==='finished'||battleView.getState().activeSide===0);
+ assert.ok(await page.evaluate(()=>battleView.getState().phase==='finished'||battleView.getState().round===2));
+ await page.evaluate(()=>battleView.destroy());
+ await page.evaluate(async()=>{
+  const {mountBattle}=await import('./battle-view.mjs');
+  const b=JSON.parse(localStorage.getItem('battle-ui-test'));for(const c of b.cells)c.unit=null;
+  Object.assign(b,{phase:'combat',activeSide:0,round:3});
+  Object.assign(b.units[0],{tile:233,type:'pikeman',hp:100,effective:100,moveLeft:3,done:false,fireReady:true,state:0});
+  Object.assign(b.units[1],{tile:245,type:'pikeman',hp:100,effective:100,state:0});
+  for(const u of b.units)b.cells[u.tile].unit=u.id;
+  window.battleView=mountBattle(document.querySelector('#battle'),{battle:b,player:'england'});
+ });
+ await page.locator('[data-do=retreat]').tap();
+ await page.waitForFunction(()=>battleView.getState().phase==='finished');
+ assert.equal(await page.evaluate(()=>battleView.getState().units[0].escaped),true);
+ assert.equal(await page.evaluate(()=>battleView.getState().units[0].hp),100);
+ assert.match(await page.locator('#battle header').innerText(),/France wins/);
+ assert.match(await page.locator('.battle-result').innerText(),/England: 1 surviving, 0 lost/);
+ await page.evaluate(()=>battleView.destroy());
+ assert.deepEqual(errors,[]);console.log('PASS: touch deployment/undeployment/movement, overview/local zoom, AI handover, 4 phone widths, siege bombardment, section damage and breaches, and cleanup');
+}finally{await browser?.close();server.kill();}

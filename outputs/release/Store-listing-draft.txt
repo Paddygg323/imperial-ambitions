@@ -1,0 +1,19 @@
+PRIVATE STORE LISTING DRAFT — NOT SUBMISSION READY
+Final independent/authorised app name and publisher details are pending.
+
+Short description:
+Build an empire through industry, research, diplomacy and turn-based campaigns.
+
+Description:
+Develop resource tiles, build roads and ports, and turn delivered materials into a growing economy. Keep food flowing to your workforce, fund research and balance production against trade and military needs.
+Command civilian specialists, regiments and sailing fleets across Europe and overseas. Use a political atlas, diplomatic dossiers and world news to follow rival powers. Plan local roads at close zoom, then pull back to your nation's borders or the world map.
+Designed for touch, with illustrated units, a live minimap, parchment menus and automatic local saves. The campaign runs offline. Export a save to keep a backup or move it between your devices.
+
+Do not publish this description as a promise of finished original-game parity. Current build still has recorded gameplay gaps and pending hardware/long-play validation.
+
+Store declarations to complete with publisher:
+- App name, developer identity, support email, privacy URL and territory/price choices.
+- Content-rating questionnaire based on actual historical warfare and the final text/art.
+- Data safety answers based on the privacy-policy draft; no account, analytics, ads or network permission in current package.
+- Distribution provenance, upload signing key and Play Console account/testing eligibility.
+- Actual-device screenshots from the final accepted build; current browser/emulator QA captures are development evidence.

@@ -1,0 +1,28 @@
+{
+  "scope": "Execute native technology effect installation635da0 and query636300 for credit category6.\nMoney Lending packed262, Banking518 from extracted original technology records.\n",
+  "cases": [
+    {
+      "known": [],
+      "effect": 0
+    },
+    {
+      "known": [
+        "41"
+      ],
+      "effect": 1
+    },
+    {
+      "known": [
+        "79"
+      ],
+      "effect": 2
+    },
+    {
+      "known": [
+        "41",
+        "79"
+      ],
+      "effect": 2
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "scope": "Execute original human-only minister creation branch5036b5..50377d.\nAllocation/constructors/initializer calls are intercepted; records control flow\nand owner arguments, not full object construction. Array clearing has its own audit.\n",
+  "cases": [
+    {
+      "human": false,
+      "interiorAllocated": false,
+      "allocations": [],
+      "initializers": []
+    },
+    {
+      "human": true,
+      "interiorAllocated": true,
+      "allocations": [
+        132,
+        13840,
+        184
+      ],
+      "initializers": [
+        {
+          "call": "0x4089e5",
+          "owner": 9437184,
+          "object": 9453568
+        },
+        {
+          "call": "0x4021ee",
+          "owner": 9437184,
+          "object": 9469952
+        }
+      ]
+    }
+  ]
+}

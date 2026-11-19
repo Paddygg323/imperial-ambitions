@@ -1,0 +1,4 @@
+import test from 'node:test';import assert from 'node:assert/strict';
+import {tileLabel,reportText} from '../location-label.mjs';
+const s={player:'england',nations:{england:{prospected:[]}},provinces:[{id:'devon',name:'Devon',town:'4,4'}],tiles:[{id:'4,4',x:4,y:4,province:'devon',terrain:13},{id:'4,3',x:4,y:3,province:'devon',terrain:8,resource:'iron'}]};
+test('named locations hide unknown minerals and use province-relative directions',()=>{assert.equal(tileLabel(s,'4,3'),'Mountains · northern Devon');s.nations.england.prospected.push('4,3');assert.equal(tileLabel(s,'4,3'),'Iron · northern Devon');assert.equal(tileLabel(s,'4,4'),'Devon town');assert.equal(reportText(s,'builder: develop completed at 4,3.'),'builder: develop completed at Iron · northern Devon.');assert.equal(reportText(s,'Cost $1,000.'),'Cost $1,000.');});

@@ -1,0 +1,91 @@
+Original trade investigation — 16 November 2026
+
+Read-only inspection of installed Imperialism II.exe, plus existing native reference harnesses. No original source code is available here; executable and linker names are available. Linker addresses do NOT match this executable: CalculateNextTurnDemand is named at 004fff70 in MAP but existing native harness executes 005061a0. Never transfer symbol addresses blindly.
+
+Freshly disassembled: 00507512..00507618, the warehouse adjustment inside SetItemWeightingValues, following resourceReserve's technology/GDP gate. This is a resource weighting stage, NOT yet the final trade order decision.
+
+Verified callees by resolving executable jump thunks:
+00408ea4 -> 00645d90: terrain-resource classifier, native IDs 0..9 and20..27.
+0040690b -> 004da290: signed warehouse quantity at city+fc+2*good.
+0040a079 -> 004dab10: warehouse minus reserved quantity at city+6c+4*good, for IDs<=27.
+00403f8f -> 00645e10: luxury-crop classifier IDs7,8,9.
+
+At00507512 raw resources use warehouse stock; other goods use stock minus reserved amounts. Wool includes cotton and meat includes fish through the available-stock getter.
+At00507576 luxury crop stock below max(10,2*forecast demand) adds0.5 to resource weight.
+At005075a1 if stock<target, weight increases by (target-stock)/target.
+Otherwise, surplus is stock - forecast demand - target; positive integer surplus reduces weight by0.1*surplus/target. The conversion uses native006816b0 and requires explicit emulation before treating rounding as recovered.
+Constants read directly:006fd084=1;006fd088=.5;006fd08c≈-.1.
+
+Existing recovered reserve stage005073c0..00507512: technology-gated, GDP-scaled resource targets. Timber base8 scales to68, iron base8 scales to48 (native IDs1 and4). At GDP50 the targets are38 timber and28 iron. GDP is the internal industrial quantity, not treasury cash. These are weighting targets, not a blanket export ban or exact sell thresholds.
+Existing complete demand harness executes005061a0 through return with supplied city needs, technology/ETA, minister factor, civilians, potential, capacity and population data. Those fixtures validate composition under supplied inputs, not full campaign adapter parity.
+
+Current phone AI still uses explicitly approximate exportReserve/exportProduction plus conservative strategicRawExportLimit. It does not establish original bid/export-selection parity.
+
+Next investigation: resolve DetermineTradeBid, TAutoGreatPower::SetTradeBids, TForeignMinister::SetTradeBids against executable via vtables/callers; trace weights into quantity and bid-slot decisions. Names found in linker map, addresses must be reconciled. Then emulate final selection with scarce iron/timber, genuine surplus, low cash, limited cargo, and competing minor buyers. Do not equate a recovered weighting function with a completed original trade AI.
+
+Follow-up: recovered export selection and high-price exception
+===========================================================
+Executable call chain verified through instructions/vtable pointers:
+5191f0 calls foreign minister country+204, slot7c then slot80.
+Foreign minister vtable7045b0 resolves slot7c ->570db0 (SetTradeBids),
+slot80 ->570ec0 (PriceCheck), slot74 ->570c30 (SetBuyPriorities).
+SetTradeBids chooses up to six request entries, marks them as bid -1,
+then considers positive sale amounts for goods not marked as bids.
+It calls interior minister GetSaleableAmtOf through thunk406226 ->4e55d0.
+Country setter509ed0 stores the signed order in country+0c+2*good.
+These identifications use executable callers and vtables; linker names are
+corroborating evidence, not a blanket address-offset assumption.
+
+GetSaleableAmtOf4e55d0 recovered and tested:
+- Coal (5) and steel (16) return zero in THIS routine.
+- Compares country resource weight with a price/money-want threshold:
+  (moneyWant - discount) * (currentPrice + 2*basePrice)/(3*basePrice).
+  discount=.4 for manufactured goods, .9 otherwise.
+  If weight exceeds that threshold, no offer.
+- Uses available stock after reserved quantities, not gross stock.
+- Quantity is minimum of trunc((available+1)/3), max(1,trunc(seaCapacity/4)),
+  and original GDP scaler with endpoints1..20.
+- Fabric with available stock<=4 is protected.
+This is NOT a fixed keep-six reserve and not a hard requirement of recurring
+net income. The prior rebuild strategicRawExportLimit is still an approximation.
+
+Money-want resolved via interior vtable6fb0b0+100 ->4ee6a0.
+It decreases linearly between float32 constants2.4 and.8 over available-money
+inputs-5000..15000, clamping outside. The normal available-money getter5055e0
+clamps its result to nonnegative and accounts for a country credit field and
+city cash commitments. At ordinary zero available money, want is about2.0;
+at15000 or more it is about.8. Financial pressure therefore affects selling.
+
+Validated1050 executions of the full native GetSaleableAmtOf:
+450 explicit factor/price/resource fixtures;600 additional varied fixtures
+execute actual money-want, available-money, sea-capacity and GDP getter chain.
+Market prices are supplied fixtures. Resource weights are supplied fixtures;
+these tests do not prove the entire upstream AI forecast matches live campaigns.
+A reference-only JS module native-saleable-amount.mjs matches all1050 cases.
+It is deliberately NOT wired into the live campaign until planning inputs and
+final selection are integrated correctly.
+
+Native PriceCheck570ec0 exception, validated720 executions:
+For resource IDs0..10 with eligible technology and no existing bid(-1),
+if market price > 200 + (RNG result mod100), and available stock is nonzero,
+set sale quantity to min(trunc(available/2),5).
+For normal nonnegative RNG outputs the threshold is200..299, strict greater.
+At price100 no opportunistic sale; at300 the price condition always passes.
+Tests vary iron/timber, price100/200/201/250/299/300, RNG0/49/99,
+stock0/1/4/10/20, bid/no-bid and eligible/ineligible tech.
+Technology and RNG supplied; native order getter, available stock and setter run.
+Because this runs AFTER normal SetTradeBids, do not describe normal saleability
+exclusions as universal bans across all original trading paths.
+
+Artifacts:
+work/rebuild/saleable_amount_reference.py
+outputs/Native-saleable-amount-audit.json (executable SHA256 included)
+game/native-saleable-amount.mjs
+game/test/native-saleable-amount.test.mjs
+work/rebuild/trade_price_check_reference.py
+outputs/Native-trade-price-check-audit.json
+
+Remaining: execute buy-priority sorting and request producers end-to-end;
+map persistent minister/country forecast state into the campaign; confirm bid
+slot technology handling and RNG schedule; integrate original reply quantity
+limits and test market competition. No original installation or save modified.

@@ -1,0 +1,42 @@
+{
+  "status": "failed financial recovery",
+  "turn": 138,
+  "year": 1738,
+  "cash": -2958,
+  "verified": {
+    "grain": 11,
+    "meat": 9,
+    "fish": 3,
+    "workers": 12,
+    "starvation": 0
+  },
+  "unpaid": [
+    {
+      "turn": 138,
+      "kind": "research",
+      "tech": "76",
+      "funded": 0,
+      "plannedFunding": 400,
+      "investment": 2000,
+      "completed": false,
+      "text": "Scientific Sheep Breeding: $0 funded of $400 planned",
+      "nation": "england"
+    },
+    {
+      "turn": 138,
+      "kind": "research",
+      "tech": "43",
+      "funded": 0,
+      "plannedFunding": 300,
+      "investment": 1500,
+      "completed": false,
+      "text": "Sugar Industry: $0 funded of $300 planned",
+      "nation": "england"
+    }
+  ],
+  "source": "work/rebuild-v2/workforce-debt-recovery.json",
+  "limits": [
+    "Food expansion succeeded but research funding failed; not an overall pass",
+    "No defeat or bankruptcy established"
+  ]
+}

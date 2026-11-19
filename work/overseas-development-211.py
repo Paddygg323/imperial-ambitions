@@ -1,0 +1,9 @@
+from pathlib import Path
+p=Path('game/development-art.mjs');s=p.read_text().replace(" const row=resource==='timber'?2:", " if(['cotton','sugarCane','tobacco','spices','furs'].includes(resource))return {sheet:'overseas',row:resource==='furs'?1:0,column:Math.min(4,tile.level)-1};\n const row=resource==='timber'?2:")
+s=s.replace('export function drawDevelopment(ctx,image,tile,resource,x,y,scale){', 'export function drawDevelopment(ctx,image,tile,resource,x,y,scale,overseasImage){')
+s=s.replace("const sprite=developmentSprite(tile,resource);if(!sprite||!image.complete||!image.naturalWidth)return;", "const sprite=developmentSprite(tile,resource);if(!sprite)return;if(sprite.sheet==='overseas')image=overseasImage;if(!image?.complete||!image.naturalWidth)return;")
+s=s.replace('cellH=image.naturalHeight/4',"cellH=image.naturalHeight/(sprite.sheet==='overseas'?2:4)").replace("'saturate(.82) contrast(.94)'","'saturate(.82) contrast(.94)'")
+p.write_text(s,encoding='utf-8')
+p=Path('game/map.mjs');s=p.read_text().replace(' const terrainCache=new Map();'," const terrainCache=new Map();\n const overseasDevelopment=new Image();overseasDevelopment.src=new URL('./assets/overseas-development.png',import.meta.url).href;overseasDevelopment.onload=()=>draw();");s=s.replace('drawDevelopment(ctx,development,t,resource,x,y,scale);','drawDevelopment(ctx,development,t,resource,x,y,scale,overseasDevelopment);');s=s.replace("saturate(.86) contrast(.96)","saturate(.82) contrast(.94)");p.write_text(s,encoding='utf-8')
+p=Path('game/test/development-art.test.mjs');s=p.read_text().replace("level?{row,column:level-1}:null", "level?{...(resource==='sugarCane'?{sheet:'overseas'}:{}),row,column:level-1}:null");p.write_text(s,encoding='utf-8')
+p=Path('game/sw.js');s=p.read_text().replace("const FILES=[", "const FILES=['assets/overseas-development.png',");p.write_text(s,encoding='utf-8')

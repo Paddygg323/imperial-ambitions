@@ -1,0 +1,392 @@
+[
+  {
+    "id": "015",
+    "number": 15,
+    "name": "Spice Orchard",
+    "category": "Terrain & resource tiles",
+    "sheet": 2,
+    "image": "originals/02-resource-tiles.png",
+    "sheetWidth": 1448,
+    "sheetHeight": 1086,
+    "cell": [
+      483,
+      362,
+      482,
+      362
+    ],
+    "preview": [
+      485,
+      407,
+      478,
+      315
+    ],
+    "variant": false,
+    "relatedId": null,
+    "status": "Awaiting review",
+    "revision": 0
+  },
+  {
+    "id": "015-low-bushes-1",
+    "number": 15,
+    "name": "Spices — low bushes 1",
+    "category": "Spice proposals",
+    "sheet": 48,
+    "image": "revisions/015-low-bushes-r3/015-low-bushes-1.png",
+    "sheetWidth": 1254,
+    "sheetHeight": 1254,
+    "cell": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "preview": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "variant": true,
+    "relatedId": "015",
+    "status": "Awaiting review",
+    "revision": 3
+  },
+  {
+    "id": "015-low-bushes-2",
+    "number": 15,
+    "name": "Spices — low bushes 2",
+    "category": "Spice proposals",
+    "sheet": 49,
+    "image": "revisions/015-low-bushes-r3/015-low-bushes-2.png",
+    "sheetWidth": 1254,
+    "sheetHeight": 1254,
+    "cell": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "preview": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "variant": true,
+    "relatedId": "015",
+    "status": "Awaiting review",
+    "revision": 3
+  },
+  {
+    "id": "015-low-bushes-3",
+    "number": 15,
+    "name": "Spices — low bushes 3",
+    "category": "Spice proposals",
+    "sheet": 50,
+    "image": "revisions/015-low-bushes-r3/015-low-bushes-3.png",
+    "sheetWidth": 1254,
+    "sheetHeight": 1254,
+    "cell": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "preview": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "variant": true,
+    "relatedId": "015",
+    "status": "Awaiting review",
+    "revision": 3
+  },
+  {
+    "id": "015-low-bushes-4",
+    "number": 15,
+    "name": "Spices — low bushes 4",
+    "category": "Spice proposals",
+    "sheet": 51,
+    "image": "revisions/015-low-bushes-r3/015-low-bushes-4.png",
+    "sheetWidth": 1254,
+    "sheetHeight": 1254,
+    "cell": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "preview": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "variant": true,
+    "relatedId": "015",
+    "status": "Awaiting review",
+    "revision": 3
+  },
+  {
+    "id": "015-low-bushes-5",
+    "number": 15,
+    "name": "Spices — low bushes 5",
+    "category": "Spice proposals",
+    "sheet": 52,
+    "image": "revisions/015-low-bushes-r3/015-low-bushes-5.png",
+    "sheetWidth": 1254,
+    "sheetHeight": 1254,
+    "cell": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "preview": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "variant": true,
+    "relatedId": "015",
+    "status": "Awaiting review",
+    "revision": 3
+  },
+  {
+    "id": "015-option-1",
+    "number": 15,
+    "name": "Spices — Pepper vines",
+    "category": "Rejected spice proposals",
+    "sheet": 43,
+    "image": "revisions/015-spice-options/015-option-1.png",
+    "sheetWidth": 1254,
+    "sheetHeight": 1254,
+    "cell": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "preview": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "variant": true,
+    "relatedId": "015",
+    "status": "Rejected",
+    "revision": 1
+  },
+  {
+    "id": "015-option-2",
+    "number": 15,
+    "name": "Spices — Saffron",
+    "category": "Rejected spice proposals",
+    "sheet": 44,
+    "image": "revisions/015-spice-options/015-option-2.png",
+    "sheetWidth": 1254,
+    "sheetHeight": 1254,
+    "cell": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "preview": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "variant": true,
+    "relatedId": "015",
+    "status": "Rejected",
+    "revision": 1
+  },
+  {
+    "id": "015-option-3",
+    "number": 15,
+    "name": "Spices — Chillies",
+    "category": "Rejected spice proposals",
+    "sheet": 45,
+    "image": "revisions/015-spice-options/015-option-3.png",
+    "sheetWidth": 1254,
+    "sheetHeight": 1254,
+    "cell": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "preview": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "variant": true,
+    "relatedId": "015",
+    "status": "Rejected",
+    "revision": 1
+  },
+  {
+    "id": "015-option-4",
+    "number": 15,
+    "name": "Spices — Ginger and turmeric",
+    "category": "Rejected spice proposals",
+    "sheet": 46,
+    "image": "revisions/015-spice-options/015-option-4.png",
+    "sheetWidth": 1312,
+    "sheetHeight": 1199,
+    "cell": [
+      0,
+      0,
+      1312,
+      1199
+    ],
+    "preview": [
+      0,
+      0,
+      1312,
+      1199
+    ],
+    "variant": true,
+    "relatedId": "015",
+    "status": "Rejected",
+    "revision": 1
+  },
+  {
+    "id": "015-option-5",
+    "number": 15,
+    "name": "Spices — Mixed spice harvest",
+    "category": "Rejected spice proposals",
+    "sheet": 47,
+    "image": "revisions/015-spice-options/015-option-5.png",
+    "sheetWidth": 1254,
+    "sheetHeight": 1254,
+    "cell": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "preview": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "variant": true,
+    "relatedId": "015",
+    "status": "Rejected",
+    "revision": 1
+  },
+  {
+    "id": "015-r4-1",
+    "number": 15,
+    "name": "Spices — revision 4 option 1",
+    "category": "Spice proposals",
+    "sheet": 53,
+    "image": "revisions/015-low-bushes-r4/comparison.png",
+    "sheetWidth": 1536,
+    "sheetHeight": 1024,
+    "cell": [
+      85,
+      15,
+      405,
+      455
+    ],
+    "preview": [
+      85,
+      15,
+      405,
+      455
+    ],
+    "variant": true,
+    "relatedId": "015",
+    "status": "Awaiting review",
+    "revision": 4
+  },
+  {
+    "id": "015-r4-2",
+    "number": 15,
+    "name": "Spices — revision 4 option 2",
+    "category": "Spice proposals",
+    "sheet": 53,
+    "image": "revisions/015-low-bushes-r4/comparison.png",
+    "sheetWidth": 1536,
+    "sheetHeight": 1024,
+    "cell": [
+      565,
+      15,
+      405,
+      455
+    ],
+    "preview": [
+      565,
+      15,
+      405,
+      455
+    ],
+    "variant": true,
+    "relatedId": "015",
+    "status": "Awaiting review",
+    "revision": 4
+  },
+  {
+    "id": "015-r4-3",
+    "number": 15,
+    "name": "Spices — revision 4 option 3",
+    "category": "Spice proposals",
+    "sheet": 53,
+    "image": "revisions/015-low-bushes-r4/comparison.png",
+    "sheetWidth": 1536,
+    "sheetHeight": 1024,
+    "cell": [
+      1045,
+      15,
+      405,
+      455
+    ],
+    "preview": [
+      1045,
+      15,
+      405,
+      455
+    ],
+    "variant": true,
+    "relatedId": "015",
+    "status": "Awaiting review",
+    "revision": 4
+  },
+  {
+    "id": "015-r4-5",
+    "number": 15,
+    "name": "Spices — revision 4 option 5",
+    "category": "Spice proposals",
+    "sheet": 53,
+    "image": "revisions/015-low-bushes-r4/comparison.png",
+    "sheetWidth": 1536,
+    "sheetHeight": 1024,
+    "cell": [
+      830,
+      500,
+      405,
+      455
+    ],
+    "preview": [
+      830,
+      500,
+      405,
+      455
+    ],
+    "variant": true,
+    "relatedId": "015",
+    "status": "Awaiting review",
+    "revision": 4
+  }
+]

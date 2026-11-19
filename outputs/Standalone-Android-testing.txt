@@ -1,0 +1,49 @@
+Imperialism Rebuild — Android DEVELOPMENT build
+
+This APK runs the independent rebuild in game/. It does not contain or execute
+Imperialism II.exe, Wine, Winlator, x86 emulation or PC save files. Android's
+WebView runs the bundled game engine locally. No PC server or Internet connection
+is required. It is an unfinished development build, not a finished recreation.
+
+Artifact: outputs/Imperialism-Rebuild-development.apk
+App name: Imperialism Rebuild (Dev)
+Package: com.paddy.imperialism.rebuild
+Android: API26 minimum, API35 target. Current Android System WebView recommended.
+Version: 0.1-dev, code1. Separate package; existing game installations unaffected.
+Development signing key: work/rebuild-android/development.keystore. Preserve this
+key for compatible updates; do not uninstall the app to update it. It is a local
+development key, not a production-release credential.
+
+Build:
+Run android/scripts/build.py with the installed Python. It uses the installed
+Java17/Android35/build-tools34 toolchain. IMP_ANDROID_TOOLCHAIN can override its
+root. Builds and temporary assets stay in work/rebuild-android. No Gradle/network
+download required. Standalone-Android-build.json records all74 asset hashes and
+final APK hash; signing, alignment, assets and dex equality are checked by build.
+
+Saves:
+Campaign automatically persists in app-local DOM storage. Android export uses
+Create Document; import uses Open Document. No broad storage permission needed.
+Clearing app data/uninstalling removes internal saves: export important campaigns
+first. File chooser callbacks and Android process lifecycle still need device QA.
+Desktop browser still uses its existing download/import mechanism.
+
+Verified:
+Java compilation, dex conversion, APK packaging, v2/v3 signature, ZIP alignment,
+all packaged asset hashes and exact dex match. No native runtime/exe/dll payloads.
+412x915 Chromium test loads staged assets at the Android HTTPS origin, exercises
+export bridge payload, import and reload persistence, and confirms no service
+worker registration in native mode. This does NOT prove Android WebView works.
+
+Device status:
+adb devices -l returned no connected devices on 2026-11-09. No installation or
+Pixel launch has been performed. First device checks: launch offline, map pan/
+pinch/selection, menu visibility around system insets, rotation, end turn, task
+switch/reopen, force-stop/reopen save persistence, export/import via document
+picker, tactical controls and long-turn responsiveness.
+
+Gameplay status:
+See outputs/Standalone-rebuild-status.txt for detailed implementation evidence.
+Strategic diplomacy/war planning, sieges, naval AI, full campaign proof and known
+original-fidelity gaps remain. Do not substitute APK compilation for gameplay QA.
+

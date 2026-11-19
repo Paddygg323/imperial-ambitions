@@ -1,0 +1,25 @@
+Runtime 254 / public Site version 11
+
+Published: https://imperial-ambitions-playtest-paddy.paddygarrettb.chatgpt.site
+Source commit: 937d93c7fdbfab26cd6eb4ef04d7ef1e24fc7680
+Deployment: appgdep_6afe38f9d82c8191872af85374c3e08c (succeeded)
+
+All land sprites now feather into one continuous grass surface anchored to world coordinates. Their outer edge pixels expose exactly the same grass. The centres retain their respective hills, mountains, swamp, desert, tundra, woodland or resource artwork. Sea rendering is unchanged.
+
+Sheep no longer select the separate 012 terrain picture. Both normal and sheep-bearing hills select 003-r1, then sheep are drawn as independent transparent overlays. Development markers retain the actual existing development level.
+
+The first mirrored grass sample caused visible repeating motifs and was rejected before publication. A calm seamless grass surface was generated to match the plains palette, then visually checked again.
+
+Validation: nine focused tests passed; all 51 sprite mappings decoded; local/nation/412px phone views and mixed-terrain comparison inspected. Fixture game state unchanged, no browser page errors. Offline service-worker test explicitly verified new grass and sheep asset cache entries. Map view test passed against rebuilt Android assets.
+
+Android version 254 APK built and signature verified; 385 bundled assets checked by hash. Unsigned AAB validated. No physical Pixel installation or device testing this turn.
+
+New source assets and exact prompts:
+outputs/sprite-library-review/revisions/shared-grass-sheep-r254/grass.png
+outputs/sprite-library-review/revisions/shared-grass-sheep-r254/grass.png.prompt.txt
+outputs/sprite-library-review/revisions/shared-grass-sheep-r254/sheep.png
+outputs/sprite-library-review/revisions/shared-grass-sheep-r254/sheep.png.prompt.txt
+Generated with the built-in image-generation tool. Source PNGs copied unchanged. Library sheep preview updated; original source sheets retained.
+
+Preview: outputs/visual-review/sprites254/terrain-sheep.png
+No gameplay or saved campaign rules changed. PC installation and hotseat saves untouched.

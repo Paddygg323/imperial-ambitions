@@ -1,0 +1,21 @@
+{
+  "revision": 242,
+  "date": "2026-11-17",
+  "changedExistingModules": [
+    "game\\app.mjs",
+    "game\\battle-view.mjs",
+    "game\\development-art.mjs",
+    "game\\diplomacy-map.mjs",
+    "game\\map.mjs",
+    "game\\news-priority.mjs"
+  ],
+  "newModules": [
+    "game\\royal-map-art.mjs",
+    "game\\royal-ui.mjs",
+    "game\\save-policy.mjs",
+    "game\\save-recovery.mjs"
+  ],
+  "unchangedBaselineModuleCount": 285,
+  "ruleEngineUnchanged": true,
+  "note": "Compared to the pre-overhaul hash baseline. Existing economy, research, trade, AI, combat, transport and world-generation rule modules are byte-identical. app/battle-view changes concern UI and save handling; news-priority changes concern outcome visibility. CSS, HTML, boot.js, artwork, Android host, packaging and tests are tracked separately."
+}

@@ -1,0 +1,79 @@
+{
+  "scope": "Read-only dispatch/class audit. Human creation branch has a separate execution audit.",
+  "imageSha256": "9997f9c736a9c187e4266bc08f3f9f9081888e06609ae9bb0aa04bbfc6195d97",
+  "tables": [
+    {
+      "table": "0x6fdac8",
+      "className": "TGreatPower",
+      "slots": {
+        "0x288": "0x50d450",
+        "0x28c": "0x50d700",
+        "0x290": "0x50d9a0",
+        "0x294": "0x50da60"
+      }
+    },
+    {
+      "table": "0x6fe508",
+      "className": "TAutoGreatPower",
+      "slots": {
+        "0x288": "0x50d450",
+        "0x28c": "0x50d700",
+        "0x290": "0x50d9a0",
+        "0x294": "0x50da60"
+      }
+    },
+    {
+      "table": "0x705e70",
+      "className": "TProxyGreatPower",
+      "slots": {
+        "0x288": "0x50d450",
+        "0x28c": "0x50d700",
+        "0x290": "0x50d9a0",
+        "0x294": "0x50da60"
+      }
+    },
+    {
+      "table": "0x706280",
+      "className": "THostGreatPower",
+      "slots": {
+        "0x288": "0x50d450",
+        "0x28c": "0x50d700",
+        "0x290": "0x50d9a0",
+        "0x294": "0x50da60"
+      }
+    },
+    {
+      "table": "0x706690",
+      "className": "TClientGreatPower",
+      "slots": {
+        "0x288": "0x50d450",
+        "0x28c": "0x50d700",
+        "0x290": "0x50d9a0",
+        "0x294": "0x50da60"
+      }
+    },
+    {
+      "table": "0x706aa0",
+      "className": "TRemoteGreatPower",
+      "slots": {
+        "0x288": "0x50d450",
+        "0x28c": "0x50d700",
+        "0x290": "0x50d9a0",
+        "0x294": "0x50da60"
+      }
+    }
+  ],
+  "observations": [
+    "All six located tables using army reinforcement50d450 share both strength aggregation methods.",
+    "Additional population50d160 dereferences country+208 via4ee770; the getter has no null guard.",
+    "Base constructor503090 clears country+208; AI setup5156cb assigns an initialized interior minister.",
+    "504134 tests load flag2 before allocating/loading an interior minister; absent flag deletes and clears it."
+  ],
+  "humanInitializationEvidence": "outputs/Native-human-minister-initialization-audit.json",
+  "resolution": "Human flag country+210 enables503736/503740 minister initialization. New human countries require initial zero planning arrays too.",
+  "unresolved": [
+    "Human later minister refresh scheduling and peace settlement/alliances remain to be integrated.",
+    "Do not replace absent legacy planning with invented history or assign AI civilian orders to humans."
+  ],
+  "runtimeChanged": false
+}

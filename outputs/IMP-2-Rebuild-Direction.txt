@@ -1,0 +1,28 @@
+IMP 2 Phone - rebuild direction, 9 October 2026
+
+The requested product is a new standalone game designed for phone controls.
+The emulator APK is an abandoned approach, not the foundation of the rebuild.
+
+Local reference projects found:
+Motherload: C:/Users/paddy/Documents/Codex/motherload game/game
+Quaterni/Quatro: C:/Users/paddy/Documents/Codex/Quatro/game
+Existing test package: C:/Users/paddy/Documents/Codex/Quatro/outputs/Quatro-Netlify.zip
+Motherload uses modular HTML/CSS/JavaScript with canvas rendering and responsive
+panels; Quatro has a web app and Netlify packaging. Reuse relevant presentation,
+input, save and packaging patterns, not their unrelated gameplay rules.
+
+IMP 2 implementation should separate rules/state, commands, turn resolution,
+saving and rendering. Use the original PC game/manual as evidence for actual
+mechanics. Record unverified mechanics rather than inventing replacements.
+Full intended scope remains the original scenarios, economy, trade, diplomacy,
+research, exploration, AI/minors and battles with phone-designed interfaces.
+Android is the first test device. A browser-delivered first build, like the other
+projects, is suitable for iteration; an Android package can follow.
+A playable slice is an intermediate milestone, not permission to reduce scope.
+Future multiplayer must support independent devices and private simultaneous
+orders, durable round resolution, reconnects and manual battle participation.
+
+First implementation milestone: touch map/province selection, an evidenced
+production-and-turn loop, opposing AI state and robust save/load. Clearly label
+any temporary test scenario, missing systems and provisional mechanics.
+No new rebuild gameplay has been implemented or verified yet.

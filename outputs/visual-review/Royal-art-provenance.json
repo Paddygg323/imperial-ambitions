@@ -1,0 +1,138 @@
+{
+  "revision": 243,
+  "generatedImageDirectory": "C:/Users/paddy/.codex/generated_images/01a0ee53-00af-7d32-a4f5-ff2543979bbf",
+  "assets": {
+    "atlas.png": {
+      "sha256": "e300b5bade8b96fbc8534114ce1491cf97b956df160440024cc7552051d402d7",
+      "bytes": 2274585,
+      "source": "Built-in image_gen; new artwork, not original-game sprites",
+      "record": "Art-provenance.txt"
+    },
+    "development.png": {
+      "sha256": "3d6b6c21967f38cf3167e493a7a06d6a1b77753fe305dca536f1212956052c7e",
+      "bytes": 1620236,
+      "source": "Built-in image_gen; new artwork, not original-game sprites",
+      "record": "Development-art-prompts.txt"
+    },
+    "industry.png": {
+      "sha256": "45998422042b96908c2aa1a3df9e3d2d86688e4204e755d80a923415120c57b1",
+      "bytes": 2059452,
+      "source": "Built-in image_gen; new artwork, not original-game sprites",
+      "record": "Development-art-prompts.txt"
+    },
+    "military.png": {
+      "sha256": "31ebf3b47351f7499eb2cf9141119c66ea685514b83487773b8e1def44a99397",
+      "bytes": 2307191,
+      "source": "Built-in image_gen; new artwork, not original-game sprites",
+      "record": "Art-provenance.txt"
+    },
+    "overseas-development.png": {
+      "sha256": "44bc8a617e1ed0460e7f726255e90f7c2e82b7947922816cab350bac33d50ac1",
+      "bytes": 1513874,
+      "source": "Built-in image_gen; new artwork, not original-game sprites",
+      "record": "Development-art-prompts.txt"
+    },
+    "relief.png": {
+      "sha256": "5ac6446bd195aaa2a22663c94f0d369c64c4f9d249e836d0736922d91df23fc0",
+      "bytes": 1775422,
+      "source": "Built-in image_gen; new artwork, not original-game sprites",
+      "record": "Development-art-prompts.txt"
+    },
+    "resource-sites.png": {
+      "sha256": "afbaf9f907a1bf35189968d3946ba0b14a4273fb38278f01b300bbc509edaa11",
+      "bytes": 2420448,
+      "source": "Built-in image_gen; new artwork, not original-game sprites",
+      "record": "Development-art-prompts.txt"
+    },
+    "resources.png": {
+      "sha256": "d8cf91ed8f22ab23c3133e43449a959f701e094668809872040075ab1c294003",
+      "bytes": 2131452,
+      "source": "Built-in image_gen; new artwork, not original-game sprites",
+      "record": "Art-provenance.txt"
+    },
+    "royal-brocade.png": {
+      "sha256": "42a384902ebc934e553e7a4cc01208328fd3af41ccf4580429ce3d468897a6e0",
+      "bytes": 2713642,
+      "source": "Built-in image_gen; new artwork, not original-game sprites",
+      "record": "Royal-art-provenance.json",
+      "generatedFile": "exec-8b468605-b889-4471-a093-06d28bc0687f.png",
+      "promptBrief": "Quiet dark navy Renaissance damask; no text, objects or gold."
+    },
+    "royal-envoys.png": {
+      "sha256": "5db73465a95b27595ded7e05dcc4f365e95b61862678c6c60c41318180ebe098",
+      "bytes": 2850653,
+      "source": "Built-in image_gen; new artwork, not original-game sprites",
+      "record": "Royal-art-provenance.json",
+      "generatedFile": "exec-e9114a74-8eb3-4487-99c4-053881809118.png",
+      "promptBrief": "Six generic Renaissance envoy portraits in gold ovals, nation colour backgrounds; no named historical likeness claims."
+    },
+    "royal-frame.png": {
+      "sha256": "a228bd5658ff9b3bbef5c71dcb6e47433eaf8d0111c9ae44f444d556182396c8",
+      "bytes": 811097,
+      "source": "Built-in image_gen; new artwork, not original-game sprites",
+      "record": "Royal-art-provenance.json",
+      "generatedFile": "exec-3f016285-255d-4e21-81b9-9a92a5a6dbd7.png",
+      "promptBrief": "Transparent centre; gilt Renaissance frame with acanthus corners for nine-slice UI."
+    },
+    "royal-parchment.png": {
+      "sha256": "ac479a977e513fabe76c4f7cee7029bf7e1b85c102af69035068cf95f752730a",
+      "bytes": 2631800,
+      "source": "Built-in image_gen; new artwork, not original-game sprites",
+      "record": "Royal-art-provenance.json",
+      "generatedFile": "exec-c7e7eaf1-40df-4401-a0d9-88a09049c494.png",
+      "promptBrief": "Aged cream parchment with rolled sides, no text or branding, nine-slice UI."
+    },
+    "royal-relief.png": {
+      "sha256": "45426e1bbc41d3441118bb12b8c02d15de0a86e95406b7d2e8ec8aa928fba67d",
+      "bytes": 2640728,
+      "source": "Built-in image_gen; new artwork, not original-game sprites",
+      "record": "Royal-art-provenance.json",
+      "generatedFile": "exec-e2ae337d-3bab-4afb-b7b7-e7f786859138.png",
+      "promptBrief": "Three transparent near-overhead terrain cells: grassy hills, rocky hills, mountains."
+    },
+    "royal-vellum.png": {
+      "sha256": "63cae36e8d45677b61df7b23e5f1d5157eaa405f7bb2ea56696da55f2ea95eaf",
+      "bytes": 2930860,
+      "source": "Built-in image_gen; new artwork, not original-game sprites",
+      "record": "Royal-art-provenance.json",
+      "generatedFile": "exec-95118f15-3150-4ae0-888e-af884f765eed.png",
+      "promptBrief": "Seamless warm ivory vellum, fine fibres and subtle golden aging; no illustrations, words, frames or rolls."
+    },
+    "terrain.png": {
+      "sha256": "09be8b70d37c75d98898df71138de03afda53d213ac313af691d3db751d694b3",
+      "bytes": 3835505,
+      "source": "Built-in image_gen; new artwork, not original-game sprites",
+      "record": "Art-provenance.txt"
+    },
+    "royal-regiments.png": {
+      "sha256": "dae91e1563d46baedd2d70987de8f9d63195f6c53baed28a44e094155e2505d0",
+      "bytes": 1816764,
+      "source": "Built-in image_gen, original generated artwork; binary copied unchanged",
+      "original": "C:\\Users\\paddy\\.codex\\generated_images\\01a0ee53-00af-7d32-a4f5-ff2543979bbf\\exec-e5228c3b-4bee-4e25-8111-c9f341b24286.png",
+      "promptBriefNotVerbatim": "Thirty original historical regiment miniatures, six columns and five rows, transparent background; painterly cutouts matching the navy/gold presentation. Exact unit order is MILITARY_TYPES in military-art.mjs. Requested clear margins and uniform cells; final integration uses measured per-subject rectangles because the generated alignment is imperfect.",
+      "integration": "CSS/canvas sprite rectangles or texture placement; no bitmap post-processing"
+    },
+    "royal-meadow.png": {
+      "sha256": "7f7df3cd190e992bf2e52f5f45055ce7345d921869a9611294a1e5aa2998e753",
+      "bytes": 2641595,
+      "source": "Built-in image_gen, original generated artwork; binary copied unchanged",
+      "original": "C:\\Users\\paddy\\.codex\\generated_images\\01a0ee53-00af-7d32-a4f5-ff2543979bbf\\exec-e29f2d1e-fe3c-4435-a8da-c6c9a977a982.png",
+      "promptBriefNotVerbatim": "Quiet overhead olive meadow and ochre ground with painterly variation, no objects, text, grid or built-in scenery. Used as a subtle campaign overlay and once across the battlefield; not assumed to be a seamless repeating texture.",
+      "integration": "CSS/canvas sprite rectangles or texture placement; no bitmap post-processing"
+    },
+    "royal-ocean.png": {
+      "sha256": "60f7b4bc5c5f74bca888dce854ade4b2227feb76bd14dd4bb4a5645e2a3933b8",
+      "bytes": 2401066,
+      "source": "Built-in image_gen, original generated artwork; binary copied unchanged",
+      "original": "C:\\Users\\paddy\\.codex\\generated_images\\01a0ee53-00af-7d32-a4f5-ff2543979bbf\\exec-c3c0fb7d-70a8-4050-9d49-1ed1f4a7eeb2.png",
+      "promptBriefNotVerbatim": "Seamless square, top-down painted royal cobalt ocean, small irregular turquoise and pale-blue wave crests with restrained ivory highlights. Jewel-like late-1990s illustrated strategy art, no land, ships, grid, horizon, text or vignette. Uniform light and medium-small evenly distributed detail. Opaque background. Final bitmap used unchanged at world-anchored scale; coastline geometry, labels, navigation and fog rules unchanged.",
+      "integration": "CSS/canvas sprite rectangles or texture placement; no bitmap post-processing"
+    }
+  },
+  "codeArtwork": "Original SVG interface icons, tactical hex outlines, canvas sea pattern, minimap and compass generated in source; no third-party icon library.",
+  "limitations": [
+    "The brief summaries above are not verbatim generation prompts. Earlier complete prompts are in the referenced text records.",
+    "This image inventory is not clearance for original-game extracted prose, tables, geography or branding. Those require separate distribution review.",
+    "Generic military silhouettes are shared by role; not every historical upgrade has unique artwork."
+  ]
+}

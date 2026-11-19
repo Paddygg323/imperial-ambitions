@@ -1,0 +1,52 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {createGame,command,finishTurnEconomy,saveGame,loadGame,transport} from '../engine.mjs';
+import {conquerProvince} from '../conquest.mjs';
+import {canBuildPort} from '../port-construction.mjs';
+import {neighbourIds} from '../world.mjs';
+
+test('newly conquered overseas land requires completed development, port and saved cargo assignment before delivery',()=>{
+ let s=createGame({transportModel:'ports'});
+ const old=new Set(s.provinces.filter(p=>p.old).map(p=>p.id));
+ const port=s.tiles.find(t=>!old.has(t.province)&&!t.port&&canBuildPort(s,t)&&s.tiles.some(r=>r.province===t.province&&[t.id,...neighbourIds(t)].includes(r.id)&&r.resource==='timber'&&r.level===0));
+ assert.ok(port,'Generated New World must offer a suitable timber/port site');
+ const resource=s.tiles.find(r=>r.province===port.province&&[port.id,...neighbourIds(port)].includes(r.id)&&r.resource==='timber'&&r.level===0);
+ // Isolate the post-conquest civilian/economy chain. The defended invasion
+ // dispatcher and tactical battle are exercised separately in beachhead.test.
+ conquerProvince(s,port.province,'england');
+ const unit=type=>s.civilians.find(u=>u.owner==='england'&&u.type===type).id;
+ const act=a=>{s=command(s,'england',a);};
+ const turn=()=>{s=loadGame(saveGame(finishTurnEconomy({...s,reports:[],turnPhase:'combat'})));};
+ act({type:'production',recipe:'lumber',quantity:2});
+ act({type:'civilian',unit:unit('engineer'),job:'move',tile:port.id});
+ act({type:'civilian',unit:unit('explorer'),job:'move',tile:resource.id});
+ turn();
+ act({type:'clearProduction'});
+ const stockBefore=s.nations.england.stock;
+ const materials={lumber:stockBefore.lumber,castIron:stockBefore.castIron};
+ act({type:'civilian',unit:unit('engineer'),job:'port',tile:port.id});
+ act({type:'civilian',unit:unit('builder'),job:'develop',tile:resource.id});
+ assert.equal(s.nations.england.stock.lumber,materials.lumber-6);
+ assert.equal(s.nations.england.stock.castIron,materials.castIron-6);
+ turn();
+ assert.equal(s.tiles.find(t=>t.id===port.id).port,false);
+ assert.equal(s.tiles.find(t=>t.id===resource.id).level,0);
+ turn();
+ assert.equal(s.tiles.find(t=>t.id===port.id).port,true);
+ assert.equal(s.tiles.find(t=>t.id===resource.id).level,1);
+ assert.ok(s.tiles.find(t=>t.id===port.id).transportSeaTile);
+ assert.deepEqual(s.nations.england.transportAssignments[port.id],{automatic:false,assigned:Array(28).fill(0)});
+ const unassigned=transport(s,'england');
+ const remote=unassigned.ports.find(p=>p.root===port.id).goods.find(r=>r.good==='timber');
+ assert.equal(remote.connected,1);assert.equal(remote.incoming,0);
+ act({type:'transport',good:'timber',quantity:1});
+ s=loadGame(saveGame(s));
+ assert.equal(s.nations.england.transportAssignments[port.id].assigned[1],1);
+ assert.equal(transport(s,'england').incoming.timber,unassigned.incoming.timber+1);
+ const before=s.nations.england.stock.timber;
+ turn();
+ const receipt=s.reports.find(r=>r.nation==='england'&&r.kind==='deliveries');
+ assert.equal(receipt.goods.timber,unassigned.incoming.timber+1);
+ assert.equal(s.nations.england.stock.timber,before+receipt.goods.timber);
+ assert.equal(s.nations.england.transportAssignments[port.id].assigned[1],1);
+});

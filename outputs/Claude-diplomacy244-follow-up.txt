@@ -1,0 +1,11 @@
+Claude follow-up review — 17 November2026
+
+Review scope: the three specific blockers in the first review, using updated source, screenshots and regression tests mirrored under outputs/royal-review/runtime244 in the hotseat workspace. The connector is read-only; no files or campaign were changed by Claude.
+
+Claude verified that successful treaty inputs disarm their action, while grants and subsidies switch to information mode. The test verifies subsequent taps on a different nation do not change saved data. Failed input retains the chosen action for correction.
+
+Claude verified a44CSS-pixel transparent marker hit target, recalculated from getScreenCTM on render and resize, and drawn above country polygons. The regression clicks near its corner. It also verified that the Info label fits360px and retains the full accessible name Information.
+
+Verdict: no remaining concrete blockers in this changed code for the repeat-tap, marker-size or label-clipping issues. The narrow diplomacy revision is suitable for user playtest. This is not store-readiness approval, exact original-ranking parity approval or completion of the inherited colony/annexation gaps.
+
+Non-blocking cosmetic note: wide desktop views also use the shortened Info label. This was left consistent with phone layouts.

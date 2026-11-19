@@ -1,0 +1,2022 @@
+{
+  "function": "0x61a790",
+  "scope": "Original surrender decision with supplied movement/retreat map and one enemy. Not pathfinding or opportunity-fire parity.",
+  "cases": [
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 0,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 100,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 1000,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 2999,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 10000,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 32767,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 0,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 100,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 1000,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 2999,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 10000,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 32767,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 0,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 100,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 1000,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 2999,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 10000,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 32767,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 0,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 100,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 1000,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 2999,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 10000,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 0,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 32767,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 0,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 100,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 1000,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 2999,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 10000,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 32767,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 0,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 100,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 1000,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 2999,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 10000,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 32767,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 0,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 100,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 1000,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 2999,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 10000,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 32767,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 0,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 100,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 1000,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 2999,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 10000,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 4,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 32767,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 0,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 100,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 1000,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 2999,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 10000,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 32767,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 0,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 100,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 1000,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 2999,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 10000,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 32767,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 0,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 100,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 1000,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 2999,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 10000,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 32767,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 0,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 100,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 1000,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 2999,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 10000,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 8,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 32767,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 0,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 100,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 1000,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 2999,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 10000,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 32767,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 0,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 100,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 1000,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 2999,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 10000,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 32767,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 0,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 100,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 1000,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 2999,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 10000,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 32767,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 0,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 100,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 1000,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 2999,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 10000,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 20,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 32767,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 0,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 100,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 1000,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 2999,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 10000,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 32767,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 0,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 100,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 1000,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 2999,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 10000,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 32767,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 0,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 100,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 1000,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 2999,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 10000,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 32767,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 0,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 100,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 1000,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 2999,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 10000,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 33,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 32767,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 0,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 100,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 1000,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 2999,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 10000,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 32767,
+      "near": false,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 0,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 100,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 1000,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 2999,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 10000,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": false,
+      "roll": 32767,
+      "near": true,
+      "result": {
+        "hp": 0,
+        "state": 3,
+        "tile": 4294967295
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 0,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 100,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 1000,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 2999,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 10000,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 32767,
+      "near": false,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 0,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 100,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 1000,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 2999,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 10000,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    },
+    {
+      "unit": 36,
+      "hp": 50,
+      "enemy": 8,
+      "enemyHp": 100,
+      "moved": true,
+      "roll": 32767,
+      "near": true,
+      "result": {
+        "hp": 50,
+        "state": 1,
+        "tile": 101
+      }
+    }
+  ]
+}

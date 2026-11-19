@@ -1,0 +1,5045 @@
+{
+  "scope": "Original646cb0 GetRichesDealPrice: actual relation lookup and arithmetic;\nonly the trade manager base-price virtual query is supplied. This is the\npurchase charge, not the delivered riches cash value or convoy allocation.\n",
+  "cases": [
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 0,
+      "seller": 6,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 0,
+      "seller": 11,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 0,
+      "seller": 21,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 1,
+      "seller": 6,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 1,
+      "seller": 11,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 1,
+      "seller": 21,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 2,
+      "seller": 6,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 2,
+      "seller": 11,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 2,
+      "seller": 21,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 3,
+      "seller": 6,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 3,
+      "seller": 11,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 3,
+      "seller": 21,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 4,
+      "seller": 6,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 4,
+      "seller": 11,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 4,
+      "seller": 21,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 5,
+      "seller": 6,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 5,
+      "seller": 11,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 0,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 0,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 0,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 0,
+      "good": 26,
+      "base": 300,
+      "charge": 301
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 0,
+      "good": 27,
+      "base": 400,
+      "charge": 401
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 1,
+      "good": 23,
+      "base": 50,
+      "charge": 50
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 1,
+      "good": 24,
+      "base": 100,
+      "charge": 100
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 1,
+      "good": 25,
+      "base": 200,
+      "charge": 200
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 1,
+      "good": 26,
+      "base": 300,
+      "charge": 300
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 1,
+      "good": 27,
+      "base": 400,
+      "charge": 400
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 50,
+      "good": 23,
+      "base": 50,
+      "charge": 40
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 50,
+      "good": 24,
+      "base": 100,
+      "charge": 80
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 50,
+      "good": 25,
+      "base": 200,
+      "charge": 161
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 50,
+      "good": 26,
+      "base": 300,
+      "charge": 242
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 50,
+      "good": 27,
+      "base": 400,
+      "charge": 323
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 127,
+      "good": 23,
+      "base": 50,
+      "charge": 25
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 127,
+      "good": 24,
+      "base": 100,
+      "charge": 50
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 127,
+      "good": 25,
+      "base": 200,
+      "charge": 101
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 127,
+      "good": 26,
+      "base": 300,
+      "charge": 151
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 127,
+      "good": 27,
+      "base": 400,
+      "charge": 202
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 200,
+      "good": 23,
+      "base": 50,
+      "charge": 10
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 200,
+      "good": 24,
+      "base": 100,
+      "charge": 21
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 200,
+      "good": 25,
+      "base": 200,
+      "charge": 43
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 200,
+      "good": 26,
+      "base": 300,
+      "charge": 65
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 200,
+      "good": 27,
+      "base": 400,
+      "charge": 87
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 254,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 254,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 254,
+      "good": 25,
+      "base": 200,
+      "charge": 1
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 254,
+      "good": 26,
+      "base": 300,
+      "charge": 2
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 254,
+      "good": 27,
+      "base": 400,
+      "charge": 3
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 255,
+      "good": 23,
+      "base": 50,
+      "charge": 0
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 255,
+      "good": 24,
+      "base": 100,
+      "charge": 0
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 255,
+      "good": 25,
+      "base": 200,
+      "charge": 0
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 255,
+      "good": 26,
+      "base": 300,
+      "charge": 1
+    },
+    {
+      "buyer": 5,
+      "seller": 21,
+      "relation": 255,
+      "good": 27,
+      "base": 400,
+      "charge": 1
+    }
+  ]
+}

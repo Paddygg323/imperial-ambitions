@@ -1,0 +1,2119 @@
+{
+  "scope": "English overseas invasion; both tactical sides use rebuild AI through legal commands",
+  "initialTurn": 87,
+  "finalTurn": 88,
+  "battles": [
+    {
+      "attack": {
+        "attacker": "england",
+        "defender": "pueblo",
+        "province": "n139",
+        "fortLevel": 0,
+        "attackers": [
+          {
+            "id": "a22",
+            "from": "e1-0"
+          },
+          {
+            "id": "a884",
+            "from": "e1-0"
+          },
+          {
+            "id": "a892",
+            "from": "e1-0"
+          }
+        ],
+        "defenders": [
+          "a352",
+          "a353",
+          "a354"
+        ]
+      },
+      "steps": 45,
+      "winner": "england",
+      "round": 5,
+      "units": [
+        {
+          "id": "a22",
+          "owner": "england",
+          "type": "lancer",
+          "province": "e1-0",
+          "hp": 31,
+          "experience": 0,
+          "defending": false,
+          "order": {
+            "job": "attack",
+            "province": "n139"
+          },
+          "side": 0,
+          "tile": null,
+          "effective": 0,
+          "state": 2,
+          "fireReady": false,
+          "medals": 0,
+          "moveLeft": 6,
+          "movedThisTurn": false,
+          "done": false,
+          "escaped": true
+        },
+        {
+          "id": "a884",
+          "owner": "england",
+          "type": "halberdier",
+          "province": "e1-0",
+          "hp": 84,
+          "experience": 0,
+          "order": {
+            "job": "attack",
+            "province": "n139"
+          },
+          "defending": false,
+          "side": 0,
+          "tile": 245,
+          "effective": 68,
+          "state": 0,
+          "fireReady": false,
+          "medals": 0,
+          "moveLeft": 1,
+          "movedThisTurn": true,
+          "done": true
+        },
+        {
+          "id": "a892",
+          "owner": "england",
+          "type": "culverin",
+          "province": "e1-0",
+          "hp": 100,
+          "experience": 0,
+          "order": {
+            "job": "attack",
+            "province": "n139"
+          },
+          "defending": false,
+          "side": 0,
+          "tile": 211,
+          "effective": 100,
+          "state": 0,
+          "fireReady": true,
+          "medals": 0,
+          "moveLeft": 0,
+          "movedThisTurn": true,
+          "done": true
+        },
+        {
+          "id": "a352",
+          "owner": "pueblo",
+          "type": "pikeman",
+          "province": "n139",
+          "hp": 50,
+          "experience": 0,
+          "defending": true,
+          "order": null,
+          "side": 1,
+          "tile": null,
+          "effective": 0,
+          "state": 2,
+          "fireReady": false,
+          "medals": 0,
+          "moveLeft": 3,
+          "movedThisTurn": false,
+          "done": false,
+          "escaped": true
+        },
+        {
+          "id": "a353",
+          "owner": "pueblo",
+          "type": "pikeman",
+          "province": "n139",
+          "hp": 16,
+          "experience": 0,
+          "defending": true,
+          "order": null,
+          "side": 1,
+          "tile": null,
+          "effective": 0,
+          "state": 2,
+          "fireReady": false,
+          "medals": 0,
+          "moveLeft": 0,
+          "movedThisTurn": false,
+          "done": false,
+          "escaped": true
+        },
+        {
+          "id": "a354",
+          "owner": "pueblo",
+          "type": "pikeman",
+          "province": "n139",
+          "hp": 8,
+          "experience": 0,
+          "defending": true,
+          "order": null,
+          "side": 1,
+          "tile": null,
+          "effective": 0,
+          "state": 2,
+          "fireReady": false,
+          "medals": 0,
+          "moveLeft": 3,
+          "movedThisTurn": false,
+          "done": false,
+          "escaped": true
+        }
+      ]
+    }
+  ],
+  "reports": [
+    {
+      "nation": "portugal",
+      "kind": "diplomacy",
+      "peace": false,
+      "peaceRejected": true,
+      "proposer": "portugal",
+      "target": "spain",
+      "text": "spain rejected peace with portugal."
+    },
+    {
+      "nation": "spain",
+      "kind": "diplomacy",
+      "peace": false,
+      "peaceRejected": true,
+      "proposer": "portugal",
+      "target": "spain",
+      "text": "spain rejected peace with portugal."
+    },
+    {
+      "nation": "portugal",
+      "kind": "trade",
+      "seller": "portugal",
+      "buyer": "france",
+      "good": "copper",
+      "quantity": 2,
+      "unitPrice": 39,
+      "total": 78,
+      "overseasProfits": [],
+      "text": "2 copper: portugal ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ france, $78"
+    },
+    {
+      "nation": "france",
+      "kind": "trade",
+      "seller": "portugal",
+      "buyer": "france",
+      "good": "copper",
+      "quantity": 2,
+      "unitPrice": 39,
+      "total": 78,
+      "overseasProfits": [],
+      "text": "2 copper: portugal ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ france, $78"
+    },
+    {
+      "nation": "portugal",
+      "kind": "trade",
+      "seller": "portugal",
+      "buyer": "holland",
+      "good": "iron",
+      "quantity": 3,
+      "unitPrice": 129,
+      "total": 387,
+      "overseasProfits": [],
+      "text": "3 iron: portugal ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ holland, $387"
+    },
+    {
+      "nation": "holland",
+      "kind": "trade",
+      "seller": "portugal",
+      "buyer": "holland",
+      "good": "iron",
+      "quantity": 3,
+      "unitPrice": 129,
+      "total": 387,
+      "overseasProfits": [],
+      "text": "3 iron: portugal ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ holland, $387"
+    },
+    {
+      "nation": "sweden",
+      "kind": "trade",
+      "seller": "sweden",
+      "buyer": "spain",
+      "good": "iron",
+      "quantity": 1,
+      "unitPrice": 129,
+      "total": 129,
+      "overseasProfits": [],
+      "text": "1 iron: sweden ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ spain, $129"
+    },
+    {
+      "nation": "spain",
+      "kind": "trade",
+      "seller": "sweden",
+      "buyer": "spain",
+      "good": "iron",
+      "quantity": 1,
+      "unitPrice": 129,
+      "total": 129,
+      "overseasProfits": [],
+      "text": "1 iron: sweden ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ spain, $129"
+    },
+    {
+      "nation": "cherokee",
+      "kind": "trade",
+      "seller": "cherokee",
+      "buyer": "england",
+      "good": "sugarCane",
+      "quantity": 1,
+      "unitPrice": 49,
+      "total": 49,
+      "overseasProfits": [
+        {
+          "nation": "england",
+          "seller": "cherokee",
+          "good": "sugarCane",
+          "amount": 21
+        }
+      ],
+      "text": "1 sugarCane: cherokee ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ england, $49"
+    },
+    {
+      "nation": "england",
+      "kind": "trade",
+      "seller": "cherokee",
+      "buyer": "england",
+      "good": "sugarCane",
+      "quantity": 1,
+      "unitPrice": 49,
+      "total": 49,
+      "overseasProfits": [
+        {
+          "nation": "england",
+          "seller": "cherokee",
+          "good": "sugarCane",
+          "amount": 21
+        }
+      ],
+      "text": "1 sugarCane: cherokee ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ england, $49"
+    },
+    {
+      "nation": "huron",
+      "kind": "trade",
+      "seller": "huron",
+      "buyer": "england",
+      "good": "sugarCane",
+      "quantity": 1,
+      "unitPrice": 49,
+      "total": 49,
+      "overseasProfits": [],
+      "text": "1 sugarCane: huron ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ england, $49"
+    },
+    {
+      "nation": "england",
+      "kind": "trade",
+      "seller": "huron",
+      "buyer": "england",
+      "good": "sugarCane",
+      "quantity": 1,
+      "unitPrice": 49,
+      "total": 49,
+      "overseasProfits": [],
+      "text": "1 sugarCane: huron ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ england, $49"
+    },
+    {
+      "nation": "kwakiutl",
+      "kind": "trade",
+      "seller": "kwakiutl",
+      "buyer": "england",
+      "good": "sugarCane",
+      "quantity": 1,
+      "unitPrice": 49,
+      "total": 49,
+      "overseasProfits": [],
+      "text": "1 sugarCane: kwakiutl ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ england, $49"
+    },
+    {
+      "nation": "england",
+      "kind": "trade",
+      "seller": "kwakiutl",
+      "buyer": "england",
+      "good": "sugarCane",
+      "quantity": 1,
+      "unitPrice": 49,
+      "total": 49,
+      "overseasProfits": [],
+      "text": "1 sugarCane: kwakiutl ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ england, $49"
+    },
+    {
+      "nation": "pueblo",
+      "kind": "trade",
+      "seller": "pueblo",
+      "buyer": "england",
+      "good": "sugarCane",
+      "quantity": 1,
+      "unitPrice": 49,
+      "total": 49,
+      "overseasProfits": [],
+      "text": "1 sugarCane: pueblo ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ england, $49"
+    },
+    {
+      "nation": "england",
+      "kind": "trade",
+      "seller": "pueblo",
+      "buyer": "england",
+      "good": "sugarCane",
+      "quantity": 1,
+      "unitPrice": 49,
+      "total": 49,
+      "overseasProfits": [],
+      "text": "1 sugarCane: pueblo ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ england, $49"
+    },
+    {
+      "nation": "portugal",
+      "kind": "trade",
+      "seller": "portugal",
+      "buyer": "germany",
+      "good": "fabric",
+      "quantity": 1,
+      "unitPrice": 364,
+      "total": 364,
+      "overseasProfits": [],
+      "text": "1 fabric: portugal ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ germany, $364"
+    },
+    {
+      "nation": "germany",
+      "kind": "trade",
+      "seller": "portugal",
+      "buyer": "germany",
+      "good": "fabric",
+      "quantity": 1,
+      "unitPrice": 364,
+      "total": 364,
+      "overseasProfits": [],
+      "text": "1 fabric: portugal ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ germany, $364"
+    },
+    {
+      "nation": "sweden",
+      "kind": "trade",
+      "seller": "sweden",
+      "buyer": "denmark",
+      "good": "fabric",
+      "quantity": 1,
+      "unitPrice": 364,
+      "total": 364,
+      "overseasProfits": [],
+      "text": "1 fabric: sweden ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ denmark, $364"
+    },
+    {
+      "nation": "denmark",
+      "kind": "trade",
+      "seller": "sweden",
+      "buyer": "denmark",
+      "good": "fabric",
+      "quantity": 1,
+      "unitPrice": 364,
+      "total": 364,
+      "overseasProfits": [],
+      "text": "1 fabric: sweden ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ denmark, $364"
+    },
+    {
+      "nation": "england",
+      "seller": "cherokee",
+      "good": "sugarCane",
+      "amount": 21,
+      "kind": "overseasProfit",
+      "text": "Overseas profits: $21 from cherokee sugarCane sales."
+    },
+    {
+      "nation": "portugal",
+      "kind": "army",
+      "text": "musketeer recovered from 30 to 50 health",
+      "unit": "a62",
+      "recovered": 20
+    },
+    {
+      "nation": "switzerland",
+      "kind": "army",
+      "text": "bowman recovered from 32 to 52 health",
+      "unit": "a143",
+      "recovered": 20
+    },
+    {
+      "nation": "switzerland",
+      "kind": "army",
+      "text": "bowman recovered from 32 to 52 health",
+      "unit": "a144",
+      "recovered": 20
+    },
+    {
+      "nation": "switzerland",
+      "kind": "army",
+      "text": "arquebusier recovered from 46 to 66 health",
+      "unit": "a145",
+      "recovered": 20
+    },
+    {
+      "nation": "switzerland",
+      "kind": "army",
+      "text": "pikeman recovered from 37 to 57 health",
+      "unit": "a147",
+      "recovered": 20
+    },
+    {
+      "nation": "switzerland",
+      "kind": "army",
+      "text": "pikeman recovered from 66 to 86 health",
+      "unit": "a148",
+      "recovered": 20
+    },
+    {
+      "nation": "holland",
+      "kind": "army",
+      "text": "levy recovered from 92 to 100 health",
+      "unit": "a601",
+      "recovered": 8
+    },
+    {
+      "nation": "spain",
+      "kind": "army",
+      "text": "royalArtillery recovered from 32 to 52 health",
+      "unit": "a658",
+      "recovered": 20
+    },
+    {
+      "nation": "england",
+      "kind": "battle",
+      "text": "england won the battle for Ballater.",
+      "result": {
+        "province": "n139",
+        "winner": "england",
+        "fortBefore": 0,
+        "fortAfter": 0,
+        "fortReduced": false,
+        "armies": {
+          "england": {
+            "survivors": [
+              {
+                "id": "a22",
+                "type": "lancer",
+                "hp": 31,
+                "medals": 0,
+                "experience": 35,
+                "disposition": "escaped"
+              },
+              {
+                "id": "a884",
+                "type": "halberdier",
+                "hp": 84,
+                "medals": 0,
+                "experience": 35,
+                "disposition": "field"
+              },
+              {
+                "id": "a892",
+                "type": "culverin",
+                "hp": 100,
+                "medals": 0,
+                "experience": 35,
+                "disposition": "field"
+              }
+            ],
+            "losses": []
+          },
+          "pueblo": {
+            "survivors": [
+              {
+                "id": "a352",
+                "type": "pikeman",
+                "hp": 50,
+                "medals": 0,
+                "experience": 20,
+                "disposition": "escaped"
+              },
+              {
+                "id": "a353",
+                "type": "pikeman",
+                "hp": 16,
+                "medals": 0,
+                "experience": 20,
+                "disposition": "escaped"
+              },
+              {
+                "id": "a354",
+                "type": "pikeman",
+                "hp": 8,
+                "medals": 0,
+                "experience": 20,
+                "disposition": "escaped"
+              }
+            ],
+            "losses": []
+          }
+        }
+      },
+      "retreats": [
+        {
+          "id": "a352",
+          "province": "n141",
+          "destroyed": false
+        },
+        {
+          "id": "a353",
+          "province": "n141",
+          "destroyed": false
+        },
+        {
+          "id": "a354",
+          "province": "n141",
+          "destroyed": false
+        }
+      ]
+    },
+    {
+      "nation": "pueblo",
+      "kind": "battle",
+      "text": "england won the battle for Ballater.",
+      "result": {
+        "province": "n139",
+        "winner": "england",
+        "fortBefore": 0,
+        "fortAfter": 0,
+        "fortReduced": false,
+        "armies": {
+          "england": {
+            "survivors": [
+              {
+                "id": "a22",
+                "type": "lancer",
+                "hp": 31,
+                "medals": 0,
+                "experience": 35,
+                "disposition": "escaped"
+              },
+              {
+                "id": "a884",
+                "type": "halberdier",
+                "hp": 84,
+                "medals": 0,
+                "experience": 35,
+                "disposition": "field"
+              },
+              {
+                "id": "a892",
+                "type": "culverin",
+                "hp": 100,
+                "medals": 0,
+                "experience": 35,
+                "disposition": "field"
+              }
+            ],
+            "losses": []
+          },
+          "pueblo": {
+            "survivors": [
+              {
+                "id": "a352",
+                "type": "pikeman",
+                "hp": 50,
+                "medals": 0,
+                "experience": 20,
+                "disposition": "escaped"
+              },
+              {
+                "id": "a353",
+                "type": "pikeman",
+                "hp": 16,
+                "medals": 0,
+                "experience": 20,
+                "disposition": "escaped"
+              },
+              {
+                "id": "a354",
+                "type": "pikeman",
+                "hp": 8,
+                "medals": 0,
+                "experience": 20,
+                "disposition": "escaped"
+              }
+            ],
+            "losses": []
+          }
+        }
+      },
+      "retreats": [
+        {
+          "id": "a352",
+          "province": "n141",
+          "destroyed": false
+        },
+        {
+          "id": "a353",
+          "province": "n141",
+          "destroyed": false
+        },
+        {
+          "id": "a354",
+          "province": "n141",
+          "destroyed": false
+        }
+      ]
+    },
+    {
+      "kind": "deliveries",
+      "goods": {
+        "wool": 4,
+        "timber": 4,
+        "tin": 1,
+        "copper": 0,
+        "iron": 3,
+        "coal": 0,
+        "cotton": 0,
+        "sugarCane": 0,
+        "tobacco": 0,
+        "furs": 0,
+        "horses": 1,
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0,
+        "grain": 12,
+        "fish": 3,
+        "meat": 18,
+        "spices": 0,
+        "silver": 0,
+        "gold": 0,
+        "gems": 0,
+        "diamonds": 0
+      },
+      "rows": [
+        {
+          "tile": "87,32",
+          "sourcePort": "87,32",
+          "good": "wool",
+          "produced": 4,
+          "capacity": 4,
+          "landCapacity": 4,
+          "mode": "land",
+          "delivered": 4,
+          "landDelivered": 4,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "87,32",
+          "sourcePort": "87,32",
+          "good": "timber",
+          "produced": 4,
+          "capacity": 4,
+          "landCapacity": 4,
+          "mode": "land",
+          "delivered": 4,
+          "landDelivered": 4,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "87,32",
+          "sourcePort": "87,32",
+          "good": "tin",
+          "produced": 1,
+          "capacity": 1,
+          "landCapacity": 1,
+          "mode": "land",
+          "delivered": 1,
+          "landDelivered": 1,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "87,32",
+          "sourcePort": "87,32",
+          "good": "iron",
+          "produced": 3,
+          "capacity": 3,
+          "landCapacity": 3,
+          "mode": "land",
+          "delivered": 3,
+          "landDelivered": 3,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "87,32",
+          "sourcePort": "87,32",
+          "good": "horses",
+          "produced": 1,
+          "capacity": 1,
+          "landCapacity": 1,
+          "mode": "land",
+          "delivered": 1,
+          "landDelivered": 1,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "87,32",
+          "sourcePort": "87,32",
+          "good": "grain",
+          "produced": 12,
+          "capacity": 12,
+          "landCapacity": 12,
+          "mode": "land",
+          "delivered": 12,
+          "landDelivered": 12,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "87,32",
+          "sourcePort": "87,32",
+          "good": "fish",
+          "produced": 3,
+          "capacity": 3,
+          "landCapacity": 3,
+          "mode": "land",
+          "delivered": 3,
+          "landDelivered": 3,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "87,32",
+          "sourcePort": "87,32",
+          "good": "meat",
+          "produced": 18,
+          "capacity": 18,
+          "landCapacity": 18,
+          "mode": "land",
+          "delivered": 18,
+          "landDelivered": 18,
+          "seaDelivered": 0,
+          "reason": null
+        }
+      ],
+      "nation": "france"
+    },
+    {
+      "nation": "france",
+      "kind": "finance",
+      "income": {
+        "sales": 0,
+        "riches": 0,
+        "overseasProfits": 0
+      },
+      "creditLimit": 616,
+      "interest": 0,
+      "receipts": 0,
+      "consequence": "none",
+      "text": "Credit limit $616; interest $0."
+    },
+    {
+      "kind": "production",
+      "recipe": "lumber",
+      "requested": 2,
+      "made": 2,
+      "labour": 4,
+      "nation": "france"
+    },
+    {
+      "kind": "production",
+      "recipe": "woolFabric",
+      "requested": 1,
+      "made": 1,
+      "labour": 2,
+      "nation": "france"
+    },
+    {
+      "kind": "production",
+      "recipe": "castIron",
+      "requested": 2,
+      "made": 2,
+      "labour": 4,
+      "nation": "france"
+    },
+    {
+      "kind": "production",
+      "recipe": "bronze",
+      "requested": 3,
+      "made": 3,
+      "labour": 6,
+      "nation": "france"
+    },
+    {
+      "kind": "tradeDelivery",
+      "seller": "portugal",
+      "buyer": "france",
+      "good": "copper",
+      "quantity": 2,
+      "unitPrice": 39,
+      "carrier": "france",
+      "text": "2 copper purchased from portugal arrived in the warehouse.",
+      "nation": "france"
+    },
+    {
+      "kind": "construction",
+      "text": "peasant recruited at the capital",
+      "nation": "france"
+    },
+    {
+      "kind": "civilian",
+      "text": "explorer: explore completed at 41,35.",
+      "nation": "france"
+    },
+    {
+      "kind": "food",
+      "population": 30,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 133,
+        "meat": 0,
+        "fish": 50
+      },
+      "nation": "france"
+    },
+    {
+      "kind": "deliveries",
+      "goods": {
+        "wool": 6,
+        "timber": 4,
+        "tin": 0,
+        "copper": 0,
+        "iron": 4,
+        "coal": 0,
+        "cotton": 0,
+        "sugarCane": 0,
+        "tobacco": 0,
+        "furs": 0,
+        "horses": 0,
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0,
+        "grain": 9,
+        "fish": 3,
+        "meat": 7,
+        "spices": 0,
+        "silver": 0,
+        "gold": 0,
+        "gems": 0,
+        "diamonds": 0
+      },
+      "rows": [
+        {
+          "tile": "82,23",
+          "sourcePort": "82,23",
+          "good": "wool",
+          "produced": 6,
+          "capacity": 6,
+          "landCapacity": 6,
+          "mode": "land",
+          "delivered": 6,
+          "landDelivered": 6,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "82,23",
+          "sourcePort": "82,23",
+          "good": "timber",
+          "produced": 4,
+          "capacity": 4,
+          "landCapacity": 4,
+          "mode": "land",
+          "delivered": 4,
+          "landDelivered": 4,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "82,23",
+          "sourcePort": "82,23",
+          "good": "iron",
+          "produced": 4,
+          "capacity": 4,
+          "landCapacity": 4,
+          "mode": "land",
+          "delivered": 4,
+          "landDelivered": 4,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "82,23",
+          "sourcePort": "82,23",
+          "good": "grain",
+          "produced": 9,
+          "capacity": 9,
+          "landCapacity": 9,
+          "mode": "land",
+          "delivered": 9,
+          "landDelivered": 9,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "82,23",
+          "sourcePort": "82,23",
+          "good": "fish",
+          "produced": 3,
+          "capacity": 3,
+          "landCapacity": 3,
+          "mode": "land",
+          "delivered": 3,
+          "landDelivered": 3,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "82,23",
+          "sourcePort": "82,23",
+          "good": "meat",
+          "produced": 7,
+          "capacity": 7,
+          "landCapacity": 7,
+          "mode": "land",
+          "delivered": 7,
+          "landDelivered": 7,
+          "seaDelivered": 0,
+          "reason": null
+        }
+      ],
+      "nation": "england"
+    },
+    {
+      "nation": "england",
+      "kind": "finance",
+      "income": {
+        "sales": 0,
+        "riches": 0,
+        "overseasProfits": 21
+      },
+      "creditLimit": 868,
+      "interest": 0,
+      "receipts": 0,
+      "consequence": "none",
+      "text": "Credit limit $868; interest $0."
+    },
+    {
+      "kind": "production",
+      "recipe": "woolFabric",
+      "requested": 2,
+      "made": 2,
+      "labour": 4,
+      "nation": "england"
+    },
+    {
+      "kind": "production",
+      "recipe": "sugar",
+      "requested": 2,
+      "made": 2,
+      "labour": 4,
+      "nation": "england"
+    },
+    {
+      "kind": "tradeDelivery",
+      "seller": "cherokee",
+      "buyer": "england",
+      "good": "sugarCane",
+      "quantity": 1,
+      "unitPrice": 49,
+      "carrier": "england",
+      "text": "1 sugarCane purchased from cherokee arrived in the warehouse.",
+      "nation": "england"
+    },
+    {
+      "kind": "tradeDelivery",
+      "seller": "huron",
+      "buyer": "england",
+      "good": "sugarCane",
+      "quantity": 1,
+      "unitPrice": 49,
+      "carrier": "england",
+      "text": "1 sugarCane purchased from huron arrived in the warehouse.",
+      "nation": "england"
+    },
+    {
+      "kind": "tradeDelivery",
+      "seller": "kwakiutl",
+      "buyer": "england",
+      "good": "sugarCane",
+      "quantity": 1,
+      "unitPrice": 49,
+      "carrier": "england",
+      "text": "1 sugarCane purchased from kwakiutl arrived in the warehouse.",
+      "nation": "england"
+    },
+    {
+      "kind": "tradeDelivery",
+      "seller": "pueblo",
+      "buyer": "england",
+      "good": "sugarCane",
+      "quantity": 1,
+      "unitPrice": 49,
+      "carrier": "england",
+      "text": "1 sugarCane purchased from pueblo arrived in the warehouse.",
+      "nation": "england"
+    },
+    {
+      "kind": "food",
+      "population": 19,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 96,
+        "meat": 0,
+        "fish": 71
+      },
+      "nation": "england"
+    },
+    {
+      "kind": "deliveries",
+      "goods": {
+        "wool": 4,
+        "timber": 4,
+        "tin": 0,
+        "copper": 2,
+        "iron": 4,
+        "coal": 0,
+        "cotton": 0,
+        "sugarCane": 0,
+        "tobacco": 0,
+        "furs": 0,
+        "horses": 1,
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0,
+        "grain": 18,
+        "fish": 3,
+        "meat": 14,
+        "spices": 0,
+        "silver": 0,
+        "gold": 0,
+        "gems": 0,
+        "diamonds": 0
+      },
+      "rows": [
+        {
+          "tile": "105,12",
+          "sourcePort": "105,12",
+          "good": "wool",
+          "produced": 4,
+          "capacity": 4,
+          "landCapacity": 4,
+          "mode": "land",
+          "delivered": 4,
+          "landDelivered": 4,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "105,12",
+          "sourcePort": "105,12",
+          "good": "timber",
+          "produced": 4,
+          "capacity": 4,
+          "landCapacity": 4,
+          "mode": "land",
+          "delivered": 4,
+          "landDelivered": 4,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "105,12",
+          "sourcePort": "105,12",
+          "good": "copper",
+          "produced": 2,
+          "capacity": 2,
+          "landCapacity": 2,
+          "mode": "land",
+          "delivered": 2,
+          "landDelivered": 2,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "105,12",
+          "sourcePort": "105,12",
+          "good": "iron",
+          "produced": 4,
+          "capacity": 4,
+          "landCapacity": 4,
+          "mode": "land",
+          "delivered": 4,
+          "landDelivered": 4,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "105,12",
+          "sourcePort": "105,12",
+          "good": "horses",
+          "produced": 1,
+          "capacity": 1,
+          "landCapacity": 1,
+          "mode": "land",
+          "delivered": 1,
+          "landDelivered": 1,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "105,12",
+          "sourcePort": "105,12",
+          "good": "grain",
+          "produced": 18,
+          "capacity": 18,
+          "landCapacity": 18,
+          "mode": "land",
+          "delivered": 18,
+          "landDelivered": 18,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "105,12",
+          "sourcePort": "105,12",
+          "good": "fish",
+          "produced": 3,
+          "capacity": 3,
+          "landCapacity": 3,
+          "mode": "land",
+          "delivered": 3,
+          "landDelivered": 3,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "105,12",
+          "sourcePort": "105,12",
+          "good": "meat",
+          "produced": 14,
+          "capacity": 14,
+          "landCapacity": 14,
+          "mode": "land",
+          "delivered": 14,
+          "landDelivered": 14,
+          "seaDelivered": 0,
+          "reason": null
+        }
+      ],
+      "nation": "sweden"
+    },
+    {
+      "nation": "sweden",
+      "kind": "finance",
+      "income": {
+        "sales": 493,
+        "riches": 0,
+        "overseasProfits": 0
+      },
+      "creditLimit": 490,
+      "interest": 0,
+      "receipts": 0,
+      "consequence": "none",
+      "text": "Credit limit $490; interest $0."
+    },
+    {
+      "kind": "construction",
+      "text": "peasant recruited at the capital",
+      "nation": "sweden"
+    },
+    {
+      "kind": "civilian",
+      "text": "explorer: prospect completed at 36,4.",
+      "nation": "sweden"
+    },
+    {
+      "kind": "food",
+      "population": 33,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 85,
+        "meat": 0,
+        "fish": 85
+      },
+      "nation": "sweden"
+    },
+    {
+      "kind": "deliveries",
+      "goods": {
+        "wool": 4,
+        "timber": 4,
+        "tin": 1,
+        "copper": 0,
+        "iron": 3,
+        "coal": 0,
+        "cotton": 0,
+        "sugarCane": 0,
+        "tobacco": 0,
+        "furs": 0,
+        "horses": 1,
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0,
+        "grain": 24,
+        "fish": 4,
+        "meat": 14,
+        "spices": 0,
+        "silver": 0,
+        "gold": 0,
+        "gems": 0,
+        "diamonds": 0
+      },
+      "rows": [
+        {
+          "tile": "92,23",
+          "sourcePort": "92,23",
+          "good": "wool",
+          "produced": 4,
+          "capacity": 4,
+          "landCapacity": 4,
+          "mode": "land",
+          "delivered": 4,
+          "landDelivered": 4,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "92,23",
+          "sourcePort": "92,23",
+          "good": "timber",
+          "produced": 4,
+          "capacity": 4,
+          "landCapacity": 4,
+          "mode": "land",
+          "delivered": 4,
+          "landDelivered": 4,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "92,23",
+          "sourcePort": "92,23",
+          "good": "tin",
+          "produced": 1,
+          "capacity": 1,
+          "landCapacity": 1,
+          "mode": "land",
+          "delivered": 1,
+          "landDelivered": 1,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "92,23",
+          "sourcePort": "92,23",
+          "good": "iron",
+          "produced": 3,
+          "capacity": 3,
+          "landCapacity": 3,
+          "mode": "land",
+          "delivered": 3,
+          "landDelivered": 3,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "92,23",
+          "sourcePort": "92,23",
+          "good": "horses",
+          "produced": 1,
+          "capacity": 1,
+          "landCapacity": 1,
+          "mode": "land",
+          "delivered": 1,
+          "landDelivered": 1,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "92,23",
+          "sourcePort": "92,23",
+          "good": "grain",
+          "produced": 24,
+          "capacity": 24,
+          "landCapacity": 24,
+          "mode": "land",
+          "delivered": 24,
+          "landDelivered": 24,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "92,23",
+          "sourcePort": "92,23",
+          "good": "fish",
+          "produced": 4,
+          "capacity": 4,
+          "landCapacity": 4,
+          "mode": "land",
+          "delivered": 4,
+          "landDelivered": 4,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "92,23",
+          "sourcePort": "92,23",
+          "good": "meat",
+          "produced": 14,
+          "capacity": 14,
+          "landCapacity": 14,
+          "mode": "land",
+          "delivered": 14,
+          "landDelivered": 14,
+          "seaDelivered": 0,
+          "reason": null
+        }
+      ],
+      "nation": "holland"
+    },
+    {
+      "nation": "holland",
+      "kind": "finance",
+      "income": {
+        "sales": 0,
+        "riches": 0,
+        "overseasProfits": 0
+      },
+      "creditLimit": 500,
+      "interest": 0,
+      "receipts": 0,
+      "consequence": "none",
+      "text": "Credit limit $500; interest $0."
+    },
+    {
+      "kind": "production",
+      "recipe": "lumber",
+      "requested": 4,
+      "made": 4,
+      "labour": 8,
+      "nation": "holland"
+    },
+    {
+      "kind": "production",
+      "recipe": "woolFabric",
+      "requested": 3,
+      "made": 3,
+      "labour": 6,
+      "nation": "holland"
+    },
+    {
+      "kind": "production",
+      "recipe": "castIron",
+      "requested": 1,
+      "made": 1,
+      "labour": 2,
+      "nation": "holland"
+    },
+    {
+      "kind": "production",
+      "recipe": "bronze",
+      "requested": 2,
+      "made": 2,
+      "labour": 4,
+      "nation": "holland"
+    },
+    {
+      "kind": "tradeDelivery",
+      "seller": "portugal",
+      "buyer": "holland",
+      "good": "iron",
+      "quantity": 3,
+      "unitPrice": 129,
+      "carrier": "holland",
+      "text": "3 iron purchased from portugal arrived in the warehouse.",
+      "nation": "holland"
+    },
+    {
+      "kind": "construction",
+      "text": "royalArtillery recruited at the capital",
+      "nation": "holland"
+    },
+    {
+      "kind": "construction",
+      "text": "levy recruited at the capital",
+      "nation": "holland"
+    },
+    {
+      "kind": "civilian",
+      "text": "explorer: explore completed at 20,34.",
+      "nation": "holland"
+    },
+    {
+      "kind": "civilian",
+      "text": "builder: develop completed at 98,20.",
+      "nation": "holland"
+    },
+    {
+      "kind": "food",
+      "population": 39,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 107,
+        "meat": 0,
+        "fish": 82
+      },
+      "nation": "holland"
+    },
+    {
+      "kind": "deliveries",
+      "goods": {
+        "wool": 4,
+        "timber": 4,
+        "tin": 2,
+        "copper": 2,
+        "iron": 4,
+        "coal": 0,
+        "cotton": 0,
+        "sugarCane": 0,
+        "tobacco": 0,
+        "furs": 0,
+        "horses": 1,
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0,
+        "grain": 7,
+        "fish": 3,
+        "meat": 6,
+        "spices": 0,
+        "silver": 0,
+        "gold": 0,
+        "gems": 0,
+        "diamonds": 0
+      },
+      "rows": [
+        {
+          "tile": "78,52",
+          "sourcePort": "78,52",
+          "good": "wool",
+          "produced": 4,
+          "capacity": 4,
+          "landCapacity": 4,
+          "mode": "land",
+          "delivered": 4,
+          "landDelivered": 4,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "78,52",
+          "sourcePort": "78,52",
+          "good": "timber",
+          "produced": 4,
+          "capacity": 4,
+          "landCapacity": 4,
+          "mode": "land",
+          "delivered": 4,
+          "landDelivered": 4,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "78,52",
+          "sourcePort": "78,52",
+          "good": "tin",
+          "produced": 2,
+          "capacity": 2,
+          "landCapacity": 2,
+          "mode": "land",
+          "delivered": 2,
+          "landDelivered": 2,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "78,52",
+          "sourcePort": "78,52",
+          "good": "copper",
+          "produced": 2,
+          "capacity": 2,
+          "landCapacity": 2,
+          "mode": "land",
+          "delivered": 2,
+          "landDelivered": 2,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "78,52",
+          "sourcePort": "78,52",
+          "good": "iron",
+          "produced": 4,
+          "capacity": 4,
+          "landCapacity": 4,
+          "mode": "land",
+          "delivered": 4,
+          "landDelivered": 4,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "78,52",
+          "sourcePort": "78,52",
+          "good": "horses",
+          "produced": 1,
+          "capacity": 1,
+          "landCapacity": 1,
+          "mode": "land",
+          "delivered": 1,
+          "landDelivered": 1,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "78,52",
+          "sourcePort": "78,52",
+          "good": "grain",
+          "produced": 7,
+          "capacity": 7,
+          "landCapacity": 7,
+          "mode": "land",
+          "delivered": 7,
+          "landDelivered": 7,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "78,52",
+          "sourcePort": "78,52",
+          "good": "fish",
+          "produced": 3,
+          "capacity": 3,
+          "landCapacity": 3,
+          "mode": "land",
+          "delivered": 3,
+          "landDelivered": 3,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "78,52",
+          "sourcePort": "78,52",
+          "good": "meat",
+          "produced": 6,
+          "capacity": 6,
+          "landCapacity": 6,
+          "mode": "land",
+          "delivered": 6,
+          "landDelivered": 6,
+          "seaDelivered": 0,
+          "reason": null
+        }
+      ],
+      "nation": "portugal"
+    },
+    {
+      "nation": "portugal",
+      "kind": "finance",
+      "income": {
+        "sales": 829,
+        "riches": 0,
+        "overseasProfits": 0
+      },
+      "creditLimit": 2174,
+      "interest": 0,
+      "receipts": 0,
+      "consequence": "none",
+      "text": "Credit limit $2174; interest $0."
+    },
+    {
+      "kind": "production",
+      "recipe": "lumber",
+      "requested": 1,
+      "made": 1,
+      "labour": 2,
+      "nation": "portugal"
+    },
+    {
+      "kind": "production",
+      "recipe": "woolFabric",
+      "requested": 1,
+      "made": 1,
+      "labour": 2,
+      "nation": "portugal"
+    },
+    {
+      "kind": "production",
+      "recipe": "castIron",
+      "requested": 1,
+      "made": 1,
+      "labour": 2,
+      "nation": "portugal"
+    },
+    {
+      "kind": "civilian",
+      "text": "explorer: prospect completed at 39,21.",
+      "nation": "portugal"
+    },
+    {
+      "kind": "food",
+      "population": 11,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 185,
+        "meat": 0,
+        "fish": 42
+      },
+      "nation": "portugal"
+    },
+    {
+      "kind": "deliveries",
+      "goods": {
+        "wool": 4,
+        "timber": 4,
+        "tin": 1,
+        "copper": 1,
+        "iron": 3,
+        "coal": 0,
+        "cotton": 0,
+        "sugarCane": 0,
+        "tobacco": 0,
+        "furs": 0,
+        "horses": 1,
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0,
+        "grain": 20,
+        "fish": 6,
+        "meat": 17,
+        "spices": 0,
+        "silver": 0,
+        "gold": 0,
+        "gems": 0,
+        "diamonds": 0
+      },
+      "rows": [
+        {
+          "tile": "86,48",
+          "sourcePort": "86,48",
+          "good": "wool",
+          "produced": 4,
+          "capacity": 4,
+          "landCapacity": 4,
+          "mode": "land",
+          "delivered": 4,
+          "landDelivered": 4,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "86,48",
+          "sourcePort": "86,48",
+          "good": "timber",
+          "produced": 4,
+          "capacity": 4,
+          "landCapacity": 4,
+          "mode": "land",
+          "delivered": 4,
+          "landDelivered": 4,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "86,48",
+          "sourcePort": "86,48",
+          "good": "tin",
+          "produced": 1,
+          "capacity": 1,
+          "landCapacity": 1,
+          "mode": "land",
+          "delivered": 1,
+          "landDelivered": 1,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "86,48",
+          "sourcePort": "86,48",
+          "good": "copper",
+          "produced": 1,
+          "capacity": 1,
+          "landCapacity": 1,
+          "mode": "land",
+          "delivered": 1,
+          "landDelivered": 1,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "86,48",
+          "sourcePort": "86,48",
+          "good": "iron",
+          "produced": 3,
+          "capacity": 3,
+          "landCapacity": 3,
+          "mode": "land",
+          "delivered": 3,
+          "landDelivered": 3,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "86,48",
+          "sourcePort": "86,48",
+          "good": "horses",
+          "produced": 1,
+          "capacity": 1,
+          "landCapacity": 1,
+          "mode": "land",
+          "delivered": 1,
+          "landDelivered": 1,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "86,48",
+          "sourcePort": "86,48",
+          "good": "grain",
+          "produced": 18,
+          "capacity": 18,
+          "landCapacity": 18,
+          "mode": "land",
+          "delivered": 18,
+          "landDelivered": 18,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "86,48",
+          "sourcePort": "86,48",
+          "good": "fish",
+          "produced": 3,
+          "capacity": 3,
+          "landCapacity": 3,
+          "mode": "land",
+          "delivered": 3,
+          "landDelivered": 3,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "86,48",
+          "sourcePort": "86,48",
+          "good": "meat",
+          "produced": 17,
+          "capacity": 17,
+          "landCapacity": 17,
+          "mode": "land",
+          "delivered": 17,
+          "landDelivered": 17,
+          "seaDelivered": 0,
+          "reason": null
+        },
+        {
+          "tile": "102,43",
+          "sourcePort": "102,43",
+          "good": "grain",
+          "produced": 2,
+          "capacity": 2,
+          "landCapacity": 0,
+          "mode": "sea",
+          "delivered": 2,
+          "landDelivered": 0,
+          "seaDelivered": 2,
+          "reason": null
+        },
+        {
+          "tile": "102,43",
+          "sourcePort": "102,43",
+          "good": "fish",
+          "produced": 5,
+          "capacity": 5,
+          "landCapacity": 0,
+          "mode": "sea",
+          "delivered": 3,
+          "landDelivered": 0,
+          "seaDelivered": 3,
+          "reason": "Sea allocation below connected production"
+        }
+      ],
+      "nation": "spain"
+    },
+    {
+      "nation": "spain",
+      "kind": "finance",
+      "income": {
+        "sales": 0,
+        "riches": 0,
+        "overseasProfits": 0
+      },
+      "creditLimit": 572,
+      "interest": 0,
+      "receipts": 0,
+      "consequence": "none",
+      "text": "Credit limit $572; interest $0."
+    },
+    {
+      "kind": "production",
+      "recipe": "lumber",
+      "requested": 3,
+      "made": 3,
+      "labour": 6,
+      "nation": "spain"
+    },
+    {
+      "kind": "production",
+      "recipe": "woolFabric",
+      "requested": 3,
+      "made": 3,
+      "labour": 6,
+      "nation": "spain"
+    },
+    {
+      "kind": "production",
+      "recipe": "castIron",
+      "requested": 1,
+      "made": 1,
+      "labour": 2,
+      "nation": "spain"
+    },
+    {
+      "kind": "tradeDelivery",
+      "seller": "sweden",
+      "buyer": "spain",
+      "good": "iron",
+      "quantity": 1,
+      "unitPrice": 129,
+      "carrier": "spain",
+      "text": "1 iron purchased from sweden arrived in the warehouse.",
+      "nation": "spain"
+    },
+    {
+      "kind": "civilian",
+      "text": "explorer: prospect completed at 39,21.",
+      "nation": "spain"
+    },
+    {
+      "kind": "food",
+      "population": 40,
+      "starved": 0,
+      "sick": 0,
+      "remaining": {
+        "grain": 101,
+        "meat": 0,
+        "fish": 126
+      },
+      "nation": "spain"
+    },
+    {
+      "kind": "research",
+      "tech": "19",
+      "funded": 0,
+      "plannedFunding": 0,
+      "investment": 600,
+      "completed": false,
+      "text": "Improved Sea Routes: $0 funded",
+      "nation": "france"
+    },
+    {
+      "kind": "research",
+      "tech": "20",
+      "funded": 0,
+      "plannedFunding": 0,
+      "investment": 300,
+      "completed": false,
+      "text": "Cotton Weaving: $0 funded",
+      "nation": "france"
+    },
+    {
+      "kind": "research",
+      "tech": "47",
+      "funded": 300,
+      "plannedFunding": 300,
+      "investment": 600,
+      "completed": false,
+      "text": "Improved Iron Weapons: $300 funded",
+      "nation": "france"
+    },
+    {
+      "kind": "research",
+      "tech": "37",
+      "funded": 200,
+      "plannedFunding": 200,
+      "investment": 1800,
+      "completed": false,
+      "text": "Recruit Steppe Horsemen: $200 funded",
+      "nation": "england"
+    },
+    {
+      "kind": "research",
+      "tech": "56",
+      "funded": 300,
+      "plannedFunding": 300,
+      "investment": 1500,
+      "completed": false,
+      "text": "University: $300 funded",
+      "nation": "england"
+    },
+    {
+      "kind": "research",
+      "tech": "48",
+      "funded": 300,
+      "plannedFunding": 300,
+      "investment": 1500,
+      "completed": false,
+      "text": "Weapon Craftsmanship: $300 funded",
+      "nation": "england"
+    },
+    {
+      "kind": "research",
+      "tech": "47",
+      "funded": 0,
+      "plannedFunding": 0,
+      "investment": 900,
+      "completed": false,
+      "text": "Improved Iron Weapons: $0 funded",
+      "nation": "sweden"
+    },
+    {
+      "kind": "research",
+      "tech": "21",
+      "funded": 100,
+      "plannedFunding": 100,
+      "investment": 500,
+      "completed": false,
+      "text": "Cotton Planting: $100 funded",
+      "nation": "sweden"
+    },
+    {
+      "kind": "research",
+      "tech": "23",
+      "funded": 0,
+      "plannedFunding": 0,
+      "investment": 0,
+      "completed": false,
+      "text": "Apprentice Workers: $0 funded",
+      "nation": "sweden"
+    },
+    {
+      "kind": "research",
+      "tech": "48",
+      "funded": 0,
+      "plannedFunding": 0,
+      "investment": 600,
+      "completed": false,
+      "text": "Weapon Craftsmanship: $0 funded",
+      "nation": "holland"
+    },
+    {
+      "kind": "research",
+      "tech": "16",
+      "funded": 200,
+      "plannedFunding": 200,
+      "investment": 200,
+      "completed": false,
+      "text": "Tobacco Planting: $200 funded",
+      "nation": "holland"
+    },
+    {
+      "kind": "research",
+      "tech": "24",
+      "funded": 0,
+      "plannedFunding": 0,
+      "investment": 0,
+      "completed": false,
+      "text": "Large Sugar Plantations: $0 funded",
+      "nation": "holland"
+    },
+    {
+      "kind": "research",
+      "tech": "56",
+      "funded": 0,
+      "plannedFunding": 0,
+      "investment": 5400,
+      "completed": false,
+      "text": "University: $0 funded",
+      "nation": "portugal"
+    },
+    {
+      "kind": "research",
+      "tech": "29",
+      "funded": 200,
+      "plannedFunding": 200,
+      "investment": 1800,
+      "completed": true,
+      "text": "Coal Mining completed ($200 funded this turn)",
+      "nation": "portugal"
+    },
+    {
+      "kind": "research",
+      "tech": "33",
+      "funded": 0,
+      "plannedFunding": 0,
+      "investment": 600,
+      "completed": false,
+      "text": "Precious Stone Mining: $0 funded",
+      "nation": "portugal"
+    },
+    {
+      "kind": "research",
+      "tech": "23",
+      "funded": 200,
+      "plannedFunding": 200,
+      "investment": 800,
+      "completed": false,
+      "text": "Apprentice Workers: $200 funded",
+      "nation": "spain"
+    },
+    {
+      "kind": "research",
+      "tech": "47",
+      "funded": 300,
+      "plannedFunding": 300,
+      "investment": 1200,
+      "completed": false,
+      "text": "Improved Iron Weapons: $300 funded",
+      "nation": "spain"
+    },
+    {
+      "kind": "research",
+      "tech": "24",
+      "funded": 0,
+      "plannedFunding": 0,
+      "investment": 0,
+      "completed": false,
+      "text": "Large Sugar Plantations: $0 funded",
+      "nation": "spain"
+    }
+  ],
+  "limits": [
+    "English touch tactical control is not covered by this headless run",
+    "Not a Pixel or complete campaign test"
+  ]
+}

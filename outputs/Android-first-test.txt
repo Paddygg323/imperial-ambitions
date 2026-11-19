@@ -1,0 +1,44 @@
+Imperialism II — first Android compatibility test
+5 October 2026
+
+This is a private test of the complete original engine running on your phone.
+It is not a native Android port or verified multiplayer release. No PC needs
+to be running while you play. iPhone support remains a later target.
+
+Prepared archive: Imperialism-II-Android-test.zip (about 117 MB).
+Extracted folder: Imperialism-II.
+79 original files were copied and verified by SHA-256 against the preserved
+backup. One additional x86 msvcr120.dll supplies the GOG audio dependency already
+identified in the Windows investigation. Android-baseline-manifest.csv records
+all 80 files. Data, historical maps, movies and music are included. Saves start
+empty; original saves and hotseat patches are not included. No Microsoft
+DirectPlay system DLLs or Windows launcher are included; first test uses the
+runtime's own Windows API implementation.
+
+1. Install Winlator from the developer's official release page on your phone:
+   https://github.com/brunodev85/winlator/releases/tag/v11.2.0
+   Use the APK release asset, not the source ZIP. Complete its initial setup.
+2. Transfer this game ZIP to the phone once, then extract it using your Android
+   file manager. This transfer does not require a PC to remain in use.
+3. Create a Winlator container. Start with defaults; graphics driver selection
+   will be refined for your phone model. Use landscape and a 1024x768 virtual
+   desktop if that option is available. This is a trial setting, not verified.
+4. In the container's file manager, find the extracted Imperialism-II folder
+   through its mapped Android storage drive. Copy the folder into the container's
+   C: drive if possible so game saves stay in writable container storage.
+5. Open Imperialism II.exe from that folder. Do not use the old Windows shortcut.
+6. First report: phone model, Android version, Winlator version, container
+   settings, and whether the title screen and a new campaign appear. If it fails,
+   report the exact error or the last visible screen. Avoid changing several
+   settings at once; we need to know which change helps.
+7. If it opens, explicitly select historical Europe on the map setup screen.
+   Test pointer clicks, map scrolling, a production order and one End Turn.
+8. Save, exit normally, reopen and load. Then test a generated map separately.
+   Manual battle control and phone-to-phone networking are subsequent gates.
+
+Passing launch does not demonstrate whole-game stability, private simultaneous
+multiplayer, reconnect or human tactical combat. Those remain required.
+Keep the archive private; it contains your original game assets.
+
+Source for the runtime's on-device Wine/Box86/Box64 approach:
+https://github.com/brunodev85/winlator

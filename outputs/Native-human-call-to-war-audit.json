@@ -1,0 +1,103 @@
+{
+  "scope": "Execute original 50eb80 human call-to-war response. UI answer supplied;\nvirtual +2e8 war-order and 40a4c5 alliance-break callbacks captured, not replaced\nwith invented AI decisions. This audits dispatch/arguments, not treaty scheduling.\n",
+  "cases": [
+    {
+      "flag": 0,
+      "accept": false,
+      "result": false,
+      "calls": [
+        {
+          "kind": "prompt",
+          "args": [
+            0,
+            1,
+            2,
+            20
+          ]
+        },
+        {
+          "kind": "breakAlliance",
+          "args": [
+            0,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "flag": 0,
+      "accept": true,
+      "result": true,
+      "calls": [
+        {
+          "kind": "prompt",
+          "args": [
+            0,
+            1,
+            2,
+            20
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            2,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "flag": 1,
+      "accept": false,
+      "result": false,
+      "calls": [
+        {
+          "kind": "prompt",
+          "args": [
+            0,
+            1,
+            2,
+            21
+          ]
+        },
+        {
+          "kind": "breakAlliance",
+          "args": [
+            9437184,
+            2,
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "flag": 1,
+      "accept": true,
+      "result": true,
+      "calls": [
+        {
+          "kind": "prompt",
+          "args": [
+            0,
+            1,
+            2,
+            21
+          ]
+        },
+        {
+          "kind": "warOrder",
+          "args": [
+            1,
+            2,
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

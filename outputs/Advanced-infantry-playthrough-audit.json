@@ -1,0 +1,70 @@
+{
+  "checks": 52,
+  "upgrades": 2,
+  "steelCost": 6,
+  "fabricCost": 4,
+  "turn": 134,
+  "year": 1734,
+  "cash": -1140,
+  "armies": [
+    {
+      "id": "a21",
+      "owner": "england",
+      "type": "arquebusier",
+      "province": "e1-0",
+      "hp": 100,
+      "experience": 0,
+      "defending": true,
+      "order": null
+    },
+    {
+      "id": "a22",
+      "owner": "england",
+      "type": "lancer",
+      "province": "n139",
+      "hp": 100,
+      "experience": 35,
+      "defending": true,
+      "order": null,
+      "medals": 0
+    },
+    {
+      "id": "a23",
+      "owner": "england",
+      "type": "regular",
+      "province": "e1-0",
+      "hp": 100,
+      "experience": 0,
+      "defending": true,
+      "order": null
+    },
+    {
+      "id": "a884",
+      "owner": "england",
+      "type": "regular",
+      "province": "n139",
+      "hp": 100,
+      "experience": 35,
+      "order": null,
+      "defending": true,
+      "medals": 0
+    },
+    {
+      "id": "a892",
+      "owner": "england",
+      "type": "culverin",
+      "province": "n139",
+      "hp": 100,
+      "experience": 35,
+      "order": null,
+      "defending": true,
+      "medals": 0
+    }
+  ],
+  "economyWarning": "Campaign remains alive but export recovery assertion failed: cash -1140, credit limit3270. This is not a healthy-finance pass.",
+  "scope": "Campaign research unlock and full-cost home/overseas regular infantry upgrades with unchanged workers, experience and health",
+  "limits": [
+    "Headless public commands, not physical Pixel",
+    "Complete campaign unfinished"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "scope": "Recipient-side computer peace acceptance and independent-country settlement, staged outside live turn coordinator",
+  "implementation": "game/peace-settlement.mjs",
+  "focusedPassed": 3,
+  "focusedLog": "work/rebuild-v2/peace-settlement-tests.txt",
+  "fullLog": "work/rebuild-v2/tests-peace-settlement-full.txt",
+  "fullStatus": "passed",
+  "verified": [
+    "Acceptance removes bilateral war and declaration date, restores trade/relations, retains territory",
+    "Bilateral attack/beachhead orders cleared; unrelated war and orders retained",
+    "Rejection leaves campaign state unchanged",
+    "Threatened recipient alliances broken with native-audited relation penalties; other alliances retained",
+    "Human recipients require an explicit player response",
+    "Input state unchanged; accepted state saves/reloads"
+  ],
+  "remaining": [
+    "Proposer-side alliance consequences and notification timing require source audit",
+    "Live offer scheduling and human response UI not connected",
+    "Subject/protectorate propagation absent",
+    "APK remains3-182"
+  ],
+  "fullPassed": 783
+}

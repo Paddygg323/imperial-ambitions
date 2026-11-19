@@ -1,0 +1,17 @@
+{
+  "bundle": "Imperialism-Rebuild-unsigned.aab",
+  "sha256": "824ece33973536f18478b4b400273179b48d982fca05a9439c9616caeb969a5c",
+  "bytes": 110843793,
+  "targetSdk": 36,
+  "versionCode": 254,
+  "assetsVerified": 385,
+  "bundletoolValidated": true,
+  "uploadSigned": false,
+  "storeReady": false,
+  "unresolved": [
+    "Complete physical-device lifecycle, document-picker, performance and long-play validation",
+    "Final branding and distribution provenance",
+    "Public privacy policy and developer/store declarations",
+    "Final gameplay completeness and campaign validation"
+  ]
+}

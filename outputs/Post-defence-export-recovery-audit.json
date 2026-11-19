@@ -1,0 +1,48 @@
+{
+  "scope": "One public-command campaign turn after Yorkshire defence",
+  "turn": 142,
+  "year": 1742,
+  "startingCash": -2657,
+  "endingCash": -2272,
+  "sales": 1629,
+  "researchPaid": 1100,
+  "interest": 144,
+  "research": [
+    {
+      "kind": "research",
+      "tech": "75",
+      "funded": 400,
+      "plannedFunding": 400,
+      "investment": 3600,
+      "completed": false,
+      "text": "Scientific Cattle Breeding: $400 funded",
+      "nation": "england"
+    },
+    {
+      "kind": "research",
+      "tech": "76",
+      "funded": 400,
+      "plannedFunding": 400,
+      "investment": 2400,
+      "completed": false,
+      "text": "Scientific Sheep Breeding: $400 funded",
+      "nation": "england"
+    },
+    {
+      "kind": "research",
+      "tech": "43",
+      "funded": 300,
+      "plannedFunding": 300,
+      "investment": 2100,
+      "completed": false,
+      "text": "Sugar Industry: $300 funded",
+      "nation": "england"
+    }
+  ],
+  "shipRecall": "Cancelled obsolete beachhead; home beyond movement range, still at sea",
+  "limits": [
+    "Still in debt; one turn does not establish sustainable recovery",
+    "No completed campaign",
+    "Headless integration, not Pixel testing"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scope": "Public-command exploration, diplomacy, purchase, development, foreign port, paid imports and refining in the continuing campaign",
+  "turn": 72,
+  "year": 1644,
+  "checks": 24,
+  "totalCaneDelivered": 29,
+  "cherokeeCaneDelivered": 5,
+  "sugarManufactured": 4,
+  "investmentProfits": 95,
+  "firstCherokeeDeliveryTurn": 68,
+  "tile": {
+    "id": "34,34",
+    "x": 34,
+    "y": 34,
+    "owner": "cherokee",
+    "province": "n130",
+    "terrain": 15,
+    "mineral": 0,
+    "resource": "sugarCane",
+    "nativeResource": 7,
+    "baseTerrain": 7,
+    "river": false,
+    "riverCode": 0,
+    "prospected": false,
+    "level": 1,
+    "road": false,
+    "rail": false,
+    "port": true,
+    "townLevel": 0,
+    "purchasedBy": "england",
+    "transportSeaTile": "34,35"
+  },
+  "sourceLogs": [
+    "work/rebuild-v2/peaceful-overseas.json",
+    "work/rebuild-v2/overseas-port-deliveries.json"
+  ],
+  "verification": "work/rebuild-v2/verify-overseas-port.mjs",
+  "limits": [
+    "Other tribes also supplied cane; do not attribute all imports to purchased tile",
+    "Peaceful purchase leaves Cherokee sovereignty and uses trade, not English domestic delivery",
+    "Apprentice consumption and military conquest still need campaign verification",
+    "Not physical Pixel or complete campaign"
+  ]
+}

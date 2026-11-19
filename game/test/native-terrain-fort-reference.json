@@ -1,0 +1,521 @@
+{
+  "scope": "Native FireOn with supplied fort crossing, terrain source and covered defender; not a full siege.",
+  "cases": [
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 0,
+      "defenderTerrain": 1,
+      "fortCode": 2,
+      "wallTarget": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        51,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          8
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 0,
+      "defenderTerrain": 1,
+      "fortCode": 2,
+      "wallTarget": true,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          16
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 0,
+      "defenderTerrain": 1,
+      "fortCode": 3,
+      "wallTarget": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        43,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          8
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 0,
+      "defenderTerrain": 1,
+      "fortCode": 3,
+      "wallTarget": true,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          16
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 0,
+      "defenderTerrain": 1,
+      "fortCode": 4,
+      "wallTarget": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        18,
+        36,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          8
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 0,
+      "defenderTerrain": 1,
+      "fortCode": 4,
+      "wallTarget": true,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          16
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 1,
+      "defenderTerrain": 1,
+      "fortCode": 2,
+      "wallTarget": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        38,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          6
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 1,
+      "defenderTerrain": 1,
+      "fortCode": 2,
+      "wallTarget": true,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          12
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 1,
+      "defenderTerrain": 1,
+      "fortCode": 3,
+      "wallTarget": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        32,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          6
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 1,
+      "defenderTerrain": 1,
+      "fortCode": 3,
+      "wallTarget": true,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          12
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 1,
+      "defenderTerrain": 1,
+      "fortCode": 4,
+      "wallTarget": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        27,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          6
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 1,
+      "defenderTerrain": 1,
+      "fortCode": 4,
+      "wallTarget": true,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          12
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 2,
+      "defenderTerrain": 1,
+      "fortCode": 2,
+      "wallTarget": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        38,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          6
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 2,
+      "defenderTerrain": 1,
+      "fortCode": 2,
+      "wallTarget": true,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          12
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 2,
+      "defenderTerrain": 1,
+      "fortCode": 3,
+      "wallTarget": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        32,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          6
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 2,
+      "defenderTerrain": 1,
+      "fortCode": 3,
+      "wallTarget": true,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          12
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 2,
+      "defenderTerrain": 1,
+      "fortCode": 4,
+      "wallTarget": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        27,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          6
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 2,
+      "defenderTerrain": 1,
+      "fortCode": 4,
+      "wallTarget": true,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          12
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 3,
+      "defenderTerrain": 1,
+      "fortCode": 2,
+      "wallTarget": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        51,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          8
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 3,
+      "defenderTerrain": 1,
+      "fortCode": 2,
+      "wallTarget": true,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          16
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 3,
+      "defenderTerrain": 1,
+      "fortCode": 3,
+      "wallTarget": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        43,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          8
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 3,
+      "defenderTerrain": 1,
+      "fortCode": 3,
+      "wallTarget": true,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          16
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 3,
+      "defenderTerrain": 1,
+      "fortCode": 4,
+      "wallTarget": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        18,
+        36,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          8
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 1,
+      "hp": 80,
+      "medals": 2,
+      "terrain": 3,
+      "defenderTerrain": 1,
+      "fortCode": 4,
+      "wallTarget": true,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          16
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,621 @@
+{
+  "scope": "Original565568..565657: imported town flag initialization. Supplied country\nprovince-base offsets; execute town/capital marking for all22countries, p0/p1.\n",
+  "cases": [
+    {
+      "country": 0,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 0
+    },
+    {
+      "country": 0,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 0
+    },
+    {
+      "country": 0,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 1
+    },
+    {
+      "country": 0,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 1
+    },
+    {
+      "country": 1,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 4
+    },
+    {
+      "country": 1,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 4
+    },
+    {
+      "country": 1,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 5
+    },
+    {
+      "country": 1,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 5
+    },
+    {
+      "country": 2,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 8
+    },
+    {
+      "country": 2,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 8
+    },
+    {
+      "country": 2,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 9
+    },
+    {
+      "country": 2,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 9
+    },
+    {
+      "country": 3,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 12
+    },
+    {
+      "country": 3,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 12
+    },
+    {
+      "country": 3,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 13
+    },
+    {
+      "country": 3,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 13
+    },
+    {
+      "country": 4,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 16
+    },
+    {
+      "country": 4,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 16
+    },
+    {
+      "country": 4,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 17
+    },
+    {
+      "country": 4,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 17
+    },
+    {
+      "country": 5,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 20
+    },
+    {
+      "country": 5,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 20
+    },
+    {
+      "country": 5,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 21
+    },
+    {
+      "country": 5,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 21
+    },
+    {
+      "country": 6,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 24
+    },
+    {
+      "country": 6,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 24
+    },
+    {
+      "country": 6,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 25
+    },
+    {
+      "country": 6,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 25
+    },
+    {
+      "country": 7,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 28
+    },
+    {
+      "country": 7,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 28
+    },
+    {
+      "country": 7,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 29
+    },
+    {
+      "country": 7,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 29
+    },
+    {
+      "country": 8,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 32
+    },
+    {
+      "country": 8,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 32
+    },
+    {
+      "country": 8,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 33
+    },
+    {
+      "country": 8,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 33
+    },
+    {
+      "country": 9,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 36
+    },
+    {
+      "country": 9,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 36
+    },
+    {
+      "country": 9,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 37
+    },
+    {
+      "country": 9,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 37
+    },
+    {
+      "country": 10,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 40
+    },
+    {
+      "country": 10,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 40
+    },
+    {
+      "country": 10,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 41
+    },
+    {
+      "country": 10,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 41
+    },
+    {
+      "country": 11,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 44
+    },
+    {
+      "country": 11,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 44
+    },
+    {
+      "country": 11,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 45
+    },
+    {
+      "country": 11,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 45
+    },
+    {
+      "country": 12,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 48
+    },
+    {
+      "country": 12,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 48
+    },
+    {
+      "country": 12,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 49
+    },
+    {
+      "country": 12,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 49
+    },
+    {
+      "country": 13,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 52
+    },
+    {
+      "country": 13,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 52
+    },
+    {
+      "country": 13,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 53
+    },
+    {
+      "country": 13,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 53
+    },
+    {
+      "country": 14,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 56
+    },
+    {
+      "country": 14,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 56
+    },
+    {
+      "country": 14,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 57
+    },
+    {
+      "country": 14,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 57
+    },
+    {
+      "country": 15,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 60
+    },
+    {
+      "country": 15,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 60
+    },
+    {
+      "country": 15,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 61
+    },
+    {
+      "country": 15,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 61
+    },
+    {
+      "country": 16,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 64
+    },
+    {
+      "country": 16,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 64
+    },
+    {
+      "country": 16,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 65
+    },
+    {
+      "country": 16,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 65
+    },
+    {
+      "country": 17,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 68
+    },
+    {
+      "country": 17,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 68
+    },
+    {
+      "country": 17,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 69
+    },
+    {
+      "country": 17,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 69
+    },
+    {
+      "country": 18,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 72
+    },
+    {
+      "country": 18,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 72
+    },
+    {
+      "country": 18,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 73
+    },
+    {
+      "country": 18,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 73
+    },
+    {
+      "country": 19,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 76
+    },
+    {
+      "country": 19,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 76
+    },
+    {
+      "country": 19,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 77
+    },
+    {
+      "country": 19,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 77
+    },
+    {
+      "country": 20,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 80
+    },
+    {
+      "country": 20,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 80
+    },
+    {
+      "country": 20,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 81
+    },
+    {
+      "country": 20,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 81
+    },
+    {
+      "country": 21,
+      "province": 0,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 84
+    },
+    {
+      "country": 21,
+      "province": 0,
+      "town": true,
+      "flags": 35,
+      "globalProvince": 84
+    },
+    {
+      "country": 21,
+      "province": 1,
+      "town": false,
+      "flags": 0,
+      "globalProvince": 85
+    },
+    {
+      "country": 21,
+      "province": 1,
+      "town": true,
+      "flags": 34,
+      "globalProvince": 85
+    }
+  ]
+}

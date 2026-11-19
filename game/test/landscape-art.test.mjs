@@ -1,0 +1,6 @@
+import test from 'node:test';import assert from 'node:assert/strict';
+import {surfaceSample,seaTextureStrength,largeTown} from '../landscape-art.mjs';
+import {createGame} from '../engine.mjs';
+test('shared boundary samples stay continuous when opposite tile neighbourhoods differ',()=>{const common=[{x:0,y:0,rgb:[210,190,110],family:4},{x:1,y:0,rgb:[100,150,65],family:0},{x:.5,y:.866,rgb:[160,175,155],family:3}];for(let y=-.3;y<=.3;y+=.03){const a=surfaceSample(.5-1e-6,y,[...common,{x:-2,y:0,rgb:[0,0,0],family:0}]);const b=surfaceSample(.5+1e-6,y,[...common,{x:3,y:0,rgb:[255,255,255],family:0}]);assert.ok(a.every((v,i)=>Math.abs(v-b[i])<.01));}});
+test('England starts with London alone drawn as a large town; upgrades change the artwork classification',()=>{const s=createGame(),towns=s.tiles.filter(t=>t.owner==='england'&&t.terrain===13);assert.deepEqual(towns.filter(t=>largeTown(s,t)).map(t=>t.id),[s.nations.england.capital]);const small=towns.find(t=>!largeTown(s,t));small.townLevel=1;assert.ok(largeTown(s,small));});
+test('sea gets steadily quieter at regional zoom and has no texture at strategic scale',()=>{const strengths=[110,78,52,30,19].map(seaTextureStrength);for(let i=1;i<strengths.length;i++)assert.ok(strengths[i]<=strengths[i-1]);assert.equal(strengths.at(-1),0);assert.ok(strengths[3]<.15);});

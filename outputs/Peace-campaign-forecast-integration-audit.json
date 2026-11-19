@@ -1,0 +1,25 @@
+{
+  "scope": "Read-only campaign peace evaluator now obtains strategic strengths from saved campaign forecasts when no explicit test inputs are supplied",
+  "implementation": "game/campaign-peace-decision.mjs",
+  "focusedTests": 6,
+  "focusedLog": "work/rebuild-v2/peace-live-forecast-tests.txt",
+  "fullRegression": "work/rebuild-v2/tests-peace-live-forecast-full.txt",
+  "fullRegressionStatus": "passed",
+  "lastPackagedRuntime": "3-182",
+  "sourceEvidence": [
+    "outputs/Campaign-peace-composition-audit.json",
+    "outputs/Native-human-minister-initialization-audit.json",
+    "outputs/Peace-strength-dispatch-audit.json"
+  ],
+  "verified": [
+    "Food loss reduces human reinforcement strength with unchanged regiments",
+    "Forecast leaves saved orders and state unchanged",
+    "Missing legacy planning and legacy quota transport rejected rather than guessed"
+  ],
+  "remaining": [
+    "Treaty scheduling, acceptance UI, settlement and alliance consequences are not connected",
+    "Human later planning refresh scheduling remains unproven; no automatic scan added",
+    "No complete campaign or physical Pixel validation"
+  ],
+  "fullRegressionPassed": 780
+}

@@ -1,0 +1,580 @@
+{
+  "scope": "Native5b0ff0 GetRiverExit on fully generated historical rivers; no stubs",
+  "cases": [
+    {
+      "id": "92,1",
+      "exit": null,
+      "direction": -99
+    },
+    {
+      "id": "93,1",
+      "exit": "95,3",
+      "direction": 5
+    },
+    {
+      "id": "94,1",
+      "exit": "95,3",
+      "direction": 5
+    },
+    {
+      "id": "101,1",
+      "exit": null,
+      "direction": -99
+    },
+    {
+      "id": "95,2",
+      "exit": "95,3",
+      "direction": 5
+    },
+    {
+      "id": "101,2",
+      "exit": "100,9",
+      "direction": 0
+    },
+    {
+      "id": "101,3",
+      "exit": "100,9",
+      "direction": 0
+    },
+    {
+      "id": "101,4",
+      "exit": "100,9",
+      "direction": 0
+    },
+    {
+      "id": "101,5",
+      "exit": "100,9",
+      "direction": 0
+    },
+    {
+      "id": "102,6",
+      "exit": "100,9",
+      "direction": 0
+    },
+    {
+      "id": "101,7",
+      "exit": "100,9",
+      "direction": 0
+    },
+    {
+      "id": "101,8",
+      "exit": "100,9",
+      "direction": 0
+    },
+    {
+      "id": "105,10",
+      "exit": null,
+      "direction": -99
+    },
+    {
+      "id": "104,11",
+      "exit": "105,13",
+      "direction": 5
+    },
+    {
+      "id": "105,12",
+      "exit": "105,13",
+      "direction": 5
+    },
+    {
+      "id": "98,17",
+      "exit": "97,17",
+      "direction": 1
+    },
+    {
+      "id": "67,18",
+      "exit": null,
+      "direction": -99
+    },
+    {
+      "id": "99,18",
+      "exit": "97,17",
+      "direction": 1
+    },
+    {
+      "id": "100,18",
+      "exit": "97,17",
+      "direction": 1
+    },
+    {
+      "id": "67,19",
+      "exit": "62,22",
+      "direction": 1
+    },
+    {
+      "id": "100,19",
+      "exit": "97,17",
+      "direction": 1
+    },
+    {
+      "id": "67,20",
+      "exit": "62,22",
+      "direction": 1
+    },
+    {
+      "id": "78,20",
+      "exit": null,
+      "direction": -99
+    },
+    {
+      "id": "101,20",
+      "exit": "97,17",
+      "direction": 1
+    },
+    {
+      "id": "102,20",
+      "exit": "97,17",
+      "direction": 1
+    },
+    {
+      "id": "65,21",
+      "exit": "62,22",
+      "direction": 1
+    },
+    {
+      "id": "66,21",
+      "exit": "62,22",
+      "direction": 1
+    },
+    {
+      "id": "78,21",
+      "exit": "78,24",
+      "direction": 0
+    },
+    {
+      "id": "98,21",
+      "exit": "94,23",
+      "direction": 1
+    },
+    {
+      "id": "99,21",
+      "exit": "94,23",
+      "direction": 1
+    },
+    {
+      "id": "102,21",
+      "exit": "97,17",
+      "direction": 1
+    },
+    {
+      "id": "63,22",
+      "exit": "62,22",
+      "direction": 1
+    },
+    {
+      "id": "64,22",
+      "exit": "62,22",
+      "direction": 1
+    },
+    {
+      "id": "65,22",
+      "exit": "62,22",
+      "direction": 1
+    },
+    {
+      "id": "78,22",
+      "exit": "78,24",
+      "direction": 0
+    },
+    {
+      "id": "81,22",
+      "exit": null,
+      "direction": -99
+    },
+    {
+      "id": "84,22",
+      "exit": "84,21",
+      "direction": 3
+    },
+    {
+      "id": "98,22",
+      "exit": "94,23",
+      "direction": 1
+    },
+    {
+      "id": "100,22",
+      "exit": "94,23",
+      "direction": 1
+    },
+    {
+      "id": "103,22",
+      "exit": "97,17",
+      "direction": 1
+    },
+    {
+      "id": "78,23",
+      "exit": "78,24",
+      "direction": 0
+    },
+    {
+      "id": "81,23",
+      "exit": "84,21",
+      "direction": 3
+    },
+    {
+      "id": "82,23",
+      "exit": "84,21",
+      "direction": 3
+    },
+    {
+      "id": "83,23",
+      "exit": "84,21",
+      "direction": 3
+    },
+    {
+      "id": "91,23",
+      "exit": "93,23",
+      "direction": 4
+    },
+    {
+      "id": "92,23",
+      "exit": "93,23",
+      "direction": 4
+    },
+    {
+      "id": "95,23",
+      "exit": "94,23",
+      "direction": 1
+    },
+    {
+      "id": "96,23",
+      "exit": "94,23",
+      "direction": 1
+    },
+    {
+      "id": "97,23",
+      "exit": "94,23",
+      "direction": 1
+    },
+    {
+      "id": "100,23",
+      "exit": "94,23",
+      "direction": 1
+    },
+    {
+      "id": "103,23",
+      "exit": "97,17",
+      "direction": 1
+    },
+    {
+      "id": "104,23",
+      "exit": "97,17",
+      "direction": 1
+    },
+    {
+      "id": "91,24",
+      "exit": "93,23",
+      "direction": 4
+    },
+    {
+      "id": "101,24",
+      "exit": "94,23",
+      "direction": 1
+    },
+    {
+      "id": "105,24",
+      "exit": "97,17",
+      "direction": 1
+    },
+    {
+      "id": "106,24",
+      "exit": null,
+      "direction": -99
+    },
+    {
+      "id": "91,25",
+      "exit": null,
+      "direction": -99
+    },
+    {
+      "id": "100,25",
+      "exit": "94,23",
+      "direction": 1
+    },
+    {
+      "id": "100,26",
+      "exit": "94,23",
+      "direction": 1
+    },
+    {
+      "id": "99,27",
+      "exit": "94,23",
+      "direction": 1
+    },
+    {
+      "id": "99,28",
+      "exit": "94,23",
+      "direction": 1
+    },
+    {
+      "id": "99,29",
+      "exit": "94,23",
+      "direction": 1
+    },
+    {
+      "id": "100,29",
+      "exit": "94,23",
+      "direction": 1
+    },
+    {
+      "id": "101,29",
+      "exit": null,
+      "direction": -99
+    },
+    {
+      "id": "84,30",
+      "exit": "83,29",
+      "direction": 2
+    },
+    {
+      "id": "85,30",
+      "exit": "83,29",
+      "direction": 2
+    },
+    {
+      "id": "85,31",
+      "exit": "83,29",
+      "direction": 2
+    },
+    {
+      "id": "86,31",
+      "exit": "83,29",
+      "direction": 2
+    },
+    {
+      "id": "95,31",
+      "exit": null,
+      "direction": -99
+    },
+    {
+      "id": "87,32",
+      "exit": "83,29",
+      "direction": 2
+    },
+    {
+      "id": "88,32",
+      "exit": "83,29",
+      "direction": 2
+    },
+    {
+      "id": "95,32",
+      "exit": "97,39",
+      "direction": 4
+    },
+    {
+      "id": "88,33",
+      "exit": null,
+      "direction": -99
+    },
+    {
+      "id": "94,33",
+      "exit": "97,39",
+      "direction": 4
+    },
+    {
+      "id": "83,34",
+      "exit": "83,36",
+      "direction": 5
+    },
+    {
+      "id": "84,34",
+      "exit": "83,36",
+      "direction": 5
+    },
+    {
+      "id": "85,34",
+      "exit": "83,36",
+      "direction": 5
+    },
+    {
+      "id": "86,34",
+      "exit": "83,36",
+      "direction": 5
+    },
+    {
+      "id": "94,34",
+      "exit": "97,39",
+      "direction": 4
+    },
+    {
+      "id": "82,35",
+      "exit": "83,36",
+      "direction": 5
+    },
+    {
+      "id": "86,35",
+      "exit": "83,36",
+      "direction": 5
+    },
+    {
+      "id": "87,35",
+      "exit": "83,36",
+      "direction": 5
+    },
+    {
+      "id": "93,35",
+      "exit": "97,39",
+      "direction": 4
+    },
+    {
+      "id": "88,36",
+      "exit": "83,36",
+      "direction": 5
+    },
+    {
+      "id": "94,36",
+      "exit": "97,39",
+      "direction": 4
+    },
+    {
+      "id": "88,37",
+      "exit": null,
+      "direction": -99
+    },
+    {
+      "id": "94,37",
+      "exit": "97,39",
+      "direction": 4
+    },
+    {
+      "id": "95,38",
+      "exit": "97,39",
+      "direction": 4
+    },
+    {
+      "id": "95,39",
+      "exit": "97,39",
+      "direction": 4
+    },
+    {
+      "id": "96,39",
+      "exit": "97,39",
+      "direction": 4
+    },
+    {
+      "id": "82,45",
+      "exit": null,
+      "direction": -99
+    },
+    {
+      "id": "79,46",
+      "exit": "75,47",
+      "direction": 1
+    },
+    {
+      "id": "80,46",
+      "exit": "75,47",
+      "direction": 1
+    },
+    {
+      "id": "81,46",
+      "exit": "75,47",
+      "direction": 1
+    },
+    {
+      "id": "82,46",
+      "exit": "75,47",
+      "direction": 1
+    },
+    {
+      "id": "76,47",
+      "exit": "75,47",
+      "direction": 1
+    },
+    {
+      "id": "77,47",
+      "exit": "75,47",
+      "direction": 1
+    },
+    {
+      "id": "78,47",
+      "exit": "75,47",
+      "direction": 1
+    },
+    {
+      "id": "86,48",
+      "exit": "82,56",
+      "direction": 0
+    },
+    {
+      "id": "87,48",
+      "exit": null,
+      "direction": -99
+    },
+    {
+      "id": "79,49",
+      "exit": "77,53",
+      "direction": 0
+    },
+    {
+      "id": "80,49",
+      "exit": null,
+      "direction": -99
+    },
+    {
+      "id": "82,49",
+      "exit": "82,56",
+      "direction": 0
+    },
+    {
+      "id": "83,49",
+      "exit": "82,56",
+      "direction": 0
+    },
+    {
+      "id": "84,49",
+      "exit": "82,56",
+      "direction": 0
+    },
+    {
+      "id": "85,49",
+      "exit": "82,56",
+      "direction": 0
+    },
+    {
+      "id": "79,50",
+      "exit": "77,53",
+      "direction": 0
+    },
+    {
+      "id": "82,50",
+      "exit": "82,56",
+      "direction": 0
+    },
+    {
+      "id": "78,51",
+      "exit": "77,53",
+      "direction": 0
+    },
+    {
+      "id": "81,51",
+      "exit": "82,56",
+      "direction": 0
+    },
+    {
+      "id": "78,52",
+      "exit": "77,53",
+      "direction": 0
+    },
+    {
+      "id": "81,52",
+      "exit": "82,56",
+      "direction": 0
+    },
+    {
+      "id": "81,53",
+      "exit": "82,56",
+      "direction": 0
+    },
+    {
+      "id": "82,54",
+      "exit": "82,56",
+      "direction": 0
+    },
+    {
+      "id": "82,55",
+      "exit": "82,56",
+      "direction": 0
+    }
+  ]
+}

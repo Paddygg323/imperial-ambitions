@@ -1,0 +1,52 @@
+IMP 2 Phone — first Android touch build
+
+Status: experimental runtime integration, not the completed phone interface.
+Runs the original game locally through an adapted Winlator/Wine/Box64 runtime.
+No Windows PC or streaming host is needed while playing.
+Requires a 64-bit ARM Android phone with Android 8 or newer. Graphics compatibility
+and sustained gameplay must be tested on your actual phone.
+
+Installation and first test
+1. Transfer IMP-2-Phone-touch-test.apk and Imperialism-II-Android-test.zip to
+   the phone. Install the APK and complete the runtime's initial setup.
+2. Extract the game ZIP with the Android file manager. Keep its folder structure.
+3. In IMP 2 Phone, create a container. Its default desktop is 1024x768.
+   Graphics settings still need to be matched to your phone model; record the
+   defaults before changing them.
+4. Run the container. D: normally maps to Android Downloads. Find the extracted
+   Imperialism-II folder and copy it into the container's C: drive if possible.
+5. Double-tap Start-Imperialism-II.cmd from that folder. It sets the working folder and creates Save if needed. The APK does not contain game assets.
+6. Tap Controls to expand the large buttons. Swipe the controls strip if needed.
+   Tap the game to left-click. Double-tap to open items. Hold to right-click. Pinch to zoom. Move two fingers
+   to pan the zoomed view. Enable Drag to hold left mouse while moving one finger.
+   Fit restores the whole view. Menu opens the runtime's keyboard/settings menu.
+7. First gate: report whether initial runtime setup, the game title screen and a
+   new historical-Europe campaign open. Select historical Europe explicitly.
+8. If launch passes, test map selection, a production order, End Turn, save,
+   normal exit, reopening and loading. Generated maps and manual battle follow.
+
+Please report your phone model, Android version, the last screen reached and any
+exact error text. No phone gameplay has been demonstrated in this chat.
+
+Included implementation
+Real guest pointer input; shared renderer/input camera transform; bounded pinch
+zoom and pan; right-click and drag controls; independent application storage.
+
+Still required for the full requested version
+Dedicated economy/trade/diplomacy/research screens, semantic order review,
+touch battle selection and targeting previews, private simultaneous multiplayer
+results, durable disconnect/reconnect behaviour and whole-campaign testing.
+The game engine does not yet expose the state/command interface needed for those
+redesigned management screens. Existing Windows patches are research references.
+This build has no new game rules, fabricated simulation or replacement AI.
+
+Checks so far
+1,566 standalone camera coordinate checks passed.
+77 Java native-method symbol names found in bundled native libraries.
+These do not demonstrate on-phone gameplay, ABI execution or multiplayer.
+Upstream component licenses retained in source; game files remain private.
+
+
+Final APK checks: build successful; v2 signature and ZIP alignment passed.
+35 packaged native libraries and 8 relocated runtime assets matched their manifests.
+All 25 compressed runtime archives passed TAR checksums and private-path scans.

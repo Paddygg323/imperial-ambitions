@@ -1,0 +1,20 @@
+Public browser playtest deployed successfully,17November2026.
+URL: https://imperial-ambitions-playtest-paddy.paddygarrettb.chatgpt.site
+Site: appgprj_6afcc3b78e2c8191b7011d8d184a4ed9
+Version:1 (runtime244, checked diplomacy build; research redesign not yet included)
+Deployment: appgdep_6afcc545b46081919b0f9d81d492696b
+Source commit:5e17645c75002e83c2f343ed336fa4461d6fcfc2
+Source checkout: sites/public-playtest
+Audience:public, explicitly requested by user.
+Only standalone game assets were copied, not campaign saves, PC game files or credentials. Progress is local to each tester's browser.
+Source helper completed verified push and archive creation but remained running after printing the archive path. Sites accepted that commit/archive and confirmed successful deployment. This is a development playtest, not store-ready certification.
+Next work: research interface based on user's original-game screenshot; clarify their city-selection observation.
+
+17 November 2026 — Research revision245 published successfully.
+Site version3: appgprj_6afcc3b78e2c8191b7011d8d184a4ed9~appgver_73fc8cb0cf8c81919b46637b8e66f9ca
+Commit: f1ba61a82d9718b4440f15240c8f50d56bb8d016
+Deployment: appgdep_6afcca6ee7588191af9a7f3ca3d6cd36 (succeeded)
+URL: https://imperial-ambitions-playtest-paddy.paddygarrettb.chatgpt.site
+Audience retained: public. No campaign saves uploaded.
+Runtime247 / Site version4 succeeded: appgdep_6afccec7cddc8191bada87b91755117a. Public audience retained.
+Runtime248 / Site version5 succeeded: appgdep_6afcd291483c8191a2b0571557698b02. Public audience unchanged.

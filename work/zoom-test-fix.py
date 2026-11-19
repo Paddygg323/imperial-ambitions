@@ -1,0 +1,2 @@
+from pathlib import Path
+p=Path('game/test/zoom-browser.mjs');s=p.read_text(encoding='utf-8').replace('box.width*.65','box.width*.61').replace('box.height*.55','box.height*.43');s=s.replace("console.log('before',await page.evaluate(()=>zoomTestMap.viewport()),x,y,box);", "const cameraBefore=await page.evaluate(()=>zoomTestMap.viewport());").replace("console.log('after',await page.evaluate(()=>zoomTestMap.viewport()));", "const cameraAfter=await page.evaluate(()=>zoomTestMap.viewport());assert.ok(cameraAfter.scale>cameraBefore.scale);");p.write_text(s,encoding='utf-8')

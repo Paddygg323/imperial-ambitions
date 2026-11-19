@@ -1,0 +1,26 @@
+import assert from 'node:assert/strict';
+import {createRequire} from 'node:module';import {readFile,mkdir} from 'node:fs/promises';import {resolve} from 'node:path';
+const require=createRequire(import.meta.url),{chromium}=require('C:/Users/paddy/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const browser=await chromium.launch({executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe',headless:true});
+try{const page=await browser.newPage({viewport:{width:412,height:915},isMobile:true,hasTouch:true});
+await page.route('**/*',async route=>{const u=new URL(route.request().url());try{const file=resolve('game',u.pathname.slice(6));await route.fulfill({body:await readFile(file),contentType:file.endsWith('.png')?'image/png':file.endsWith('.mjs')||file.endsWith('.js')?'text/javascript':file.endsWith('.css')?'text/css':'text/html'});}catch{await route.fulfill({status:404,body:''});}});
+await page.goto('https://appassets.androidplatform.net/game/index.html?native=1');await page.waitForTimeout(1200);await mkdir('outputs/visual-review',{recursive:true});
+assert.doesNotMatch(await page.locator('#selection').innerText(),/\b\d+,\d+\b/);
+const tag=process.argv[2]??'after';await page.screenshot({path:`outputs/visual-review/${tag}-map.png`});await page.locator('[data-panel=research]').tap();await page.screenshot({path:`outputs/visual-review/${tag}-research.png`});
+assert.equal(await page.locator('.research-art').count(),10);
+await page.locator('[data-action=startResearch]').first().tap();assert.equal(await page.locator('.research-project').count(),1);await page.locator('[data-action=fund]').last().tap();assert.ok(JSON.parse(await page.evaluate(()=>localStorage.getItem('imp2-rebuild-v3'))).nations.england.projects[0].funding>0);await page.screenshot({path:`outputs/visual-review/${tag}-research-funded.png`});
+await page.locator('#closePanel').tap();assert.match(await page.locator('#selection').innerText(),/Explorer/);assert.equal(await page.getByRole('button',{name:'Prospect',exact:true}).count(),0);assert.equal(await page.getByRole('button',{name:'Deploy and explore',exact:true}).count(),1);await page.getByRole('button',{name:'Wait this turn',exact:true}).tap();await page.waitForTimeout(100);assert.match(await page.locator('#selection').innerText(),/Engineer/);await page.getByRole('button',{name:'Wait this turn',exact:true}).tap();await page.waitForTimeout(100);assert.match(await page.locator('#selection').innerText(),/Builder/);
+await page.getByRole('button',{name:'Wait this turn',exact:true}).tap();
+await page.waitForTimeout(100);
+await page.evaluate(()=>{const s=JSON.parse(localStorage.getItem('imp2-rebuild-v3'));const ship=s.ships.find(u=>u.owner===s.player&&!u.sleep);ship.location=s.seas.zones.find(z=>z.cells.some(c=>Number(c.split(',')[0])>=60)).id;localStorage.setItem('imp2-rebuild-v3',JSON.stringify(s));});
+await page.reload();
+await page.waitForFunction(()=>document.querySelector('#selection').innerText.includes('ready to sail'));
+assert.equal(await page.locator('#panel').evaluate(e=>e.open),false,'navy handoff must stay on map');
+await page.screenshot({path:`outputs/visual-review/${tag}-fleet-selection.png`});
+await page.getByRole('button',{name:'Choose ships / orders',exact:true}).tap();
+assert.equal(await page.locator('#panel').evaluate(e=>e.open),true,'optional fleet controls remain available');
+await page.locator('#closePanel').tap();
+await page.locator('#nationView').tap();await page.screenshot({path:`outputs/visual-review/${tag}-nation.png`});await page.locator('#zoomIn').tap();await page.locator('#zoomIn').tap();await page.screenshot({path:`outputs/visual-review/${tag}-local.png`});
+await page.setViewportSize({width:1280,height:900});await page.locator('[data-panel=research]').click();await page.screenshot({path:`outputs/visual-review/${tag}-research-desktop.png`});
+console.log(await page.locator('.technology-card').count(),'technologies',await page.locator('dialog').evaluate(e=>({width:e.clientWidth,scrollWidth:e.scrollWidth})));
+}finally{await browser.close();}

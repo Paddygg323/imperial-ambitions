@@ -1,0 +1,130 @@
+{
+  "scope": "Native route-capacity minimum502b9f..502bab (edge result already in AL).",
+  "cases": [
+    {
+      "incoming": 0,
+      "edge": 0,
+      "capacity": 0
+    },
+    {
+      "incoming": 0,
+      "edge": 1,
+      "capacity": 0
+    },
+    {
+      "incoming": 0,
+      "edge": 2,
+      "capacity": 0
+    },
+    {
+      "incoming": 0,
+      "edge": 3,
+      "capacity": 0
+    },
+    {
+      "incoming": 0,
+      "edge": 4,
+      "capacity": 0
+    },
+    {
+      "incoming": 1,
+      "edge": 0,
+      "capacity": 0
+    },
+    {
+      "incoming": 1,
+      "edge": 1,
+      "capacity": 1
+    },
+    {
+      "incoming": 1,
+      "edge": 2,
+      "capacity": 1
+    },
+    {
+      "incoming": 1,
+      "edge": 3,
+      "capacity": 1
+    },
+    {
+      "incoming": 1,
+      "edge": 4,
+      "capacity": 1
+    },
+    {
+      "incoming": 2,
+      "edge": 0,
+      "capacity": 0
+    },
+    {
+      "incoming": 2,
+      "edge": 1,
+      "capacity": 1
+    },
+    {
+      "incoming": 2,
+      "edge": 2,
+      "capacity": 2
+    },
+    {
+      "incoming": 2,
+      "edge": 3,
+      "capacity": 2
+    },
+    {
+      "incoming": 2,
+      "edge": 4,
+      "capacity": 2
+    },
+    {
+      "incoming": 3,
+      "edge": 0,
+      "capacity": 0
+    },
+    {
+      "incoming": 3,
+      "edge": 1,
+      "capacity": 1
+    },
+    {
+      "incoming": 3,
+      "edge": 2,
+      "capacity": 2
+    },
+    {
+      "incoming": 3,
+      "edge": 3,
+      "capacity": 3
+    },
+    {
+      "incoming": 3,
+      "edge": 4,
+      "capacity": 3
+    },
+    {
+      "incoming": 4,
+      "edge": 0,
+      "capacity": 0
+    },
+    {
+      "incoming": 4,
+      "edge": 1,
+      "capacity": 1
+    },
+    {
+      "incoming": 4,
+      "edge": 2,
+      "capacity": 2
+    },
+    {
+      "incoming": 4,
+      "edge": 3,
+      "capacity": 3
+    },
+    {
+      "incoming": 4,
+      "edge": 4,
+      "capacity": 4
+    }
+  ]
+}

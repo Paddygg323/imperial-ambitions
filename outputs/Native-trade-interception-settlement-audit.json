@@ -1,0 +1,419 @@
+{
+  "scope": "Native trade interception settlement5a205b..218a.\nTreasury virtual calls recorded; trade-ledger callback stubbed; stock return502dc0 executes.\nBX is the goods source (stock is restored there on cancellation); DI destination.\n",
+  "cases": [
+    {
+      "quantity": 1,
+      "price": 1,
+      "outcome": "canc",
+      "cash": [
+        -1,
+        1
+      ],
+      "stock": [
+        1,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123457
+        ],
+        [
+          1,
+          -123457
+        ]
+      ]
+    },
+    {
+      "quantity": 1,
+      "price": 1,
+      "outcome": "lost",
+      "cash": [
+        -1,
+        0
+      ],
+      "stock": [
+        0,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123456
+        ],
+        [
+          1,
+          -123456
+        ]
+      ]
+    },
+    {
+      "quantity": 1,
+      "price": 40,
+      "outcome": "canc",
+      "cash": [
+        -40,
+        40
+      ],
+      "stock": [
+        1,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123457
+        ],
+        [
+          1,
+          -123457
+        ]
+      ]
+    },
+    {
+      "quantity": 1,
+      "price": 40,
+      "outcome": "lost",
+      "cash": [
+        -40,
+        0
+      ],
+      "stock": [
+        0,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123456
+        ],
+        [
+          1,
+          -123456
+        ]
+      ]
+    },
+    {
+      "quantity": 1,
+      "price": 100,
+      "outcome": "canc",
+      "cash": [
+        -100,
+        100
+      ],
+      "stock": [
+        1,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123457
+        ],
+        [
+          1,
+          -123457
+        ]
+      ]
+    },
+    {
+      "quantity": 1,
+      "price": 100,
+      "outcome": "lost",
+      "cash": [
+        -100,
+        0
+      ],
+      "stock": [
+        0,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123456
+        ],
+        [
+          1,
+          -123456
+        ]
+      ]
+    },
+    {
+      "quantity": 3,
+      "price": 1,
+      "outcome": "canc",
+      "cash": [
+        -3,
+        3
+      ],
+      "stock": [
+        3,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123457
+        ],
+        [
+          1,
+          -123457
+        ]
+      ]
+    },
+    {
+      "quantity": 3,
+      "price": 1,
+      "outcome": "lost",
+      "cash": [
+        -3,
+        0
+      ],
+      "stock": [
+        0,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123456
+        ],
+        [
+          1,
+          -123456
+        ]
+      ]
+    },
+    {
+      "quantity": 3,
+      "price": 40,
+      "outcome": "canc",
+      "cash": [
+        -120,
+        120
+      ],
+      "stock": [
+        3,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123457
+        ],
+        [
+          1,
+          -123457
+        ]
+      ]
+    },
+    {
+      "quantity": 3,
+      "price": 40,
+      "outcome": "lost",
+      "cash": [
+        -120,
+        0
+      ],
+      "stock": [
+        0,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123456
+        ],
+        [
+          1,
+          -123456
+        ]
+      ]
+    },
+    {
+      "quantity": 3,
+      "price": 100,
+      "outcome": "canc",
+      "cash": [
+        -300,
+        300
+      ],
+      "stock": [
+        3,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123457
+        ],
+        [
+          1,
+          -123457
+        ]
+      ]
+    },
+    {
+      "quantity": 3,
+      "price": 100,
+      "outcome": "lost",
+      "cash": [
+        -300,
+        0
+      ],
+      "stock": [
+        0,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123456
+        ],
+        [
+          1,
+          -123456
+        ]
+      ]
+    },
+    {
+      "quantity": 50,
+      "price": 1,
+      "outcome": "canc",
+      "cash": [
+        -50,
+        50
+      ],
+      "stock": [
+        50,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123457
+        ],
+        [
+          1,
+          -123457
+        ]
+      ]
+    },
+    {
+      "quantity": 50,
+      "price": 1,
+      "outcome": "lost",
+      "cash": [
+        -50,
+        0
+      ],
+      "stock": [
+        0,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123456
+        ],
+        [
+          1,
+          -123456
+        ]
+      ]
+    },
+    {
+      "quantity": 50,
+      "price": 40,
+      "outcome": "canc",
+      "cash": [
+        -2000,
+        2000
+      ],
+      "stock": [
+        50,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123457
+        ],
+        [
+          1,
+          -123457
+        ]
+      ]
+    },
+    {
+      "quantity": 50,
+      "price": 40,
+      "outcome": "lost",
+      "cash": [
+        -2000,
+        0
+      ],
+      "stock": [
+        0,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123456
+        ],
+        [
+          1,
+          -123456
+        ]
+      ]
+    },
+    {
+      "quantity": 50,
+      "price": 100,
+      "outcome": "canc",
+      "cash": [
+        -5000,
+        5000
+      ],
+      "stock": [
+        50,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123457
+        ],
+        [
+          1,
+          -123457
+        ]
+      ]
+    },
+    {
+      "quantity": 50,
+      "price": 100,
+      "outcome": "lost",
+      "cash": [
+        -5000,
+        0
+      ],
+      "stock": [
+        0,
+        0
+      ],
+      "ledger": [
+        [
+          0,
+          -123456
+        ],
+        [
+          1,
+          -123456
+        ]
+      ]
+    }
+  ]
+}

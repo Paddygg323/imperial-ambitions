@@ -1,0 +1,1829 @@
+{
+  "scope": "Native shipment escort fraction5a134d..136c then selection13af..13cd.\nFleet eligibility/list lookup excluded; native arithmetic/selection run unchanged.\n",
+  "cases": [
+    {
+      "quantity": 0,
+      "total": 0,
+      "rolls": [],
+      "threshold": 0,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 0,
+      "total": 0,
+      "rolls": [
+        0
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 0,
+      "rolls": [
+        9999
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 0,
+      "rolls": [
+        32767
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 0,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 1,
+      "rolls": [],
+      "threshold": 0,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 0,
+      "total": 1,
+      "rolls": [
+        0
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 1,
+      "rolls": [
+        9999
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 1,
+      "rolls": [
+        32767
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 1,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 1,
+      "total": 1,
+      "rolls": [],
+      "threshold": 10000,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 1,
+      "total": 1,
+      "rolls": [
+        0
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 1,
+      "total": 1,
+      "rolls": [
+        9999
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 1,
+      "total": 1,
+      "rolls": [
+        32767
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 1,
+      "total": 1,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 10000,
+      "selected": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 3,
+      "rolls": [],
+      "threshold": 0,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 0,
+      "total": 3,
+      "rolls": [
+        0
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 3,
+      "rolls": [
+        9999
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 3,
+      "rolls": [
+        32767
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 3,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 1,
+      "total": 3,
+      "rolls": [],
+      "threshold": 3333,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 1,
+      "total": 3,
+      "rolls": [
+        0
+      ],
+      "threshold": 3333,
+      "selected": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 1,
+      "total": 3,
+      "rolls": [
+        9999
+      ],
+      "threshold": 3333,
+      "selected": [],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 1,
+      "total": 3,
+      "rolls": [
+        32767
+      ],
+      "threshold": 3333,
+      "selected": [
+        0
+      ],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 1,
+      "total": 3,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 3333,
+      "selected": [
+        0,
+        1,
+        2,
+        7,
+        9
+      ],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 3,
+      "total": 3,
+      "rolls": [],
+      "threshold": 10000,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 3,
+      "total": 3,
+      "rolls": [
+        0
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 3,
+      "total": 3,
+      "rolls": [
+        9999
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 3,
+      "total": 3,
+      "rolls": [
+        32767
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 3,
+      "total": 3,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 10000,
+      "selected": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 6,
+      "rolls": [],
+      "threshold": 0,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 0,
+      "total": 6,
+      "rolls": [
+        0
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 6,
+      "rolls": [
+        9999
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 6,
+      "rolls": [
+        32767
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 6,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 2,
+      "total": 6,
+      "rolls": [],
+      "threshold": 3333,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 2,
+      "total": 6,
+      "rolls": [
+        0
+      ],
+      "threshold": 3333,
+      "selected": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 2,
+      "total": 6,
+      "rolls": [
+        9999
+      ],
+      "threshold": 3333,
+      "selected": [],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 2,
+      "total": 6,
+      "rolls": [
+        32767
+      ],
+      "threshold": 3333,
+      "selected": [
+        0
+      ],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 2,
+      "total": 6,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 3333,
+      "selected": [
+        0,
+        1,
+        2,
+        7,
+        9
+      ],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 3,
+      "total": 6,
+      "rolls": [],
+      "threshold": 5000,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 3,
+      "total": 6,
+      "rolls": [
+        0
+      ],
+      "threshold": 5000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 3,
+      "total": 6,
+      "rolls": [
+        9999
+      ],
+      "threshold": 5000,
+      "selected": [],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 3,
+      "total": 6,
+      "rolls": [
+        32767
+      ],
+      "threshold": 5000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 3,
+      "total": 6,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 5000,
+      "selected": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        9
+      ],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 6,
+      "total": 6,
+      "rolls": [],
+      "threshold": 10000,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 6,
+      "total": 6,
+      "rolls": [
+        0
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 6,
+      "total": 6,
+      "rolls": [
+        9999
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 6,
+      "total": 6,
+      "rolls": [
+        32767
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 6,
+      "total": 6,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 10000,
+      "selected": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 17,
+      "rolls": [],
+      "threshold": 0,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 0,
+      "total": 17,
+      "rolls": [
+        0
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 17,
+      "rolls": [
+        9999
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 17,
+      "rolls": [
+        32767
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 17,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 5,
+      "total": 17,
+      "rolls": [],
+      "threshold": 2941,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 5,
+      "total": 17,
+      "rolls": [
+        0
+      ],
+      "threshold": 2941,
+      "selected": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 5,
+      "total": 17,
+      "rolls": [
+        9999
+      ],
+      "threshold": 2941,
+      "selected": [],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 5,
+      "total": 17,
+      "rolls": [
+        32767
+      ],
+      "threshold": 2941,
+      "selected": [
+        0
+      ],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 5,
+      "total": 17,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 2941,
+      "selected": [
+        0,
+        1,
+        7,
+        9
+      ],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 8,
+      "total": 17,
+      "rolls": [],
+      "threshold": 4705,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 8,
+      "total": 17,
+      "rolls": [
+        0
+      ],
+      "threshold": 4705,
+      "selected": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 8,
+      "total": 17,
+      "rolls": [
+        9999
+      ],
+      "threshold": 4705,
+      "selected": [],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 8,
+      "total": 17,
+      "rolls": [
+        32767
+      ],
+      "threshold": 4705,
+      "selected": [
+        0
+      ],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 8,
+      "total": 17,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 4705,
+      "selected": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        9
+      ],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 17,
+      "total": 17,
+      "rolls": [],
+      "threshold": 10000,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 17,
+      "total": 17,
+      "rolls": [
+        0
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 17,
+      "total": 17,
+      "rolls": [
+        9999
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 17,
+      "total": 17,
+      "rolls": [
+        32767
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 17,
+      "total": 17,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 10000,
+      "selected": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 99,
+      "rolls": [],
+      "threshold": 0,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 0,
+      "total": 99,
+      "rolls": [
+        0
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 99,
+      "rolls": [
+        9999
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 99,
+      "rolls": [
+        32767
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 99,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 33,
+      "total": 99,
+      "rolls": [],
+      "threshold": 3333,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 33,
+      "total": 99,
+      "rolls": [
+        0
+      ],
+      "threshold": 3333,
+      "selected": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 33,
+      "total": 99,
+      "rolls": [
+        9999
+      ],
+      "threshold": 3333,
+      "selected": [],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 33,
+      "total": 99,
+      "rolls": [
+        32767
+      ],
+      "threshold": 3333,
+      "selected": [
+        0
+      ],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 33,
+      "total": 99,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 3333,
+      "selected": [
+        0,
+        1,
+        2,
+        7,
+        9
+      ],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 49,
+      "total": 99,
+      "rolls": [],
+      "threshold": 4949,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 49,
+      "total": 99,
+      "rolls": [
+        0
+      ],
+      "threshold": 4949,
+      "selected": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 49,
+      "total": 99,
+      "rolls": [
+        9999
+      ],
+      "threshold": 4949,
+      "selected": [],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 49,
+      "total": 99,
+      "rolls": [
+        32767
+      ],
+      "threshold": 4949,
+      "selected": [
+        0
+      ],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 49,
+      "total": 99,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 4949,
+      "selected": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        9
+      ],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 99,
+      "total": 99,
+      "rolls": [],
+      "threshold": 10000,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 99,
+      "total": 99,
+      "rolls": [
+        0
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 99,
+      "total": 99,
+      "rolls": [
+        9999
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 99,
+      "total": 99,
+      "rolls": [
+        32767
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 99,
+      "total": 99,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 10000,
+      "selected": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 999,
+      "rolls": [],
+      "threshold": 0,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 0,
+      "total": 999,
+      "rolls": [
+        0
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 999,
+      "rolls": [
+        9999
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 999,
+      "rolls": [
+        32767
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 0,
+      "total": 999,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 0,
+      "selected": [],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 333,
+      "total": 999,
+      "rolls": [],
+      "threshold": 3333,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 333,
+      "total": 999,
+      "rolls": [
+        0
+      ],
+      "threshold": 3333,
+      "selected": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 333,
+      "total": 999,
+      "rolls": [
+        9999
+      ],
+      "threshold": 3333,
+      "selected": [],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 333,
+      "total": 999,
+      "rolls": [
+        32767
+      ],
+      "threshold": 3333,
+      "selected": [
+        0
+      ],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 333,
+      "total": 999,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 3333,
+      "selected": [
+        0,
+        1,
+        2,
+        7,
+        9
+      ],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 499,
+      "total": 999,
+      "rolls": [],
+      "threshold": 4994,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 499,
+      "total": 999,
+      "rolls": [
+        0
+      ],
+      "threshold": 4994,
+      "selected": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 499,
+      "total": 999,
+      "rolls": [
+        9999
+      ],
+      "threshold": 4994,
+      "selected": [],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 499,
+      "total": 999,
+      "rolls": [
+        32767
+      ],
+      "threshold": 4994,
+      "selected": [
+        0
+      ],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 499,
+      "total": 999,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 4994,
+      "selected": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        9
+      ],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    },
+    {
+      "quantity": 999,
+      "total": 999,
+      "rolls": [],
+      "threshold": 10000,
+      "selected": [],
+      "draws": []
+    },
+    {
+      "quantity": 999,
+      "total": 999,
+      "rolls": [
+        0
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "quantity": 999,
+      "total": 999,
+      "rolls": [
+        9999
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        9999
+      ]
+    },
+    {
+      "quantity": 999,
+      "total": 999,
+      "rolls": [
+        32767
+      ],
+      "threshold": 10000,
+      "selected": [
+        0
+      ],
+      "draws": [
+        32767
+      ]
+    },
+    {
+      "quantity": 999,
+      "total": 999,
+      "rolls": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ],
+      "threshold": 10000,
+      "selected": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "draws": [
+        0,
+        1,
+        3332,
+        3333,
+        4999,
+        5000,
+        9999,
+        10000,
+        19999,
+        32767
+      ]
+    }
+  ]
+}

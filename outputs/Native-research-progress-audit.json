@@ -1,0 +1,3821 @@
+{
+  "scope": "Original637565..6375c1 random multiplier and stored progress, followed by\n6375ed completion comparison. Supplies15-bit random roll and research gain.\nFunding and random seed construction are outside this audit.\n",
+  "cases": [
+    {
+      "progress": 0,
+      "gain": 0,
+      "roll": 0,
+      "result": {
+        "progress": 0.0,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0,
+      "gain": 0,
+      "roll": 16383,
+      "result": {
+        "progress": 0.0,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0,
+      "gain": 0,
+      "roll": 16384,
+      "result": {
+        "progress": 0.0,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0,
+      "gain": 0,
+      "roll": 32767,
+      "result": {
+        "progress": 0.0,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0,
+      "gain": 0.1,
+      "roll": 0,
+      "result": {
+        "progress": 0.0,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0,
+      "gain": 0.1,
+      "roll": 16383,
+      "result": {
+        "progress": 0.09999694675207138,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0,
+      "gain": 0.1,
+      "roll": 16384,
+      "result": {
+        "progress": 0.10000304877758026,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0,
+      "gain": 0.1,
+      "roll": 32767,
+      "result": {
+        "progress": 0.20000000298023224,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3,
+      "gain": 0,
+      "roll": 0,
+      "result": {
+        "progress": 0.30000001192092896,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3,
+      "gain": 0,
+      "roll": 16383,
+      "result": {
+        "progress": 0.30000001192092896,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3,
+      "gain": 0,
+      "roll": 16384,
+      "result": {
+        "progress": 0.30000001192092896,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3,
+      "gain": 0,
+      "roll": 32767,
+      "result": {
+        "progress": 0.30000001192092896,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3,
+      "gain": 0.1,
+      "roll": 0,
+      "result": {
+        "progress": 0.30000001192092896,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3,
+      "gain": 0.1,
+      "roll": 16383,
+      "result": {
+        "progress": 0.39999696612358093,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3,
+      "gain": 0.1,
+      "roll": 16384,
+      "result": {
+        "progress": 0.4000030755996704,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3,
+      "gain": 0.1,
+      "roll": 32767,
+      "result": {
+        "progress": 0.5,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.5,
+      "gain": 0,
+      "roll": 0,
+      "result": {
+        "progress": 0.5,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.5,
+      "gain": 0,
+      "roll": 16383,
+      "result": {
+        "progress": 0.5,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.5,
+      "gain": 0,
+      "roll": 16384,
+      "result": {
+        "progress": 0.5,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.5,
+      "gain": 0,
+      "roll": 32767,
+      "result": {
+        "progress": 0.5,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.5,
+      "gain": 0.1,
+      "roll": 0,
+      "result": {
+        "progress": 0.5,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.5,
+      "gain": 0.1,
+      "roll": 16383,
+      "result": {
+        "progress": 0.5999969244003296,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.5,
+      "gain": 0.1,
+      "roll": 16384,
+      "result": {
+        "progress": 0.6000030636787415,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.5,
+      "gain": 0.1,
+      "roll": 32767,
+      "result": {
+        "progress": 0.699999988079071,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.31922556853414596,
+      "gain": 0.26556744835494756,
+      "roll": 3197,
+      "result": {
+        "progress": 0.37104716897010803,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.31135811181612344,
+      "gain": 0.2087752808883251,
+      "roll": 2999,
+      "result": {
+        "progress": 0.3495744466781616,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.007639238375905688,
+      "gain": 0.032513168363275925,
+      "roll": 22833,
+      "result": {
+        "progress": 0.05295148491859436,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.014564212127080756,
+      "gain": 0.017437815103865262,
+      "roll": 26733,
+      "result": {
+        "progress": 0.043017543852329254,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.30397372273956647,
+      "gain": 0.22177568154454103,
+      "roll": 10684,
+      "result": {
+        "progress": 0.4485979676246643,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.35162538626842316,
+      "gain": 0.29248852581324336,
+      "roll": 23459,
+      "result": {
+        "progress": 0.7704302072525024,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.43918402679969354,
+      "gain": 0.14253048713701774,
+      "roll": 19970,
+      "result": {
+        "progress": 0.6129157543182373,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.49037777497527824,
+      "gain": 0.17736993418946473,
+      "roll": 18488,
+      "result": {
+        "progress": 0.690531313419342,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.23288472731383214,
+      "gain": 0.052641210424311115,
+      "roll": 21943,
+      "result": {
+        "progress": 0.30338895320892334,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.47739603499863953,
+      "gain": 0.16382285386543155,
+      "roll": 11237,
+      "result": {
+        "progress": 0.5897576808929443,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.15655399899894434,
+      "gain": 0.18801035920688178,
+      "roll": 2026,
+      "result": {
+        "progress": 0.17980355024337769,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4918705079175143,
+      "gain": 0.2127192815194778,
+      "roll": 2757,
+      "result": {
+        "progress": 0.5276667475700378,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.05742175748612571,
+      "gain": 0.23377539416999743,
+      "roll": 6988,
+      "result": {
+        "progress": 0.15713320672512054,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.09074498965850153,
+      "gain": 0.25195082556137227,
+      "roll": 23416,
+      "result": {
+        "progress": 0.4508439302444458,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.32685376234664565,
+      "gain": 0.06535651838688755,
+      "roll": 8769,
+      "result": {
+        "progress": 0.3618347644805908,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.1604760849017804,
+      "gain": 0.04784685873411138,
+      "roll": 25280,
+      "result": {
+        "progress": 0.2343045473098755,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.29995666249158104,
+      "gain": 0.18871837417640305,
+      "roll": 32381,
+      "result": {
+        "progress": 0.6729471683502197,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.2803471857182566,
+      "gain": 0.1585275052800793,
+      "roll": 27787,
+      "result": {
+        "progress": 0.5492154955863953,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.0453663115957858,
+      "gain": 0.12889532321421573,
+      "roll": 23467,
+      "result": {
+        "progress": 0.22999027371406555,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3923722577348553,
+      "gain": 0.0698698785250794,
+      "roll": 28894,
+      "result": {
+        "progress": 0.515595018863678,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.3647546132409465,
+      "gain": 0.29630836023291496,
+      "roll": 28335,
+      "result": {
+        "progress": 0.8772151470184326,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.2233090241931227,
+      "gain": 0.18086732796385133,
+      "roll": 7916,
+      "result": {
+        "progress": 0.3106985092163086,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4490578608129016,
+      "gain": 0.25500743254811203,
+      "roll": 23900,
+      "result": {
+        "progress": 0.8210587501525879,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.15822475042914935,
+      "gain": 0.03546377667191882,
+      "roll": 22239,
+      "result": {
+        "progress": 0.20636335015296936,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.12900311907428158,
+      "gain": 0.20603723972627763,
+      "roll": 10883,
+      "result": {
+        "progress": 0.26586663722991943,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.14727118307397946,
+      "gain": 0.18346155639826828,
+      "roll": 13991,
+      "result": {
+        "progress": 0.30394166707992554,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2984174874912298,
+      "gain": 0.2599209428088756,
+      "roll": 30469,
+      "result": {
+        "progress": 0.7818020582199097,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.4290454513675966,
+      "gain": 0.23315527275238251,
+      "roll": 31970,
+      "result": {
+        "progress": 0.8840137720108032,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.07995756413394633,
+      "gain": 0.02697029837776349,
+      "roll": 11868,
+      "result": {
+        "progress": 0.09949450939893723,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.1601927034524422,
+      "gain": 0.15226091361671615,
+      "roll": 22826,
+      "result": {
+        "progress": 0.3723273277282715,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.1580771040513964,
+      "gain": 0.14035800025459574,
+      "roll": 3207,
+      "result": {
+        "progress": 0.18555158376693726,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3291575675032945,
+      "gain": 0.10378861827426902,
+      "roll": 5118,
+      "result": {
+        "progress": 0.3615798354148865,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.30792216794427146,
+      "gain": 0.14893470877449377,
+      "roll": 28575,
+      "result": {
+        "progress": 0.5676840543746948,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.15871416641197195,
+      "gain": 0.012703317538083746,
+      "roll": 14964,
+      "result": {
+        "progress": 0.17031683027744293,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.42202431667546614,
+      "gain": 0.23003144552626076,
+      "roll": 21128,
+      "result": {
+        "progress": 0.7186706066131592,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.23032398860422038,
+      "gain": 0.11231825063596508,
+      "roll": 22554,
+      "result": {
+        "progress": 0.38494452834129333,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4434662908620606,
+      "gain": 0.1771956949893472,
+      "roll": 21208,
+      "result": {
+        "progress": 0.6728413701057434,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.0871488724842488,
+      "gain": 0.08746985044118549,
+      "roll": 14679,
+      "result": {
+        "progress": 0.16551858186721802,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2902604304048039,
+      "gain": 0.08217978499314868,
+      "roll": 19358,
+      "result": {
+        "progress": 0.3873603343963623,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.23474442998546124,
+      "gain": 0.1817329199569068,
+      "roll": 16149,
+      "result": {
+        "progress": 0.41387617588043213,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3959084171153793,
+      "gain": 0.21829222468105267,
+      "roll": 21533,
+      "result": {
+        "progress": 0.6828120946884155,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.07515739148562223,
+      "gain": 0.26618147205027726,
+      "roll": 22160,
+      "result": {
+        "progress": 0.4351891875267029,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.14793123345261955,
+      "gain": 0.0020390594728584397,
+      "roll": 12413,
+      "result": {
+        "progress": 0.14947612583637238,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.36290867133308014,
+      "gain": 0.2556850772324394,
+      "roll": 11458,
+      "result": {
+        "progress": 0.5417251586914062,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.019477372102207235,
+      "gain": 0.15510135908078504,
+      "roll": 20397,
+      "result": {
+        "progress": 0.21257422864437103,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.06140174377232205,
+      "gain": 0.05687097947521916,
+      "roll": 21012,
+      "result": {
+        "progress": 0.1343393325805664,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4459923325119982,
+      "gain": 0.029329815077711385,
+      "roll": 10931,
+      "result": {
+        "progress": 0.46556103229522705,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.15562844975492546,
+      "gain": 0.11461344933642086,
+      "roll": 12202,
+      "result": {
+        "progress": 0.24098952114582062,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.18979196049713165,
+      "gain": 0.21402258327952964,
+      "roll": 21012,
+      "result": {
+        "progress": 0.46427804231643677,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.385543069113714,
+      "gain": 0.1449443886326168,
+      "roll": 18426,
+      "result": {
+        "progress": 0.5485574007034302,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.2549857061693546,
+      "gain": 0.11970556167156972,
+      "roll": 19089,
+      "result": {
+        "progress": 0.39445894956588745,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.36410505222918965,
+      "gain": 0.22250671129904623,
+      "roll": 20364,
+      "result": {
+        "progress": 0.6406714916229248,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.4792398112055443,
+      "gain": 0.2873783245538585,
+      "roll": 20868,
+      "result": {
+        "progress": 0.8452794551849365,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.10318935802092605,
+      "gain": 0.05184615181611184,
+      "roll": 9352,
+      "result": {
+        "progress": 0.13278408348560333,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.41425158865010303,
+      "gain": 0.13473023572104306,
+      "roll": 25710,
+      "result": {
+        "progress": 0.6256785988807678,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.3805387086265482,
+      "gain": 0.20586038565625697,
+      "roll": 31614,
+      "result": {
+        "progress": 0.7777719497680664,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.28526909206708356,
+      "gain": 0.07683751598260755,
+      "roll": 7630,
+      "result": {
+        "progress": 0.32105326652526855,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.29713685070658263,
+      "gain": 0.2299133680558812,
+      "roll": 17188,
+      "result": {
+        "progress": 0.5383399724960327,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.30160730363011057,
+      "gain": 0.07861534941099833,
+      "roll": 17368,
+      "result": {
+        "progress": 0.38494673371315,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.15805493806384074,
+      "gain": 0.07922777050495998,
+      "roll": 10044,
+      "result": {
+        "progress": 0.20662598311901093,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.42829609865866536,
+      "gain": 0.021461676717208843,
+      "roll": 4429,
+      "result": {
+        "progress": 0.43409788608551025,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.41024791667774974,
+      "gain": 0.2034310810581448,
+      "roll": 20222,
+      "result": {
+        "progress": 0.6613409519195557,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.3179242756726156,
+      "gain": 0.09755783678645205,
+      "roll": 6902,
+      "result": {
+        "progress": 0.35902318358421326,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2383373972180905,
+      "gain": 0.09137859307475309,
+      "roll": 28693,
+      "result": {
+        "progress": 0.39837193489074707,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.36543484584010616,
+      "gain": 0.13731351812725395,
+      "roll": 9899,
+      "result": {
+        "progress": 0.44840043783187866,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.1455975082194671,
+      "gain": 0.2803124625079311,
+      "roll": 23598,
+      "result": {
+        "progress": 0.5493460297584534,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.38486001144835236,
+      "gain": 0.13916765466347047,
+      "roll": 19830,
+      "result": {
+        "progress": 0.5533035397529602,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.33721114349894415,
+      "gain": 0.014696281203004102,
+      "roll": 2305,
+      "result": {
+        "progress": 0.3392787575721741,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.38980279320202876,
+      "gain": 0.23959208818634545,
+      "roll": 973,
+      "result": {
+        "progress": 0.4040319323539734,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.20286252574662678,
+      "gain": 0.28291421602649736,
+      "roll": 7334,
+      "result": {
+        "progress": 0.3295077979564667,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.40349383448321724,
+      "gain": 0.18397171339058802,
+      "roll": 8872,
+      "result": {
+        "progress": 0.5031182765960693,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.3353457066639606,
+      "gain": 0.07418990806981349,
+      "roll": 23975,
+      "result": {
+        "progress": 0.44391244649887085,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.21864818912563588,
+      "gain": 0.23435285909358158,
+      "roll": 21411,
+      "result": {
+        "progress": 0.5249154567718506,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.10492251067087849,
+      "gain": 0.026586819929221128,
+      "roll": 9695,
+      "result": {
+        "progress": 0.1206553652882576,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.12932614143301968,
+      "gain": 0.02375661932850387,
+      "roll": 25416,
+      "result": {
+        "progress": 0.16618017852306366,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.31763306673058317,
+      "gain": 0.1720876903315899,
+      "roll": 6779,
+      "result": {
+        "progress": 0.3888377845287323,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.0012396833008788133,
+      "gain": 0.12843158628873055,
+      "roll": 8010,
+      "result": {
+        "progress": 0.064030721783638,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.27234976829435914,
+      "gain": 0.2286178429594623,
+      "roll": 32221,
+      "result": {
+        "progress": 0.7219665050506592,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.054297180903578546,
+      "gain": 0.07518856442176226,
+      "roll": 23643,
+      "result": {
+        "progress": 0.16280166804790497,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.43859228481942664,
+      "gain": 0.04326684127718645,
+      "roll": 5740,
+      "result": {
+        "progress": 0.45375093817710876,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2954610897836974,
+      "gain": 0.20137583101478787,
+      "roll": 28464,
+      "result": {
+        "progress": 0.6453229188919067,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.19670649890789427,
+      "gain": 0.10757895797667139,
+      "roll": 5787,
+      "result": {
+        "progress": 0.23470567166805267,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.48621976128696265,
+      "gain": 0.22272121695312394,
+      "roll": 2190,
+      "result": {
+        "progress": 0.5159911513328552,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.1365713124416288,
+      "gain": 0.1703705691739314,
+      "roll": 17534,
+      "result": {
+        "progress": 0.3189058303833008,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3933627642632421,
+      "gain": 0.12645751803825214,
+      "roll": 24206,
+      "result": {
+        "progress": 0.5801989436149597,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.41980090970892125,
+      "gain": 0.0792471286104547,
+      "roll": 26204,
+      "result": {
+        "progress": 0.5465498566627502,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.34893750260420525,
+      "gain": 0.1381212798258278,
+      "roll": 23120,
+      "result": {
+        "progress": 0.5438508987426758,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.2526964745509989,
+      "gain": 0.2597908710967358,
+      "roll": 29399,
+      "result": {
+        "progress": 0.7188723087310791,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.2142966871242008,
+      "gain": 0.21755038218540984,
+      "roll": 15466,
+      "result": {
+        "progress": 0.4196639060974121,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.463124335647554,
+      "gain": 0.2860068152933594,
+      "roll": 27059,
+      "result": {
+        "progress": 0.9354934096336365,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.07117077607443895,
+      "gain": 0.18527205633926064,
+      "roll": 17075,
+      "result": {
+        "progress": 0.2642626166343689,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.27026404616581395,
+      "gain": 0.17545729323598236,
+      "roll": 30283,
+      "result": {
+        "progress": 0.5945764780044556,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.34777047841511094,
+      "gain": 0.2281151895337555,
+      "roll": 2477,
+      "result": {
+        "progress": 0.38225892186164856,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3040856211478455,
+      "gain": 0.14665411728049094,
+      "roll": 3556,
+      "result": {
+        "progress": 0.33591654896736145,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3566368818669238,
+      "gain": 0.00991642843833006,
+      "roll": 19992,
+      "result": {
+        "progress": 0.36873742938041687,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4859211629905265,
+      "gain": 0.17853101778891567,
+      "roll": 11240,
+      "result": {
+        "progress": 0.6084034442901611,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.33447523918326055,
+      "gain": 0.27023384487748175,
+      "roll": 14275,
+      "result": {
+        "progress": 0.569930911064148,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.2518502454308457,
+      "gain": 0.1710625617712509,
+      "roll": 25526,
+      "result": {
+        "progress": 0.5183709859848022,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.2826900504425057,
+      "gain": 0.10323425969812865,
+      "roll": 10364,
+      "result": {
+        "progress": 0.34799477458000183,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.055971602307712975,
+      "gain": 0.2941195956475582,
+      "roll": 18231,
+      "result": {
+        "progress": 0.3832578659057617,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.44173841018516014,
+      "gain": 0.041105924702550596,
+      "roll": 13042,
+      "result": {
+        "progress": 0.47446054220199585,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.21043157825683112,
+      "gain": 0.23816026968730888,
+      "roll": 31408,
+      "result": {
+        "progress": 0.6669968962669373,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.01923818220573792,
+      "gain": 0.2693629639898994,
+      "roll": 23224,
+      "result": {
+        "progress": 0.4010665714740753,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.037540823696062875,
+      "gain": 0.22976457987147436,
+      "roll": 27305,
+      "result": {
+        "progress": 0.42047011852264404,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.19835821765334827,
+      "gain": 0.1910780176804481,
+      "roll": 14221,
+      "result": {
+        "progress": 0.3642153739929199,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.1855021280276296,
+      "gain": 0.026501697042213935,
+      "roll": 18981,
+      "result": {
+        "progress": 0.21620550751686096,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.43745253303454357,
+      "gain": 0.20213319555435555,
+      "roll": 31832,
+      "result": {
+        "progress": 0.8301832675933838,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.34323207145622625,
+      "gain": 0.2512161458189518,
+      "roll": 9001,
+      "result": {
+        "progress": 0.48124873638153076,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.11940237243968149,
+      "gain": 0.2529057570711073,
+      "roll": 22534,
+      "result": {
+        "progress": 0.4672510325908661,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.030839723285471354,
+      "gain": 0.014056408143419418,
+      "roll": 10006,
+      "result": {
+        "progress": 0.039424482733011246,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.02616695377278133,
+      "gain": 0.04429562352901484,
+      "roll": 11716,
+      "result": {
+        "progress": 0.05784318223595619,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.36371198254061865,
+      "gain": 0.19640370497372783,
+      "roll": 25159,
+      "result": {
+        "progress": 0.6653155088424683,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.13174146322343055,
+      "gain": 0.23685023319635987,
+      "roll": 16151,
+      "result": {
+        "progress": 0.365230530500412,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.1492018142247939,
+      "gain": 0.17830871333925385,
+      "roll": 20095,
+      "result": {
+        "progress": 0.3679043650627136,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.13692508208581117,
+      "gain": 0.2958713129668456,
+      "roll": 28720,
+      "result": {
+        "progress": 0.6555825471878052,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.23640802314517595,
+      "gain": 0.26172579138935,
+      "roll": 27854,
+      "result": {
+        "progress": 0.6813746094703674,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.28885389822421226,
+      "gain": 0.22671920602854112,
+      "roll": 27578,
+      "result": {
+        "progress": 0.6704855561256409,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.23185479436168988,
+      "gain": 0.0549707305837507,
+      "roll": 27253,
+      "result": {
+        "progress": 0.3232954144477844,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3452620489529614,
+      "gain": 0.14137117266429397,
+      "roll": 5470,
+      "result": {
+        "progress": 0.39246198534965515,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.22785397520590372,
+      "gain": 0.10030484392658548,
+      "roll": 10377,
+      "result": {
+        "progress": 0.2913851737976074,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.16902122015777027,
+      "gain": 0.29402418418297094,
+      "roll": 27661,
+      "result": {
+        "progress": 0.6654354333877563,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.16113279722012802,
+      "gain": 0.07969318554393391,
+      "roll": 3788,
+      "result": {
+        "progress": 0.17955851554870605,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4630279583877867,
+      "gain": 0.2878712733876767,
+      "roll": 19089,
+      "result": {
+        "progress": 0.7984369993209839,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.3970725414701774,
+      "gain": 0.08093764849041082,
+      "roll": 27020,
+      "result": {
+        "progress": 0.5305565595626831,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.31573133858029295,
+      "gain": 0.08119710708901355,
+      "roll": 21077,
+      "result": {
+        "progress": 0.4201895594596863,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3880247379881918,
+      "gain": 0.16009070897587088,
+      "roll": 19516,
+      "result": {
+        "progress": 0.5787245631217957,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.41084856149867205,
+      "gain": 0.2334286812323383,
+      "roll": 26131,
+      "result": {
+        "progress": 0.7831575870513916,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.20683360517404642,
+      "gain": 0.26608310484210507,
+      "roll": 30166,
+      "result": {
+        "progress": 0.6967571973800659,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.4662773503024214,
+      "gain": 0.29215817477691247,
+      "roll": 15751,
+      "result": {
+        "progress": 0.7471565008163452,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.45573331696141106,
+      "gain": 0.20179458232784425,
+      "roll": 16080,
+      "result": {
+        "progress": 0.653789758682251,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.42663562421086626,
+      "gain": 0.024221072433892554,
+      "roll": 11601,
+      "result": {
+        "progress": 0.4437863230705261,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.29845414532943,
+      "gain": 0.26449573884168515,
+      "roll": 4335,
+      "result": {
+        "progress": 0.3684385120868683,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.1665742205657207,
+      "gain": 0.05425165265616424,
+      "roll": 10906,
+      "result": {
+        "progress": 0.20268790423870087,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2918253514870538,
+      "gain": 0.19975717628134598,
+      "roll": 19428,
+      "result": {
+        "progress": 0.5287028551101685,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.34540681931614653,
+      "gain": 0.17414441988742663,
+      "roll": 21465,
+      "result": {
+        "progress": 0.573563814163208,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.4196283094423863,
+      "gain": 0.08014077104380543,
+      "roll": 27388,
+      "result": {
+        "progress": 0.553598165512085,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.40213711147671577,
+      "gain": 0.2614175850193678,
+      "roll": 2710,
+      "result": {
+        "progress": 0.44537827372550964,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.0978268239059158,
+      "gain": 0.14956208894408066,
+      "roll": 20272,
+      "result": {
+        "progress": 0.2828863561153412,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3084909270951153,
+      "gain": 0.11106867232167718,
+      "roll": 4642,
+      "result": {
+        "progress": 0.3399604558944702,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.04397070649488172,
+      "gain": 0.024016699446681933,
+      "roll": 21563,
+      "result": {
+        "progress": 0.07558007538318634,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4603535952662759,
+      "gain": 0.20088931024582665,
+      "roll": 10161,
+      "result": {
+        "progress": 0.5849445462226868,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.34209416490583955,
+      "gain": 0.2722556544766433,
+      "roll": 31314,
+      "result": {
+        "progress": 0.8624600172042847,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.23874709553848011,
+      "gain": 0.18632084487492592,
+      "roll": 22249,
+      "result": {
+        "progress": 0.49177315831184387,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.18822161055232395,
+      "gain": 0.22908858985732092,
+      "roll": 4025,
+      "result": {
+        "progress": 0.2445027083158493,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.32274155830105083,
+      "gain": 0.009075653061256439,
+      "roll": 13613,
+      "result": {
+        "progress": 0.3302825093269348,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4244820646540141,
+      "gain": 0.02171343560401189,
+      "roll": 22,
+      "result": {
+        "progress": 0.42451122403144836,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.33091157050563924,
+      "gain": 0.22365635594871788,
+      "roll": 4324,
+      "result": {
+        "progress": 0.3899398744106293,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.46722879885594326,
+      "gain": 0.2054104526321803,
+      "roll": 32722,
+      "result": {
+        "progress": 0.8774855136871338,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.09066348759232118,
+      "gain": 0.10109655923327722,
+      "roll": 3038,
+      "result": {
+        "progress": 0.1094098687171936,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2740523149179028,
+      "gain": 0.08881400128522976,
+      "roll": 18234,
+      "result": {
+        "progress": 0.37289777398109436,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3843676236406679,
+      "gain": 0.08406382668043602,
+      "roll": 20251,
+      "result": {
+        "progress": 0.48827558755874634,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4682542757090165,
+      "gain": 0.04004038479567018,
+      "roll": 19142,
+      "result": {
+        "progress": 0.5150362849235535,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.14111819916722163,
+      "gain": 0.026990374389264816,
+      "roll": 26327,
+      "result": {
+        "progress": 0.18448960781097412,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.33378565405384686,
+      "gain": 0.09955137268447058,
+      "roll": 29652,
+      "result": {
+        "progress": 0.5139606595039368,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.34835673250887933,
+      "gain": 0.2878438576483831,
+      "roll": 3826,
+      "result": {
+        "progress": 0.4155762195587158,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.35577980492165184,
+      "gain": 0.10523138750012813,
+      "roll": 23174,
+      "result": {
+        "progress": 0.5046266317367554,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.26110982221310225,
+      "gain": 0.20613211610588497,
+      "roll": 19302,
+      "result": {
+        "progress": 0.5039616227149963,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.12294647472200415,
+      "gain": 0.18373793578621317,
+      "roll": 14237,
+      "result": {
+        "progress": 0.28261181712150574,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.17291003488152712,
+      "gain": 0.14468276814014988,
+      "roll": 27220,
+      "result": {
+        "progress": 0.41328996419906616,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.132810263769372,
+      "gain": 0.07299355074108664,
+      "roll": 29978,
+      "result": {
+        "progress": 0.266371488571167,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3067167880684288,
+      "gain": 0.04704556384826523,
+      "roll": 27572,
+      "result": {
+        "progress": 0.3858903646469116,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.28330342866181607,
+      "gain": 0.014303085388612989,
+      "roll": 876,
+      "result": {
+        "progress": 0.28406819701194763,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.338648978925663,
+      "gain": 0.11263107617397018,
+      "roll": 25199,
+      "result": {
+        "progress": 0.5118836760520935,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.1731219098926184,
+      "gain": 0.24766527597777668,
+      "roll": 1443,
+      "result": {
+        "progress": 0.1949353814125061,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.1456660396226898,
+      "gain": 0.11674419009759888,
+      "roll": 20530,
+      "result": {
+        "progress": 0.2919570207595825,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.27997888458557496,
+      "gain": 0.10334814440028439,
+      "roll": 22787,
+      "result": {
+        "progress": 0.42372068762779236,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2730047058799945,
+      "gain": 0.2871075248343469,
+      "roll": 7069,
+      "result": {
+        "progress": 0.39688318967819214,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.48017122436632204,
+      "gain": 0.2616376196707907,
+      "roll": 30225,
+      "result": {
+        "progress": 0.9628517627716064,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.21691082321636435,
+      "gain": 0.03270537381601044,
+      "roll": 13673,
+      "result": {
+        "progress": 0.24420538544654846,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3481025291385486,
+      "gain": 0.05492413760742173,
+      "roll": 23445,
+      "result": {
+        "progress": 0.426699697971344,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3699683782655527,
+      "gain": 0.2631350171466758,
+      "roll": 26018,
+      "result": {
+        "progress": 0.787842869758606,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.05526471956498957,
+      "gain": 0.14104951523008705,
+      "roll": 13721,
+      "result": {
+        "progress": 0.1733921319246292,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.07082666898076229,
+      "gain": 0.08706892376695215,
+      "roll": 23558,
+      "result": {
+        "progress": 0.19602394104003906,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4067391475835619,
+      "gain": 0.2914143418869759,
+      "roll": 11369,
+      "result": {
+        "progress": 0.6089602708816528,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.13531151683549786,
+      "gain": 0.16144422034323616,
+      "roll": 5607,
+      "result": {
+        "progress": 0.19056330621242523,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.45911331641389497,
+      "gain": 0.08358813418454344,
+      "roll": 11681,
+      "result": {
+        "progress": 0.5187094211578369,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.36579375748932086,
+      "gain": 0.23030759147929106,
+      "roll": 22844,
+      "result": {
+        "progress": 0.6869184970855713,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.21815483982448702,
+      "gain": 0.2713983670865642,
+      "roll": 25892,
+      "result": {
+        "progress": 0.6470648050308228,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.4566673129993434,
+      "gain": 0.1430832449141355,
+      "roll": 18305,
+      "result": {
+        "progress": 0.6165317296981812,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.37945550934120365,
+      "gain": 0.10773743943750969,
+      "roll": 6433,
+      "result": {
+        "progress": 0.4217587411403656,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.275791872530318,
+      "gain": 0.010747235603571015,
+      "roll": 14928,
+      "result": {
+        "progress": 0.28558433055877686,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.1512433073792892,
+      "gain": 0.11425844276562622,
+      "roll": 2006,
+      "result": {
+        "progress": 0.16523315012454987,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.28597735199615293,
+      "gain": 0.126240440700679,
+      "roll": 22603,
+      "result": {
+        "progress": 0.4601411819458008,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.12172953542139492,
+      "gain": 0.09756892802609557,
+      "roll": 7463,
+      "result": {
+        "progress": 0.16617406904697418,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3382576232181945,
+      "gain": 0.04284090093319532,
+      "roll": 30035,
+      "result": {
+        "progress": 0.416795551776886,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.15000658510121606,
+      "gain": 0.020517937961285558,
+      "roll": 16239,
+      "result": {
+        "progress": 0.1703435629606247,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.37739380352795654,
+      "gain": 0.18262182765701612,
+      "roll": 28573,
+      "result": {
+        "progress": 0.6958882212638855,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.44853498921395335,
+      "gain": 0.12703146215709227,
+      "roll": 26640,
+      "result": {
+        "progress": 0.6550914645195007,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.1732944408899309,
+      "gain": 0.1427127967856733,
+      "roll": 4119,
+      "result": {
+        "progress": 0.20917406678199768,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.09175406107552264,
+      "gain": 0.015262883029433572,
+      "roll": 18627,
+      "result": {
+        "progress": 0.10910699516534805,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4366905263426427,
+      "gain": 0.21289714350995387,
+      "roll": 19813,
+      "result": {
+        "progress": 0.6941527128219604,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.042645963382630214,
+      "gain": 0.25357380333889074,
+      "roll": 17345,
+      "result": {
+        "progress": 0.3111012876033783,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.15024697359344347,
+      "gain": 0.17463143019615862,
+      "roll": 17273,
+      "result": {
+        "progress": 0.3343595862388611,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2920597155255316,
+      "gain": 0.07543544039616445,
+      "roll": 11034,
+      "result": {
+        "progress": 0.34286415576934814,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.21093934158121003,
+      "gain": 0.1265118020306374,
+      "roll": 12186,
+      "result": {
+        "progress": 0.3050384521484375,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.17647528313892447,
+      "gain": 0.040772613409069555,
+      "roll": 22537,
+      "result": {
+        "progress": 0.23256173729896545,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2863423954977598,
+      "gain": 0.16779638570372324,
+      "roll": 11982,
+      "result": {
+        "progress": 0.4090595245361328,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2028671321493431,
+      "gain": 0.16749940983749886,
+      "roll": 2472,
+      "result": {
+        "progress": 0.22814002633094788,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4009403331826359,
+      "gain": 0.21953457827560055,
+      "roll": 29705,
+      "result": {
+        "progress": 0.7989795207977295,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.4338615862396054,
+      "gain": 0.17178531210445638,
+      "roll": 9236,
+      "result": {
+        "progress": 0.5307034850120544,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.4400190036515054,
+      "gain": 0.15656097980095576,
+      "roll": 26142,
+      "result": {
+        "progress": 0.689832329750061,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.1784923689230002,
+      "gain": 0.28436534392200674,
+      "roll": 12335,
+      "result": {
+        "progress": 0.39258864521980286,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.13937030298195469,
+      "gain": 0.2051021885438227,
+      "roll": 18989,
+      "result": {
+        "progress": 0.37709030508995056,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.24873832221736808,
+      "gain": 0.0032078100564312925,
+      "roll": 9780,
+      "result": {
+        "progress": 0.2506532073020935,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3717043243138333,
+      "gain": 0.10626508018596825,
+      "roll": 16914,
+      "result": {
+        "progress": 0.48141026496887207,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.36266230280884787,
+      "gain": 0.03448411339670878,
+      "roll": 23700,
+      "result": {
+        "progress": 0.4125462472438812,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.32944246005767025,
+      "gain": 0.05327003275447343,
+      "roll": 20615,
+      "result": {
+        "progress": 0.3964709937572479,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.32844477513721293,
+      "gain": 0.12161681610059846,
+      "roll": 21265,
+      "result": {
+        "progress": 0.486297607421875,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.32576363372221245,
+      "gain": 0.1684001975287389,
+      "roll": 23741,
+      "result": {
+        "progress": 0.5697889924049377,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.19358407972728597,
+      "gain": 0.20668523261879454,
+      "roll": 4352,
+      "result": {
+        "progress": 0.24848651885986328,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.0859662551582967,
+      "gain": 0.2521045001314744,
+      "roll": 2447,
+      "result": {
+        "progress": 0.12361997365951538,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3617405458537417,
+      "gain": 0.2997869894484407,
+      "roll": 15588,
+      "result": {
+        "progress": 0.6469714045524597,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.12371989419049795,
+      "gain": 0.25990347430679106,
+      "roll": 28302,
+      "result": {
+        "progress": 0.572695255279541,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.40656118239733274,
+      "gain": 0.19232381546757354,
+      "roll": 27453,
+      "result": {
+        "progress": 0.7288284301757812,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.03405788707292784,
+      "gain": 0.05744862073226857,
+      "roll": 18818,
+      "result": {
+        "progress": 0.10004305839538574,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4982923799988169,
+      "gain": 0.23305128565535826,
+      "roll": 27100,
+      "result": {
+        "progress": 0.883783221244812,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.1839934127415797,
+      "gain": 0.0998154160946481,
+      "roll": 30273,
+      "result": {
+        "progress": 0.3684297204017639,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2341058214679267,
+      "gain": 0.04121777273831254,
+      "roll": 4501,
+      "result": {
+        "progress": 0.24542948603630066,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4043659042499352,
+      "gain": 0.16052110666910077,
+      "roll": 30193,
+      "result": {
+        "progress": 0.7001887559890747,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.3166240883311328,
+      "gain": 0.023146725131429423,
+      "roll": 30677,
+      "result": {
+        "progress": 0.3599647581577301,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.13315584122335206,
+      "gain": 0.058381541612344774,
+      "roll": 27300,
+      "result": {
+        "progress": 0.23043762147426605,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3992538914934656,
+      "gain": 0.16435804229334683,
+      "roll": 16981,
+      "result": {
+        "progress": 0.5696060061454773,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.17178396195166806,
+      "gain": 0.03286517397580204,
+      "roll": 29614,
+      "result": {
+        "progress": 0.23118942975997925,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3456295864781358,
+      "gain": 0.028609836043601854,
+      "roll": 10280,
+      "result": {
+        "progress": 0.363581120967865,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.110019983538994,
+      "gain": 0.12453499681692823,
+      "roll": 28921,
+      "result": {
+        "progress": 0.3298555910587311,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4115124128588361,
+      "gain": 0.12855492993416176,
+      "roll": 17700,
+      "result": {
+        "progress": 0.5503973960876465,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.37693012344704313,
+      "gain": 0.1467447745258072,
+      "roll": 25845,
+      "result": {
+        "progress": 0.6084202527999878,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.03415037636313151,
+      "gain": 0.07851279270843815,
+      "roll": 7215,
+      "result": {
+        "progress": 0.06872600317001343,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.09681754312155155,
+      "gain": 0.031744374701009714,
+      "roll": 7219,
+      "result": {
+        "progress": 0.1108049526810646,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.09583551034846521,
+      "gain": 0.15998109866168703,
+      "roll": 14710,
+      "result": {
+        "progress": 0.23947526514530182,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.30354985104236926,
+      "gain": 0.04314083290127533,
+      "roll": 24718,
+      "result": {
+        "progress": 0.36863699555397034,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3009741421716856,
+      "gain": 0.20654809051214765,
+      "roll": 29551,
+      "result": {
+        "progress": 0.6735259294509888,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.43662247119588826,
+      "gain": 0.11464285132040737,
+      "roll": 14060,
+      "result": {
+        "progress": 0.5350067019462585,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.11558223118765804,
+      "gain": 0.19243940201374918,
+      "roll": 14072,
+      "result": {
+        "progress": 0.2808709144592285,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3377575282956643,
+      "gain": 0.050025356333933145,
+      "roll": 24185,
+      "result": {
+        "progress": 0.41160398721694946,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.12496058078844896,
+      "gain": 0.021194191895295245,
+      "roll": 3347,
+      "result": {
+        "progress": 0.1292903572320938,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.37671951235573925,
+      "gain": 0.11035013127336961,
+      "roll": 20578,
+      "result": {
+        "progress": 0.5153214931488037,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.09459508212846018,
+      "gain": 0.25230777022046447,
+      "roll": 29610,
+      "result": {
+        "progress": 0.5505924820899963,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.3763148176652452,
+      "gain": 0.21884039024214655,
+      "roll": 10054,
+      "result": {
+        "progress": 0.5106097459793091,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.015556008882808947,
+      "gain": 0.22728826675458927,
+      "roll": 17470,
+      "result": {
+        "progress": 0.25791728496551514,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.02429169713930407,
+      "gain": 0.02561679141730977,
+      "roll": 21196,
+      "result": {
+        "progress": 0.05743318051099777,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4189478055500599,
+      "gain": 0.21179407554605303,
+      "roll": 25402,
+      "result": {
+        "progress": 0.7473265528678894,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.2752599363994065,
+      "gain": 0.2411089948942865,
+      "roll": 137,
+      "result": {
+        "progress": 0.27727609872817993,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.17977483758350515,
+      "gain": 0.13541153986191062,
+      "roll": 16420,
+      "result": {
+        "progress": 0.3154880404472351,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4955991324526744,
+      "gain": 0.08122613441595948,
+      "roll": 15547,
+      "result": {
+        "progress": 0.5726780295372009,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.4754844726637982,
+      "gain": 0.05441569723575113,
+      "roll": 21129,
+      "result": {
+        "progress": 0.5456617474555969,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.052744587638304974,
+      "gain": 0.06194727351886474,
+      "roll": 32113,
+      "result": {
+        "progress": 0.17416630685329437,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.13187405506885364,
+      "gain": 0.08819239298931061,
+      "roll": 19722,
+      "result": {
+        "progress": 0.2380375862121582,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3942352332817786,
+      "gain": 0.29023064514735186,
+      "roll": 20338,
+      "result": {
+        "progress": 0.7545191049575806,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.46155305323209617,
+      "gain": 0.19441747863425085,
+      "roll": 20338,
+      "result": {
+        "progress": 0.7028972506523132,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.10044329552811498,
+      "gain": 0.22377878345627583,
+      "roll": 22990,
+      "result": {
+        "progress": 0.41445887088775635,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3009672273903651,
+      "gain": 0.24799164053226855,
+      "roll": 15861,
+      "result": {
+        "progress": 0.5410499572753906,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.3835442514163064,
+      "gain": 0.20298517709793404,
+      "roll": 18249,
+      "result": {
+        "progress": 0.6096422672271729,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.09646904757118757,
+      "gain": 0.2245343452169712,
+      "roll": 8389,
+      "result": {
+        "progress": 0.21143950521945953,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.1092697259954522,
+      "gain": 0.2195054239667576,
+      "roll": 9404,
+      "result": {
+        "progress": 0.2352641075849533,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.0690741487362449,
+      "gain": 0.249847904060563,
+      "roll": 15703,
+      "result": {
+        "progress": 0.30854445695877075,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3704498491584922,
+      "gain": 0.14990901259813252,
+      "roll": 4350,
+      "result": {
+        "progress": 0.41025233268737793,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.45192679348221576,
+      "gain": 0.11994978369475406,
+      "roll": 14972,
+      "result": {
+        "progress": 0.5615424513816833,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.3329679999025517,
+      "gain": 0.22840341794444155,
+      "roll": 723,
+      "result": {
+        "progress": 0.3430473804473877,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3094556916597385,
+      "gain": 0.24516814492632397,
+      "roll": 12048,
+      "result": {
+        "progress": 0.48974597454071045,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.0330461719073048,
+      "gain": 0.058233322809837694,
+      "roll": 20954,
+      "result": {
+        "progress": 0.1075248196721077,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.16828349530925196,
+      "gain": 0.21188419702396888,
+      "roll": 3753,
+      "result": {
+        "progress": 0.21682021021842957,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.499631632655142,
+      "gain": 0.1292232206268312,
+      "roll": 2587,
+      "result": {
+        "progress": 0.5200363397598267,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.2767738214146462,
+      "gain": 0.025065182867009105,
+      "roll": 27643,
+      "result": {
+        "progress": 0.3190649449825287,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.296490576774354,
+      "gain": 0.07955284457767557,
+      "roll": 7781,
+      "result": {
+        "progress": 0.3342725336551666,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.03806038234059178,
+      "gain": 0.09642628910028798,
+      "roll": 20413,
+      "result": {
+        "progress": 0.15820258855819702,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4876316407833185,
+      "gain": 0.08679686976337665,
+      "roll": 21014,
+      "result": {
+        "progress": 0.5989601016044617,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.3310542296300315,
+      "gain": 0.055391544432627914,
+      "roll": 12829,
+      "result": {
+        "progress": 0.37442824244499207,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.41400564760460384,
+      "gain": 0.13916418368068204,
+      "roll": 21,
+      "result": {
+        "progress": 0.41418400406837463,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.06300343425306332,
+      "gain": 0.09742141332630429,
+      "roll": 25986,
+      "result": {
+        "progress": 0.21752431988716125,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.015059450658731988,
+      "gain": 0.20893130528933768,
+      "roll": 21169,
+      "result": {
+        "progress": 0.28501805663108826,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.22399442903807532,
+      "gain": 0.10076055906065463,
+      "roll": 28422,
+      "result": {
+        "progress": 0.3987932801246643,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2282063810607125,
+      "gain": 0.28605887994745816,
+      "roll": 5480,
+      "result": {
+        "progress": 0.3238881826400757,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3906347413550267,
+      "gain": 0.14397586122421788,
+      "roll": 31,
+      "result": {
+        "progress": 0.3909071683883667,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3742689455401572,
+      "gain": 0.29601163135692177,
+      "roll": 23479,
+      "result": {
+        "progress": 0.7984796762466431,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.1224738525150681,
+      "gain": 0.09242124784356678,
+      "roll": 26717,
+      "result": {
+        "progress": 0.2731875777244568,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.41629848963104266,
+      "gain": 0.0908937681048256,
+      "roll": 30130,
+      "result": {
+        "progress": 0.58345627784729,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.19020219067497224,
+      "gain": 0.22195923552872018,
+      "roll": 15804,
+      "result": {
+        "progress": 0.40431052446365356,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.49084689115395086,
+      "gain": 0.1238328922340103,
+      "roll": 24424,
+      "result": {
+        "progress": 0.6754530668258667,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.2299162944869907,
+      "gain": 0.2817653813772861,
+      "roll": 4594,
+      "result": {
+        "progress": 0.30892443656921387,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.12815222585490266,
+      "gain": 0.16393267877501586,
+      "roll": 21420,
+      "result": {
+        "progress": 0.342479944229126,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2515870804671437,
+      "gain": 0.038731410019023034,
+      "roll": 13825,
+      "result": {
+        "progress": 0.2842700779438019,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.06338409443262577,
+      "gain": 0.13744900068534907,
+      "roll": 28887,
+      "result": {
+        "progress": 0.3057309091091156,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.14469858482846437,
+      "gain": 0.2477855491587121,
+      "roll": 25206,
+      "result": {
+        "progress": 0.5259164571762085,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.03142225239863028,
+      "gain": 0.1394006909957942,
+      "roll": 16976,
+      "result": {
+        "progress": 0.1758642941713333,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.22242505593855416,
+      "gain": 0.28155278620332613,
+      "roll": 15464,
+      "result": {
+        "progress": 0.4881761074066162,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.13711652560374543,
+      "gain": 0.2833892164715857,
+      "roll": 32096,
+      "result": {
+        "progress": 0.6922885179519653,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.1901017105788143,
+      "gain": 0.28755479459466177,
+      "roll": 4785,
+      "result": {
+        "progress": 0.2740855813026428,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.33232865475453094,
+      "gain": 0.2478091120223715,
+      "roll": 15759,
+      "result": {
+        "progress": 0.5706918239593506,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.25709724752241414,
+      "gain": 0.07462353298076625,
+      "roll": 26436,
+      "result": {
+        "progress": 0.37750786542892456,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.29803516754645387,
+      "gain": 0.11468704539546049,
+      "roll": 32233,
+      "result": {
+        "progress": 0.5236711502075195,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.4204103064298991,
+      "gain": 0.00874020328713153,
+      "roll": 16194,
+      "result": {
+        "progress": 0.42904940247535706,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2024094031323901,
+      "gain": 0.06762835589998861,
+      "roll": 10712,
+      "result": {
+        "progress": 0.24662674963474274,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.22046806018956838,
+      "gain": 0.0936173506560888,
+      "roll": 15643,
+      "result": {
+        "progress": 0.30985409021377563,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.36257489831981154,
+      "gain": 0.22095012968583985,
+      "roll": 7690,
+      "result": {
+        "progress": 0.46628332138061523,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.040446901726241546,
+      "gain": 0.2568565247513169,
+      "roll": 17023,
+      "result": {
+        "progress": 0.30732935667037964,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.0366826308073232,
+      "gain": 0.10037485712447769,
+      "roll": 9201,
+      "result": {
+        "progress": 0.09305331110954285,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.40341249573031546,
+      "gain": 0.046191909940944006,
+      "roll": 19364,
+      "result": {
+        "progress": 0.45800766348838806,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4491354931788237,
+      "gain": 0.020366572024550687,
+      "roll": 3218,
+      "result": {
+        "progress": 0.45313581824302673,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.025281855009701204,
+      "gain": 0.21408882813059632,
+      "roll": 24653,
+      "result": {
+        "progress": 0.3474310636520386,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.27052282248000226,
+      "gain": 0.2142405415046307,
+      "roll": 13008,
+      "result": {
+        "progress": 0.44062328338623047,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2658519982738185,
+      "gain": 0.06393015936971475,
+      "roll": 4642,
+      "result": {
+        "progress": 0.2839655876159668,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.49625447306858017,
+      "gain": 0.0927885650451049,
+      "roll": 12757,
+      "result": {
+        "progress": 0.5685042142868042,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.10420974571398256,
+      "gain": 0.021879253825854348,
+      "roll": 9072,
+      "result": {
+        "progress": 0.11632489413022995,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.16620252417061765,
+      "gain": 0.21337286782460524,
+      "roll": 19014,
+      "result": {
+        "progress": 0.4138340950012207,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.28834471079538787,
+      "gain": 0.16930385933771933,
+      "roll": 3928,
+      "result": {
+        "progress": 0.3289358913898468,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.037110949717119424,
+      "gain": 0.20239459998172962,
+      "roll": 19177,
+      "result": {
+        "progress": 0.27401524782180786,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.23245149416763344,
+      "gain": 0.02306168927273732,
+      "roll": 6464,
+      "result": {
+        "progress": 0.24155032634735107,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.04377458513711768,
+      "gain": 0.28412418749742013,
+      "roll": 30279,
+      "result": {
+        "progress": 0.5688758492469788,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.2079341190928799,
+      "gain": 0.01651676662053291,
+      "roll": 12872,
+      "result": {
+        "progress": 0.22091083228588104,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3191210328260349,
+      "gain": 0.28246344292105646,
+      "roll": 11478,
+      "result": {
+        "progress": 0.5170100927352905,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.4516327180425713,
+      "gain": 0.24568579898915768,
+      "roll": 24485,
+      "result": {
+        "progress": 0.8188080787658691,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.35221379627534743,
+      "gain": 0.14925202632679457,
+      "roll": 24050,
+      "result": {
+        "progress": 0.5713068842887878,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.21542725928172718,
+      "gain": 0.24282046578028924,
+      "roll": 977,
+      "result": {
+        "progress": 0.22990742325782776,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.40692841673486335,
+      "gain": 0.11223036328111043,
+      "roll": 26371,
+      "result": {
+        "progress": 0.5875751972198486,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.24327419348346485,
+      "gain": 0.2144695256349941,
+      "roll": 31113,
+      "result": {
+        "progress": 0.6505614519119263,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.4617516277472149,
+      "gain": 0.018860461484029912,
+      "roll": 243,
+      "result": {
+        "progress": 0.46203136444091797,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.40331920887630585,
+      "gain": 0.08399282079391572,
+      "roll": 3109,
+      "result": {
+        "progress": 0.4192580282688141,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3132701303391281,
+      "gain": 0.17263506388518188,
+      "roll": 18532,
+      "result": {
+        "progress": 0.5085442066192627,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.14362820188594233,
+      "gain": 0.039106548262904405,
+      "roll": 23777,
+      "result": {
+        "progress": 0.20038263499736786,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.09446143015141623,
+      "gain": 0.0573608602269668,
+      "roll": 8364,
+      "result": {
+        "progress": 0.12374493479728699,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.09834547373410929,
+      "gain": 0.2528536433017962,
+      "roll": 5690,
+      "result": {
+        "progress": 0.18616169691085815,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4900124411170905,
+      "gain": 0.2756624444891497,
+      "roll": 25878,
+      "result": {
+        "progress": 0.92542564868927,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.35423644676622323,
+      "gain": 0.2806726483869372,
+      "roll": 2239,
+      "result": {
+        "progress": 0.39259371161460876,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.22101373967975296,
+      "gain": 0.10467727678750935,
+      "roll": 17870,
+      "result": {
+        "progress": 0.33518853783607483,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3955939553007884,
+      "gain": 0.0440034455154062,
+      "roll": 24449,
+      "result": {
+        "progress": 0.46126002073287964,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3925288563074389,
+      "gain": 0.19887156580185464,
+      "roll": 17920,
+      "result": {
+        "progress": 0.6100512742996216,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.2184019642720933,
+      "gain": 0.27363225672196984,
+      "roll": 18527,
+      "result": {
+        "progress": 0.5278342962265015,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.2257299176238593,
+      "gain": 0.1608413305562408,
+      "roll": 3352,
+      "result": {
+        "progress": 0.2586374282836914,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.06902419566474116,
+      "gain": 0.0648718524896805,
+      "roll": 15999,
+      "result": {
+        "progress": 0.1323736011981964,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.19707742803392647,
+      "gain": 0.2409014425637005,
+      "roll": 14222,
+      "result": {
+        "progress": 0.40619635581970215,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.07054555791306938,
+      "gain": 0.1656391439177616,
+      "roll": 27863,
+      "result": {
+        "progress": 0.3522438108921051,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.29211149859987423,
+      "gain": 0.2777512623311244,
+      "roll": 8223,
+      "result": {
+        "progress": 0.4315168857574463,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.10644549189594182,
+      "gain": 0.28206638683731317,
+      "roll": 2893,
+      "result": {
+        "progress": 0.15625280141830444,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.42948256363542925,
+      "gain": 0.08474439667619857,
+      "roll": 20836,
+      "result": {
+        "progress": 0.537257730960846,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.07593344621026665,
+      "gain": 0.10442366995498294,
+      "roll": 23296,
+      "result": {
+        "progress": 0.2244153916835785,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.19962438751235945,
+      "gain": 0.23672419070750617,
+      "roll": 7838,
+      "result": {
+        "progress": 0.3128751814365387,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3744744999707483,
+      "gain": 0.024869931009495316,
+      "roll": 29853,
+      "result": {
+        "progress": 0.41979095339775085,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.47253787703687916,
+      "gain": 0.2857678043440476,
+      "roll": 10433,
+      "result": {
+        "progress": 0.6545146107673645,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.2990228411928626,
+      "gain": 0.07485840067970845,
+      "roll": 16825,
+      "result": {
+        "progress": 0.375898540019989,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2270667043789441,
+      "gain": 0.19547654658501173,
+      "roll": 8280,
+      "result": {
+        "progress": 0.325857937335968,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.11314367737018444,
+      "gain": 0.21835835823613714,
+      "roll": 4593,
+      "result": {
+        "progress": 0.17435891926288605,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2797111739178736,
+      "gain": 0.29381852081179133,
+      "roll": 14548,
+      "result": {
+        "progress": 0.5406122207641602,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.004537812802940744,
+      "gain": 0.17764104618661833,
+      "roll": 27155,
+      "result": {
+        "progress": 0.2989707887172699,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.45156855235417104,
+      "gain": 0.19087404181970566,
+      "roll": 640,
+      "result": {
+        "progress": 0.4590247869491577,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4068166027069548,
+      "gain": 0.2248283515291091,
+      "roll": 14733,
+      "result": {
+        "progress": 0.6089953780174255,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.004375453246703742,
+      "gain": 0.1504513338969795,
+      "roll": 21059,
+      "result": {
+        "progress": 0.1977623850107193,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.23709189549769621,
+      "gain": 0.08884509243576098,
+      "roll": 4714,
+      "result": {
+        "progress": 0.2626551687717438,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4584472228406316,
+      "gain": 0.01647782944787881,
+      "roll": 7993,
+      "result": {
+        "progress": 0.46648624539375305,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3778648265732448,
+      "gain": 0.22186953837388176,
+      "roll": 16199,
+      "result": {
+        "progress": 0.5972357988357544,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.3322434448999081,
+      "gain": 0.09343516540786613,
+      "roll": 4024,
+      "result": {
+        "progress": 0.3551923334598541,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.37083337860917165,
+      "gain": 0.0529395251074616,
+      "roll": 28253,
+      "result": {
+        "progress": 0.4621264636516571,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.07149407810275299,
+      "gain": 0.019825183130370617,
+      "roll": 20501,
+      "result": {
+        "progress": 0.09630172699689865,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4898290548747709,
+      "gain": 0.11787685668772008,
+      "roll": 11233,
+      "result": {
+        "progress": 0.5706488490104675,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.1812988367502838,
+      "gain": 0.27501918879457854,
+      "roll": 27030,
+      "result": {
+        "progress": 0.635033905506134,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.25983225042166025,
+      "gain": 0.02136408469918777,
+      "roll": 10858,
+      "result": {
+        "progress": 0.27399110794067383,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.26475506415839967,
+      "gain": 0.12151163926650974,
+      "roll": 26296,
+      "result": {
+        "progress": 0.4597848355770111,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3681205846995616,
+      "gain": 0.1090789244139344,
+      "roll": 13912,
+      "result": {
+        "progress": 0.46074461936950684,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2500009881913967,
+      "gain": 0.07024892703482062,
+      "roll": 4636,
+      "result": {
+        "progress": 0.26987916231155396,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.27840132958521874,
+      "gain": 0.15181399782361496,
+      "roll": 14235,
+      "result": {
+        "progress": 0.4103067219257355,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.20003923709978982,
+      "gain": 0.2604455737981514,
+      "roll": 7654,
+      "result": {
+        "progress": 0.32171350717544556,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.39213082377301794,
+      "gain": 0.25212394996576976,
+      "roll": 30476,
+      "result": {
+        "progress": 0.861122727394104,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.26681884550563006,
+      "gain": 0.09571341360814657,
+      "roll": 13467,
+      "result": {
+        "progress": 0.345493882894516,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3069906457626088,
+      "gain": 0.20435418298184502,
+      "roll": 4224,
+      "result": {
+        "progress": 0.3596773147583008,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.14327261259081014,
+      "gain": 0.1438826615319009,
+      "roll": 14470,
+      "result": {
+        "progress": 0.2703505754470825,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3982313326564565,
+      "gain": 0.15350534170134575,
+      "roll": 19685,
+      "result": {
+        "progress": 0.5826700925827026,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.24054796879055534,
+      "gain": 0.10179974377000699,
+      "roll": 4800,
+      "result": {
+        "progress": 0.27037301659584045,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.27933735791311254,
+      "gain": 0.08875399935172187,
+      "roll": 31170,
+      "result": {
+        "progress": 0.4481939673423767,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.07785546125427606,
+      "gain": 0.20214190031741897,
+      "roll": 8869,
+      "result": {
+        "progress": 0.18728241324424744,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3508787239481308,
+      "gain": 0.09889455588462588,
+      "roll": 10027,
+      "result": {
+        "progress": 0.41140398383140564,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4076194734851962,
+      "gain": 0.13144797353007479,
+      "roll": 12914,
+      "result": {
+        "progress": 0.511231005191803,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.14889363528715926,
+      "gain": 0.03893038850682599,
+      "roll": 27946,
+      "result": {
+        "progress": 0.21529877185821533,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2507101079036286,
+      "gain": 0.126669745626185,
+      "roll": 20811,
+      "result": {
+        "progress": 0.41161125898361206,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3687077067614907,
+      "gain": 0.22707736310936502,
+      "roll": 19780,
+      "result": {
+        "progress": 0.642861008644104,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.4526138519868166,
+      "gain": 0.12013722147509304,
+      "roll": 10575,
+      "result": {
+        "progress": 0.5301584005355835,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.36834922005481774,
+      "gain": 0.07805866816995358,
+      "roll": 13018,
+      "result": {
+        "progress": 0.43037307262420654,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.0968118505988379,
+      "gain": 0.2065538993040481,
+      "roll": 13821,
+      "result": {
+        "progress": 0.27105921506881714,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.28405412329883317,
+      "gain": 0.08001130041564884,
+      "roll": 32493,
+      "result": {
+        "progress": 0.4427385926246643,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.30193568927585973,
+      "gain": 0.14065073717525034,
+      "roll": 30750,
+      "result": {
+        "progress": 0.565921425819397,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.16940143886654463,
+      "gain": 0.2579256413056807,
+      "roll": 3841,
+      "result": {
+        "progress": 0.22987034916877747,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.37243561280460374,
+      "gain": 0.01591095950733753,
+      "roll": 8125,
+      "result": {
+        "progress": 0.3803262412548065,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.49610067831048255,
+      "gain": 0.28764917465519807,
+      "roll": 31529,
+      "result": {
+        "progress": 1.0496630668640137,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.34980866165193536,
+      "gain": 0.14002992050155527,
+      "roll": 3022,
+      "result": {
+        "progress": 0.3756377100944519,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.3015381863030924,
+      "gain": 0.22324247264401906,
+      "roll": 23768,
+      "result": {
+        "progress": 0.6254022717475891,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.07880949391407555,
+      "gain": 0.17949659751695113,
+      "roll": 1580,
+      "result": {
+        "progress": 0.09611987322568893,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.17799167245275554,
+      "gain": 0.03995927678917603,
+      "roll": 29334,
+      "result": {
+        "progress": 0.2495371550321579,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.20014373398681518,
+      "gain": 0.009542262655737087,
+      "roll": 9439,
+      "result": {
+        "progress": 0.20564131438732147,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.4578170663987791,
+      "gain": 0.16925903973785958,
+      "roll": 26065,
+      "result": {
+        "progress": 0.7270963191986084,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.1242728936062063,
+      "gain": 0.24211709440544937,
+      "roll": 3502,
+      "result": {
+        "progress": 0.17602582275867462,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.22812931272643822,
+      "gain": 0.19627270104786057,
+      "roll": 9706,
+      "result": {
+        "progress": 0.34440621733665466,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.07643788199560791,
+      "gain": 0.21217889187896705,
+      "roll": 24248,
+      "result": {
+        "progress": 0.3904680907726288,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.021217582779881117,
+      "gain": 0.14919548374083055,
+      "roll": 2646,
+      "result": {
+        "progress": 0.04531324282288551,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.47044168264700464,
+      "gain": 0.24498192171239347,
+      "roll": 1533,
+      "result": {
+        "progress": 0.4933645725250244,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.31450361868167537,
+      "gain": 0.16763443037694767,
+      "roll": 20172,
+      "result": {
+        "progress": 0.520901620388031,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.4158588282073146,
+      "gain": 0.02668280570085101,
+      "roll": 4656,
+      "result": {
+        "progress": 0.4234417676925659,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.06918778052350694,
+      "gain": 0.16903615829557772,
+      "roll": 3817,
+      "result": {
+        "progress": 0.10856954008340836,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.1111853196559704,
+      "gain": 0.22960791756089072,
+      "roll": 14902,
+      "result": {
+        "progress": 0.3200306296348572,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.401261391648978,
+      "gain": 0.22071440878489546,
+      "roll": 16110,
+      "result": {
+        "progress": 0.6182912588119507,
+        "complete": true
+      }
+    },
+    {
+      "progress": 0.28495777049120435,
+      "gain": 0.06931156454931363,
+      "roll": 25002,
+      "result": {
+        "progress": 0.39073050022125244,
+        "complete": false
+      }
+    },
+    {
+      "progress": 0.2663254450165837,
+      "gain": 0.05853928182062185,
+      "roll": 696,
+      "result": {
+        "progress": 0.26881229877471924,
+        "complete": false
+      }
+    }
+  ]
+}

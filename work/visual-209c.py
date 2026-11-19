@@ -1,0 +1,5 @@
+from pathlib import Path
+p=Path('game/app.mjs');s=p.read_text().replace("$('panelBody').dataset.panel=currentPanel","$('panelBody').dataset.view=currentPanel");p.write_text(s)
+p=Path('game/style.css');s=p.read_text().replace('#panelBody[data-panel=', '#panelBody[data-view=');s=s.replace('#panelBody[data-view=research]>.research-funding p:not(:first-child){display:none}','');p.write_text(s)
+p=Path('game/map.mjs');s=p.read_text();s=s.replace(" const military=new Image();military.src=new URL('./assets/military.png',import.meta.url).href;military.onload=()=>draw();\n",'');p.write_text(s)
+p=Path('game/test/map-armies-browser.mjs');s=p.read_text().replace("const ctx=canvas.getContext('2d'),image=ctx.drawImage.bind(ctx),arc=ctx.arc.bind(ctx);","const ctx=canvas.getContext('2d'),text=ctx.fillText.bind(ctx),arc=ctx.arc.bind(ctx);");a=s.index(' ctx.drawImage=');b=s.index('\n ctx.arc=',a);s=s[:a]+" ctx.fillText=(value,x,y,...rest)=>{if(value==='7')window.armyPaint={x,y:y-12};return text(value,x,y,...rest);};"+s[b:];p.write_text(s)

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "003",
+    "name": "Green hills",
+    "prompt": "Use case: precise-object-edit. Use tile 003 top row third as edit target. Cover EVERY hill slope and ridge crest entirely with green grass up to the very top. No exposed tan, brown, white rock or bare soil on hills. Preserve rolling hill relief through green highlights and dark green shadows; no flowers. Keep them visibly rounded hills, not mountains. Produce ONE standalone revised terrain sprite only. Reference is attached atlas; isolate specified target, ignore all other tiles. Match the original crisp richly coloured pixel-art strategy-game style. Preserve pointy hex silhouette with thin dark outline, flat ground plane, comparable lighting and texture resolution. Center one hex on a square cream parchment background with consistent 8% margin. No labels, numbers, frames, other tiles, UI, buildings or characters. This is a review-library revision, not a new art style.",
+    "path": "C:\\Users\\paddy\\.codex\\generated_images\\01a0ee53-00af-7d32-a4f5-ff2543979bbf\\exec-a9274abe-cd90-4cdd-af0c-8973d577aafc.png"
+  },
+  {
+    "id": "004",
+    "name": "Mountains from above",
+    "prompt": "Use case: precise-object-edit. Use tile 004 top row fourth as edit target. View the mountains slightly more from above, a higher overhead camera elevation than the original. Show more of their ridge footprints and summit surfaces, less tall frontal cliffs. Still distinct jagged mountains with the original rocky grey/brown palette and restrained pale summit highlights. Keep the hex outer silhouette unchanged. Produce ONE standalone revised terrain sprite only. Reference is attached atlas; isolate specified target, ignore all other tiles. Match the original crisp richly coloured pixel-art strategy-game style. Preserve pointy hex silhouette with thin dark outline, flat ground plane, comparable lighting and texture resolution. Center one hex on a square cream parchment background with consistent 8% margin. No labels, numbers, frames, other tiles, UI, buildings or characters. This is a review-library revision, not a new art style.",
+    "path": "C:\\Users\\paddy\\.codex\\generated_images\\01a0ee53-00af-7d32-a4f5-ff2543979bbf\\exec-d170f81f-b7bc-4461-9c72-160416347b28.png"
+  },
+  {
+    "id": "005",
+    "name": "Boggy swamp",
+    "prompt": "Use case: precise-object-edit. Use tile 005 top row fifth as edit target. Shorten all grassy tufts and reeds dramatically to low marsh grass. Change the blue pools toward muted green/olive/teal, visually close to the surrounding grass. Make it a bog with damp mossy turf, muddy green hollows and little visible open water, not a water-filled pond. No bright blue, no tall reeds. Preserve swamp identity. Produce ONE standalone revised terrain sprite only. Reference is attached atlas; isolate specified target, ignore all other tiles. Match the original crisp richly coloured pixel-art strategy-game style. Preserve pointy hex silhouette with thin dark outline, flat ground plane, comparable lighting and texture resolution. Center one hex on a square cream parchment background with consistent 8% margin. No labels, numbers, frames, other tiles, UI, buildings or characters. This is a review-library revision, not a new art style.",
+    "path": "C:\\Users\\paddy\\.codex\\generated_images\\01a0ee53-00af-7d32-a4f5-ff2543979bbf\\exec-e453e601-362b-4732-8b75-6cd93af57a2c.png"
+  },
+  {
+    "id": "006",
+    "name": "Flat desert",
+    "prompt": "Use case: precise-object-edit. Use tile 006 bottom row first as edit target. Flatten the desert. Remove ALL distinct dune peaks, tall sand mounds, strongly outlined ridges and repeated wave crests. Use level warm yellow sandy ground, subtle low-contrast irregular sand grain and faint wind brushing only. Very sparse tiny pebbles, no large distinctive objects or prominent shrubs. Must remain visually quiet when many copies sit together, not repeated identical hills. Preserve golden yellow desert palette. Produce ONE standalone revised terrain sprite only. Reference is attached atlas; isolate specified target, ignore all other tiles. Match the original crisp richly coloured pixel-art strategy-game style. Preserve pointy hex silhouette with thin dark outline, flat ground plane, comparable lighting and texture resolution. Center one hex on a square cream parchment background with consistent 8% margin. No labels, numbers, frames, other tiles, UI, buildings or characters. This is a review-library revision, not a new art style.",
+    "path": "C:\\Users\\paddy\\.codex\\generated_images\\01a0ee53-00af-7d32-a4f5-ff2543979bbf\\exec-2958ba68-97e9-43c0-89c8-ea0e68e010a5.png"
+  }
+]

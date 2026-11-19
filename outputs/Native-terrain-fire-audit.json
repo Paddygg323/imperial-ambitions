@@ -1,0 +1,6158 @@
+{
+  "function": "0x61c5d0",
+  "scope": "Supplied geometry; full HP, no medals/generals/fort. Tests terrain damage, not line of fire.",
+  "cover": {
+    "levy": 0,
+    "caliverman": 20,
+    "skirmisher": 20,
+    "sharpshooter": 20,
+    "pikeman": 0,
+    "halberdier": 0,
+    "regular": 0,
+    "rifleInfantry": 0,
+    "arquebusier": 0,
+    "musketeer": 0,
+    "grenadier": 0,
+    "guard": 0,
+    "bowman": 0,
+    "general": 0,
+    "squire": 0,
+    "cossack": 0,
+    "hussar": 0,
+    "scout": 0,
+    "knight": 0,
+    "lancer": 0,
+    "harquebusier": 0,
+    "cuirassier": 0,
+    "carbineCavalry": 0,
+    "horseArtillery": 0,
+    "lightArtillery": 0,
+    "fieldArtillery": 0,
+    "culverin": 0,
+    "royalArtillery": 0,
+    "heavyArtillery": 0,
+    "siegeGun": 0
+  },
+  "cases": [
+    {
+      "attacker": 0,
+      "defender": 1,
+      "attackerTerrain": 0,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 1,
+      "attackerTerrain": 0,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 1,
+      "attackerTerrain": 1,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 1,
+      "attackerTerrain": 1,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        17,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 1,
+      "attackerTerrain": 2,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 1,
+      "attackerTerrain": 2,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        17,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 1,
+      "attackerTerrain": 3,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 1,
+      "attackerTerrain": 3,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 1,
+      "attackerTerrain": 4,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 1,
+      "attackerTerrain": 4,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 1,
+      "attackerTerrain": 5,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 1,
+      "attackerTerrain": 5,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 2,
+      "attackerTerrain": 0,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 2,
+      "attackerTerrain": 0,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 2,
+      "attackerTerrain": 1,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 2,
+      "attackerTerrain": 1,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 2,
+      "attackerTerrain": 2,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        6,
+        12,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 2,
+      "attackerTerrain": 2,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 2,
+      "attackerTerrain": 3,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        6,
+        12,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 2,
+      "attackerTerrain": 3,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 2,
+      "attackerTerrain": 4,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 2,
+      "attackerTerrain": 4,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 2,
+      "attackerTerrain": 5,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        6,
+        12,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 2,
+      "attackerTerrain": 5,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 3,
+      "attackerTerrain": 0,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 3,
+      "attackerTerrain": 0,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 3,
+      "attackerTerrain": 1,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 3,
+      "attackerTerrain": 1,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 3,
+      "attackerTerrain": 2,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 3,
+      "attackerTerrain": 2,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 3,
+      "attackerTerrain": 3,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 3,
+      "attackerTerrain": 3,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 3,
+      "attackerTerrain": 4,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 3,
+      "attackerTerrain": 4,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 3,
+      "attackerTerrain": 5,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 3,
+      "attackerTerrain": 5,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 4,
+      "attackerTerrain": 0,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 4,
+      "attackerTerrain": 0,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 4,
+      "attackerTerrain": 1,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 4,
+      "attackerTerrain": 1,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 4,
+      "attackerTerrain": 2,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 4,
+      "attackerTerrain": 2,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 4,
+      "attackerTerrain": 3,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 4,
+      "attackerTerrain": 3,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 4,
+      "attackerTerrain": 4,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 4,
+      "attackerTerrain": 4,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 4,
+      "attackerTerrain": 5,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 4,
+      "attackerTerrain": 5,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 5,
+      "attackerTerrain": 0,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 5,
+      "attackerTerrain": 0,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 5,
+      "attackerTerrain": 1,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 5,
+      "attackerTerrain": 1,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        15,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 5,
+      "attackerTerrain": 2,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 5,
+      "attackerTerrain": 2,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        15,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 5,
+      "attackerTerrain": 3,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 5,
+      "attackerTerrain": 3,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 5,
+      "attackerTerrain": 4,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 5,
+      "attackerTerrain": 4,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 5,
+      "attackerTerrain": 5,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 5,
+      "attackerTerrain": 5,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 6,
+      "attackerTerrain": 0,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 6,
+      "attackerTerrain": 0,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 6,
+      "attackerTerrain": 1,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 6,
+      "attackerTerrain": 1,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 6,
+      "attackerTerrain": 2,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 6,
+      "attackerTerrain": 2,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 6,
+      "attackerTerrain": 3,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 6,
+      "attackerTerrain": 3,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 6,
+      "attackerTerrain": 4,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 6,
+      "attackerTerrain": 4,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 6,
+      "attackerTerrain": 5,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 6,
+      "attackerTerrain": 5,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 7,
+      "attackerTerrain": 0,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 7,
+      "attackerTerrain": 0,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 7,
+      "attackerTerrain": 1,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 7,
+      "attackerTerrain": 1,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 7,
+      "attackerTerrain": 2,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 7,
+      "attackerTerrain": 2,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 7,
+      "attackerTerrain": 3,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 7,
+      "attackerTerrain": 3,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 7,
+      "attackerTerrain": 4,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 7,
+      "attackerTerrain": 4,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 7,
+      "attackerTerrain": 5,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 7,
+      "attackerTerrain": 5,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 8,
+      "attackerTerrain": 0,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        37,
+        75,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 8,
+      "attackerTerrain": 0,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        37,
+        75,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 8,
+      "attackerTerrain": 1,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        28,
+        56,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 8,
+      "attackerTerrain": 1,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        28,
+        56,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 8,
+      "attackerTerrain": 2,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        28,
+        56,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 8,
+      "attackerTerrain": 2,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        28,
+        56,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 8,
+      "attackerTerrain": 3,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        37,
+        75,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 8,
+      "attackerTerrain": 3,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        37,
+        75,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 8,
+      "attackerTerrain": 4,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 8,
+      "attackerTerrain": 4,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 8,
+      "attackerTerrain": 5,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 8,
+      "attackerTerrain": 5,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 9,
+      "attackerTerrain": 0,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        17,
+        35,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 9,
+      "attackerTerrain": 0,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        7,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 9,
+      "attackerTerrain": 1,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 9,
+      "attackerTerrain": 1,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        2,
+        5,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 9,
+      "attackerTerrain": 2,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 9,
+      "attackerTerrain": 2,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        2,
+        5,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 9,
+      "attackerTerrain": 3,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        17,
+        35,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 9,
+      "attackerTerrain": 3,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        7,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 9,
+      "attackerTerrain": 4,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 9,
+      "attackerTerrain": 4,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 9,
+      "attackerTerrain": 5,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 9,
+      "attackerTerrain": 5,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 10,
+      "attackerTerrain": 0,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 10,
+      "attackerTerrain": 0,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 10,
+      "attackerTerrain": 1,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 10,
+      "attackerTerrain": 1,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 10,
+      "attackerTerrain": 2,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 10,
+      "attackerTerrain": 2,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 10,
+      "attackerTerrain": 3,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 10,
+      "attackerTerrain": 3,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 10,
+      "attackerTerrain": 4,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 10,
+      "attackerTerrain": 4,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 10,
+      "attackerTerrain": 5,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 10,
+      "attackerTerrain": 5,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 11,
+      "attackerTerrain": 0,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        42,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 11,
+      "attackerTerrain": 0,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 11,
+      "attackerTerrain": 1,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        15,
+        31,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 11,
+      "attackerTerrain": 1,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 11,
+      "attackerTerrain": 2,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        15,
+        31,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 11,
+      "attackerTerrain": 2,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 11,
+      "attackerTerrain": 3,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        42,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 11,
+      "attackerTerrain": 3,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 11,
+      "attackerTerrain": 4,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 11,
+      "attackerTerrain": 4,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 11,
+      "attackerTerrain": 5,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 11,
+      "attackerTerrain": 5,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 12,
+      "attackerTerrain": 0,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        58,
+        117,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 12,
+      "attackerTerrain": 0,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        63,
+        127,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 12,
+      "attackerTerrain": 1,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        44,
+        88,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 12,
+      "attackerTerrain": 1,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        47,
+        95,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 12,
+      "attackerTerrain": 2,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        44,
+        88,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 12,
+      "attackerTerrain": 2,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        47,
+        95,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 12,
+      "attackerTerrain": 3,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        58,
+        117,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 12,
+      "attackerTerrain": 3,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        63,
+        127,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 12,
+      "attackerTerrain": 4,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 12,
+      "attackerTerrain": 4,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 12,
+      "attackerTerrain": 5,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 12,
+      "attackerTerrain": 5,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 16,
+      "attackerTerrain": 0,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 16,
+      "attackerTerrain": 0,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 16,
+      "attackerTerrain": 1,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 16,
+      "attackerTerrain": 1,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 16,
+      "attackerTerrain": 2,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 16,
+      "attackerTerrain": 2,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 16,
+      "attackerTerrain": 3,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 16,
+      "attackerTerrain": 3,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 16,
+      "attackerTerrain": 4,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 16,
+      "attackerTerrain": 4,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 16,
+      "attackerTerrain": 5,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 16,
+      "attackerTerrain": 5,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 20,
+      "attackerTerrain": 0,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 20,
+      "attackerTerrain": 0,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        7,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 20,
+      "attackerTerrain": 1,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 20,
+      "attackerTerrain": 1,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        2,
+        5,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 20,
+      "attackerTerrain": 2,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 20,
+      "attackerTerrain": 2,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        2,
+        5,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 20,
+      "attackerTerrain": 3,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 20,
+      "attackerTerrain": 3,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        7,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 20,
+      "attackerTerrain": 4,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 20,
+      "attackerTerrain": 4,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 20,
+      "attackerTerrain": 5,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 20,
+      "attackerTerrain": 5,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 21,
+      "attackerTerrain": 0,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 21,
+      "attackerTerrain": 0,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 21,
+      "attackerTerrain": 1,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 21,
+      "attackerTerrain": 1,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 21,
+      "attackerTerrain": 2,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 21,
+      "attackerTerrain": 2,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 21,
+      "attackerTerrain": 3,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 21,
+      "attackerTerrain": 3,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 21,
+      "attackerTerrain": 4,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 21,
+      "attackerTerrain": 4,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 21,
+      "attackerTerrain": 5,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 21,
+      "attackerTerrain": 5,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 22,
+      "attackerTerrain": 0,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 22,
+      "attackerTerrain": 0,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 22,
+      "attackerTerrain": 1,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 22,
+      "attackerTerrain": 1,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 22,
+      "attackerTerrain": 2,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 22,
+      "attackerTerrain": 2,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 22,
+      "attackerTerrain": 3,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 22,
+      "attackerTerrain": 3,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 22,
+      "attackerTerrain": 4,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 22,
+      "attackerTerrain": 4,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 22,
+      "attackerTerrain": 5,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 22,
+      "attackerTerrain": 5,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 23,
+      "attackerTerrain": 0,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 23,
+      "attackerTerrain": 0,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 23,
+      "attackerTerrain": 1,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 23,
+      "attackerTerrain": 1,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 23,
+      "attackerTerrain": 2,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 23,
+      "attackerTerrain": 2,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 23,
+      "attackerTerrain": 3,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 23,
+      "attackerTerrain": 3,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 23,
+      "attackerTerrain": 4,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 23,
+      "attackerTerrain": 4,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 23,
+      "attackerTerrain": 5,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 23,
+      "attackerTerrain": 5,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 24,
+      "attackerTerrain": 0,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        27,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 24,
+      "attackerTerrain": 0,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        23,
+        46,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 24,
+      "attackerTerrain": 1,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        27,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 24,
+      "attackerTerrain": 1,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        23,
+        46,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 24,
+      "attackerTerrain": 2,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        27,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 24,
+      "attackerTerrain": 2,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        23,
+        46,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 24,
+      "attackerTerrain": 3,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        27,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 24,
+      "attackerTerrain": 3,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        23,
+        46,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 24,
+      "attackerTerrain": 4,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 24,
+      "attackerTerrain": 4,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 24,
+      "attackerTerrain": 5,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        27,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 24,
+      "attackerTerrain": 5,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        23,
+        46,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 25,
+      "attackerTerrain": 0,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 25,
+      "attackerTerrain": 0,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 25,
+      "attackerTerrain": 1,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 25,
+      "attackerTerrain": 1,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 25,
+      "attackerTerrain": 2,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 25,
+      "attackerTerrain": 2,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 25,
+      "attackerTerrain": 3,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 25,
+      "attackerTerrain": 3,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 25,
+      "attackerTerrain": 4,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 25,
+      "attackerTerrain": 4,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 25,
+      "attackerTerrain": 5,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 25,
+      "attackerTerrain": 5,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 29,
+      "attackerTerrain": 0,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 29,
+      "attackerTerrain": 0,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 29,
+      "attackerTerrain": 1,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 29,
+      "attackerTerrain": 1,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 29,
+      "attackerTerrain": 2,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 29,
+      "attackerTerrain": 2,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 29,
+      "attackerTerrain": 3,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 29,
+      "attackerTerrain": 3,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 29,
+      "attackerTerrain": 4,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 29,
+      "attackerTerrain": 4,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 29,
+      "attackerTerrain": 5,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 29,
+      "attackerTerrain": 5,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 30,
+      "attackerTerrain": 0,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        14,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 30,
+      "attackerTerrain": 0,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 30,
+      "attackerTerrain": 1,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 30,
+      "attackerTerrain": 1,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 30,
+      "attackerTerrain": 2,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 30,
+      "attackerTerrain": 2,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 30,
+      "attackerTerrain": 3,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        14,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 30,
+      "attackerTerrain": 3,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 30,
+      "attackerTerrain": 4,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 30,
+      "attackerTerrain": 4,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 30,
+      "attackerTerrain": 5,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 30,
+      "attackerTerrain": 5,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 31,
+      "attackerTerrain": 0,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        18,
+        36,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 31,
+      "attackerTerrain": 0,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        36,
+        72,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 31,
+      "attackerTerrain": 1,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        27,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 31,
+      "attackerTerrain": 1,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        27,
+        54,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 31,
+      "attackerTerrain": 2,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        27,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 31,
+      "attackerTerrain": 2,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        27,
+        54,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 31,
+      "attackerTerrain": 3,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        18,
+        36,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 31,
+      "attackerTerrain": 3,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        36,
+        72,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 31,
+      "attackerTerrain": 4,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 31,
+      "attackerTerrain": 4,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 31,
+      "attackerTerrain": 5,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 31,
+      "attackerTerrain": 5,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 33,
+      "attackerTerrain": 0,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        34,
+        68,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 33,
+      "attackerTerrain": 0,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        124,
+        249,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 33,
+      "attackerTerrain": 1,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        51,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 33,
+      "attackerTerrain": 1,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        93,
+        187,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 33,
+      "attackerTerrain": 2,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        51,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 33,
+      "attackerTerrain": 2,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        93,
+        187,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 33,
+      "attackerTerrain": 3,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        34,
+        68,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 33,
+      "attackerTerrain": 3,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        124,
+        249,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 33,
+      "attackerTerrain": 4,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 33,
+      "attackerTerrain": 4,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 33,
+      "attackerTerrain": 5,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 33,
+      "attackerTerrain": 5,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 34,
+      "attackerTerrain": 0,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        42,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 34,
+      "attackerTerrain": 0,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 34,
+      "attackerTerrain": 1,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        15,
+        31,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 34,
+      "attackerTerrain": 1,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        9,
+        18,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 34,
+      "attackerTerrain": 2,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        15,
+        31,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 34,
+      "attackerTerrain": 2,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        9,
+        18,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 34,
+      "attackerTerrain": 3,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        42,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 34,
+      "attackerTerrain": 3,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 34,
+      "attackerTerrain": 4,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 34,
+      "attackerTerrain": 4,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 34,
+      "attackerTerrain": 5,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 34,
+      "attackerTerrain": 5,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 35,
+      "attackerTerrain": 0,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        28,
+        56,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 35,
+      "attackerTerrain": 0,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        15,
+        31,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 35,
+      "attackerTerrain": 1,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        42,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 35,
+      "attackerTerrain": 1,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        23,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 35,
+      "attackerTerrain": 2,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        42,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 35,
+      "attackerTerrain": 2,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        23,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 35,
+      "attackerTerrain": 3,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        28,
+        56,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 35,
+      "attackerTerrain": 3,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        15,
+        31,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 35,
+      "attackerTerrain": 4,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 35,
+      "attackerTerrain": 4,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 35,
+      "attackerTerrain": 5,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 35,
+      "attackerTerrain": 5,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 36,
+      "attackerTerrain": 0,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        49,
+        98,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 36,
+      "attackerTerrain": 0,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 36,
+      "attackerTerrain": 1,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        36,
+        73,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 36,
+      "attackerTerrain": 1,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 36,
+      "attackerTerrain": 2,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        36,
+        73,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 36,
+      "attackerTerrain": 2,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 36,
+      "attackerTerrain": 3,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        49,
+        98,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 36,
+      "attackerTerrain": 3,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 36,
+      "attackerTerrain": 4,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 36,
+      "attackerTerrain": 4,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 36,
+      "attackerTerrain": 5,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 36,
+      "attackerTerrain": 5,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 37,
+      "attackerTerrain": 0,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        39,
+        78,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 37,
+      "attackerTerrain": 0,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        14,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 37,
+      "attackerTerrain": 1,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        29,
+        58,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 37,
+      "attackerTerrain": 1,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 37,
+      "attackerTerrain": 2,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        29,
+        58,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 37,
+      "attackerTerrain": 2,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 37,
+      "attackerTerrain": 3,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        39,
+        78,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 37,
+      "attackerTerrain": 3,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        14,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 37,
+      "attackerTerrain": 4,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 37,
+      "attackerTerrain": 4,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 37,
+      "attackerTerrain": 5,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 37,
+      "attackerTerrain": 5,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 38,
+      "attackerTerrain": 0,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        44,
+        88,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 38,
+      "attackerTerrain": 0,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 38,
+      "attackerTerrain": 1,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        33,
+        66,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 38,
+      "attackerTerrain": 1,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 38,
+      "attackerTerrain": 2,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        33,
+        66,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 38,
+      "attackerTerrain": 2,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 38,
+      "attackerTerrain": 3,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        44,
+        88,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 38,
+      "attackerTerrain": 3,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 38,
+      "attackerTerrain": 4,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 38,
+      "attackerTerrain": 4,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 38,
+      "attackerTerrain": 5,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 38,
+      "attackerTerrain": 5,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 39,
+      "attackerTerrain": 0,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        54,
+        109,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 39,
+      "attackerTerrain": 0,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 39,
+      "attackerTerrain": 1,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        40,
+        81,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 39,
+      "attackerTerrain": 1,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        9,
+        18,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 39,
+      "attackerTerrain": 2,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        40,
+        81,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 39,
+      "attackerTerrain": 2,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        9,
+        18,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 39,
+      "attackerTerrain": 3,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        54,
+        109,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 39,
+      "attackerTerrain": 3,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 39,
+      "attackerTerrain": 4,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 39,
+      "attackerTerrain": 4,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 39,
+      "attackerTerrain": 5,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 39,
+      "attackerTerrain": 5,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 0,
+      "attackerTerrain": 0,
+      "defenderTerrain": 5,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        71,
+        142,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 0,
+      "attackerTerrain": 0,
+      "defenderTerrain": 5,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 0,
+      "attackerTerrain": 1,
+      "defenderTerrain": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        53,
+        107,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 0,
+      "attackerTerrain": 1,
+      "defenderTerrain": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 0,
+      "attackerTerrain": 2,
+      "defenderTerrain": 1,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        53,
+        107,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 0,
+      "attackerTerrain": 2,
+      "defenderTerrain": 1,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 0,
+      "attackerTerrain": 3,
+      "defenderTerrain": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        71,
+        142,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 0,
+      "attackerTerrain": 3,
+      "defenderTerrain": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 0,
+      "attackerTerrain": 4,
+      "defenderTerrain": 3,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 0,
+      "attackerTerrain": 4,
+      "defenderTerrain": 3,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 0,
+      "attackerTerrain": 5,
+      "defenderTerrain": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 0,
+      "attackerTerrain": 5,
+      "defenderTerrain": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        1,
+        0
+      ]
+    }
+  ]
+}

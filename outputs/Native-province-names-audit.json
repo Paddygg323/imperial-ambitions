@@ -1,0 +1,2777 @@
+{
+  "scope": "Full original66c900 name-counter branch, supplying CString plumbing and\ncapturing the string lookup. The group/index-to-resource mapping is executed\nunchanged at4ae67d..4ae687. Province ordering is the ascending152-record loop\nat54c6d2..54c6f3. No random-name branch is claimed by this audit.\n",
+  "cases": [
+    {
+      "country": 0,
+      "mode": 0,
+      "group": 3588,
+      "index": 1,
+      "resource": 40833
+    },
+    {
+      "country": 0,
+      "mode": 0,
+      "group": 3588,
+      "index": 2,
+      "resource": 40834
+    },
+    {
+      "country": 0,
+      "mode": 0,
+      "group": 3588,
+      "index": 3,
+      "resource": 40835
+    },
+    {
+      "country": 0,
+      "mode": 0,
+      "group": 3588,
+      "index": 4,
+      "resource": 40836
+    },
+    {
+      "country": 0,
+      "mode": 0,
+      "group": 3588,
+      "index": 5,
+      "resource": 40837
+    },
+    {
+      "country": 0,
+      "mode": 0,
+      "group": 3588,
+      "index": 6,
+      "resource": 40838
+    },
+    {
+      "country": 0,
+      "mode": 0,
+      "group": 3588,
+      "index": 7,
+      "resource": 40839
+    },
+    {
+      "country": 0,
+      "mode": 0,
+      "group": 3588,
+      "index": 8,
+      "resource": 40840
+    },
+    {
+      "country": 0,
+      "mode": 0,
+      "group": 3588,
+      "index": 9,
+      "resource": 40841
+    },
+    {
+      "country": 1,
+      "mode": 0,
+      "group": 3589,
+      "index": 1,
+      "resource": 40897
+    },
+    {
+      "country": 1,
+      "mode": 0,
+      "group": 3589,
+      "index": 2,
+      "resource": 40898
+    },
+    {
+      "country": 1,
+      "mode": 0,
+      "group": 3589,
+      "index": 3,
+      "resource": 40899
+    },
+    {
+      "country": 1,
+      "mode": 0,
+      "group": 3589,
+      "index": 4,
+      "resource": 40900
+    },
+    {
+      "country": 1,
+      "mode": 0,
+      "group": 3589,
+      "index": 5,
+      "resource": 40901
+    },
+    {
+      "country": 1,
+      "mode": 0,
+      "group": 3589,
+      "index": 6,
+      "resource": 40902
+    },
+    {
+      "country": 1,
+      "mode": 0,
+      "group": 3589,
+      "index": 7,
+      "resource": 40903
+    },
+    {
+      "country": 1,
+      "mode": 0,
+      "group": 3589,
+      "index": 8,
+      "resource": 40904
+    },
+    {
+      "country": 1,
+      "mode": 0,
+      "group": 3589,
+      "index": 9,
+      "resource": 40905
+    },
+    {
+      "country": 2,
+      "mode": 0,
+      "group": 3590,
+      "index": 1,
+      "resource": 40961
+    },
+    {
+      "country": 2,
+      "mode": 0,
+      "group": 3590,
+      "index": 2,
+      "resource": 40962
+    },
+    {
+      "country": 2,
+      "mode": 0,
+      "group": 3590,
+      "index": 3,
+      "resource": 40963
+    },
+    {
+      "country": 2,
+      "mode": 0,
+      "group": 3590,
+      "index": 4,
+      "resource": 40964
+    },
+    {
+      "country": 2,
+      "mode": 0,
+      "group": 3590,
+      "index": 5,
+      "resource": 40965
+    },
+    {
+      "country": 2,
+      "mode": 0,
+      "group": 3590,
+      "index": 6,
+      "resource": 40966
+    },
+    {
+      "country": 2,
+      "mode": 0,
+      "group": 3590,
+      "index": 7,
+      "resource": 40967
+    },
+    {
+      "country": 2,
+      "mode": 0,
+      "group": 3590,
+      "index": 8,
+      "resource": 40968
+    },
+    {
+      "country": 2,
+      "mode": 0,
+      "group": 3590,
+      "index": 9,
+      "resource": 40969
+    },
+    {
+      "country": 3,
+      "mode": 0,
+      "group": 3591,
+      "index": 1,
+      "resource": 41025
+    },
+    {
+      "country": 3,
+      "mode": 0,
+      "group": 3591,
+      "index": 2,
+      "resource": 41026
+    },
+    {
+      "country": 3,
+      "mode": 0,
+      "group": 3591,
+      "index": 3,
+      "resource": 41027
+    },
+    {
+      "country": 3,
+      "mode": 0,
+      "group": 3591,
+      "index": 4,
+      "resource": 41028
+    },
+    {
+      "country": 3,
+      "mode": 0,
+      "group": 3591,
+      "index": 5,
+      "resource": 41029
+    },
+    {
+      "country": 3,
+      "mode": 0,
+      "group": 3591,
+      "index": 6,
+      "resource": 41030
+    },
+    {
+      "country": 3,
+      "mode": 0,
+      "group": 3591,
+      "index": 7,
+      "resource": 41031
+    },
+    {
+      "country": 3,
+      "mode": 0,
+      "group": 3591,
+      "index": 8,
+      "resource": 41032
+    },
+    {
+      "country": 3,
+      "mode": 0,
+      "group": 3591,
+      "index": 9,
+      "resource": 41033
+    },
+    {
+      "country": 4,
+      "mode": 0,
+      "group": 3592,
+      "index": 1,
+      "resource": 41089
+    },
+    {
+      "country": 4,
+      "mode": 0,
+      "group": 3592,
+      "index": 2,
+      "resource": 41090
+    },
+    {
+      "country": 4,
+      "mode": 0,
+      "group": 3592,
+      "index": 3,
+      "resource": 41091
+    },
+    {
+      "country": 4,
+      "mode": 0,
+      "group": 3592,
+      "index": 4,
+      "resource": 41092
+    },
+    {
+      "country": 4,
+      "mode": 0,
+      "group": 3592,
+      "index": 5,
+      "resource": 41093
+    },
+    {
+      "country": 4,
+      "mode": 0,
+      "group": 3592,
+      "index": 6,
+      "resource": 41094
+    },
+    {
+      "country": 4,
+      "mode": 0,
+      "group": 3592,
+      "index": 7,
+      "resource": 41095
+    },
+    {
+      "country": 4,
+      "mode": 0,
+      "group": 3592,
+      "index": 8,
+      "resource": 41096
+    },
+    {
+      "country": 4,
+      "mode": 0,
+      "group": 3592,
+      "index": 9,
+      "resource": 41097
+    },
+    {
+      "country": 5,
+      "mode": 0,
+      "group": 3593,
+      "index": 1,
+      "resource": 41153
+    },
+    {
+      "country": 5,
+      "mode": 0,
+      "group": 3593,
+      "index": 2,
+      "resource": 41154
+    },
+    {
+      "country": 5,
+      "mode": 0,
+      "group": 3593,
+      "index": 3,
+      "resource": 41155
+    },
+    {
+      "country": 5,
+      "mode": 0,
+      "group": 3593,
+      "index": 4,
+      "resource": 41156
+    },
+    {
+      "country": 5,
+      "mode": 0,
+      "group": 3593,
+      "index": 5,
+      "resource": 41157
+    },
+    {
+      "country": 5,
+      "mode": 0,
+      "group": 3593,
+      "index": 6,
+      "resource": 41158
+    },
+    {
+      "country": 5,
+      "mode": 0,
+      "group": 3593,
+      "index": 7,
+      "resource": 41159
+    },
+    {
+      "country": 5,
+      "mode": 0,
+      "group": 3593,
+      "index": 8,
+      "resource": 41160
+    },
+    {
+      "country": 5,
+      "mode": 0,
+      "group": 3593,
+      "index": 9,
+      "resource": 41161
+    },
+    {
+      "country": 6,
+      "mode": 0,
+      "group": 3594,
+      "index": 1,
+      "resource": 41217
+    },
+    {
+      "country": 6,
+      "mode": 0,
+      "group": 3594,
+      "index": 2,
+      "resource": 41218
+    },
+    {
+      "country": 6,
+      "mode": 0,
+      "group": 3594,
+      "index": 3,
+      "resource": 41219
+    },
+    {
+      "country": 6,
+      "mode": 0,
+      "group": 3594,
+      "index": 4,
+      "resource": 41220
+    },
+    {
+      "country": 6,
+      "mode": 0,
+      "group": 3594,
+      "index": 5,
+      "resource": 41221
+    },
+    {
+      "country": 6,
+      "mode": 0,
+      "group": 3594,
+      "index": 6,
+      "resource": 41222
+    },
+    {
+      "country": 6,
+      "mode": 0,
+      "group": 3594,
+      "index": 7,
+      "resource": 41223
+    },
+    {
+      "country": 6,
+      "mode": 0,
+      "group": 3594,
+      "index": 8,
+      "resource": 41224
+    },
+    {
+      "country": 6,
+      "mode": 0,
+      "group": 3594,
+      "index": 9,
+      "resource": 41225
+    },
+    {
+      "country": 7,
+      "mode": 0,
+      "group": 3595,
+      "index": 1,
+      "resource": 41281
+    },
+    {
+      "country": 7,
+      "mode": 0,
+      "group": 3595,
+      "index": 2,
+      "resource": 41282
+    },
+    {
+      "country": 7,
+      "mode": 0,
+      "group": 3595,
+      "index": 3,
+      "resource": 41283
+    },
+    {
+      "country": 7,
+      "mode": 0,
+      "group": 3595,
+      "index": 4,
+      "resource": 41284
+    },
+    {
+      "country": 7,
+      "mode": 0,
+      "group": 3595,
+      "index": 5,
+      "resource": 41285
+    },
+    {
+      "country": 7,
+      "mode": 0,
+      "group": 3595,
+      "index": 6,
+      "resource": 41286
+    },
+    {
+      "country": 7,
+      "mode": 0,
+      "group": 3595,
+      "index": 7,
+      "resource": 41287
+    },
+    {
+      "country": 7,
+      "mode": 0,
+      "group": 3595,
+      "index": 8,
+      "resource": 41288
+    },
+    {
+      "country": 7,
+      "mode": 0,
+      "group": 3595,
+      "index": 9,
+      "resource": 41289
+    },
+    {
+      "country": 8,
+      "mode": 0,
+      "group": 3596,
+      "index": 1,
+      "resource": 41345
+    },
+    {
+      "country": 8,
+      "mode": 0,
+      "group": 3596,
+      "index": 2,
+      "resource": 41346
+    },
+    {
+      "country": 8,
+      "mode": 0,
+      "group": 3596,
+      "index": 3,
+      "resource": 41347
+    },
+    {
+      "country": 8,
+      "mode": 0,
+      "group": 3596,
+      "index": 4,
+      "resource": 41348
+    },
+    {
+      "country": 8,
+      "mode": 0,
+      "group": 3596,
+      "index": 5,
+      "resource": 41349
+    },
+    {
+      "country": 8,
+      "mode": 0,
+      "group": 3596,
+      "index": 6,
+      "resource": 41350
+    },
+    {
+      "country": 8,
+      "mode": 0,
+      "group": 3596,
+      "index": 7,
+      "resource": 41351
+    },
+    {
+      "country": 8,
+      "mode": 0,
+      "group": 3596,
+      "index": 8,
+      "resource": 41352
+    },
+    {
+      "country": 8,
+      "mode": 0,
+      "group": 3596,
+      "index": 9,
+      "resource": 41353
+    },
+    {
+      "country": 9,
+      "mode": 0,
+      "group": 3597,
+      "index": 1,
+      "resource": 41409
+    },
+    {
+      "country": 9,
+      "mode": 0,
+      "group": 3597,
+      "index": 2,
+      "resource": 41410
+    },
+    {
+      "country": 9,
+      "mode": 0,
+      "group": 3597,
+      "index": 3,
+      "resource": 41411
+    },
+    {
+      "country": 9,
+      "mode": 0,
+      "group": 3597,
+      "index": 4,
+      "resource": 41412
+    },
+    {
+      "country": 9,
+      "mode": 0,
+      "group": 3597,
+      "index": 5,
+      "resource": 41413
+    },
+    {
+      "country": 9,
+      "mode": 0,
+      "group": 3597,
+      "index": 6,
+      "resource": 41414
+    },
+    {
+      "country": 9,
+      "mode": 0,
+      "group": 3597,
+      "index": 7,
+      "resource": 41415
+    },
+    {
+      "country": 9,
+      "mode": 0,
+      "group": 3597,
+      "index": 8,
+      "resource": 41416
+    },
+    {
+      "country": 9,
+      "mode": 0,
+      "group": 3597,
+      "index": 9,
+      "resource": 41417
+    },
+    {
+      "country": 10,
+      "mode": 0,
+      "group": 3598,
+      "index": 1,
+      "resource": 41473
+    },
+    {
+      "country": 10,
+      "mode": 0,
+      "group": 3598,
+      "index": 2,
+      "resource": 41474
+    },
+    {
+      "country": 10,
+      "mode": 0,
+      "group": 3598,
+      "index": 3,
+      "resource": 41475
+    },
+    {
+      "country": 10,
+      "mode": 0,
+      "group": 3598,
+      "index": 4,
+      "resource": 41476
+    },
+    {
+      "country": 10,
+      "mode": 0,
+      "group": 3598,
+      "index": 5,
+      "resource": 41477
+    },
+    {
+      "country": 10,
+      "mode": 0,
+      "group": 3598,
+      "index": 6,
+      "resource": 41478
+    },
+    {
+      "country": 10,
+      "mode": 0,
+      "group": 3598,
+      "index": 7,
+      "resource": 41479
+    },
+    {
+      "country": 10,
+      "mode": 0,
+      "group": 3598,
+      "index": 8,
+      "resource": 41480
+    },
+    {
+      "country": 10,
+      "mode": 0,
+      "group": 3598,
+      "index": 9,
+      "resource": 41481
+    },
+    {
+      "country": 11,
+      "mode": 0,
+      "group": 3599,
+      "index": 1,
+      "resource": 41537
+    },
+    {
+      "country": 11,
+      "mode": 0,
+      "group": 3599,
+      "index": 2,
+      "resource": 41538
+    },
+    {
+      "country": 11,
+      "mode": 0,
+      "group": 3599,
+      "index": 3,
+      "resource": 41539
+    },
+    {
+      "country": 11,
+      "mode": 0,
+      "group": 3599,
+      "index": 4,
+      "resource": 41540
+    },
+    {
+      "country": 11,
+      "mode": 0,
+      "group": 3599,
+      "index": 5,
+      "resource": 41541
+    },
+    {
+      "country": 11,
+      "mode": 0,
+      "group": 3599,
+      "index": 6,
+      "resource": 41542
+    },
+    {
+      "country": 11,
+      "mode": 0,
+      "group": 3599,
+      "index": 7,
+      "resource": 41543
+    },
+    {
+      "country": 11,
+      "mode": 0,
+      "group": 3599,
+      "index": 8,
+      "resource": 41544
+    },
+    {
+      "country": 11,
+      "mode": 0,
+      "group": 3599,
+      "index": 9,
+      "resource": 41545
+    },
+    {
+      "country": 12,
+      "mode": 0,
+      "group": 3600,
+      "index": 1,
+      "resource": 41601
+    },
+    {
+      "country": 12,
+      "mode": 0,
+      "group": 3600,
+      "index": 2,
+      "resource": 41602
+    },
+    {
+      "country": 12,
+      "mode": 0,
+      "group": 3600,
+      "index": 3,
+      "resource": 41603
+    },
+    {
+      "country": 12,
+      "mode": 0,
+      "group": 3600,
+      "index": 4,
+      "resource": 41604
+    },
+    {
+      "country": 12,
+      "mode": 0,
+      "group": 3600,
+      "index": 5,
+      "resource": 41605
+    },
+    {
+      "country": 12,
+      "mode": 0,
+      "group": 3600,
+      "index": 6,
+      "resource": 41606
+    },
+    {
+      "country": 12,
+      "mode": 0,
+      "group": 3600,
+      "index": 7,
+      "resource": 41607
+    },
+    {
+      "country": 12,
+      "mode": 0,
+      "group": 3600,
+      "index": 8,
+      "resource": 41608
+    },
+    {
+      "country": 12,
+      "mode": 0,
+      "group": 3600,
+      "index": 9,
+      "resource": 41609
+    },
+    {
+      "country": 13,
+      "mode": 0,
+      "group": 3601,
+      "index": 1,
+      "resource": 41665
+    },
+    {
+      "country": 13,
+      "mode": 0,
+      "group": 3601,
+      "index": 2,
+      "resource": 41666
+    },
+    {
+      "country": 13,
+      "mode": 0,
+      "group": 3601,
+      "index": 3,
+      "resource": 41667
+    },
+    {
+      "country": 13,
+      "mode": 0,
+      "group": 3601,
+      "index": 4,
+      "resource": 41668
+    },
+    {
+      "country": 13,
+      "mode": 0,
+      "group": 3601,
+      "index": 5,
+      "resource": 41669
+    },
+    {
+      "country": 13,
+      "mode": 0,
+      "group": 3601,
+      "index": 6,
+      "resource": 41670
+    },
+    {
+      "country": 13,
+      "mode": 0,
+      "group": 3601,
+      "index": 7,
+      "resource": 41671
+    },
+    {
+      "country": 13,
+      "mode": 0,
+      "group": 3601,
+      "index": 8,
+      "resource": 41672
+    },
+    {
+      "country": 13,
+      "mode": 0,
+      "group": 3601,
+      "index": 9,
+      "resource": 41673
+    },
+    {
+      "country": 14,
+      "mode": 0,
+      "group": 3602,
+      "index": 1,
+      "resource": 41729
+    },
+    {
+      "country": 14,
+      "mode": 0,
+      "group": 3602,
+      "index": 2,
+      "resource": 41730
+    },
+    {
+      "country": 14,
+      "mode": 0,
+      "group": 3602,
+      "index": 3,
+      "resource": 41731
+    },
+    {
+      "country": 14,
+      "mode": 0,
+      "group": 3602,
+      "index": 4,
+      "resource": 41732
+    },
+    {
+      "country": 14,
+      "mode": 0,
+      "group": 3602,
+      "index": 5,
+      "resource": 41733
+    },
+    {
+      "country": 14,
+      "mode": 0,
+      "group": 3602,
+      "index": 6,
+      "resource": 41734
+    },
+    {
+      "country": 14,
+      "mode": 0,
+      "group": 3602,
+      "index": 7,
+      "resource": 41735
+    },
+    {
+      "country": 14,
+      "mode": 0,
+      "group": 3602,
+      "index": 8,
+      "resource": 41736
+    },
+    {
+      "country": 14,
+      "mode": 0,
+      "group": 3602,
+      "index": 9,
+      "resource": 41737
+    },
+    {
+      "country": 15,
+      "mode": 0,
+      "group": 3603,
+      "index": 1,
+      "resource": 41793
+    },
+    {
+      "country": 15,
+      "mode": 0,
+      "group": 3603,
+      "index": 2,
+      "resource": 41794
+    },
+    {
+      "country": 15,
+      "mode": 0,
+      "group": 3603,
+      "index": 3,
+      "resource": 41795
+    },
+    {
+      "country": 15,
+      "mode": 0,
+      "group": 3603,
+      "index": 4,
+      "resource": 41796
+    },
+    {
+      "country": 15,
+      "mode": 0,
+      "group": 3603,
+      "index": 5,
+      "resource": 41797
+    },
+    {
+      "country": 15,
+      "mode": 0,
+      "group": 3603,
+      "index": 6,
+      "resource": 41798
+    },
+    {
+      "country": 15,
+      "mode": 0,
+      "group": 3603,
+      "index": 7,
+      "resource": 41799
+    },
+    {
+      "country": 15,
+      "mode": 0,
+      "group": 3603,
+      "index": 8,
+      "resource": 41800
+    },
+    {
+      "country": 15,
+      "mode": 0,
+      "group": 3603,
+      "index": 9,
+      "resource": 41801
+    },
+    {
+      "country": 16,
+      "mode": 0,
+      "group": 3604,
+      "index": 1,
+      "resource": 41857
+    },
+    {
+      "country": 16,
+      "mode": 0,
+      "group": 3604,
+      "index": 2,
+      "resource": 41858
+    },
+    {
+      "country": 16,
+      "mode": 0,
+      "group": 3604,
+      "index": 3,
+      "resource": 41859
+    },
+    {
+      "country": 16,
+      "mode": 0,
+      "group": 3604,
+      "index": 4,
+      "resource": 41860
+    },
+    {
+      "country": 16,
+      "mode": 0,
+      "group": 3604,
+      "index": 5,
+      "resource": 41861
+    },
+    {
+      "country": 16,
+      "mode": 0,
+      "group": 3604,
+      "index": 6,
+      "resource": 41862
+    },
+    {
+      "country": 16,
+      "mode": 0,
+      "group": 3604,
+      "index": 7,
+      "resource": 41863
+    },
+    {
+      "country": 16,
+      "mode": 0,
+      "group": 3604,
+      "index": 8,
+      "resource": 41864
+    },
+    {
+      "country": 16,
+      "mode": 0,
+      "group": 3604,
+      "index": 9,
+      "resource": 41865
+    },
+    {
+      "country": 17,
+      "mode": 0,
+      "group": 3605,
+      "index": 1,
+      "resource": 41921
+    },
+    {
+      "country": 17,
+      "mode": 0,
+      "group": 3605,
+      "index": 2,
+      "resource": 41922
+    },
+    {
+      "country": 17,
+      "mode": 0,
+      "group": 3605,
+      "index": 3,
+      "resource": 41923
+    },
+    {
+      "country": 17,
+      "mode": 0,
+      "group": 3605,
+      "index": 4,
+      "resource": 41924
+    },
+    {
+      "country": 17,
+      "mode": 0,
+      "group": 3605,
+      "index": 5,
+      "resource": 41925
+    },
+    {
+      "country": 17,
+      "mode": 0,
+      "group": 3605,
+      "index": 6,
+      "resource": 41926
+    },
+    {
+      "country": 17,
+      "mode": 0,
+      "group": 3605,
+      "index": 7,
+      "resource": 41927
+    },
+    {
+      "country": 17,
+      "mode": 0,
+      "group": 3605,
+      "index": 8,
+      "resource": 41928
+    },
+    {
+      "country": 17,
+      "mode": 0,
+      "group": 3605,
+      "index": 9,
+      "resource": 41929
+    },
+    {
+      "country": 18,
+      "mode": 0,
+      "group": 3606,
+      "index": 1,
+      "resource": 41985
+    },
+    {
+      "country": 18,
+      "mode": 0,
+      "group": 3606,
+      "index": 2,
+      "resource": 41986
+    },
+    {
+      "country": 18,
+      "mode": 0,
+      "group": 3606,
+      "index": 3,
+      "resource": 41987
+    },
+    {
+      "country": 18,
+      "mode": 0,
+      "group": 3606,
+      "index": 4,
+      "resource": 41988
+    },
+    {
+      "country": 18,
+      "mode": 0,
+      "group": 3606,
+      "index": 5,
+      "resource": 41989
+    },
+    {
+      "country": 18,
+      "mode": 0,
+      "group": 3606,
+      "index": 6,
+      "resource": 41990
+    },
+    {
+      "country": 18,
+      "mode": 0,
+      "group": 3606,
+      "index": 7,
+      "resource": 41991
+    },
+    {
+      "country": 18,
+      "mode": 0,
+      "group": 3606,
+      "index": 8,
+      "resource": 41992
+    },
+    {
+      "country": 18,
+      "mode": 0,
+      "group": 3606,
+      "index": 9,
+      "resource": 41993
+    },
+    {
+      "country": 19,
+      "mode": 0,
+      "group": 3607,
+      "index": 1,
+      "resource": 42049
+    },
+    {
+      "country": 19,
+      "mode": 0,
+      "group": 3607,
+      "index": 2,
+      "resource": 42050
+    },
+    {
+      "country": 19,
+      "mode": 0,
+      "group": 3607,
+      "index": 3,
+      "resource": 42051
+    },
+    {
+      "country": 19,
+      "mode": 0,
+      "group": 3607,
+      "index": 4,
+      "resource": 42052
+    },
+    {
+      "country": 19,
+      "mode": 0,
+      "group": 3607,
+      "index": 5,
+      "resource": 42053
+    },
+    {
+      "country": 19,
+      "mode": 0,
+      "group": 3607,
+      "index": 6,
+      "resource": 42054
+    },
+    {
+      "country": 19,
+      "mode": 0,
+      "group": 3607,
+      "index": 7,
+      "resource": 42055
+    },
+    {
+      "country": 19,
+      "mode": 0,
+      "group": 3607,
+      "index": 8,
+      "resource": 42056
+    },
+    {
+      "country": 19,
+      "mode": 0,
+      "group": 3607,
+      "index": 9,
+      "resource": 42057
+    },
+    {
+      "country": 20,
+      "mode": 0,
+      "group": 3608,
+      "index": 1,
+      "resource": 42113
+    },
+    {
+      "country": 20,
+      "mode": 0,
+      "group": 3608,
+      "index": 2,
+      "resource": 42114
+    },
+    {
+      "country": 20,
+      "mode": 0,
+      "group": 3608,
+      "index": 3,
+      "resource": 42115
+    },
+    {
+      "country": 20,
+      "mode": 0,
+      "group": 3608,
+      "index": 4,
+      "resource": 42116
+    },
+    {
+      "country": 20,
+      "mode": 0,
+      "group": 3608,
+      "index": 5,
+      "resource": 42117
+    },
+    {
+      "country": 20,
+      "mode": 0,
+      "group": 3608,
+      "index": 6,
+      "resource": 42118
+    },
+    {
+      "country": 20,
+      "mode": 0,
+      "group": 3608,
+      "index": 7,
+      "resource": 42119
+    },
+    {
+      "country": 20,
+      "mode": 0,
+      "group": 3608,
+      "index": 8,
+      "resource": 42120
+    },
+    {
+      "country": 20,
+      "mode": 0,
+      "group": 3608,
+      "index": 9,
+      "resource": 42121
+    },
+    {
+      "country": 21,
+      "mode": 0,
+      "group": 3609,
+      "index": 1,
+      "resource": 42177
+    },
+    {
+      "country": 21,
+      "mode": 0,
+      "group": 3609,
+      "index": 2,
+      "resource": 42178
+    },
+    {
+      "country": 21,
+      "mode": 0,
+      "group": 3609,
+      "index": 3,
+      "resource": 42179
+    },
+    {
+      "country": 21,
+      "mode": 0,
+      "group": 3609,
+      "index": 4,
+      "resource": 42180
+    },
+    {
+      "country": 21,
+      "mode": 0,
+      "group": 3609,
+      "index": 5,
+      "resource": 42181
+    },
+    {
+      "country": 21,
+      "mode": 0,
+      "group": 3609,
+      "index": 6,
+      "resource": 42182
+    },
+    {
+      "country": 21,
+      "mode": 0,
+      "group": 3609,
+      "index": 7,
+      "resource": 42183
+    },
+    {
+      "country": 21,
+      "mode": 0,
+      "group": 3609,
+      "index": 8,
+      "resource": 42184
+    },
+    {
+      "country": 21,
+      "mode": 0,
+      "group": 3609,
+      "index": 9,
+      "resource": 42185
+    },
+    {
+      "country": 0,
+      "mode": 1,
+      "group": 3588,
+      "index": 0,
+      "resource": 40832
+    },
+    {
+      "country": 0,
+      "mode": 1,
+      "group": 3588,
+      "index": 1,
+      "resource": 40833
+    },
+    {
+      "country": 0,
+      "mode": 1,
+      "group": 3588,
+      "index": 2,
+      "resource": 40834
+    },
+    {
+      "country": 0,
+      "mode": 1,
+      "group": 3588,
+      "index": 3,
+      "resource": 40835
+    },
+    {
+      "country": 0,
+      "mode": 1,
+      "group": 3588,
+      "index": 4,
+      "resource": 40836
+    },
+    {
+      "country": 0,
+      "mode": 1,
+      "group": 3588,
+      "index": 5,
+      "resource": 40837
+    },
+    {
+      "country": 0,
+      "mode": 1,
+      "group": 3588,
+      "index": 6,
+      "resource": 40838
+    },
+    {
+      "country": 0,
+      "mode": 1,
+      "group": 3588,
+      "index": 7,
+      "resource": 40839
+    },
+    {
+      "country": 0,
+      "mode": 1,
+      "group": 3588,
+      "index": 8,
+      "resource": 40840
+    },
+    {
+      "country": 1,
+      "mode": 1,
+      "group": 3589,
+      "index": 0,
+      "resource": 40896
+    },
+    {
+      "country": 1,
+      "mode": 1,
+      "group": 3589,
+      "index": 1,
+      "resource": 40897
+    },
+    {
+      "country": 1,
+      "mode": 1,
+      "group": 3589,
+      "index": 2,
+      "resource": 40898
+    },
+    {
+      "country": 1,
+      "mode": 1,
+      "group": 3589,
+      "index": 3,
+      "resource": 40899
+    },
+    {
+      "country": 1,
+      "mode": 1,
+      "group": 3589,
+      "index": 4,
+      "resource": 40900
+    },
+    {
+      "country": 1,
+      "mode": 1,
+      "group": 3589,
+      "index": 5,
+      "resource": 40901
+    },
+    {
+      "country": 1,
+      "mode": 1,
+      "group": 3589,
+      "index": 6,
+      "resource": 40902
+    },
+    {
+      "country": 1,
+      "mode": 1,
+      "group": 3589,
+      "index": 7,
+      "resource": 40903
+    },
+    {
+      "country": 1,
+      "mode": 1,
+      "group": 3589,
+      "index": 8,
+      "resource": 40904
+    },
+    {
+      "country": 2,
+      "mode": 1,
+      "group": 3590,
+      "index": 0,
+      "resource": 40960
+    },
+    {
+      "country": 2,
+      "mode": 1,
+      "group": 3590,
+      "index": 1,
+      "resource": 40961
+    },
+    {
+      "country": 2,
+      "mode": 1,
+      "group": 3590,
+      "index": 2,
+      "resource": 40962
+    },
+    {
+      "country": 2,
+      "mode": 1,
+      "group": 3590,
+      "index": 3,
+      "resource": 40963
+    },
+    {
+      "country": 2,
+      "mode": 1,
+      "group": 3590,
+      "index": 4,
+      "resource": 40964
+    },
+    {
+      "country": 2,
+      "mode": 1,
+      "group": 3590,
+      "index": 5,
+      "resource": 40965
+    },
+    {
+      "country": 2,
+      "mode": 1,
+      "group": 3590,
+      "index": 6,
+      "resource": 40966
+    },
+    {
+      "country": 2,
+      "mode": 1,
+      "group": 3590,
+      "index": 7,
+      "resource": 40967
+    },
+    {
+      "country": 2,
+      "mode": 1,
+      "group": 3590,
+      "index": 8,
+      "resource": 40968
+    },
+    {
+      "country": 3,
+      "mode": 1,
+      "group": 3591,
+      "index": 0,
+      "resource": 41024
+    },
+    {
+      "country": 3,
+      "mode": 1,
+      "group": 3591,
+      "index": 1,
+      "resource": 41025
+    },
+    {
+      "country": 3,
+      "mode": 1,
+      "group": 3591,
+      "index": 2,
+      "resource": 41026
+    },
+    {
+      "country": 3,
+      "mode": 1,
+      "group": 3591,
+      "index": 3,
+      "resource": 41027
+    },
+    {
+      "country": 3,
+      "mode": 1,
+      "group": 3591,
+      "index": 4,
+      "resource": 41028
+    },
+    {
+      "country": 3,
+      "mode": 1,
+      "group": 3591,
+      "index": 5,
+      "resource": 41029
+    },
+    {
+      "country": 3,
+      "mode": 1,
+      "group": 3591,
+      "index": 6,
+      "resource": 41030
+    },
+    {
+      "country": 3,
+      "mode": 1,
+      "group": 3591,
+      "index": 7,
+      "resource": 41031
+    },
+    {
+      "country": 3,
+      "mode": 1,
+      "group": 3591,
+      "index": 8,
+      "resource": 41032
+    },
+    {
+      "country": 4,
+      "mode": 1,
+      "group": 3592,
+      "index": 0,
+      "resource": 41088
+    },
+    {
+      "country": 4,
+      "mode": 1,
+      "group": 3592,
+      "index": 1,
+      "resource": 41089
+    },
+    {
+      "country": 4,
+      "mode": 1,
+      "group": 3592,
+      "index": 2,
+      "resource": 41090
+    },
+    {
+      "country": 4,
+      "mode": 1,
+      "group": 3592,
+      "index": 3,
+      "resource": 41091
+    },
+    {
+      "country": 4,
+      "mode": 1,
+      "group": 3592,
+      "index": 4,
+      "resource": 41092
+    },
+    {
+      "country": 4,
+      "mode": 1,
+      "group": 3592,
+      "index": 5,
+      "resource": 41093
+    },
+    {
+      "country": 4,
+      "mode": 1,
+      "group": 3592,
+      "index": 6,
+      "resource": 41094
+    },
+    {
+      "country": 4,
+      "mode": 1,
+      "group": 3592,
+      "index": 7,
+      "resource": 41095
+    },
+    {
+      "country": 4,
+      "mode": 1,
+      "group": 3592,
+      "index": 8,
+      "resource": 41096
+    },
+    {
+      "country": 5,
+      "mode": 1,
+      "group": 3593,
+      "index": 0,
+      "resource": 41152
+    },
+    {
+      "country": 5,
+      "mode": 1,
+      "group": 3593,
+      "index": 1,
+      "resource": 41153
+    },
+    {
+      "country": 5,
+      "mode": 1,
+      "group": 3593,
+      "index": 2,
+      "resource": 41154
+    },
+    {
+      "country": 5,
+      "mode": 1,
+      "group": 3593,
+      "index": 3,
+      "resource": 41155
+    },
+    {
+      "country": 5,
+      "mode": 1,
+      "group": 3593,
+      "index": 4,
+      "resource": 41156
+    },
+    {
+      "country": 5,
+      "mode": 1,
+      "group": 3593,
+      "index": 5,
+      "resource": 41157
+    },
+    {
+      "country": 5,
+      "mode": 1,
+      "group": 3593,
+      "index": 6,
+      "resource": 41158
+    },
+    {
+      "country": 5,
+      "mode": 1,
+      "group": 3593,
+      "index": 7,
+      "resource": 41159
+    },
+    {
+      "country": 5,
+      "mode": 1,
+      "group": 3593,
+      "index": 8,
+      "resource": 41160
+    },
+    {
+      "country": 6,
+      "mode": 1,
+      "group": 3594,
+      "index": 0,
+      "resource": 41216
+    },
+    {
+      "country": 6,
+      "mode": 1,
+      "group": 3594,
+      "index": 1,
+      "resource": 41217
+    },
+    {
+      "country": 6,
+      "mode": 1,
+      "group": 3594,
+      "index": 2,
+      "resource": 41218
+    },
+    {
+      "country": 6,
+      "mode": 1,
+      "group": 3594,
+      "index": 3,
+      "resource": 41219
+    },
+    {
+      "country": 6,
+      "mode": 1,
+      "group": 3594,
+      "index": 4,
+      "resource": 41220
+    },
+    {
+      "country": 6,
+      "mode": 1,
+      "group": 3594,
+      "index": 5,
+      "resource": 41221
+    },
+    {
+      "country": 6,
+      "mode": 1,
+      "group": 3594,
+      "index": 6,
+      "resource": 41222
+    },
+    {
+      "country": 6,
+      "mode": 1,
+      "group": 3594,
+      "index": 7,
+      "resource": 41223
+    },
+    {
+      "country": 6,
+      "mode": 1,
+      "group": 3594,
+      "index": 8,
+      "resource": 41224
+    },
+    {
+      "country": 7,
+      "mode": 1,
+      "group": 3595,
+      "index": 0,
+      "resource": 41280
+    },
+    {
+      "country": 7,
+      "mode": 1,
+      "group": 3595,
+      "index": 1,
+      "resource": 41281
+    },
+    {
+      "country": 7,
+      "mode": 1,
+      "group": 3595,
+      "index": 2,
+      "resource": 41282
+    },
+    {
+      "country": 7,
+      "mode": 1,
+      "group": 3595,
+      "index": 3,
+      "resource": 41283
+    },
+    {
+      "country": 7,
+      "mode": 1,
+      "group": 3595,
+      "index": 4,
+      "resource": 41284
+    },
+    {
+      "country": 7,
+      "mode": 1,
+      "group": 3595,
+      "index": 5,
+      "resource": 41285
+    },
+    {
+      "country": 7,
+      "mode": 1,
+      "group": 3595,
+      "index": 6,
+      "resource": 41286
+    },
+    {
+      "country": 7,
+      "mode": 1,
+      "group": 3595,
+      "index": 7,
+      "resource": 41287
+    },
+    {
+      "country": 7,
+      "mode": 1,
+      "group": 3595,
+      "index": 8,
+      "resource": 41288
+    },
+    {
+      "country": 8,
+      "mode": 1,
+      "group": 3596,
+      "index": 0,
+      "resource": 41344
+    },
+    {
+      "country": 8,
+      "mode": 1,
+      "group": 3596,
+      "index": 1,
+      "resource": 41345
+    },
+    {
+      "country": 8,
+      "mode": 1,
+      "group": 3596,
+      "index": 2,
+      "resource": 41346
+    },
+    {
+      "country": 8,
+      "mode": 1,
+      "group": 3596,
+      "index": 3,
+      "resource": 41347
+    },
+    {
+      "country": 8,
+      "mode": 1,
+      "group": 3596,
+      "index": 4,
+      "resource": 41348
+    },
+    {
+      "country": 8,
+      "mode": 1,
+      "group": 3596,
+      "index": 5,
+      "resource": 41349
+    },
+    {
+      "country": 8,
+      "mode": 1,
+      "group": 3596,
+      "index": 6,
+      "resource": 41350
+    },
+    {
+      "country": 8,
+      "mode": 1,
+      "group": 3596,
+      "index": 7,
+      "resource": 41351
+    },
+    {
+      "country": 8,
+      "mode": 1,
+      "group": 3596,
+      "index": 8,
+      "resource": 41352
+    },
+    {
+      "country": 9,
+      "mode": 1,
+      "group": 3597,
+      "index": 0,
+      "resource": 41408
+    },
+    {
+      "country": 9,
+      "mode": 1,
+      "group": 3597,
+      "index": 1,
+      "resource": 41409
+    },
+    {
+      "country": 9,
+      "mode": 1,
+      "group": 3597,
+      "index": 2,
+      "resource": 41410
+    },
+    {
+      "country": 9,
+      "mode": 1,
+      "group": 3597,
+      "index": 3,
+      "resource": 41411
+    },
+    {
+      "country": 9,
+      "mode": 1,
+      "group": 3597,
+      "index": 4,
+      "resource": 41412
+    },
+    {
+      "country": 9,
+      "mode": 1,
+      "group": 3597,
+      "index": 5,
+      "resource": 41413
+    },
+    {
+      "country": 9,
+      "mode": 1,
+      "group": 3597,
+      "index": 6,
+      "resource": 41414
+    },
+    {
+      "country": 9,
+      "mode": 1,
+      "group": 3597,
+      "index": 7,
+      "resource": 41415
+    },
+    {
+      "country": 9,
+      "mode": 1,
+      "group": 3597,
+      "index": 8,
+      "resource": 41416
+    },
+    {
+      "country": 10,
+      "mode": 1,
+      "group": 3598,
+      "index": 0,
+      "resource": 41472
+    },
+    {
+      "country": 10,
+      "mode": 1,
+      "group": 3598,
+      "index": 1,
+      "resource": 41473
+    },
+    {
+      "country": 10,
+      "mode": 1,
+      "group": 3598,
+      "index": 2,
+      "resource": 41474
+    },
+    {
+      "country": 10,
+      "mode": 1,
+      "group": 3598,
+      "index": 3,
+      "resource": 41475
+    },
+    {
+      "country": 10,
+      "mode": 1,
+      "group": 3598,
+      "index": 4,
+      "resource": 41476
+    },
+    {
+      "country": 10,
+      "mode": 1,
+      "group": 3598,
+      "index": 5,
+      "resource": 41477
+    },
+    {
+      "country": 10,
+      "mode": 1,
+      "group": 3598,
+      "index": 6,
+      "resource": 41478
+    },
+    {
+      "country": 10,
+      "mode": 1,
+      "group": 3598,
+      "index": 7,
+      "resource": 41479
+    },
+    {
+      "country": 10,
+      "mode": 1,
+      "group": 3598,
+      "index": 8,
+      "resource": 41480
+    },
+    {
+      "country": 11,
+      "mode": 1,
+      "group": 3599,
+      "index": 0,
+      "resource": 41536
+    },
+    {
+      "country": 11,
+      "mode": 1,
+      "group": 3599,
+      "index": 1,
+      "resource": 41537
+    },
+    {
+      "country": 11,
+      "mode": 1,
+      "group": 3599,
+      "index": 2,
+      "resource": 41538
+    },
+    {
+      "country": 11,
+      "mode": 1,
+      "group": 3599,
+      "index": 3,
+      "resource": 41539
+    },
+    {
+      "country": 11,
+      "mode": 1,
+      "group": 3599,
+      "index": 4,
+      "resource": 41540
+    },
+    {
+      "country": 11,
+      "mode": 1,
+      "group": 3599,
+      "index": 5,
+      "resource": 41541
+    },
+    {
+      "country": 11,
+      "mode": 1,
+      "group": 3599,
+      "index": 6,
+      "resource": 41542
+    },
+    {
+      "country": 11,
+      "mode": 1,
+      "group": 3599,
+      "index": 7,
+      "resource": 41543
+    },
+    {
+      "country": 11,
+      "mode": 1,
+      "group": 3599,
+      "index": 8,
+      "resource": 41544
+    },
+    {
+      "country": 12,
+      "mode": 1,
+      "group": 3600,
+      "index": 1,
+      "resource": 41601
+    },
+    {
+      "country": 12,
+      "mode": 1,
+      "group": 3600,
+      "index": 2,
+      "resource": 41602
+    },
+    {
+      "country": 12,
+      "mode": 1,
+      "group": 3600,
+      "index": 3,
+      "resource": 41603
+    },
+    {
+      "country": 12,
+      "mode": 1,
+      "group": 3600,
+      "index": 4,
+      "resource": 41604
+    },
+    {
+      "country": 12,
+      "mode": 1,
+      "group": 3600,
+      "index": 5,
+      "resource": 41605
+    },
+    {
+      "country": 12,
+      "mode": 1,
+      "group": 3600,
+      "index": 6,
+      "resource": 41606
+    },
+    {
+      "country": 12,
+      "mode": 1,
+      "group": 3600,
+      "index": 7,
+      "resource": 41607
+    },
+    {
+      "country": 12,
+      "mode": 1,
+      "group": 3600,
+      "index": 8,
+      "resource": 41608
+    },
+    {
+      "country": 12,
+      "mode": 1,
+      "group": 3600,
+      "index": 9,
+      "resource": 41609
+    },
+    {
+      "country": 13,
+      "mode": 1,
+      "group": 3601,
+      "index": 1,
+      "resource": 41665
+    },
+    {
+      "country": 13,
+      "mode": 1,
+      "group": 3601,
+      "index": 2,
+      "resource": 41666
+    },
+    {
+      "country": 13,
+      "mode": 1,
+      "group": 3601,
+      "index": 3,
+      "resource": 41667
+    },
+    {
+      "country": 13,
+      "mode": 1,
+      "group": 3601,
+      "index": 4,
+      "resource": 41668
+    },
+    {
+      "country": 13,
+      "mode": 1,
+      "group": 3601,
+      "index": 5,
+      "resource": 41669
+    },
+    {
+      "country": 13,
+      "mode": 1,
+      "group": 3601,
+      "index": 6,
+      "resource": 41670
+    },
+    {
+      "country": 13,
+      "mode": 1,
+      "group": 3601,
+      "index": 7,
+      "resource": 41671
+    },
+    {
+      "country": 13,
+      "mode": 1,
+      "group": 3601,
+      "index": 8,
+      "resource": 41672
+    },
+    {
+      "country": 13,
+      "mode": 1,
+      "group": 3601,
+      "index": 9,
+      "resource": 41673
+    },
+    {
+      "country": 14,
+      "mode": 1,
+      "group": 3602,
+      "index": 1,
+      "resource": 41729
+    },
+    {
+      "country": 14,
+      "mode": 1,
+      "group": 3602,
+      "index": 2,
+      "resource": 41730
+    },
+    {
+      "country": 14,
+      "mode": 1,
+      "group": 3602,
+      "index": 3,
+      "resource": 41731
+    },
+    {
+      "country": 14,
+      "mode": 1,
+      "group": 3602,
+      "index": 4,
+      "resource": 41732
+    },
+    {
+      "country": 14,
+      "mode": 1,
+      "group": 3602,
+      "index": 5,
+      "resource": 41733
+    },
+    {
+      "country": 14,
+      "mode": 1,
+      "group": 3602,
+      "index": 6,
+      "resource": 41734
+    },
+    {
+      "country": 14,
+      "mode": 1,
+      "group": 3602,
+      "index": 7,
+      "resource": 41735
+    },
+    {
+      "country": 14,
+      "mode": 1,
+      "group": 3602,
+      "index": 8,
+      "resource": 41736
+    },
+    {
+      "country": 14,
+      "mode": 1,
+      "group": 3602,
+      "index": 9,
+      "resource": 41737
+    },
+    {
+      "country": 15,
+      "mode": 1,
+      "group": 3603,
+      "index": 1,
+      "resource": 41793
+    },
+    {
+      "country": 15,
+      "mode": 1,
+      "group": 3603,
+      "index": 2,
+      "resource": 41794
+    },
+    {
+      "country": 15,
+      "mode": 1,
+      "group": 3603,
+      "index": 3,
+      "resource": 41795
+    },
+    {
+      "country": 15,
+      "mode": 1,
+      "group": 3603,
+      "index": 4,
+      "resource": 41796
+    },
+    {
+      "country": 15,
+      "mode": 1,
+      "group": 3603,
+      "index": 5,
+      "resource": 41797
+    },
+    {
+      "country": 15,
+      "mode": 1,
+      "group": 3603,
+      "index": 6,
+      "resource": 41798
+    },
+    {
+      "country": 15,
+      "mode": 1,
+      "group": 3603,
+      "index": 7,
+      "resource": 41799
+    },
+    {
+      "country": 15,
+      "mode": 1,
+      "group": 3603,
+      "index": 8,
+      "resource": 41800
+    },
+    {
+      "country": 15,
+      "mode": 1,
+      "group": 3603,
+      "index": 9,
+      "resource": 41801
+    },
+    {
+      "country": 16,
+      "mode": 1,
+      "group": 3604,
+      "index": 1,
+      "resource": 41857
+    },
+    {
+      "country": 16,
+      "mode": 1,
+      "group": 3604,
+      "index": 2,
+      "resource": 41858
+    },
+    {
+      "country": 16,
+      "mode": 1,
+      "group": 3604,
+      "index": 3,
+      "resource": 41859
+    },
+    {
+      "country": 16,
+      "mode": 1,
+      "group": 3604,
+      "index": 4,
+      "resource": 41860
+    },
+    {
+      "country": 16,
+      "mode": 1,
+      "group": 3604,
+      "index": 5,
+      "resource": 41861
+    },
+    {
+      "country": 16,
+      "mode": 1,
+      "group": 3604,
+      "index": 6,
+      "resource": 41862
+    },
+    {
+      "country": 16,
+      "mode": 1,
+      "group": 3604,
+      "index": 7,
+      "resource": 41863
+    },
+    {
+      "country": 16,
+      "mode": 1,
+      "group": 3604,
+      "index": 8,
+      "resource": 41864
+    },
+    {
+      "country": 16,
+      "mode": 1,
+      "group": 3604,
+      "index": 9,
+      "resource": 41865
+    },
+    {
+      "country": 17,
+      "mode": 1,
+      "group": 3605,
+      "index": 1,
+      "resource": 41921
+    },
+    {
+      "country": 17,
+      "mode": 1,
+      "group": 3605,
+      "index": 2,
+      "resource": 41922
+    },
+    {
+      "country": 17,
+      "mode": 1,
+      "group": 3605,
+      "index": 3,
+      "resource": 41923
+    },
+    {
+      "country": 17,
+      "mode": 1,
+      "group": 3605,
+      "index": 4,
+      "resource": 41924
+    },
+    {
+      "country": 17,
+      "mode": 1,
+      "group": 3605,
+      "index": 5,
+      "resource": 41925
+    },
+    {
+      "country": 17,
+      "mode": 1,
+      "group": 3605,
+      "index": 6,
+      "resource": 41926
+    },
+    {
+      "country": 17,
+      "mode": 1,
+      "group": 3605,
+      "index": 7,
+      "resource": 41927
+    },
+    {
+      "country": 17,
+      "mode": 1,
+      "group": 3605,
+      "index": 8,
+      "resource": 41928
+    },
+    {
+      "country": 17,
+      "mode": 1,
+      "group": 3605,
+      "index": 9,
+      "resource": 41929
+    },
+    {
+      "country": 18,
+      "mode": 1,
+      "group": 3606,
+      "index": 1,
+      "resource": 41985
+    },
+    {
+      "country": 18,
+      "mode": 1,
+      "group": 3606,
+      "index": 2,
+      "resource": 41986
+    },
+    {
+      "country": 18,
+      "mode": 1,
+      "group": 3606,
+      "index": 3,
+      "resource": 41987
+    },
+    {
+      "country": 18,
+      "mode": 1,
+      "group": 3606,
+      "index": 4,
+      "resource": 41988
+    },
+    {
+      "country": 18,
+      "mode": 1,
+      "group": 3606,
+      "index": 5,
+      "resource": 41989
+    },
+    {
+      "country": 18,
+      "mode": 1,
+      "group": 3606,
+      "index": 6,
+      "resource": 41990
+    },
+    {
+      "country": 18,
+      "mode": 1,
+      "group": 3606,
+      "index": 7,
+      "resource": 41991
+    },
+    {
+      "country": 18,
+      "mode": 1,
+      "group": 3606,
+      "index": 8,
+      "resource": 41992
+    },
+    {
+      "country": 18,
+      "mode": 1,
+      "group": 3606,
+      "index": 9,
+      "resource": 41993
+    },
+    {
+      "country": 19,
+      "mode": 1,
+      "group": 3607,
+      "index": 1,
+      "resource": 42049
+    },
+    {
+      "country": 19,
+      "mode": 1,
+      "group": 3607,
+      "index": 2,
+      "resource": 42050
+    },
+    {
+      "country": 19,
+      "mode": 1,
+      "group": 3607,
+      "index": 3,
+      "resource": 42051
+    },
+    {
+      "country": 19,
+      "mode": 1,
+      "group": 3607,
+      "index": 4,
+      "resource": 42052
+    },
+    {
+      "country": 19,
+      "mode": 1,
+      "group": 3607,
+      "index": 5,
+      "resource": 42053
+    },
+    {
+      "country": 19,
+      "mode": 1,
+      "group": 3607,
+      "index": 6,
+      "resource": 42054
+    },
+    {
+      "country": 19,
+      "mode": 1,
+      "group": 3607,
+      "index": 7,
+      "resource": 42055
+    },
+    {
+      "country": 19,
+      "mode": 1,
+      "group": 3607,
+      "index": 8,
+      "resource": 42056
+    },
+    {
+      "country": 19,
+      "mode": 1,
+      "group": 3607,
+      "index": 9,
+      "resource": 42057
+    },
+    {
+      "country": 20,
+      "mode": 1,
+      "group": 3608,
+      "index": 1,
+      "resource": 42113
+    },
+    {
+      "country": 20,
+      "mode": 1,
+      "group": 3608,
+      "index": 2,
+      "resource": 42114
+    },
+    {
+      "country": 20,
+      "mode": 1,
+      "group": 3608,
+      "index": 3,
+      "resource": 42115
+    },
+    {
+      "country": 20,
+      "mode": 1,
+      "group": 3608,
+      "index": 4,
+      "resource": 42116
+    },
+    {
+      "country": 20,
+      "mode": 1,
+      "group": 3608,
+      "index": 5,
+      "resource": 42117
+    },
+    {
+      "country": 20,
+      "mode": 1,
+      "group": 3608,
+      "index": 6,
+      "resource": 42118
+    },
+    {
+      "country": 20,
+      "mode": 1,
+      "group": 3608,
+      "index": 7,
+      "resource": 42119
+    },
+    {
+      "country": 20,
+      "mode": 1,
+      "group": 3608,
+      "index": 8,
+      "resource": 42120
+    },
+    {
+      "country": 20,
+      "mode": 1,
+      "group": 3608,
+      "index": 9,
+      "resource": 42121
+    },
+    {
+      "country": 21,
+      "mode": 1,
+      "group": 3609,
+      "index": 1,
+      "resource": 42177
+    },
+    {
+      "country": 21,
+      "mode": 1,
+      "group": 3609,
+      "index": 2,
+      "resource": 42178
+    },
+    {
+      "country": 21,
+      "mode": 1,
+      "group": 3609,
+      "index": 3,
+      "resource": 42179
+    },
+    {
+      "country": 21,
+      "mode": 1,
+      "group": 3609,
+      "index": 4,
+      "resource": 42180
+    },
+    {
+      "country": 21,
+      "mode": 1,
+      "group": 3609,
+      "index": 5,
+      "resource": 42181
+    },
+    {
+      "country": 21,
+      "mode": 1,
+      "group": 3609,
+      "index": 6,
+      "resource": 42182
+    },
+    {
+      "country": 21,
+      "mode": 1,
+      "group": 3609,
+      "index": 7,
+      "resource": 42183
+    },
+    {
+      "country": 21,
+      "mode": 1,
+      "group": 3609,
+      "index": 8,
+      "resource": 42184
+    },
+    {
+      "country": 21,
+      "mode": 1,
+      "group": 3609,
+      "index": 9,
+      "resource": 42185
+    }
+  ]
+}

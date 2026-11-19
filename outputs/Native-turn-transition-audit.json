@@ -1,0 +1,89 @@
+{
+  "scope": "Native Cycle transition with finished player and empty unit iteration.\nStops after side selection or forced victory check. UI/network disabled.\nDeployment starts with defender (StartBattle618390); second deployment\nhandoff selects defender again, then this transition starts attacker at1.\n",
+  "cases": [
+    {
+      "beforeSide": 0,
+      "beforeCounter": 0,
+      "afterSide": 1,
+      "afterCounter": 1,
+      "forcedVictoryCheck": false
+    },
+    {
+      "beforeSide": 0,
+      "beforeCounter": 1,
+      "afterSide": 1,
+      "afterCounter": 2,
+      "forcedVictoryCheck": false
+    },
+    {
+      "beforeSide": 0,
+      "beforeCounter": 33,
+      "afterSide": 1,
+      "afterCounter": 34,
+      "forcedVictoryCheck": false
+    },
+    {
+      "beforeSide": 0,
+      "beforeCounter": 34,
+      "afterSide": 1,
+      "afterCounter": 35,
+      "forcedVictoryCheck": false
+    },
+    {
+      "beforeSide": 0,
+      "beforeCounter": 35,
+      "afterSide": 0,
+      "afterCounter": 36,
+      "forcedVictoryCheck": true
+    },
+    {
+      "beforeSide": 0,
+      "beforeCounter": 36,
+      "afterSide": 0,
+      "afterCounter": 37,
+      "forcedVictoryCheck": true
+    },
+    {
+      "beforeSide": 1,
+      "beforeCounter": 0,
+      "afterSide": 0,
+      "afterCounter": 1,
+      "forcedVictoryCheck": false
+    },
+    {
+      "beforeSide": 1,
+      "beforeCounter": 1,
+      "afterSide": 0,
+      "afterCounter": 2,
+      "forcedVictoryCheck": false
+    },
+    {
+      "beforeSide": 1,
+      "beforeCounter": 33,
+      "afterSide": 0,
+      "afterCounter": 34,
+      "forcedVictoryCheck": false
+    },
+    {
+      "beforeSide": 1,
+      "beforeCounter": 34,
+      "afterSide": 0,
+      "afterCounter": 35,
+      "forcedVictoryCheck": false
+    },
+    {
+      "beforeSide": 1,
+      "beforeCounter": 35,
+      "afterSide": 1,
+      "afterCounter": 36,
+      "forcedVictoryCheck": true
+    },
+    {
+      "beforeSide": 1,
+      "beforeCounter": 36,
+      "afterSide": 1,
+      "afterCounter": 37,
+      "forcedVictoryCheck": true
+    }
+  ]
+}

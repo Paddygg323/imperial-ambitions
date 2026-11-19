@@ -1,0 +1,4 @@
+Artwork update 250
+Asset: game/assets/towns-forts.png
+Built-in imagegen edit. Prompt: retain painted historical strategy atlas, 4 columns by 2 rows, transparent background; replace round enclosures with irregular asymmetric town layouts and angular walls. Columns no fort, low level-I walls, taller level-II walls and square towers, tallest level-III fortifications with bastioned corners. Top row small urban towns; bottom row large towns. No labels or terrain disks.
+Renderer crop bounds updated to new atlas. Gameplay rules unchanged. Browser local/nation/phone screenshots and gallery checked; no state mutations or page errors. Android 250 bundle validated. Physical phone not tested.

@@ -1,0 +1,1925 @@
+{
+  "scope": "Native victory award block5a43ad..5a4494, no call stubs.\nSynthetic surviving fleets and admiral objects; excludes campaign news/morale.\n",
+  "cases": [
+    {
+      "winner": 0,
+      "initial": [
+        3,
+        2
+      ],
+      "remaining": [
+        1,
+        0
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [
+          30
+        ],
+        []
+      ],
+      "admirals": [
+        10,
+        0
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        3,
+        2
+      ],
+      "remaining": [
+        1,
+        0
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [
+          128
+        ],
+        []
+      ],
+      "admirals": [
+        108,
+        98
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        3,
+        2
+      ],
+      "remaining": [
+        1,
+        0
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [
+          499
+        ],
+        []
+      ],
+      "admirals": [
+        499,
+        490
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        3,
+        2
+      ],
+      "remaining": [
+        1,
+        0
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [
+          499
+        ],
+        []
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        3,
+        3
+      ],
+      "remaining": [
+        1,
+        1
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [
+          33
+        ],
+        [
+          0
+        ]
+      ],
+      "admirals": [
+        11,
+        0
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        3,
+        3
+      ],
+      "remaining": [
+        1,
+        1
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [
+          131
+        ],
+        [
+          98
+        ]
+      ],
+      "admirals": [
+        109,
+        98
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        3,
+        3
+      ],
+      "remaining": [
+        1,
+        1
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [
+          499
+        ],
+        [
+          490
+        ]
+      ],
+      "admirals": [
+        499,
+        490
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        3,
+        3
+      ],
+      "remaining": [
+        1,
+        1
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [
+          499
+        ],
+        [
+          499
+        ]
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        3,
+        5
+      ],
+      "remaining": [
+        1,
+        3
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [
+          39
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "admirals": [
+        13,
+        0
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        3,
+        5
+      ],
+      "remaining": [
+        1,
+        3
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [
+          137
+        ],
+        [
+          98,
+          98,
+          98
+        ]
+      ],
+      "admirals": [
+        111,
+        98
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        3,
+        5
+      ],
+      "remaining": [
+        1,
+        3
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [
+          499
+        ],
+        [
+          490,
+          490,
+          490
+        ]
+      ],
+      "admirals": [
+        499,
+        490
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        3,
+        5
+      ],
+      "remaining": [
+        1,
+        3
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [
+          499
+        ],
+        [
+          499,
+          499,
+          499
+        ]
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        4,
+        2
+      ],
+      "remaining": [
+        2,
+        0
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [
+          15,
+          15
+        ],
+        []
+      ],
+      "admirals": [
+        10,
+        0
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        4,
+        2
+      ],
+      "remaining": [
+        2,
+        0
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [
+          113,
+          113
+        ],
+        []
+      ],
+      "admirals": [
+        108,
+        98
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        4,
+        2
+      ],
+      "remaining": [
+        2,
+        0
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [
+          499,
+          499
+        ],
+        []
+      ],
+      "admirals": [
+        499,
+        490
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        4,
+        2
+      ],
+      "remaining": [
+        2,
+        0
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [
+          499,
+          499
+        ],
+        []
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        4,
+        3
+      ],
+      "remaining": [
+        2,
+        1
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [
+          16,
+          16
+        ],
+        [
+          0
+        ]
+      ],
+      "admirals": [
+        11,
+        0
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        4,
+        3
+      ],
+      "remaining": [
+        2,
+        1
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [
+          114,
+          114
+        ],
+        [
+          98
+        ]
+      ],
+      "admirals": [
+        109,
+        98
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        4,
+        3
+      ],
+      "remaining": [
+        2,
+        1
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [
+          499,
+          499
+        ],
+        [
+          490
+        ]
+      ],
+      "admirals": [
+        499,
+        490
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        4,
+        3
+      ],
+      "remaining": [
+        2,
+        1
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [
+          499,
+          499
+        ],
+        [
+          499
+        ]
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        4,
+        5
+      ],
+      "remaining": [
+        2,
+        3
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [
+          19,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "admirals": [
+        13,
+        0
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        4,
+        5
+      ],
+      "remaining": [
+        2,
+        3
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [
+          117,
+          117
+        ],
+        [
+          98,
+          98,
+          98
+        ]
+      ],
+      "admirals": [
+        111,
+        98
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        4,
+        5
+      ],
+      "remaining": [
+        2,
+        3
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [
+          499,
+          499
+        ],
+        [
+          490,
+          490,
+          490
+        ]
+      ],
+      "admirals": [
+        499,
+        490
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        4,
+        5
+      ],
+      "remaining": [
+        2,
+        3
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [
+          499,
+          499
+        ],
+        [
+          499,
+          499,
+          499
+        ]
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        7,
+        2
+      ],
+      "remaining": [
+        5,
+        0
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [
+          6,
+          6,
+          6,
+          6,
+          6
+        ],
+        []
+      ],
+      "admirals": [
+        10,
+        0
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        7,
+        2
+      ],
+      "remaining": [
+        5,
+        0
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [
+          104,
+          104,
+          104,
+          104,
+          104
+        ],
+        []
+      ],
+      "admirals": [
+        108,
+        98
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        7,
+        2
+      ],
+      "remaining": [
+        5,
+        0
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [
+          496,
+          496,
+          496,
+          496,
+          496
+        ],
+        []
+      ],
+      "admirals": [
+        499,
+        490
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        7,
+        2
+      ],
+      "remaining": [
+        5,
+        0
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [
+          499,
+          499,
+          499,
+          499,
+          499
+        ],
+        []
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        7,
+        3
+      ],
+      "remaining": [
+        5,
+        1
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [
+          6,
+          6,
+          6,
+          6,
+          6
+        ],
+        [
+          0
+        ]
+      ],
+      "admirals": [
+        11,
+        0
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        7,
+        3
+      ],
+      "remaining": [
+        5,
+        1
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [
+          104,
+          104,
+          104,
+          104,
+          104
+        ],
+        [
+          98
+        ]
+      ],
+      "admirals": [
+        109,
+        98
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        7,
+        3
+      ],
+      "remaining": [
+        5,
+        1
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [
+          496,
+          496,
+          496,
+          496,
+          496
+        ],
+        [
+          490
+        ]
+      ],
+      "admirals": [
+        499,
+        490
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        7,
+        3
+      ],
+      "remaining": [
+        5,
+        1
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [
+          499,
+          499,
+          499,
+          499,
+          499
+        ],
+        [
+          499
+        ]
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        7,
+        5
+      ],
+      "remaining": [
+        5,
+        3
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [
+          7,
+          7,
+          7,
+          7,
+          7
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "admirals": [
+        13,
+        0
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        7,
+        5
+      ],
+      "remaining": [
+        5,
+        3
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [
+          105,
+          105,
+          105,
+          105,
+          105
+        ],
+        [
+          98,
+          98,
+          98
+        ]
+      ],
+      "admirals": [
+        111,
+        98
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        7,
+        5
+      ],
+      "remaining": [
+        5,
+        3
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [
+          497,
+          497,
+          497,
+          497,
+          497
+        ],
+        [
+          490,
+          490,
+          490
+        ]
+      ],
+      "admirals": [
+        499,
+        490
+      ]
+    },
+    {
+      "winner": 0,
+      "initial": [
+        7,
+        5
+      ],
+      "remaining": [
+        5,
+        3
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [
+          499,
+          499,
+          499,
+          499,
+          499
+        ],
+        [
+          499,
+          499,
+          499
+        ]
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        2,
+        3
+      ],
+      "remaining": [
+        0,
+        1
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [],
+        [
+          30
+        ]
+      ],
+      "admirals": [
+        0,
+        10
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        2,
+        3
+      ],
+      "remaining": [
+        0,
+        1
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [],
+        [
+          128
+        ]
+      ],
+      "admirals": [
+        98,
+        108
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        2,
+        3
+      ],
+      "remaining": [
+        0,
+        1
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [],
+        [
+          499
+        ]
+      ],
+      "admirals": [
+        490,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        2,
+        3
+      ],
+      "remaining": [
+        0,
+        1
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [],
+        [
+          499
+        ]
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        3,
+        3
+      ],
+      "remaining": [
+        1,
+        1
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [
+          0
+        ],
+        [
+          33
+        ]
+      ],
+      "admirals": [
+        0,
+        11
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        3,
+        3
+      ],
+      "remaining": [
+        1,
+        1
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [
+          98
+        ],
+        [
+          131
+        ]
+      ],
+      "admirals": [
+        98,
+        109
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        3,
+        3
+      ],
+      "remaining": [
+        1,
+        1
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [
+          490
+        ],
+        [
+          499
+        ]
+      ],
+      "admirals": [
+        490,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        3,
+        3
+      ],
+      "remaining": [
+        1,
+        1
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [
+          499
+        ],
+        [
+          499
+        ]
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        5,
+        3
+      ],
+      "remaining": [
+        3,
+        1
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          39
+        ]
+      ],
+      "admirals": [
+        0,
+        13
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        5,
+        3
+      ],
+      "remaining": [
+        3,
+        1
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [
+          98,
+          98,
+          98
+        ],
+        [
+          137
+        ]
+      ],
+      "admirals": [
+        98,
+        111
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        5,
+        3
+      ],
+      "remaining": [
+        3,
+        1
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [
+          490,
+          490,
+          490
+        ],
+        [
+          499
+        ]
+      ],
+      "admirals": [
+        490,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        5,
+        3
+      ],
+      "remaining": [
+        3,
+        1
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [
+          499,
+          499,
+          499
+        ],
+        [
+          499
+        ]
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        2,
+        4
+      ],
+      "remaining": [
+        0,
+        2
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [],
+        [
+          15,
+          15
+        ]
+      ],
+      "admirals": [
+        0,
+        10
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        2,
+        4
+      ],
+      "remaining": [
+        0,
+        2
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [],
+        [
+          113,
+          113
+        ]
+      ],
+      "admirals": [
+        98,
+        108
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        2,
+        4
+      ],
+      "remaining": [
+        0,
+        2
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [],
+        [
+          499,
+          499
+        ]
+      ],
+      "admirals": [
+        490,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        2,
+        4
+      ],
+      "remaining": [
+        0,
+        2
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [],
+        [
+          499,
+          499
+        ]
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        3,
+        4
+      ],
+      "remaining": [
+        1,
+        2
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [
+          0
+        ],
+        [
+          16,
+          16
+        ]
+      ],
+      "admirals": [
+        0,
+        11
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        3,
+        4
+      ],
+      "remaining": [
+        1,
+        2
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [
+          98
+        ],
+        [
+          114,
+          114
+        ]
+      ],
+      "admirals": [
+        98,
+        109
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        3,
+        4
+      ],
+      "remaining": [
+        1,
+        2
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [
+          490
+        ],
+        [
+          499,
+          499
+        ]
+      ],
+      "admirals": [
+        490,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        3,
+        4
+      ],
+      "remaining": [
+        1,
+        2
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [
+          499
+        ],
+        [
+          499,
+          499
+        ]
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        5,
+        4
+      ],
+      "remaining": [
+        3,
+        2
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          19,
+          19
+        ]
+      ],
+      "admirals": [
+        0,
+        13
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        5,
+        4
+      ],
+      "remaining": [
+        3,
+        2
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [
+          98,
+          98,
+          98
+        ],
+        [
+          117,
+          117
+        ]
+      ],
+      "admirals": [
+        98,
+        111
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        5,
+        4
+      ],
+      "remaining": [
+        3,
+        2
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [
+          490,
+          490,
+          490
+        ],
+        [
+          499,
+          499
+        ]
+      ],
+      "admirals": [
+        490,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        5,
+        4
+      ],
+      "remaining": [
+        3,
+        2
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [
+          499,
+          499,
+          499
+        ],
+        [
+          499,
+          499
+        ]
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        2,
+        7
+      ],
+      "remaining": [
+        0,
+        5
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [],
+        [
+          6,
+          6,
+          6,
+          6,
+          6
+        ]
+      ],
+      "admirals": [
+        0,
+        10
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        2,
+        7
+      ],
+      "remaining": [
+        0,
+        5
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [],
+        [
+          104,
+          104,
+          104,
+          104,
+          104
+        ]
+      ],
+      "admirals": [
+        98,
+        108
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        2,
+        7
+      ],
+      "remaining": [
+        0,
+        5
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [],
+        [
+          496,
+          496,
+          496,
+          496,
+          496
+        ]
+      ],
+      "admirals": [
+        490,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        2,
+        7
+      ],
+      "remaining": [
+        0,
+        5
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [],
+        [
+          499,
+          499,
+          499,
+          499,
+          499
+        ]
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        3,
+        7
+      ],
+      "remaining": [
+        1,
+        5
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [
+          0
+        ],
+        [
+          6,
+          6,
+          6,
+          6,
+          6
+        ]
+      ],
+      "admirals": [
+        0,
+        11
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        3,
+        7
+      ],
+      "remaining": [
+        1,
+        5
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [
+          98
+        ],
+        [
+          104,
+          104,
+          104,
+          104,
+          104
+        ]
+      ],
+      "admirals": [
+        98,
+        109
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        3,
+        7
+      ],
+      "remaining": [
+        1,
+        5
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [
+          490
+        ],
+        [
+          496,
+          496,
+          496,
+          496,
+          496
+        ]
+      ],
+      "admirals": [
+        490,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        3,
+        7
+      ],
+      "remaining": [
+        1,
+        5
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [
+          499
+        ],
+        [
+          499,
+          499,
+          499,
+          499,
+          499
+        ]
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        5,
+        7
+      ],
+      "remaining": [
+        3,
+        5
+      ],
+      "xp": 0,
+      "admiral": 0,
+      "ships": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          7,
+          7,
+          7,
+          7,
+          7
+        ]
+      ],
+      "admirals": [
+        0,
+        13
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        5,
+        7
+      ],
+      "remaining": [
+        3,
+        5
+      ],
+      "xp": 98,
+      "admiral": 98,
+      "ships": [
+        [
+          98,
+          98,
+          98
+        ],
+        [
+          105,
+          105,
+          105,
+          105,
+          105
+        ]
+      ],
+      "admirals": [
+        98,
+        111
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        5,
+        7
+      ],
+      "remaining": [
+        3,
+        5
+      ],
+      "xp": 490,
+      "admiral": 490,
+      "ships": [
+        [
+          490,
+          490,
+          490
+        ],
+        [
+          497,
+          497,
+          497,
+          497,
+          497
+        ]
+      ],
+      "admirals": [
+        490,
+        499
+      ]
+    },
+    {
+      "winner": 1,
+      "initial": [
+        5,
+        7
+      ],
+      "remaining": [
+        3,
+        5
+      ],
+      "xp": 499,
+      "admiral": 499,
+      "ships": [
+        [
+          499,
+          499,
+          499
+        ],
+        [
+          499,
+          499,
+          499,
+          499,
+          499
+        ]
+      ],
+      "admirals": [
+        499,
+        499
+      ]
+    }
+  ]
+}

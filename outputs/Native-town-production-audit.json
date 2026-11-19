@@ -1,0 +1,859 @@
+{
+  "scope": "Execute native CalculateTownProduction501d70; province resource totals supplied.\nList traversal and technology queries stubbed; all output arithmetic and capital/\nsmall-town gates executed natively. Province connectivity not established here.\n",
+  "cases": [
+    {
+      "resources": {
+        "wool": 0,
+        "timber": 0,
+        "tin": 0,
+        "copper": 0,
+        "iron": 0,
+        "coal": 0,
+        "cotton": 0,
+        "sugarCane": 0,
+        "tobacco": 0,
+        "furs": 0
+      },
+      "steel": false,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "wool": 0,
+        "timber": 0,
+        "tin": 0,
+        "copper": 0,
+        "iron": 0,
+        "coal": 0,
+        "cotton": 0,
+        "sugarCane": 0,
+        "tobacco": 0,
+        "furs": 0
+      },
+      "steel": true,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "wool": 1,
+        "timber": 1,
+        "tin": 1,
+        "copper": 1,
+        "iron": 1,
+        "coal": 1,
+        "cotton": 1,
+        "sugarCane": 1,
+        "tobacco": 1,
+        "furs": 1
+      },
+      "steel": false,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "wool": 1,
+        "timber": 1,
+        "tin": 1,
+        "copper": 1,
+        "iron": 1,
+        "coal": 1,
+        "cotton": 1,
+        "sugarCane": 1,
+        "tobacco": 1,
+        "furs": 1
+      },
+      "steel": true,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "wool": 3,
+        "timber": 3,
+        "tin": 3,
+        "copper": 3,
+        "iron": 3,
+        "coal": 3,
+        "cotton": 3,
+        "sugarCane": 3,
+        "tobacco": 3,
+        "furs": 3
+      },
+      "steel": false,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 1,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 1,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "wool": 3,
+        "timber": 3,
+        "tin": 3,
+        "copper": 3,
+        "iron": 3,
+        "coal": 3,
+        "cotton": 3,
+        "sugarCane": 3,
+        "tobacco": 3,
+        "furs": 3
+      },
+      "steel": true,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 1,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 1,
+        "castIron": 0,
+        "steel": 1,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "wool": 4,
+        "timber": 4,
+        "tin": 4,
+        "copper": 4,
+        "iron": 4,
+        "coal": 4,
+        "cotton": 4,
+        "sugarCane": 4,
+        "tobacco": 4,
+        "furs": 4
+      },
+      "steel": false,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 2,
+        "lumber": 1,
+        "paper": 0,
+        "bronze": 2,
+        "castIron": 1,
+        "steel": 0,
+        "sugar": 1,
+        "cigars": 1,
+        "hats": 1
+      }
+    },
+    {
+      "resources": {
+        "wool": 4,
+        "timber": 4,
+        "tin": 4,
+        "copper": 4,
+        "iron": 4,
+        "coal": 4,
+        "cotton": 4,
+        "sugarCane": 4,
+        "tobacco": 4,
+        "furs": 4
+      },
+      "steel": true,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 2,
+        "lumber": 1,
+        "paper": 0,
+        "bronze": 2,
+        "castIron": 0,
+        "steel": 2,
+        "sugar": 1,
+        "cigars": 1,
+        "hats": 1
+      }
+    },
+    {
+      "resources": {
+        "wool": 7,
+        "timber": 7,
+        "tin": 7,
+        "copper": 7,
+        "iron": 7,
+        "coal": 7,
+        "cotton": 7,
+        "sugarCane": 7,
+        "tobacco": 7,
+        "furs": 7
+      },
+      "steel": false,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 3,
+        "lumber": 1,
+        "paper": 0,
+        "bronze": 3,
+        "castIron": 1,
+        "steel": 0,
+        "sugar": 1,
+        "cigars": 1,
+        "hats": 1
+      }
+    },
+    {
+      "resources": {
+        "wool": 7,
+        "timber": 7,
+        "tin": 7,
+        "copper": 7,
+        "iron": 7,
+        "coal": 7,
+        "cotton": 7,
+        "sugarCane": 7,
+        "tobacco": 7,
+        "furs": 7
+      },
+      "steel": true,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 3,
+        "lumber": 1,
+        "paper": 0,
+        "bronze": 3,
+        "castIron": 0,
+        "steel": 3,
+        "sugar": 1,
+        "cigars": 1,
+        "hats": 1
+      }
+    },
+    {
+      "resources": {
+        "wool": 8,
+        "timber": 8,
+        "tin": 8,
+        "copper": 8,
+        "iron": 8,
+        "coal": 8,
+        "cotton": 8,
+        "sugarCane": 8,
+        "tobacco": 8,
+        "furs": 8
+      },
+      "steel": false,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 4,
+        "lumber": 2,
+        "paper": 0,
+        "bronze": 4,
+        "castIron": 2,
+        "steel": 0,
+        "sugar": 2,
+        "cigars": 2,
+        "hats": 2
+      }
+    },
+    {
+      "resources": {
+        "wool": 8,
+        "timber": 8,
+        "tin": 8,
+        "copper": 8,
+        "iron": 8,
+        "coal": 8,
+        "cotton": 8,
+        "sugarCane": 8,
+        "tobacco": 8,
+        "furs": 8
+      },
+      "steel": true,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 4,
+        "lumber": 2,
+        "paper": 0,
+        "bronze": 4,
+        "castIron": 0,
+        "steel": 4,
+        "sugar": 2,
+        "cigars": 2,
+        "hats": 2
+      }
+    },
+    {
+      "resources": {
+        "wool": 15,
+        "timber": 15,
+        "tin": 15,
+        "copper": 15,
+        "iron": 15,
+        "coal": 15,
+        "cotton": 15,
+        "sugarCane": 15,
+        "tobacco": 15,
+        "furs": 15
+      },
+      "steel": false,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 4,
+        "lumber": 3,
+        "paper": 0,
+        "bronze": 4,
+        "castIron": 3,
+        "steel": 0,
+        "sugar": 3,
+        "cigars": 3,
+        "hats": 3
+      }
+    },
+    {
+      "resources": {
+        "wool": 15,
+        "timber": 15,
+        "tin": 15,
+        "copper": 15,
+        "iron": 15,
+        "coal": 15,
+        "cotton": 15,
+        "sugarCane": 15,
+        "tobacco": 15,
+        "furs": 15
+      },
+      "steel": true,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 4,
+        "lumber": 3,
+        "paper": 0,
+        "bronze": 4,
+        "castIron": 1,
+        "steel": 4,
+        "sugar": 3,
+        "cigars": 3,
+        "hats": 3
+      }
+    },
+    {
+      "resources": {
+        "wool": 16,
+        "timber": 16,
+        "tin": 16,
+        "copper": 16,
+        "iron": 16,
+        "coal": 16,
+        "cotton": 16,
+        "sugarCane": 16,
+        "tobacco": 16,
+        "furs": 16
+      },
+      "steel": false,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 4,
+        "lumber": 4,
+        "paper": 0,
+        "bronze": 4,
+        "castIron": 4,
+        "steel": 0,
+        "sugar": 4,
+        "cigars": 4,
+        "hats": 4
+      }
+    },
+    {
+      "resources": {
+        "wool": 16,
+        "timber": 16,
+        "tin": 16,
+        "copper": 16,
+        "iron": 16,
+        "coal": 16,
+        "cotton": 16,
+        "sugarCane": 16,
+        "tobacco": 16,
+        "furs": 16
+      },
+      "steel": true,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 4,
+        "lumber": 4,
+        "paper": 0,
+        "bronze": 4,
+        "castIron": 2,
+        "steel": 4,
+        "sugar": 4,
+        "cigars": 4,
+        "hats": 4
+      }
+    },
+    {
+      "resources": {
+        "wool": 20,
+        "timber": 20,
+        "tin": 20,
+        "copper": 20,
+        "iron": 20,
+        "coal": 20,
+        "cotton": 20,
+        "sugarCane": 20,
+        "tobacco": 20,
+        "furs": 20
+      },
+      "steel": false,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 4,
+        "lumber": 4,
+        "paper": 0,
+        "bronze": 4,
+        "castIron": 4,
+        "steel": 0,
+        "sugar": 4,
+        "cigars": 4,
+        "hats": 4
+      }
+    },
+    {
+      "resources": {
+        "wool": 20,
+        "timber": 20,
+        "tin": 20,
+        "copper": 20,
+        "iron": 20,
+        "coal": 20,
+        "cotton": 20,
+        "sugarCane": 20,
+        "tobacco": 20,
+        "furs": 20
+      },
+      "steel": true,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 4,
+        "lumber": 4,
+        "paper": 0,
+        "bronze": 4,
+        "castIron": 3,
+        "steel": 4,
+        "sugar": 4,
+        "cigars": 4,
+        "hats": 4
+      }
+    },
+    {
+      "resources": {
+        "wool": 40,
+        "timber": 40,
+        "tin": 40,
+        "copper": 40,
+        "iron": 40,
+        "coal": 40,
+        "cotton": 40,
+        "sugarCane": 40,
+        "tobacco": 40,
+        "furs": 40
+      },
+      "steel": false,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 4,
+        "lumber": 4,
+        "paper": 0,
+        "bronze": 4,
+        "castIron": 4,
+        "steel": 0,
+        "sugar": 4,
+        "cigars": 4,
+        "hats": 4
+      }
+    },
+    {
+      "resources": {
+        "wool": 40,
+        "timber": 40,
+        "tin": 40,
+        "copper": 40,
+        "iron": 40,
+        "coal": 40,
+        "cotton": 40,
+        "sugarCane": 40,
+        "tobacco": 40,
+        "furs": 40
+      },
+      "steel": true,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 4,
+        "lumber": 4,
+        "paper": 0,
+        "bronze": 4,
+        "castIron": 4,
+        "steel": 4,
+        "sugar": 4,
+        "cigars": 4,
+        "hats": 4
+      }
+    },
+    {
+      "resources": {
+        "wool": 3,
+        "cotton": 1
+      },
+      "steel": false,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 1,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "wool": 3,
+        "cotton": 1
+      },
+      "steel": true,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 1,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "wool": 2,
+        "cotton": 2
+      },
+      "steel": false,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 1,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "wool": 2,
+        "cotton": 2
+      },
+      "steel": true,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 1,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "iron": 12,
+        "coal": 4
+      },
+      "steel": false,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 3,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "iron": 12,
+        "coal": 4
+      },
+      "steel": true,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 2,
+        "steel": 2,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "iron": 20,
+        "coal": 20
+      },
+      "steel": false,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 4,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "iron": 20,
+        "coal": 20
+      },
+      "steel": true,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 3,
+        "steel": 4,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "tin": 9,
+        "copper": 3
+      },
+      "steel": false,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 1,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "tin": 9,
+        "copper": 3
+      },
+      "steel": true,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 1,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "timber": 8
+      },
+      "steel": false,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 0,
+        "lumber": 2,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "timber": 8
+      },
+      "steel": true,
+      "large": true,
+      "capital": false,
+      "output": {
+        "fabric": 0,
+        "lumber": 2,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "wool": 40,
+        "timber": 40,
+        "tin": 40,
+        "copper": 40,
+        "iron": 40,
+        "coal": 40,
+        "cotton": 40,
+        "sugarCane": 40,
+        "tobacco": 40,
+        "furs": 40
+      },
+      "steel": true,
+      "large": false,
+      "capital": false,
+      "output": {
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    },
+    {
+      "resources": {
+        "wool": 40,
+        "timber": 40,
+        "tin": 40,
+        "copper": 40,
+        "iron": 40,
+        "coal": 40,
+        "cotton": 40,
+        "sugarCane": 40,
+        "tobacco": 40,
+        "furs": 40
+      },
+      "steel": true,
+      "large": true,
+      "capital": true,
+      "output": {
+        "fabric": 0,
+        "lumber": 0,
+        "paper": 0,
+        "bronze": 0,
+        "castIron": 0,
+        "steel": 0,
+        "sugar": 0,
+        "cigars": 0,
+        "hats": 0
+      }
+    }
+  ]
+}

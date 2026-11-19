@@ -1,0 +1,3461 @@
+{
+  "scope": "Execute original planning port site553b80 including actual coast551840.\nOnly neighbor lookup and river route result supplied, not Engineer construction mask.\n",
+  "cases": [
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": true
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": true
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": true
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": true
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 0,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": true
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": true
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": true
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": true
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 1,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 2,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 3,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": true
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": true
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": true
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": true
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 4,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": true
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": true
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": true
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": true
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 5,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": true
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": true
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": true
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": true
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 6,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": true
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": true
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": true
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": true
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": true
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": false,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": false,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": false,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": true,
+      "sea": false,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": false,
+      "riverResult": 2,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 0,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 1,
+      "eligible": false
+    },
+    {
+      "terrain": 7,
+      "port": true,
+      "adjacentPort": true,
+      "sea": true,
+      "river": true,
+      "riverResult": 2,
+      "eligible": false
+    }
+  ]
+}

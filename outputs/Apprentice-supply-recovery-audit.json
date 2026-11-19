@@ -1,0 +1,19 @@
+{
+  "scope": "Actual saved campaign: purchased cane, late deliveries, lost apprentice fitness, following-turn refining and restored labour",
+  "turns": [
+    148,
+    149
+  ],
+  "initialDeliveredCane": 4,
+  "replacementDeliveredCane": 4,
+  "manufacturedSugar": 2,
+  "labourBeforeRecovery": 8,
+  "labourAfterRecovery": 16,
+  "finalCane": 4,
+  "finalCash": -573,
+  "limits": [
+    "No sugar seller supplied the requested emergency sugar; first turn failed to maintain fitness",
+    "Recovered through legal production and purchases, not grants",
+    "Still debt; no completed campaign or physical Pixel test"
+  ]
+}

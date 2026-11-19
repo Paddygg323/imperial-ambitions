@@ -1,0 +1,2211 @@
+{
+  "scope": "Native regiment upgrade target/cost capture. Execute657040 and657320;\ncountry lookup and latest category technology are supplied; army cost table\nstart32 is supplied (static army records), native4da800 cost lookup runs intact.\nAlso executes mutation657140; city stock getter and update notification are supplied. Caller/UI eligibility remains outside this capture.\n",
+  "cases": [
+    {
+      "source": "levy",
+      "available": "levy",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "levy",
+      "available": "caliverman",
+      "target": "caliverman",
+      "goods": {
+        "fabric": 1,
+        "bronze": 2
+      }
+    },
+    {
+      "source": "levy",
+      "available": "skirmisher",
+      "target": "skirmisher",
+      "goods": {
+        "fabric": 2,
+        "steel": 2
+      }
+    },
+    {
+      "source": "levy",
+      "available": "sharpshooter",
+      "target": "sharpshooter",
+      "goods": {
+        "fabric": 3,
+        "steel": 6
+      }
+    },
+    {
+      "source": "caliverman",
+      "available": "levy",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "caliverman",
+      "available": "caliverman",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "caliverman",
+      "available": "skirmisher",
+      "target": "skirmisher",
+      "goods": {
+        "fabric": 2,
+        "steel": 2
+      }
+    },
+    {
+      "source": "caliverman",
+      "available": "sharpshooter",
+      "target": "sharpshooter",
+      "goods": {
+        "fabric": 3,
+        "steel": 6
+      }
+    },
+    {
+      "source": "skirmisher",
+      "available": "levy",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "skirmisher",
+      "available": "caliverman",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "skirmisher",
+      "available": "skirmisher",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "skirmisher",
+      "available": "sharpshooter",
+      "target": "sharpshooter",
+      "goods": {
+        "fabric": 3,
+        "steel": 6
+      }
+    },
+    {
+      "source": "sharpshooter",
+      "available": "levy",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "sharpshooter",
+      "available": "caliverman",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "sharpshooter",
+      "available": "skirmisher",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "sharpshooter",
+      "available": "sharpshooter",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "pikeman",
+      "available": "pikeman",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "pikeman",
+      "available": "halberdier",
+      "target": "halberdier",
+      "goods": {
+        "fabric": 1,
+        "castIron": 2
+      }
+    },
+    {
+      "source": "pikeman",
+      "available": "regular",
+      "target": "regular",
+      "goods": {
+        "fabric": 2,
+        "steel": 3
+      }
+    },
+    {
+      "source": "pikeman",
+      "available": "rifleInfantry",
+      "target": "rifleInfantry",
+      "goods": {
+        "fabric": 3,
+        "steel": 6
+      }
+    },
+    {
+      "source": "halberdier",
+      "available": "pikeman",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "halberdier",
+      "available": "halberdier",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "halberdier",
+      "available": "regular",
+      "target": "regular",
+      "goods": {
+        "fabric": 2,
+        "steel": 3
+      }
+    },
+    {
+      "source": "halberdier",
+      "available": "rifleInfantry",
+      "target": "rifleInfantry",
+      "goods": {
+        "fabric": 3,
+        "steel": 6
+      }
+    },
+    {
+      "source": "regular",
+      "available": "pikeman",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "regular",
+      "available": "halberdier",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "regular",
+      "available": "regular",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "regular",
+      "available": "rifleInfantry",
+      "target": "rifleInfantry",
+      "goods": {
+        "fabric": 3,
+        "steel": 6
+      }
+    },
+    {
+      "source": "rifleInfantry",
+      "available": "pikeman",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "rifleInfantry",
+      "available": "halberdier",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "rifleInfantry",
+      "available": "regular",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "rifleInfantry",
+      "available": "rifleInfantry",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "arquebusier",
+      "available": "arquebusier",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "arquebusier",
+      "available": "musketeer",
+      "target": "musketeer",
+      "goods": {
+        "fabric": 1,
+        "bronze": 2
+      }
+    },
+    {
+      "source": "arquebusier",
+      "available": "grenadier",
+      "target": "grenadier",
+      "goods": {
+        "fabric": 2,
+        "steel": 4
+      }
+    },
+    {
+      "source": "arquebusier",
+      "available": "guard",
+      "target": "guard",
+      "goods": {
+        "fabric": 3,
+        "steel": 8
+      }
+    },
+    {
+      "source": "musketeer",
+      "available": "arquebusier",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "musketeer",
+      "available": "musketeer",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "musketeer",
+      "available": "grenadier",
+      "target": "grenadier",
+      "goods": {
+        "fabric": 2,
+        "steel": 4
+      }
+    },
+    {
+      "source": "musketeer",
+      "available": "guard",
+      "target": "guard",
+      "goods": {
+        "fabric": 3,
+        "steel": 8
+      }
+    },
+    {
+      "source": "grenadier",
+      "available": "arquebusier",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "grenadier",
+      "available": "musketeer",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "grenadier",
+      "available": "grenadier",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "grenadier",
+      "available": "guard",
+      "target": "guard",
+      "goods": {
+        "fabric": 3,
+        "steel": 8
+      }
+    },
+    {
+      "source": "guard",
+      "available": "arquebusier",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "guard",
+      "available": "musketeer",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "guard",
+      "available": "grenadier",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "guard",
+      "available": "guard",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "bowman",
+      "available": "bowman",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "general",
+      "available": "general",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "squire",
+      "available": "squire",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "squire",
+      "available": "cossack",
+      "target": "cossack",
+      "goods": {
+        "fabric": 1,
+        "castIron": 1,
+        "horses": 2
+      }
+    },
+    {
+      "source": "squire",
+      "available": "hussar",
+      "target": "hussar",
+      "goods": {
+        "fabric": 2,
+        "steel": 2,
+        "horses": 4
+      }
+    },
+    {
+      "source": "squire",
+      "available": "scout",
+      "target": "scout",
+      "goods": {
+        "fabric": 3,
+        "steel": 4,
+        "horses": 5
+      }
+    },
+    {
+      "source": "cossack",
+      "available": "squire",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "cossack",
+      "available": "cossack",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "cossack",
+      "available": "hussar",
+      "target": "hussar",
+      "goods": {
+        "fabric": 2,
+        "steel": 2,
+        "horses": 4
+      }
+    },
+    {
+      "source": "cossack",
+      "available": "scout",
+      "target": "scout",
+      "goods": {
+        "fabric": 3,
+        "steel": 4,
+        "horses": 5
+      }
+    },
+    {
+      "source": "hussar",
+      "available": "squire",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "hussar",
+      "available": "cossack",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "hussar",
+      "available": "hussar",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "hussar",
+      "available": "scout",
+      "target": "scout",
+      "goods": {
+        "fabric": 3,
+        "steel": 4,
+        "horses": 5
+      }
+    },
+    {
+      "source": "scout",
+      "available": "squire",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "scout",
+      "available": "cossack",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "scout",
+      "available": "hussar",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "scout",
+      "available": "scout",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "knight",
+      "available": "knight",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "knight",
+      "available": "lancer",
+      "target": "lancer",
+      "goods": {
+        "fabric": 1,
+        "bronze": 2,
+        "horses": 3
+      }
+    },
+    {
+      "source": "lancer",
+      "available": "knight",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "lancer",
+      "available": "lancer",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "harquebusier",
+      "available": "harquebusier",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "harquebusier",
+      "available": "cuirassier",
+      "target": "cuirassier",
+      "goods": {
+        "fabric": 2,
+        "steel": 3,
+        "horses": 4
+      }
+    },
+    {
+      "source": "harquebusier",
+      "available": "carbineCavalry",
+      "target": "carbineCavalry",
+      "goods": {
+        "fabric": 3,
+        "steel": 6,
+        "horses": 5
+      }
+    },
+    {
+      "source": "cuirassier",
+      "available": "harquebusier",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "cuirassier",
+      "available": "cuirassier",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "cuirassier",
+      "available": "carbineCavalry",
+      "target": "carbineCavalry",
+      "goods": {
+        "fabric": 3,
+        "steel": 6,
+        "horses": 5
+      }
+    },
+    {
+      "source": "carbineCavalry",
+      "available": "harquebusier",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "carbineCavalry",
+      "available": "cuirassier",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "carbineCavalry",
+      "available": "carbineCavalry",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "horseArtillery",
+      "available": "horseArtillery",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "horseArtillery",
+      "available": "lightArtillery",
+      "target": "lightArtillery",
+      "goods": {
+        "fabric": 2,
+        "steel": 9,
+        "horses": 4
+      }
+    },
+    {
+      "source": "horseArtillery",
+      "available": "fieldArtillery",
+      "target": "fieldArtillery",
+      "goods": {
+        "fabric": 3,
+        "steel": 16,
+        "horses": 5
+      }
+    },
+    {
+      "source": "lightArtillery",
+      "available": "horseArtillery",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "lightArtillery",
+      "available": "lightArtillery",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "lightArtillery",
+      "available": "fieldArtillery",
+      "target": "fieldArtillery",
+      "goods": {
+        "fabric": 3,
+        "steel": 16,
+        "horses": 5
+      }
+    },
+    {
+      "source": "fieldArtillery",
+      "available": "horseArtillery",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "fieldArtillery",
+      "available": "lightArtillery",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "fieldArtillery",
+      "available": "fieldArtillery",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "culverin",
+      "available": "culverin",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "culverin",
+      "available": "royalArtillery",
+      "target": "royalArtillery",
+      "goods": {
+        "fabric": 1,
+        "bronze": 6
+      }
+    },
+    {
+      "source": "culverin",
+      "available": "heavyArtillery",
+      "target": "heavyArtillery",
+      "goods": {
+        "fabric": 2,
+        "steel": 12
+      }
+    },
+    {
+      "source": "culverin",
+      "available": "siegeGun",
+      "target": "siegeGun",
+      "goods": {
+        "fabric": 3,
+        "steel": 20
+      }
+    },
+    {
+      "source": "royalArtillery",
+      "available": "culverin",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "royalArtillery",
+      "available": "royalArtillery",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "royalArtillery",
+      "available": "heavyArtillery",
+      "target": "heavyArtillery",
+      "goods": {
+        "fabric": 2,
+        "steel": 12
+      }
+    },
+    {
+      "source": "royalArtillery",
+      "available": "siegeGun",
+      "target": "siegeGun",
+      "goods": {
+        "fabric": 3,
+        "steel": 20
+      }
+    },
+    {
+      "source": "heavyArtillery",
+      "available": "culverin",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "heavyArtillery",
+      "available": "royalArtillery",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "heavyArtillery",
+      "available": "heavyArtillery",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "heavyArtillery",
+      "available": "siegeGun",
+      "target": "siegeGun",
+      "goods": {
+        "fabric": 3,
+        "steel": 20
+      }
+    },
+    {
+      "source": "siegeGun",
+      "available": "culverin",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "siegeGun",
+      "available": "royalArtillery",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "siegeGun",
+      "available": "heavyArtillery",
+      "target": null,
+      "goods": {}
+    },
+    {
+      "source": "siegeGun",
+      "available": "siegeGun",
+      "target": null,
+      "goods": {}
+    }
+  ],
+  "mutations": [
+    {
+      "source": "levy",
+      "available": "levy",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "levy",
+      "available": "levy",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "levy",
+      "available": "caliverman",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "levy",
+      "available": "caliverman",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "levy",
+      "available": "skirmisher",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "levy",
+      "available": "skirmisher",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "levy",
+      "available": "sharpshooter",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "levy",
+      "available": "sharpshooter",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "caliverman",
+      "available": "levy",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "caliverman",
+      "available": "levy",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "caliverman",
+      "available": "caliverman",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "caliverman",
+      "available": "caliverman",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "caliverman",
+      "available": "skirmisher",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "caliverman",
+      "available": "skirmisher",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "caliverman",
+      "available": "sharpshooter",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "caliverman",
+      "available": "sharpshooter",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "skirmisher",
+      "available": "levy",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "skirmisher",
+      "available": "levy",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "skirmisher",
+      "available": "caliverman",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "skirmisher",
+      "available": "caliverman",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "skirmisher",
+      "available": "skirmisher",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "skirmisher",
+      "available": "skirmisher",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "skirmisher",
+      "available": "sharpshooter",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "skirmisher",
+      "available": "sharpshooter",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "sharpshooter",
+      "available": "levy",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "sharpshooter",
+      "available": "levy",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "sharpshooter",
+      "available": "caliverman",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "sharpshooter",
+      "available": "caliverman",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "sharpshooter",
+      "available": "skirmisher",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "sharpshooter",
+      "available": "skirmisher",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "sharpshooter",
+      "available": "sharpshooter",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "sharpshooter",
+      "available": "sharpshooter",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "pikeman",
+      "available": "pikeman",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "pikeman",
+      "available": "pikeman",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "pikeman",
+      "available": "halberdier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "pikeman",
+      "available": "halberdier",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "pikeman",
+      "available": "regular",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "pikeman",
+      "available": "regular",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "pikeman",
+      "available": "rifleInfantry",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "pikeman",
+      "available": "rifleInfantry",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "halberdier",
+      "available": "pikeman",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "halberdier",
+      "available": "pikeman",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "halberdier",
+      "available": "halberdier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "halberdier",
+      "available": "halberdier",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "halberdier",
+      "available": "regular",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "halberdier",
+      "available": "regular",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "halberdier",
+      "available": "rifleInfantry",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "halberdier",
+      "available": "rifleInfantry",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "regular",
+      "available": "pikeman",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "regular",
+      "available": "pikeman",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "regular",
+      "available": "halberdier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "regular",
+      "available": "halberdier",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "regular",
+      "available": "regular",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "regular",
+      "available": "regular",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "regular",
+      "available": "rifleInfantry",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "regular",
+      "available": "rifleInfantry",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "rifleInfantry",
+      "available": "pikeman",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "rifleInfantry",
+      "available": "pikeman",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "rifleInfantry",
+      "available": "halberdier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "rifleInfantry",
+      "available": "halberdier",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "rifleInfantry",
+      "available": "regular",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "rifleInfantry",
+      "available": "regular",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "rifleInfantry",
+      "available": "rifleInfantry",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "rifleInfantry",
+      "available": "rifleInfantry",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "arquebusier",
+      "available": "arquebusier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "arquebusier",
+      "available": "arquebusier",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "arquebusier",
+      "available": "musketeer",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "arquebusier",
+      "available": "musketeer",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "arquebusier",
+      "available": "grenadier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "arquebusier",
+      "available": "grenadier",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "arquebusier",
+      "available": "guard",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "arquebusier",
+      "available": "guard",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "musketeer",
+      "available": "arquebusier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "musketeer",
+      "available": "arquebusier",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "musketeer",
+      "available": "musketeer",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "musketeer",
+      "available": "musketeer",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "musketeer",
+      "available": "grenadier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "musketeer",
+      "available": "grenadier",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "musketeer",
+      "available": "guard",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "musketeer",
+      "available": "guard",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "grenadier",
+      "available": "arquebusier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "grenadier",
+      "available": "arquebusier",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "grenadier",
+      "available": "musketeer",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "grenadier",
+      "available": "musketeer",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "grenadier",
+      "available": "grenadier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "grenadier",
+      "available": "grenadier",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "grenadier",
+      "available": "guard",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "grenadier",
+      "available": "guard",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "guard",
+      "available": "arquebusier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "guard",
+      "available": "arquebusier",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "guard",
+      "available": "musketeer",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "guard",
+      "available": "musketeer",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "guard",
+      "available": "grenadier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "guard",
+      "available": "grenadier",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "guard",
+      "available": "guard",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "guard",
+      "available": "guard",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "bowman",
+      "available": "bowman",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "bowman",
+      "available": "bowman",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "general",
+      "available": "general",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "general",
+      "available": "general",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "squire",
+      "available": "squire",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "squire",
+      "available": "squire",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "squire",
+      "available": "cossack",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "squire",
+      "available": "cossack",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "squire",
+      "available": "hussar",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "squire",
+      "available": "hussar",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "squire",
+      "available": "scout",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "squire",
+      "available": "scout",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "cossack",
+      "available": "squire",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "cossack",
+      "available": "squire",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "cossack",
+      "available": "cossack",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "cossack",
+      "available": "cossack",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "cossack",
+      "available": "hussar",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "cossack",
+      "available": "hussar",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "cossack",
+      "available": "scout",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "cossack",
+      "available": "scout",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "hussar",
+      "available": "squire",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "hussar",
+      "available": "squire",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "hussar",
+      "available": "cossack",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "hussar",
+      "available": "cossack",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "hussar",
+      "available": "hussar",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "hussar",
+      "available": "hussar",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "hussar",
+      "available": "scout",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "hussar",
+      "available": "scout",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "scout",
+      "available": "squire",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "scout",
+      "available": "squire",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "scout",
+      "available": "cossack",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "scout",
+      "available": "cossack",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "scout",
+      "available": "hussar",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "scout",
+      "available": "hussar",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "scout",
+      "available": "scout",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "scout",
+      "available": "scout",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "knight",
+      "available": "knight",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "knight",
+      "available": "knight",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "knight",
+      "available": "lancer",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "knight",
+      "available": "lancer",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "lancer",
+      "available": "knight",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "lancer",
+      "available": "knight",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "lancer",
+      "available": "lancer",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "lancer",
+      "available": "lancer",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "harquebusier",
+      "available": "harquebusier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "harquebusier",
+      "available": "harquebusier",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "harquebusier",
+      "available": "cuirassier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "harquebusier",
+      "available": "cuirassier",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "harquebusier",
+      "available": "carbineCavalry",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "harquebusier",
+      "available": "carbineCavalry",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "cuirassier",
+      "available": "harquebusier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "cuirassier",
+      "available": "harquebusier",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "cuirassier",
+      "available": "cuirassier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "cuirassier",
+      "available": "cuirassier",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "cuirassier",
+      "available": "carbineCavalry",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "cuirassier",
+      "available": "carbineCavalry",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "carbineCavalry",
+      "available": "harquebusier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "carbineCavalry",
+      "available": "harquebusier",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "carbineCavalry",
+      "available": "cuirassier",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "carbineCavalry",
+      "available": "cuirassier",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "carbineCavalry",
+      "available": "carbineCavalry",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "carbineCavalry",
+      "available": "carbineCavalry",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "horseArtillery",
+      "available": "horseArtillery",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "horseArtillery",
+      "available": "horseArtillery",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "horseArtillery",
+      "available": "lightArtillery",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "horseArtillery",
+      "available": "lightArtillery",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "horseArtillery",
+      "available": "fieldArtillery",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "horseArtillery",
+      "available": "fieldArtillery",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "lightArtillery",
+      "available": "horseArtillery",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "lightArtillery",
+      "available": "horseArtillery",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "lightArtillery",
+      "available": "lightArtillery",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "lightArtillery",
+      "available": "lightArtillery",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "lightArtillery",
+      "available": "fieldArtillery",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "lightArtillery",
+      "available": "fieldArtillery",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "fieldArtillery",
+      "available": "horseArtillery",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "fieldArtillery",
+      "available": "horseArtillery",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "fieldArtillery",
+      "available": "lightArtillery",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "fieldArtillery",
+      "available": "lightArtillery",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "fieldArtillery",
+      "available": "fieldArtillery",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "fieldArtillery",
+      "available": "fieldArtillery",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "culverin",
+      "available": "culverin",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "culverin",
+      "available": "culverin",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "culverin",
+      "available": "royalArtillery",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "culverin",
+      "available": "royalArtillery",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "culverin",
+      "available": "heavyArtillery",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "culverin",
+      "available": "heavyArtillery",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "culverin",
+      "available": "siegeGun",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "culverin",
+      "available": "siegeGun",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "royalArtillery",
+      "available": "culverin",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "royalArtillery",
+      "available": "culverin",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "royalArtillery",
+      "available": "royalArtillery",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "royalArtillery",
+      "available": "royalArtillery",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "royalArtillery",
+      "available": "heavyArtillery",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "royalArtillery",
+      "available": "heavyArtillery",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "royalArtillery",
+      "available": "siegeGun",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "royalArtillery",
+      "available": "siegeGun",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "heavyArtillery",
+      "available": "culverin",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "heavyArtillery",
+      "available": "culverin",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "heavyArtillery",
+      "available": "royalArtillery",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "heavyArtillery",
+      "available": "royalArtillery",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "heavyArtillery",
+      "available": "heavyArtillery",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "heavyArtillery",
+      "available": "heavyArtillery",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "heavyArtillery",
+      "available": "siegeGun",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "heavyArtillery",
+      "available": "siegeGun",
+      "sufficient": true,
+      "success": true,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "siegeGun",
+      "available": "culverin",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "siegeGun",
+      "available": "culverin",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "siegeGun",
+      "available": "royalArtillery",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "siegeGun",
+      "available": "royalArtillery",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "siegeGun",
+      "available": "heavyArtillery",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "siegeGun",
+      "available": "heavyArtillery",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "siegeGun",
+      "available": "siegeGun",
+      "sufficient": false,
+      "success": false,
+      "onlyTypeChanged": true
+    },
+    {
+      "source": "siegeGun",
+      "available": "siegeGun",
+      "sufficient": true,
+      "success": false,
+      "onlyTypeChanged": true
+    }
+  ]
+}

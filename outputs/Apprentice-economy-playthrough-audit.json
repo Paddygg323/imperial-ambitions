@@ -1,0 +1,211 @@
+{
+  "scope": "Continuing campaign through apprentice research, training, imported cane refining and luxury consumption",
+  "checks": 56,
+  "trained": 2,
+  "sugarConsumed": 13,
+  "sugarManufactured": 15,
+  "final": {
+    "turn": 80,
+    "year": 1660,
+    "cash": 9000,
+    "workers": 13,
+    "workerDetails": [
+      {
+        "id": "w16",
+        "type": "peasant",
+        "fit": true,
+        "diet": "grain"
+      },
+      {
+        "id": "w17",
+        "type": "peasant",
+        "fit": true,
+        "diet": "meat"
+      },
+      {
+        "id": "w398",
+        "type": "peasant",
+        "fit": true,
+        "diet": "grain"
+      },
+      {
+        "id": "w409",
+        "type": "peasant",
+        "fit": true,
+        "diet": "meat"
+      },
+      {
+        "id": "w465",
+        "type": "peasant",
+        "fit": true,
+        "diet": "meat"
+      },
+      {
+        "id": "w471",
+        "type": "peasant",
+        "fit": true,
+        "diet": "meat"
+      },
+      {
+        "id": "w537",
+        "type": "peasant",
+        "fit": true,
+        "diet": "meat"
+      },
+      {
+        "id": "w564",
+        "type": "peasant",
+        "fit": true,
+        "diet": "grain"
+      },
+      {
+        "id": "w572",
+        "type": "peasant",
+        "fit": true,
+        "diet": "grain"
+      },
+      {
+        "id": "w586",
+        "type": "peasant",
+        "fit": true,
+        "diet": "grain"
+      },
+      {
+        "id": "w842",
+        "type": "apprentice",
+        "fit": true,
+        "diet": "grain"
+      },
+      {
+        "id": "w843",
+        "type": "peasant",
+        "fit": true,
+        "diet": "meat"
+      },
+      {
+        "id": "w849",
+        "type": "apprentice",
+        "fit": true,
+        "diet": "meat"
+      }
+    ],
+    "labour": 19,
+    "food": {
+      "grain": 9,
+      "protein": 10,
+      "total": 19
+    },
+    "incoming": {
+      "wool": 6,
+      "timber": 4,
+      "tin": 0,
+      "copper": 0,
+      "iron": 4,
+      "coal": 0,
+      "cotton": 0,
+      "sugarCane": 0,
+      "tobacco": 0,
+      "furs": 0,
+      "horses": 0,
+      "fabric": 0,
+      "lumber": 0,
+      "paper": 0,
+      "bronze": 0,
+      "castIron": 0,
+      "steel": 0,
+      "sugar": 0,
+      "cigars": 0,
+      "hats": 0,
+      "grain": 9,
+      "fish": 3,
+      "meat": 7,
+      "spices": 0,
+      "silver": 0,
+      "gold": 0,
+      "gems": 0,
+      "diamonds": 0
+    },
+    "stock": {
+      "wool": 96,
+      "timber": 42,
+      "tin": 6,
+      "copper": 6,
+      "iron": 92,
+      "coal": 0,
+      "cotton": 0,
+      "sugarCane": 11,
+      "tobacco": 0,
+      "furs": 0,
+      "horses": 6,
+      "fabric": 6,
+      "lumber": 10,
+      "paper": 6,
+      "bronze": 2,
+      "castIron": 10,
+      "steel": 0,
+      "sugar": 6,
+      "cigars": 0,
+      "hats": 0,
+      "grain": 96,
+      "fish": 71,
+      "meat": 0,
+      "spices": 0,
+      "silver": 0,
+      "gold": 0,
+      "gems": 0,
+      "diamonds": 0
+    },
+    "known": [
+      "8",
+      "11",
+      "7",
+      "9",
+      "26",
+      "38",
+      "30",
+      "35",
+      "27",
+      "36",
+      "39",
+      "22",
+      "45",
+      "10",
+      "31",
+      "0",
+      "61",
+      "12",
+      "47",
+      "50",
+      "13",
+      "46",
+      "29",
+      "23",
+      "51"
+    ],
+    "projects": [
+      {
+        "tech": "57",
+        "funding": 300,
+        "investment": 3000,
+        "progress": 0.4271649718284607
+      },
+      {
+        "tech": "41",
+        "funding": 200,
+        "investment": 1400,
+        "progress": 0.3644617795944214
+      },
+      {
+        "tech": "37",
+        "funding": 200,
+        "investment": 200,
+        "progress": 0.030617469921708107
+      }
+    ]
+  },
+  "limits": [
+    "Headless public commands, not Pixel touch testing",
+    "No deliberate sugar shortage in this healthy campaign",
+    "Military campaign and complete game not yet verified"
+  ]
+}

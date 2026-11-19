@@ -1,0 +1,1685 @@
+{
+  "scope": "Original minister riches preference4ee6a0, actual available-item4dab10 and\nspendable-cash5055e0. No stubs. Captures returned floating value as double, as\ncaller adds a resource offset before storing float32; do not round it early.\n",
+  "cases": [
+    {
+      "cash": -10000,
+      "credit": 0,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -10000,
+      "credit": 0,
+      "reserved": 0,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -10000,
+      "credit": 0,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -10000,
+      "credit": 0,
+      "reserved": 100,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -10000,
+      "credit": 0,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -10000,
+      "credit": 0,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -10000,
+      "credit": 1,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -10000,
+      "credit": 1,
+      "reserved": 0,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -10000,
+      "credit": 1,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -10000,
+      "credit": 1,
+      "reserved": 100,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -10000,
+      "credit": 1,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -10000,
+      "credit": 1,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -10000,
+      "credit": 9999,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -10000,
+      "credit": 9999,
+      "reserved": 0,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -10000,
+      "credit": 9999,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -10000,
+      "credit": 9999,
+      "reserved": 100,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -10000,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -10000,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -10000,
+      "credit": 500000,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -10000,
+      "credit": 500000,
+      "reserved": 0,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -10000,
+      "credit": 500000,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -10000,
+      "credit": 500000,
+      "reserved": 100,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -10000,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -10000,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -1,
+      "credit": 0,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -1,
+      "credit": 0,
+      "reserved": 0,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -1,
+      "credit": 0,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -1,
+      "credit": 0,
+      "reserved": 100,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -1,
+      "credit": 0,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -1,
+      "credit": 0,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -1,
+      "credit": 1,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -1,
+      "credit": 1,
+      "reserved": 0,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -1,
+      "credit": 1,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -1,
+      "credit": 1,
+      "reserved": 100,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -1,
+      "credit": 1,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -1,
+      "credit": 1,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -1,
+      "credit": 9999,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -1,
+      "credit": 9999,
+      "reserved": 0,
+      "present": true,
+      "result": 1.992160074096918
+    },
+    {
+      "cash": -1,
+      "credit": 9999,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -1,
+      "credit": 9999,
+      "reserved": 100,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -1,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -1,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": -1,
+      "credit": 500000,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -1,
+      "credit": 500000,
+      "reserved": 0,
+      "present": true,
+      "result": 1.6000800536483526
+    },
+    {
+      "cash": -1,
+      "credit": 500000,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -1,
+      "credit": 500000,
+      "reserved": 100,
+      "present": true,
+      "result": 1.608080054065585
+    },
+    {
+      "cash": -1,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": -1,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 0,
+      "credit": 0,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 0,
+      "credit": 0,
+      "reserved": 0,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 0,
+      "credit": 0,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 0,
+      "credit": 0,
+      "reserved": 100,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 0,
+      "credit": 0,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 0,
+      "credit": 0,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 0,
+      "credit": 1,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 0,
+      "credit": 1,
+      "reserved": 0,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 0,
+      "credit": 1,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 0,
+      "credit": 1,
+      "reserved": 100,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 0,
+      "credit": 1,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 0,
+      "credit": 1,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 0,
+      "credit": 9999,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 0,
+      "credit": 9999,
+      "reserved": 0,
+      "present": true,
+      "result": 1.9920800740927458
+    },
+    {
+      "cash": 0,
+      "credit": 9999,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 0,
+      "credit": 9999,
+      "reserved": 100,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 0,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 0,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 0,
+      "credit": 500000,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 0,
+      "credit": 500000,
+      "reserved": 0,
+      "present": true,
+      "result": 1.6000000536441803
+    },
+    {
+      "cash": 0,
+      "credit": 500000,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 0,
+      "credit": 500000,
+      "reserved": 100,
+      "present": true,
+      "result": 1.6080000540614128
+    },
+    {
+      "cash": 0,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 0,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 1,
+      "credit": 0,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 1,
+      "credit": 0,
+      "reserved": 0,
+      "present": true,
+      "result": 1.9999200745016337
+    },
+    {
+      "cash": 1,
+      "credit": 0,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 1,
+      "credit": 0,
+      "reserved": 100,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 1,
+      "credit": 0,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 1,
+      "credit": 0,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 1,
+      "credit": 1,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 1,
+      "credit": 1,
+      "reserved": 0,
+      "present": true,
+      "result": 1.9999200745016337
+    },
+    {
+      "cash": 1,
+      "credit": 1,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 1,
+      "credit": 1,
+      "reserved": 100,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 1,
+      "credit": 1,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 1,
+      "credit": 1,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 1,
+      "credit": 9999,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 1,
+      "credit": 9999,
+      "reserved": 0,
+      "present": true,
+      "result": 1.9920000740885735
+    },
+    {
+      "cash": 1,
+      "credit": 9999,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 1,
+      "credit": 9999,
+      "reserved": 100,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 1,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 1,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 1,
+      "credit": 500000,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 1,
+      "credit": 500000,
+      "reserved": 0,
+      "present": true,
+      "result": 1.599920053640008
+    },
+    {
+      "cash": 1,
+      "credit": 500000,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 1,
+      "credit": 500000,
+      "reserved": 100,
+      "present": true,
+      "result": 1.6079200540572405
+    },
+    {
+      "cash": 1,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 1,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 4999,
+      "credit": 0,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 4999,
+      "credit": 0,
+      "reserved": 0,
+      "present": true,
+      "result": 1.6000800536483526
+    },
+    {
+      "cash": 4999,
+      "credit": 0,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 4999,
+      "credit": 0,
+      "reserved": 100,
+      "present": true,
+      "result": 1.608080054065585
+    },
+    {
+      "cash": 4999,
+      "credit": 0,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 4999,
+      "credit": 0,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 4999,
+      "credit": 1,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 4999,
+      "credit": 1,
+      "reserved": 0,
+      "present": true,
+      "result": 1.6000800536483526
+    },
+    {
+      "cash": 4999,
+      "credit": 1,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 4999,
+      "credit": 1,
+      "reserved": 100,
+      "present": true,
+      "result": 1.608080054065585
+    },
+    {
+      "cash": 4999,
+      "credit": 1,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 4999,
+      "credit": 1,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 4999,
+      "credit": 9999,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 4999,
+      "credit": 9999,
+      "reserved": 0,
+      "present": true,
+      "result": 1.5921600532352924
+    },
+    {
+      "cash": 4999,
+      "credit": 9999,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 4999,
+      "credit": 9999,
+      "reserved": 100,
+      "present": true,
+      "result": 1.600160053652525
+    },
+    {
+      "cash": 4999,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 4999,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 4999,
+      "credit": 500000,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 4999,
+      "credit": 500000,
+      "reserved": 0,
+      "present": true,
+      "result": 1.200080032786727
+    },
+    {
+      "cash": 4999,
+      "credit": 500000,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 4999,
+      "credit": 500000,
+      "reserved": 100,
+      "present": true,
+      "result": 1.2080800332039596
+    },
+    {
+      "cash": 4999,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 4999,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 5000,
+      "credit": 0,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 5000,
+      "credit": 0,
+      "reserved": 0,
+      "present": true,
+      "result": 1.6000000536441803
+    },
+    {
+      "cash": 5000,
+      "credit": 0,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 5000,
+      "credit": 0,
+      "reserved": 100,
+      "present": true,
+      "result": 1.6080000540614128
+    },
+    {
+      "cash": 5000,
+      "credit": 0,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 5000,
+      "credit": 0,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 5000,
+      "credit": 1,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 5000,
+      "credit": 1,
+      "reserved": 0,
+      "present": true,
+      "result": 1.6000000536441803
+    },
+    {
+      "cash": 5000,
+      "credit": 1,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 5000,
+      "credit": 1,
+      "reserved": 100,
+      "present": true,
+      "result": 1.6080000540614128
+    },
+    {
+      "cash": 5000,
+      "credit": 1,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 5000,
+      "credit": 1,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 5000,
+      "credit": 9999,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 5000,
+      "credit": 9999,
+      "reserved": 0,
+      "present": true,
+      "result": 1.5920800532311201
+    },
+    {
+      "cash": 5000,
+      "credit": 9999,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 5000,
+      "credit": 9999,
+      "reserved": 100,
+      "present": true,
+      "result": 1.6000800536483526
+    },
+    {
+      "cash": 5000,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 5000,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 5000,
+      "credit": 500000,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 5000,
+      "credit": 500000,
+      "reserved": 0,
+      "present": true,
+      "result": 1.2000000327825546
+    },
+    {
+      "cash": 5000,
+      "credit": 500000,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 5000,
+      "credit": 500000,
+      "reserved": 100,
+      "present": true,
+      "result": 1.208000033199787
+    },
+    {
+      "cash": 5000,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 5000,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": true,
+      "result": 2.000000074505806
+    },
+    {
+      "cash": 14999,
+      "credit": 0,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 14999,
+      "credit": 0,
+      "reserved": 0,
+      "present": true,
+      "result": 0.8000800119251013
+    },
+    {
+      "cash": 14999,
+      "credit": 0,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 14999,
+      "credit": 0,
+      "reserved": 100,
+      "present": true,
+      "result": 0.808080012342334
+    },
+    {
+      "cash": 14999,
+      "credit": 0,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 14999,
+      "credit": 0,
+      "reserved": 10000,
+      "present": true,
+      "result": 1.6000800536483526
+    },
+    {
+      "cash": 14999,
+      "credit": 1,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 14999,
+      "credit": 1,
+      "reserved": 0,
+      "present": true,
+      "result": 0.8000800119251013
+    },
+    {
+      "cash": 14999,
+      "credit": 1,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 14999,
+      "credit": 1,
+      "reserved": 100,
+      "present": true,
+      "result": 0.808080012342334
+    },
+    {
+      "cash": 14999,
+      "credit": 1,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 14999,
+      "credit": 1,
+      "reserved": 10000,
+      "present": true,
+      "result": 1.6000800536483526
+    },
+    {
+      "cash": 14999,
+      "credit": 9999,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 14999,
+      "credit": 9999,
+      "reserved": 0,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 14999,
+      "credit": 9999,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 14999,
+      "credit": 9999,
+      "reserved": 100,
+      "present": true,
+      "result": 0.8001600119292738
+    },
+    {
+      "cash": 14999,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 14999,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": true,
+      "result": 1.5921600532352924
+    },
+    {
+      "cash": 14999,
+      "credit": 500000,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 14999,
+      "credit": 500000,
+      "reserved": 0,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 14999,
+      "credit": 500000,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 14999,
+      "credit": 500000,
+      "reserved": 100,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 14999,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 14999,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": true,
+      "result": 1.200080032786727
+    },
+    {
+      "cash": 15000,
+      "credit": 0,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15000,
+      "credit": 0,
+      "reserved": 0,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 15000,
+      "credit": 0,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15000,
+      "credit": 0,
+      "reserved": 100,
+      "present": true,
+      "result": 0.8080000123381617
+    },
+    {
+      "cash": 15000,
+      "credit": 0,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15000,
+      "credit": 0,
+      "reserved": 10000,
+      "present": true,
+      "result": 1.6000000536441803
+    },
+    {
+      "cash": 15000,
+      "credit": 1,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15000,
+      "credit": 1,
+      "reserved": 0,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 15000,
+      "credit": 1,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15000,
+      "credit": 1,
+      "reserved": 100,
+      "present": true,
+      "result": 0.8080000123381617
+    },
+    {
+      "cash": 15000,
+      "credit": 1,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15000,
+      "credit": 1,
+      "reserved": 10000,
+      "present": true,
+      "result": 1.6000000536441803
+    },
+    {
+      "cash": 15000,
+      "credit": 9999,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15000,
+      "credit": 9999,
+      "reserved": 0,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 15000,
+      "credit": 9999,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15000,
+      "credit": 9999,
+      "reserved": 100,
+      "present": true,
+      "result": 0.8000800119251013
+    },
+    {
+      "cash": 15000,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15000,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": true,
+      "result": 1.5920800532311201
+    },
+    {
+      "cash": 15000,
+      "credit": 500000,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15000,
+      "credit": 500000,
+      "reserved": 0,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 15000,
+      "credit": 500000,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15000,
+      "credit": 500000,
+      "reserved": 100,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 15000,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15000,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": true,
+      "result": 1.2000000327825546
+    },
+    {
+      "cash": 15001,
+      "credit": 0,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15001,
+      "credit": 0,
+      "reserved": 0,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 15001,
+      "credit": 0,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15001,
+      "credit": 0,
+      "reserved": 100,
+      "present": true,
+      "result": 0.8079200123339891
+    },
+    {
+      "cash": 15001,
+      "credit": 0,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15001,
+      "credit": 0,
+      "reserved": 10000,
+      "present": true,
+      "result": 1.599920053640008
+    },
+    {
+      "cash": 15001,
+      "credit": 1,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15001,
+      "credit": 1,
+      "reserved": 0,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 15001,
+      "credit": 1,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15001,
+      "credit": 1,
+      "reserved": 100,
+      "present": true,
+      "result": 0.8079200123339891
+    },
+    {
+      "cash": 15001,
+      "credit": 1,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15001,
+      "credit": 1,
+      "reserved": 10000,
+      "present": true,
+      "result": 1.599920053640008
+    },
+    {
+      "cash": 15001,
+      "credit": 9999,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15001,
+      "credit": 9999,
+      "reserved": 0,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 15001,
+      "credit": 9999,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15001,
+      "credit": 9999,
+      "reserved": 100,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 15001,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15001,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": true,
+      "result": 1.5920000532269478
+    },
+    {
+      "cash": 15001,
+      "credit": 500000,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15001,
+      "credit": 500000,
+      "reserved": 0,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 15001,
+      "credit": 500000,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15001,
+      "credit": 500000,
+      "reserved": 100,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 15001,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 15001,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": true,
+      "result": 1.1999200327783823
+    },
+    {
+      "cash": 88000,
+      "credit": 0,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 88000,
+      "credit": 0,
+      "reserved": 0,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 88000,
+      "credit": 0,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 88000,
+      "credit": 0,
+      "reserved": 100,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 88000,
+      "credit": 0,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 88000,
+      "credit": 0,
+      "reserved": 10000,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 88000,
+      "credit": 1,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 88000,
+      "credit": 1,
+      "reserved": 0,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 88000,
+      "credit": 1,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 88000,
+      "credit": 1,
+      "reserved": 100,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 88000,
+      "credit": 1,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 88000,
+      "credit": 1,
+      "reserved": 10000,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 88000,
+      "credit": 9999,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 88000,
+      "credit": 9999,
+      "reserved": 0,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 88000,
+      "credit": 9999,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 88000,
+      "credit": 9999,
+      "reserved": 100,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 88000,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 88000,
+      "credit": 9999,
+      "reserved": 10000,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 88000,
+      "credit": 500000,
+      "reserved": 0,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 88000,
+      "credit": 500000,
+      "reserved": 0,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 88000,
+      "credit": 500000,
+      "reserved": 100,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 88000,
+      "credit": 500000,
+      "reserved": 100,
+      "present": true,
+      "result": 0.800000011920929
+    },
+    {
+      "cash": 88000,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": false,
+      "result": 1.0
+    },
+    {
+      "cash": 88000,
+      "credit": 500000,
+      "reserved": 10000,
+      "present": true,
+      "result": 0.800000011920929
+    }
+  ]
+}

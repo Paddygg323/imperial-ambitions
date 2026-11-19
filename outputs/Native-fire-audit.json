@@ -1,0 +1,6150 @@
+{
+  "function": "0x61c5d0",
+  "scope": "Open terrain, no forts, no generals, non-tribal regiments. Adjacency supplied; calls captured before application. Not a complete battle.",
+  "categoryMeleeVulnerability": [
+    1.3,
+    1.0,
+    1.0,
+    1.3,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.5,
+    1.5
+  ],
+  "categoryRangedVulnerability": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.3,
+    1.3,
+    1.3,
+    1.0,
+    1.0
+  ],
+  "cases": [
+    {
+      "attacker": 0,
+      "defender": 3,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 3,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        2,
+        5,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 3,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 3,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        6,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 3,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 3,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        7,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 3,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 3,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 3,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 3,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        6,
+        13,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 3,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 0,
+      "defender": 3,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        15,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 10,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 10,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        2,
+        5,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 10,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 10,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        6,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 10,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 10,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        7,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 10,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 10,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 10,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        20,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 10,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        6,
+        13,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 10,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        23,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 1,
+      "defender": 10,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        15,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 23,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 23,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        6,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 23,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        6,
+        13,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 23,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        7,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 23,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        15,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 23,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 23,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 23,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        6,
+        12,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 23,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 23,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        15,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 23,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        15,
+        30,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 2,
+      "defender": 23,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        17,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 34,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 34,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 34,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 34,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        15,
+        30,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 34,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 34,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        17,
+        35,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 34,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        42,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 34,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        50,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 34,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        50,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 34,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        30,
+        60,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 34,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        29,
+        58,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 3,
+      "defender": 34,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        35,
+        70,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 1,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 1,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        9,
+        18,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 1,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 1,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 1,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 1,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 1,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 1,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        18,
+        36,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 1,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 1,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        43,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 1,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 1,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        50,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 8,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 8,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 8,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 8,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        17,
+        35,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 8,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 8,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        20,
+        41,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 8,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 8,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        29,
+        58,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 8,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 8,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        35,
+        70,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 8,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 5,
+      "defender": 8,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        41,
+        82,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 21,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 21,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        9,
+        19,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 21,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        15,
+        30,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 21,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        23,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 21,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        17,
+        35,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 21,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        27,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 21,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        50,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 21,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 21,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        30,
+        61,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 21,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        23,
+        47,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 21,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        35,
+        71,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 6,
+      "defender": 21,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        27,
+        54,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 31,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        32,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 31,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 31,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 31,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        15,
+        30,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 31,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        45,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 31,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        17,
+        35,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 31,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        32,
+        65,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 31,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        50,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 31,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        39,
+        78,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 31,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        30,
+        60,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 31,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        45,
+        91,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 7,
+      "defender": 31,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        35,
+        70,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 39,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 39,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        6,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 39,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 39,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        7,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 39,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 39,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 39,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        42,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 39,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        6,
+        12,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 39,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        50,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 39,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        15,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 39,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        29,
+        58,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 39,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        17,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 6,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        9,
+        19,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 6,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        2,
+        5,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 6,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        23,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 6,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        6,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 6,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        27,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 6,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        7,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 6,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 6,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 6,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        23,
+        47,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 6,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        6,
+        13,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 6,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        27,
+        54,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 9,
+      "defender": 6,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        15,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 16,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        42,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 16,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 16,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        50,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 16,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        20,
+        40,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 16,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        29,
+        58,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 16,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        23,
+        47,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 16,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        42,
+        84,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 16,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        33,
+        67,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 16,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        50,
+        100,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 16,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        40,
+        80,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 16,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        58,
+        117,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 10,
+      "defender": 16,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        47,
+        94,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 29,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        43,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 29,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        28,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 29,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        26,
+        52,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 29,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 29,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        30,
+        61,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 29,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        19,
+        39,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 29,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        43,
+        87,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 29,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        28,
+        56,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 29,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        52,
+        104,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 29,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        33,
+        67,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 29,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        61,
+        122,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 11,
+      "defender": 29,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        39,
+        78,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 37,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        14,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 37,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        7,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 37,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        17,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 37,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 37,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        20,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 37,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 37,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 37,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        14,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 37,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        17,
+        35,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 37,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        17,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 37,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        20,
+        41,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 12,
+      "defender": 37,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        20,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 4,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 4,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        1,
+        2,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 4,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 4,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        1,
+        3,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 4,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 4,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        1,
+        3,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 4,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 4,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        2,
+        5,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 4,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 4,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        6,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 4,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 16,
+      "defender": 4,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        7,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 11,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 11,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 11,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 11,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 11,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 11,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 11,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 11,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 11,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 11,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        20,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 11,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 11,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        23,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 24,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 24,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 24,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 24,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        6,
+        12,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 24,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 24,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        14,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 24,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 24,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 24,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 24,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 24,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 21,
+      "defender": 24,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 35,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        7,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 35,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        42,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 35,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 35,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        50,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 35,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        9,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 35,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        29,
+        58,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 35,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        14,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 35,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        42,
+        84,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 35,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 35,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        50,
+        100,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 35,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        9,
+        19,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 22,
+      "defender": 35,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        58,
+        117,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 2,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 2,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        15,
+        30,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 2,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        6,
+        12,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 2,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        18,
+        36,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 2,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        14,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 2,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        42,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 2,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 2,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        30,
+        60,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 2,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 2,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        36,
+        72,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 2,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 23,
+      "defender": 2,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        42,
+        84,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 9,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 9,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 9,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 9,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 9,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 9,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 9,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 9,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        42,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 9,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 9,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        50,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 9,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 24,
+      "defender": 9,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        29,
+        58,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 22,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 22,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 22,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 22,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        20,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 22,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 22,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        23,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 22,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 22,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 22,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 22,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        20,
+        40,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 22,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 25,
+      "defender": 22,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        23,
+        47,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 33,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        9,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 33,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 33,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 33,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        26,
+        52,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 33,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        6,
+        13,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 33,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        30,
+        61,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 33,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        9,
+        19,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 33,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        44,
+        88,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 33,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        23,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 33,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        52,
+        105,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 33,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        27,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 29,
+      "defender": 33,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        61,
+        123,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 0,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 0,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        35,
+        70,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 0,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 0,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        42,
+        85,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 0,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 0,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        49,
+        99,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 0,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        42,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 0,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        70,
+        141,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 0,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        25,
+        50,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 0,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        85,
+        170,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 0,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        29,
+        58,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 30,
+      "defender": 0,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        99,
+        198,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 7,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        14,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 7,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        17,
+        35,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 7,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        17,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 7,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        42,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 7,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        20,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 7,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        24,
+        49,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 7,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 7,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        35,
+        71,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 7,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        17,
+        35,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 7,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        42,
+        85,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 7,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        20,
+        41,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 31,
+      "defender": 7,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        49,
+        99,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 20,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 20,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        7,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 20,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        27,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 20,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 20,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        15,
+        31,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 20,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        9,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 20,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        45,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 20,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        14,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 20,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        27,
+        54,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 20,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 20,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        31,
+        63,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 20,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        9,
+        19,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 30,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 30,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 30,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        17,
+        34,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 30,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        10,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 30,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        20,
+        40,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 30,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 30,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        29,
+        58,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 30,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 30,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        34,
+        69,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 30,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        20,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 30,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        40,
+        81,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 34,
+      "defender": 30,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        23,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 38,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        24,
+        49,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 38,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        22,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 38,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        29,
+        58,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 38,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 38,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        34,
+        68,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 38,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        15,
+        30,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 38,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        49,
+        98,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 38,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 38,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        58,
+        117,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 38,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        26,
+        52,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 38,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        68,
+        137,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 35,
+      "defender": 38,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        30,
+        61,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 5,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 5,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        1,
+        2,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 5,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        20,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 5,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        1,
+        2,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 5,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        11,
+        23,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 5,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        1,
+        2,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 5,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        16,
+        33,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 5,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        2,
+        4,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 5,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        20,
+        40,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 5,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        2,
+        5,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 5,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        23,
+        47,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 5,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        2,
+        5,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 12,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        44,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 12,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        6,
+        12,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 12,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        26,
+        52,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 12,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        15,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 12,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        30,
+        61,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 12,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        17,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 12,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        44,
+        88,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 12,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 12,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        52,
+        105,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 12,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        15,
+        30,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 12,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        61,
+        123,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 37,
+      "defender": 12,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        17,
+        35,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 25,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        23,
+        47,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 25,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        2,
+        5,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 25,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        28,
+        56,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 25,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        6,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 25,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        33,
+        66,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 25,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        7,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 25,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        47,
+        94,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 25,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        5,
+        11,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 25,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        56,
+        113,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 25,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        6,
+        13,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 25,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        66,
+        132,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 38,
+      "defender": 25,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        15,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 36,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        41,
+        83,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 36,
+      "hp": 50,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        7,
+        14,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 36,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        49,
+        99,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 36,
+      "hp": 50,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        17,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 36,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        58,
+        116,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 36,
+      "hp": 50,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        20,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 36,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        83,
+        166,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 36,
+      "hp": 100,
+      "medals": 0,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        14,
+        29,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 36,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        99,
+        199,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 36,
+      "hp": 100,
+      "medals": 2,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        17,
+        35,
+        1073741824,
+        1,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 36,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        116,
+        233,
+        1073741824,
+        0,
+        0
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 36,
+      "hp": 100,
+      "medals": 4,
+      "adjacent": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        20,
+        41,
+        1073741824,
+        1,
+        0
+      ]
+    }
+  ]
+}

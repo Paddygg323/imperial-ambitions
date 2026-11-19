@@ -1,0 +1,122 @@
+{
+  "scope": "Native global minor cash subsidy and eligible-minor turn initialization.",
+  "routine": "SetMinorMagicMoney5f7be0; InitializeTradeStatus511850 conditional add via4fd370",
+  "eligibility": "signed country+12e == -1 or >=200; counted across16minor/tribal slots",
+  "allocations": [
+    {
+      "eligibleCount": 0,
+      "amount": 1000
+    },
+    {
+      "eligibleCount": 1,
+      "amount": 800
+    },
+    {
+      "eligibleCount": 2,
+      "amount": 666
+    },
+    {
+      "eligibleCount": 3,
+      "amount": 571
+    },
+    {
+      "eligibleCount": 4,
+      "amount": 500
+    },
+    {
+      "eligibleCount": 5,
+      "amount": 444
+    },
+    {
+      "eligibleCount": 6,
+      "amount": 400
+    },
+    {
+      "eligibleCount": 7,
+      "amount": 363
+    },
+    {
+      "eligibleCount": 8,
+      "amount": 333
+    },
+    {
+      "eligibleCount": 9,
+      "amount": 307
+    },
+    {
+      "eligibleCount": 10,
+      "amount": 285
+    },
+    {
+      "eligibleCount": 11,
+      "amount": 266
+    },
+    {
+      "eligibleCount": 12,
+      "amount": 250
+    },
+    {
+      "eligibleCount": 13,
+      "amount": 235
+    },
+    {
+      "eligibleCount": 14,
+      "amount": 222
+    },
+    {
+      "eligibleCount": 15,
+      "amount": 210
+    },
+    {
+      "eligibleCount": 16,
+      "amount": 200
+    }
+  ],
+  "updates": [
+    {
+      "cash": 0,
+      "amount": 200,
+      "nextCash": 200
+    },
+    {
+      "cash": 0,
+      "amount": 333,
+      "nextCash": 333
+    },
+    {
+      "cash": 0,
+      "amount": 1000,
+      "nextCash": 1000
+    },
+    {
+      "cash": 1,
+      "amount": 200,
+      "nextCash": 201
+    },
+    {
+      "cash": 1,
+      "amount": 333,
+      "nextCash": 334
+    },
+    {
+      "cash": 1,
+      "amount": 1000,
+      "nextCash": 1001
+    },
+    {
+      "cash": 5000,
+      "amount": 200,
+      "nextCash": 5200
+    },
+    {
+      "cash": 5000,
+      "amount": 333,
+      "nextCash": 5333
+    },
+    {
+      "cash": 5000,
+      "amount": 1000,
+      "nextCash": 6000
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+FRESH GENERATED-WORLD CAMPAIGN RESULT - 2026-11-10
+Runtime simulation3-161; packaged display verification3-162.
+Result: verified England defeat, capitalLost, turn190/year1790.
+Sweden won the final London battle (e1-0),134 tactical actions. The terminal
+save independently confirms London owned by Sweden, England inactive, and the
+same outcome after validated save/load. No ranking-based outcome inference.
+
+Scope: normal fresh campaign, automated human economy, all human trade offers
+declined, no human military recruitment/planning, automated tactical input for
+both sides. No scripted wars or starting advantages. All actual systems run;
+this is a regression/playthrough probe, NOT competent play or balance proof.
+
+93 tactical battles completed, including four New World invasions. Six Great
+Power/Old World declarations were recorded. No runtime error or tactical step
+limit reached. Zero starvation recorded for all six Great Powers. England
+finished with27 fit workers and21 known technologies; other surviving powers
+had49..55 technologies. Passive England lost to an active enemy campaign;
+this does not establish that a competently played England would lose.
+
+New World battles: Holland/Taino n101(turn132), Sweden/Taino n107(turn171),
+Sweden/Sioux n118(turn175), Spain/Sioux n116(turn177); all attacker victories.
+
+The real terminal save loads in packaged Android-origin Chromium at412x915:
+Defeat heading, capital-loss report, End Turn disabled, persistence on reload,
+no horizontal overflow or browser error. Screenshot: phone-native-map-defeat.png.
+This is not physical Android WebView/Pixel testing.
+
+Evidence in work/rebuild-v2:
+ native-map-campaign.mjs, native-map-campaign.log, native-map-campaign.json,
+ native-map-campaign-save.json, native-map-campaign-before-battle.json.
+Browser verification: game/test/native-map-outcome-browser.mjs.
+Remaining: competent interactive campaign, Pixel performance/touch usability,
+original-system gaps including Great Power peace/alliances and map-name parity.
+PC original, hotseat installation and saves were untouched.

@@ -1,0 +1,19 @@
+Graphical review and implementation — runtime 251
+Scope: terrain, transport rendering, towns, battle formations. Presentation only.
+
+Claude first review: confirmed roads could be painted over by subsequent terrain tiles; blunt unshaded road lines; over-busy seas; solid battle tokens with blue/red colours disconnected from campaign; repeated town stamps and weak fort-height differentiation. Review was static screenshot/code analysis, not playtesting. Files mirrored in hotseat outputs/royal-review/art251 because Claude could not access the phone workspace directly.
+
+Implemented:
+- Ground, rivers, roads, then depth-sorted map objects; transport links drawn once and only when both ends surveyed.
+- Shaded round-ended roads with restrained curves; rail cross-ties; small bridge decks where road centreline intersects river geometry.
+- Less saturated ground and broader continuous texture sampling; calmer ocean texture, retaining faint sea navigation boundaries.
+- Deterministic mirrored town and biome silhouettes; town contact shadows; additional height emphasis on fort II and III.
+- Painted infantry/cavalry formations, individual guns/generals, national pennants, ground shadows, restrained selection/target outlines; small status bars. Local battle cells 64px with overview retained. No new gameplay state or changes to combat/economy.
+
+Validation: 24 transport/combat/battlefield tests, 4 terrain/town tests passed. Browser checks passed for desktop and phone artwork, map home/nation/world/pinch/selection, battle deployment/movement/AI/siege/breaches/retreat at four phone widths, and offline reload. Fixture render did not change game state. Screenshots outputs/visual-review/art251. Roads-fixture is deliberately synthetic dense transport; battle fixture includes multiple regiment types. Android bundle 251 built, not tested on physical Pixel. Not a store-readiness claim.
+
+Full-theme follow-up: removed legacy royal.css battle-token overrides; actual cascade screenshots and computed transparent-fill assertion passed. Battle controls also passed with all campaign styles loaded. A broader campaign-battle-browser test stopped before rendering at its declarations[0] assertion (declarations undefined); that campaign-level test is not counted as passed. No declaration/war logic was modified by this graphics update.
+
+Claude final review: verified actual map import and single drawRoadNetwork call; no old inline road loop; confirmed fixture uses real createMap and transport-link state, full-theme overrides removed, actual mountBattle state-diff and computed transparent-fill checks. Verdict: no integration gaps found in reviewed files. This is review evidence, not a claim of live playtesting or store readiness.
+
+Published successfully 2026-11-18. Runtime 251 / Site version 8. Commit f50bca1b65a82c4cafbedd740dce5b244a3bf478. Deployment appgdep_6afd6e2a8600819195b55d39a1292f5c. URL https://imperial-ambitions-playtest-paddy.paddygarrettb.chatgpt.site

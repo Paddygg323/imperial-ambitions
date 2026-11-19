@@ -1,0 +1,2525 @@
+{
+  "scope": "Original city4dab10 goods0..27: warehouse short minus signed32 reservation.\nUses supplied city arrays, not their producers. Negative availability is kept.\n",
+  "cases": [
+    {
+      "good": 0,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 0,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 0,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 0,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 0,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 0,
+      "stock": 51,
+      "reserved": 58,
+      "result": -7
+    },
+    {
+      "good": 0,
+      "stock": 26,
+      "reserved": 17,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "stock": 49,
+      "reserved": 21,
+      "result": 28
+    },
+    {
+      "good": 0,
+      "stock": 67,
+      "reserved": 99,
+      "result": -32
+    },
+    {
+      "good": 0,
+      "stock": 46,
+      "reserved": 51,
+      "result": -5
+    },
+    {
+      "good": 0,
+      "stock": 72,
+      "reserved": 90,
+      "result": -18
+    },
+    {
+      "good": 0,
+      "stock": 49,
+      "reserved": 0,
+      "result": 49
+    },
+    {
+      "good": 0,
+      "stock": 24,
+      "reserved": 82,
+      "result": -58
+    },
+    {
+      "good": 0,
+      "stock": 58,
+      "reserved": 86,
+      "result": -28
+    },
+    {
+      "good": 0,
+      "stock": 72,
+      "reserved": 28,
+      "result": 44
+    },
+    {
+      "good": 1,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 1,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 1,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 1,
+      "stock": 43,
+      "reserved": 79,
+      "result": -36
+    },
+    {
+      "good": 1,
+      "stock": 36,
+      "reserved": 21,
+      "result": 15
+    },
+    {
+      "good": 1,
+      "stock": 59,
+      "reserved": 94,
+      "result": -35
+    },
+    {
+      "good": 1,
+      "stock": 17,
+      "reserved": 43,
+      "result": -26
+    },
+    {
+      "good": 1,
+      "stock": 55,
+      "reserved": 80,
+      "result": -25
+    },
+    {
+      "good": 1,
+      "stock": 9,
+      "reserved": 12,
+      "result": -3
+    },
+    {
+      "good": 1,
+      "stock": 7,
+      "reserved": 93,
+      "result": -86
+    },
+    {
+      "good": 1,
+      "stock": 72,
+      "reserved": 57,
+      "result": 15
+    },
+    {
+      "good": 1,
+      "stock": 48,
+      "reserved": 37,
+      "result": 11
+    },
+    {
+      "good": 1,
+      "stock": 91,
+      "reserved": 76,
+      "result": 15
+    },
+    {
+      "good": 2,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 2,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 2,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 2,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 2,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 2,
+      "stock": 82,
+      "reserved": 86,
+      "result": -4
+    },
+    {
+      "good": 2,
+      "stock": 76,
+      "reserved": 76,
+      "result": 0
+    },
+    {
+      "good": 2,
+      "stock": 48,
+      "reserved": 2,
+      "result": 46
+    },
+    {
+      "good": 2,
+      "stock": 65,
+      "reserved": 51,
+      "result": 14
+    },
+    {
+      "good": 2,
+      "stock": 25,
+      "reserved": 2,
+      "result": 23
+    },
+    {
+      "good": 2,
+      "stock": 16,
+      "reserved": 18,
+      "result": -2
+    },
+    {
+      "good": 2,
+      "stock": 42,
+      "reserved": 45,
+      "result": -3
+    },
+    {
+      "good": 2,
+      "stock": 71,
+      "reserved": 34,
+      "result": 37
+    },
+    {
+      "good": 2,
+      "stock": 17,
+      "reserved": 83,
+      "result": -66
+    },
+    {
+      "good": 2,
+      "stock": 45,
+      "reserved": 48,
+      "result": -3
+    },
+    {
+      "good": 3,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 3,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 3,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 3,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 3,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 3,
+      "stock": 63,
+      "reserved": 94,
+      "result": -31
+    },
+    {
+      "good": 3,
+      "stock": 74,
+      "reserved": 11,
+      "result": 63
+    },
+    {
+      "good": 3,
+      "stock": 96,
+      "reserved": 52,
+      "result": 44
+    },
+    {
+      "good": 3,
+      "stock": 67,
+      "reserved": 56,
+      "result": 11
+    },
+    {
+      "good": 3,
+      "stock": 8,
+      "reserved": 1,
+      "result": 7
+    },
+    {
+      "good": 3,
+      "stock": 69,
+      "reserved": 51,
+      "result": 18
+    },
+    {
+      "good": 3,
+      "stock": 34,
+      "reserved": 82,
+      "result": -48
+    },
+    {
+      "good": 3,
+      "stock": 84,
+      "reserved": 70,
+      "result": 14
+    },
+    {
+      "good": 3,
+      "stock": 50,
+      "reserved": 89,
+      "result": -39
+    },
+    {
+      "good": 3,
+      "stock": 78,
+      "reserved": 60,
+      "result": 18
+    },
+    {
+      "good": 4,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 4,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 4,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 4,
+      "stock": 38,
+      "reserved": 44,
+      "result": -6
+    },
+    {
+      "good": 4,
+      "stock": 28,
+      "reserved": 66,
+      "result": -38
+    },
+    {
+      "good": 4,
+      "stock": 19,
+      "reserved": 99,
+      "result": -80
+    },
+    {
+      "good": 4,
+      "stock": 76,
+      "reserved": 28,
+      "result": 48
+    },
+    {
+      "good": 4,
+      "stock": 99,
+      "reserved": 59,
+      "result": 40
+    },
+    {
+      "good": 4,
+      "stock": 22,
+      "reserved": 16,
+      "result": 6
+    },
+    {
+      "good": 4,
+      "stock": 56,
+      "reserved": 60,
+      "result": -4
+    },
+    {
+      "good": 4,
+      "stock": 86,
+      "reserved": 33,
+      "result": 53
+    },
+    {
+      "good": 4,
+      "stock": 78,
+      "reserved": 78,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "stock": 71,
+      "reserved": 22,
+      "result": 49
+    },
+    {
+      "good": 5,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 5,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 5,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 5,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 5,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 5,
+      "stock": 73,
+      "reserved": 54,
+      "result": 19
+    },
+    {
+      "good": 5,
+      "stock": 59,
+      "reserved": 30,
+      "result": 29
+    },
+    {
+      "good": 5,
+      "stock": 46,
+      "reserved": 6,
+      "result": 40
+    },
+    {
+      "good": 5,
+      "stock": 85,
+      "reserved": 87,
+      "result": -2
+    },
+    {
+      "good": 5,
+      "stock": 65,
+      "reserved": 88,
+      "result": -23
+    },
+    {
+      "good": 5,
+      "stock": 26,
+      "reserved": 83,
+      "result": -57
+    },
+    {
+      "good": 5,
+      "stock": 45,
+      "reserved": 6,
+      "result": 39
+    },
+    {
+      "good": 5,
+      "stock": 59,
+      "reserved": 88,
+      "result": -29
+    },
+    {
+      "good": 5,
+      "stock": 55,
+      "reserved": 71,
+      "result": -16
+    },
+    {
+      "good": 5,
+      "stock": 98,
+      "reserved": 73,
+      "result": 25
+    },
+    {
+      "good": 6,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 6,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 6,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 6,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 6,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 6,
+      "stock": 23,
+      "reserved": 8,
+      "result": 15
+    },
+    {
+      "good": 6,
+      "stock": 70,
+      "reserved": 95,
+      "result": -25
+    },
+    {
+      "good": 6,
+      "stock": 24,
+      "reserved": 36,
+      "result": -12
+    },
+    {
+      "good": 6,
+      "stock": 80,
+      "reserved": 31,
+      "result": 49
+    },
+    {
+      "good": 6,
+      "stock": 9,
+      "reserved": 69,
+      "result": -60
+    },
+    {
+      "good": 6,
+      "stock": 40,
+      "reserved": 61,
+      "result": -21
+    },
+    {
+      "good": 6,
+      "stock": 74,
+      "reserved": 87,
+      "result": -13
+    },
+    {
+      "good": 6,
+      "stock": 43,
+      "reserved": 69,
+      "result": -26
+    },
+    {
+      "good": 6,
+      "stock": 68,
+      "reserved": 47,
+      "result": 21
+    },
+    {
+      "good": 6,
+      "stock": 41,
+      "reserved": 64,
+      "result": -23
+    },
+    {
+      "good": 7,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 7,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 7,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 7,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 7,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 7,
+      "stock": 66,
+      "reserved": 8,
+      "result": 58
+    },
+    {
+      "good": 7,
+      "stock": 51,
+      "reserved": 16,
+      "result": 35
+    },
+    {
+      "good": 7,
+      "stock": 53,
+      "reserved": 28,
+      "result": 25
+    },
+    {
+      "good": 7,
+      "stock": 73,
+      "reserved": 18,
+      "result": 55
+    },
+    {
+      "good": 7,
+      "stock": 95,
+      "reserved": 28,
+      "result": 67
+    },
+    {
+      "good": 7,
+      "stock": 45,
+      "reserved": 42,
+      "result": 3
+    },
+    {
+      "good": 7,
+      "stock": 52,
+      "reserved": 94,
+      "result": -42
+    },
+    {
+      "good": 7,
+      "stock": 41,
+      "reserved": 0,
+      "result": 41
+    },
+    {
+      "good": 7,
+      "stock": 81,
+      "reserved": 27,
+      "result": 54
+    },
+    {
+      "good": 7,
+      "stock": 40,
+      "reserved": 67,
+      "result": -27
+    },
+    {
+      "good": 8,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 8,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 8,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 8,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 8,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 8,
+      "stock": 30,
+      "reserved": 42,
+      "result": -12
+    },
+    {
+      "good": 8,
+      "stock": 2,
+      "reserved": 18,
+      "result": -16
+    },
+    {
+      "good": 8,
+      "stock": 0,
+      "reserved": 85,
+      "result": -85
+    },
+    {
+      "good": 8,
+      "stock": 62,
+      "reserved": 16,
+      "result": 46
+    },
+    {
+      "good": 8,
+      "stock": 53,
+      "reserved": 13,
+      "result": 40
+    },
+    {
+      "good": 8,
+      "stock": 24,
+      "reserved": 47,
+      "result": -23
+    },
+    {
+      "good": 8,
+      "stock": 60,
+      "reserved": 72,
+      "result": -12
+    },
+    {
+      "good": 8,
+      "stock": 61,
+      "reserved": 83,
+      "result": -22
+    },
+    {
+      "good": 8,
+      "stock": 90,
+      "reserved": 29,
+      "result": 61
+    },
+    {
+      "good": 8,
+      "stock": 3,
+      "reserved": 46,
+      "result": -43
+    },
+    {
+      "good": 9,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 9,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 9,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 9,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 9,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 9,
+      "stock": 53,
+      "reserved": 0,
+      "result": 53
+    },
+    {
+      "good": 9,
+      "stock": 55,
+      "reserved": 60,
+      "result": -5
+    },
+    {
+      "good": 9,
+      "stock": 66,
+      "reserved": 46,
+      "result": 20
+    },
+    {
+      "good": 9,
+      "stock": 75,
+      "reserved": 87,
+      "result": -12
+    },
+    {
+      "good": 9,
+      "stock": 41,
+      "reserved": 78,
+      "result": -37
+    },
+    {
+      "good": 9,
+      "stock": 39,
+      "reserved": 55,
+      "result": -16
+    },
+    {
+      "good": 9,
+      "stock": 34,
+      "reserved": 48,
+      "result": -14
+    },
+    {
+      "good": 9,
+      "stock": 13,
+      "reserved": 67,
+      "result": -54
+    },
+    {
+      "good": 9,
+      "stock": 80,
+      "reserved": 10,
+      "result": 70
+    },
+    {
+      "good": 9,
+      "stock": 7,
+      "reserved": 73,
+      "result": -66
+    },
+    {
+      "good": 10,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 10,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 10,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 10,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 10,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 10,
+      "stock": 91,
+      "reserved": 32,
+      "result": 59
+    },
+    {
+      "good": 10,
+      "stock": 39,
+      "reserved": 41,
+      "result": -2
+    },
+    {
+      "good": 10,
+      "stock": 24,
+      "reserved": 53,
+      "result": -29
+    },
+    {
+      "good": 10,
+      "stock": 57,
+      "reserved": 32,
+      "result": 25
+    },
+    {
+      "good": 10,
+      "stock": 73,
+      "reserved": 57,
+      "result": 16
+    },
+    {
+      "good": 10,
+      "stock": 54,
+      "reserved": 53,
+      "result": 1
+    },
+    {
+      "good": 10,
+      "stock": 85,
+      "reserved": 65,
+      "result": 20
+    },
+    {
+      "good": 10,
+      "stock": 30,
+      "reserved": 23,
+      "result": 7
+    },
+    {
+      "good": 10,
+      "stock": 31,
+      "reserved": 40,
+      "result": -9
+    },
+    {
+      "good": 10,
+      "stock": 14,
+      "reserved": 19,
+      "result": -5
+    },
+    {
+      "good": 11,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 11,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 11,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 11,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 11,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 11,
+      "stock": 10,
+      "reserved": 77,
+      "result": -67
+    },
+    {
+      "good": 11,
+      "stock": 48,
+      "reserved": 89,
+      "result": -41
+    },
+    {
+      "good": 11,
+      "stock": 77,
+      "reserved": 33,
+      "result": 44
+    },
+    {
+      "good": 11,
+      "stock": 15,
+      "reserved": 53,
+      "result": -38
+    },
+    {
+      "good": 11,
+      "stock": 19,
+      "reserved": 57,
+      "result": -38
+    },
+    {
+      "good": 11,
+      "stock": 5,
+      "reserved": 90,
+      "result": -85
+    },
+    {
+      "good": 11,
+      "stock": 47,
+      "reserved": 90,
+      "result": -43
+    },
+    {
+      "good": 11,
+      "stock": 39,
+      "reserved": 25,
+      "result": 14
+    },
+    {
+      "good": 11,
+      "stock": 34,
+      "reserved": 6,
+      "result": 28
+    },
+    {
+      "good": 11,
+      "stock": 80,
+      "reserved": 35,
+      "result": 45
+    },
+    {
+      "good": 12,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 12,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 12,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 12,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 12,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 12,
+      "stock": 39,
+      "reserved": 10,
+      "result": 29
+    },
+    {
+      "good": 12,
+      "stock": 4,
+      "reserved": 54,
+      "result": -50
+    },
+    {
+      "good": 12,
+      "stock": 46,
+      "reserved": 68,
+      "result": -22
+    },
+    {
+      "good": 12,
+      "stock": 19,
+      "reserved": 95,
+      "result": -76
+    },
+    {
+      "good": 12,
+      "stock": 98,
+      "reserved": 27,
+      "result": 71
+    },
+    {
+      "good": 12,
+      "stock": 29,
+      "reserved": 5,
+      "result": 24
+    },
+    {
+      "good": 12,
+      "stock": 13,
+      "reserved": 77,
+      "result": -64
+    },
+    {
+      "good": 12,
+      "stock": 99,
+      "reserved": 98,
+      "result": 1
+    },
+    {
+      "good": 12,
+      "stock": 89,
+      "reserved": 37,
+      "result": 52
+    },
+    {
+      "good": 12,
+      "stock": 23,
+      "reserved": 49,
+      "result": -26
+    },
+    {
+      "good": 13,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 13,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 13,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 13,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 13,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 13,
+      "stock": 32,
+      "reserved": 19,
+      "result": 13
+    },
+    {
+      "good": 13,
+      "stock": 9,
+      "reserved": 62,
+      "result": -53
+    },
+    {
+      "good": 13,
+      "stock": 33,
+      "reserved": 63,
+      "result": -30
+    },
+    {
+      "good": 13,
+      "stock": 21,
+      "reserved": 30,
+      "result": -9
+    },
+    {
+      "good": 13,
+      "stock": 63,
+      "reserved": 24,
+      "result": 39
+    },
+    {
+      "good": 13,
+      "stock": 88,
+      "reserved": 51,
+      "result": 37
+    },
+    {
+      "good": 13,
+      "stock": 67,
+      "reserved": 37,
+      "result": 30
+    },
+    {
+      "good": 13,
+      "stock": 76,
+      "reserved": 90,
+      "result": -14
+    },
+    {
+      "good": 13,
+      "stock": 95,
+      "reserved": 22,
+      "result": 73
+    },
+    {
+      "good": 13,
+      "stock": 68,
+      "reserved": 19,
+      "result": 49
+    },
+    {
+      "good": 14,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 14,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 14,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 14,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 14,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 14,
+      "stock": 38,
+      "reserved": 22,
+      "result": 16
+    },
+    {
+      "good": 14,
+      "stock": 97,
+      "reserved": 86,
+      "result": 11
+    },
+    {
+      "good": 14,
+      "stock": 35,
+      "reserved": 77,
+      "result": -42
+    },
+    {
+      "good": 14,
+      "stock": 49,
+      "reserved": 29,
+      "result": 20
+    },
+    {
+      "good": 14,
+      "stock": 19,
+      "reserved": 13,
+      "result": 6
+    },
+    {
+      "good": 14,
+      "stock": 82,
+      "reserved": 27,
+      "result": 55
+    },
+    {
+      "good": 14,
+      "stock": 37,
+      "reserved": 40,
+      "result": -3
+    },
+    {
+      "good": 14,
+      "stock": 98,
+      "reserved": 51,
+      "result": 47
+    },
+    {
+      "good": 14,
+      "stock": 69,
+      "reserved": 81,
+      "result": -12
+    },
+    {
+      "good": 14,
+      "stock": 5,
+      "reserved": 16,
+      "result": -11
+    },
+    {
+      "good": 15,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 15,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 15,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 15,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 15,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 15,
+      "stock": 56,
+      "reserved": 66,
+      "result": -10
+    },
+    {
+      "good": 15,
+      "stock": 37,
+      "reserved": 99,
+      "result": -62
+    },
+    {
+      "good": 15,
+      "stock": 94,
+      "reserved": 81,
+      "result": 13
+    },
+    {
+      "good": 15,
+      "stock": 7,
+      "reserved": 10,
+      "result": -3
+    },
+    {
+      "good": 15,
+      "stock": 73,
+      "reserved": 73,
+      "result": 0
+    },
+    {
+      "good": 15,
+      "stock": 26,
+      "reserved": 52,
+      "result": -26
+    },
+    {
+      "good": 15,
+      "stock": 42,
+      "reserved": 94,
+      "result": -52
+    },
+    {
+      "good": 15,
+      "stock": 20,
+      "reserved": 47,
+      "result": -27
+    },
+    {
+      "good": 15,
+      "stock": 99,
+      "reserved": 80,
+      "result": 19
+    },
+    {
+      "good": 15,
+      "stock": 63,
+      "reserved": 24,
+      "result": 39
+    },
+    {
+      "good": 16,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 16,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 16,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 16,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 16,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 16,
+      "stock": 23,
+      "reserved": 46,
+      "result": -23
+    },
+    {
+      "good": 16,
+      "stock": 28,
+      "reserved": 34,
+      "result": -6
+    },
+    {
+      "good": 16,
+      "stock": 59,
+      "reserved": 59,
+      "result": 0
+    },
+    {
+      "good": 16,
+      "stock": 14,
+      "reserved": 54,
+      "result": -40
+    },
+    {
+      "good": 16,
+      "stock": 79,
+      "reserved": 65,
+      "result": 14
+    },
+    {
+      "good": 16,
+      "stock": 33,
+      "reserved": 29,
+      "result": 4
+    },
+    {
+      "good": 16,
+      "stock": 1,
+      "reserved": 50,
+      "result": -49
+    },
+    {
+      "good": 16,
+      "stock": 55,
+      "reserved": 45,
+      "result": 10
+    },
+    {
+      "good": 16,
+      "stock": 31,
+      "reserved": 29,
+      "result": 2
+    },
+    {
+      "good": 16,
+      "stock": 68,
+      "reserved": 99,
+      "result": -31
+    },
+    {
+      "good": 17,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 17,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 17,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 17,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 17,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 17,
+      "stock": 15,
+      "reserved": 4,
+      "result": 11
+    },
+    {
+      "good": 17,
+      "stock": 58,
+      "reserved": 14,
+      "result": 44
+    },
+    {
+      "good": 17,
+      "stock": 26,
+      "reserved": 87,
+      "result": -61
+    },
+    {
+      "good": 17,
+      "stock": 29,
+      "reserved": 96,
+      "result": -67
+    },
+    {
+      "good": 17,
+      "stock": 4,
+      "reserved": 24,
+      "result": -20
+    },
+    {
+      "good": 17,
+      "stock": 61,
+      "reserved": 67,
+      "result": -6
+    },
+    {
+      "good": 17,
+      "stock": 56,
+      "reserved": 16,
+      "result": 40
+    },
+    {
+      "good": 17,
+      "stock": 80,
+      "reserved": 44,
+      "result": 36
+    },
+    {
+      "good": 17,
+      "stock": 39,
+      "reserved": 59,
+      "result": -20
+    },
+    {
+      "good": 17,
+      "stock": 24,
+      "reserved": 84,
+      "result": -60
+    },
+    {
+      "good": 18,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 18,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 18,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 18,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 18,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 18,
+      "stock": 74,
+      "reserved": 83,
+      "result": -9
+    },
+    {
+      "good": 18,
+      "stock": 47,
+      "reserved": 79,
+      "result": -32
+    },
+    {
+      "good": 18,
+      "stock": 1,
+      "reserved": 3,
+      "result": -2
+    },
+    {
+      "good": 18,
+      "stock": 22,
+      "reserved": 55,
+      "result": -33
+    },
+    {
+      "good": 18,
+      "stock": 77,
+      "reserved": 99,
+      "result": -22
+    },
+    {
+      "good": 18,
+      "stock": 4,
+      "reserved": 89,
+      "result": -85
+    },
+    {
+      "good": 18,
+      "stock": 28,
+      "reserved": 20,
+      "result": 8
+    },
+    {
+      "good": 18,
+      "stock": 0,
+      "reserved": 12,
+      "result": -12
+    },
+    {
+      "good": 18,
+      "stock": 33,
+      "reserved": 11,
+      "result": 22
+    },
+    {
+      "good": 18,
+      "stock": 92,
+      "reserved": 69,
+      "result": 23
+    },
+    {
+      "good": 19,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 19,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 19,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 19,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 19,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 19,
+      "stock": 40,
+      "reserved": 29,
+      "result": 11
+    },
+    {
+      "good": 19,
+      "stock": 25,
+      "reserved": 18,
+      "result": 7
+    },
+    {
+      "good": 19,
+      "stock": 63,
+      "reserved": 14,
+      "result": 49
+    },
+    {
+      "good": 19,
+      "stock": 0,
+      "reserved": 37,
+      "result": -37
+    },
+    {
+      "good": 19,
+      "stock": 64,
+      "reserved": 85,
+      "result": -21
+    },
+    {
+      "good": 19,
+      "stock": 4,
+      "reserved": 60,
+      "result": -56
+    },
+    {
+      "good": 19,
+      "stock": 68,
+      "reserved": 45,
+      "result": 23
+    },
+    {
+      "good": 19,
+      "stock": 40,
+      "reserved": 41,
+      "result": -1
+    },
+    {
+      "good": 19,
+      "stock": 53,
+      "reserved": 29,
+      "result": 24
+    },
+    {
+      "good": 19,
+      "stock": 5,
+      "reserved": 1,
+      "result": 4
+    },
+    {
+      "good": 20,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 20,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 20,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 20,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 20,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 20,
+      "stock": 13,
+      "reserved": 57,
+      "result": -44
+    },
+    {
+      "good": 20,
+      "stock": 90,
+      "reserved": 46,
+      "result": 44
+    },
+    {
+      "good": 20,
+      "stock": 81,
+      "reserved": 56,
+      "result": 25
+    },
+    {
+      "good": 20,
+      "stock": 48,
+      "reserved": 38,
+      "result": 10
+    },
+    {
+      "good": 20,
+      "stock": 63,
+      "reserved": 86,
+      "result": -23
+    },
+    {
+      "good": 20,
+      "stock": 50,
+      "reserved": 94,
+      "result": -44
+    },
+    {
+      "good": 20,
+      "stock": 71,
+      "reserved": 40,
+      "result": 31
+    },
+    {
+      "good": 20,
+      "stock": 93,
+      "reserved": 98,
+      "result": -5
+    },
+    {
+      "good": 20,
+      "stock": 74,
+      "reserved": 59,
+      "result": 15
+    },
+    {
+      "good": 20,
+      "stock": 4,
+      "reserved": 61,
+      "result": -57
+    },
+    {
+      "good": 21,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 21,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 21,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 21,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 21,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 21,
+      "stock": 73,
+      "reserved": 72,
+      "result": 1
+    },
+    {
+      "good": 21,
+      "stock": 77,
+      "reserved": 3,
+      "result": 74
+    },
+    {
+      "good": 21,
+      "stock": 41,
+      "reserved": 25,
+      "result": 16
+    },
+    {
+      "good": 21,
+      "stock": 31,
+      "reserved": 38,
+      "result": -7
+    },
+    {
+      "good": 21,
+      "stock": 41,
+      "reserved": 88,
+      "result": -47
+    },
+    {
+      "good": 21,
+      "stock": 71,
+      "reserved": 50,
+      "result": 21
+    },
+    {
+      "good": 21,
+      "stock": 77,
+      "reserved": 2,
+      "result": 75
+    },
+    {
+      "good": 21,
+      "stock": 63,
+      "reserved": 32,
+      "result": 31
+    },
+    {
+      "good": 21,
+      "stock": 50,
+      "reserved": 35,
+      "result": 15
+    },
+    {
+      "good": 21,
+      "stock": 41,
+      "reserved": 28,
+      "result": 13
+    },
+    {
+      "good": 22,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 22,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 22,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 22,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 22,
+      "stock": 69,
+      "reserved": 54,
+      "result": 15
+    },
+    {
+      "good": 22,
+      "stock": 44,
+      "reserved": 83,
+      "result": -39
+    },
+    {
+      "good": 22,
+      "stock": 16,
+      "reserved": 79,
+      "result": -63
+    },
+    {
+      "good": 22,
+      "stock": 96,
+      "reserved": 42,
+      "result": 54
+    },
+    {
+      "good": 22,
+      "stock": 93,
+      "reserved": 72,
+      "result": 21
+    },
+    {
+      "good": 22,
+      "stock": 54,
+      "reserved": 16,
+      "result": 38
+    },
+    {
+      "good": 22,
+      "stock": 94,
+      "reserved": 64,
+      "result": 30
+    },
+    {
+      "good": 22,
+      "stock": 23,
+      "reserved": 58,
+      "result": -35
+    },
+    {
+      "good": 22,
+      "stock": 46,
+      "reserved": 71,
+      "result": -25
+    },
+    {
+      "good": 22,
+      "stock": 44,
+      "reserved": 5,
+      "result": 39
+    },
+    {
+      "good": 23,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 23,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 23,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 23,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 23,
+      "stock": 77,
+      "reserved": 16,
+      "result": 61
+    },
+    {
+      "good": 23,
+      "stock": 56,
+      "reserved": 85,
+      "result": -29
+    },
+    {
+      "good": 23,
+      "stock": 9,
+      "reserved": 56,
+      "result": -47
+    },
+    {
+      "good": 23,
+      "stock": 16,
+      "reserved": 71,
+      "result": -55
+    },
+    {
+      "good": 23,
+      "stock": 39,
+      "reserved": 4,
+      "result": 35
+    },
+    {
+      "good": 23,
+      "stock": 36,
+      "reserved": 79,
+      "result": -43
+    },
+    {
+      "good": 23,
+      "stock": 15,
+      "reserved": 60,
+      "result": -45
+    },
+    {
+      "good": 23,
+      "stock": 18,
+      "reserved": 20,
+      "result": -2
+    },
+    {
+      "good": 23,
+      "stock": 73,
+      "reserved": 96,
+      "result": -23
+    },
+    {
+      "good": 23,
+      "stock": 86,
+      "reserved": 78,
+      "result": 8
+    },
+    {
+      "good": 24,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 24,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 24,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 24,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 24,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 24,
+      "stock": 88,
+      "reserved": 54,
+      "result": 34
+    },
+    {
+      "good": 24,
+      "stock": 22,
+      "reserved": 96,
+      "result": -74
+    },
+    {
+      "good": 24,
+      "stock": 31,
+      "reserved": 38,
+      "result": -7
+    },
+    {
+      "good": 24,
+      "stock": 62,
+      "reserved": 23,
+      "result": 39
+    },
+    {
+      "good": 24,
+      "stock": 17,
+      "reserved": 59,
+      "result": -42
+    },
+    {
+      "good": 24,
+      "stock": 41,
+      "reserved": 82,
+      "result": -41
+    },
+    {
+      "good": 24,
+      "stock": 26,
+      "reserved": 32,
+      "result": -6
+    },
+    {
+      "good": 24,
+      "stock": 31,
+      "reserved": 0,
+      "result": 31
+    },
+    {
+      "good": 24,
+      "stock": 28,
+      "reserved": 82,
+      "result": -54
+    },
+    {
+      "good": 24,
+      "stock": 28,
+      "reserved": 41,
+      "result": -13
+    },
+    {
+      "good": 25,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 25,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 25,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 25,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 25,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 25,
+      "stock": 26,
+      "reserved": 10,
+      "result": 16
+    },
+    {
+      "good": 25,
+      "stock": 54,
+      "reserved": 78,
+      "result": -24
+    },
+    {
+      "good": 25,
+      "stock": 43,
+      "reserved": 59,
+      "result": -16
+    },
+    {
+      "good": 25,
+      "stock": 5,
+      "reserved": 26,
+      "result": -21
+    },
+    {
+      "good": 25,
+      "stock": 76,
+      "reserved": 71,
+      "result": 5
+    },
+    {
+      "good": 25,
+      "stock": 33,
+      "reserved": 10,
+      "result": 23
+    },
+    {
+      "good": 25,
+      "stock": 49,
+      "reserved": 26,
+      "result": 23
+    },
+    {
+      "good": 25,
+      "stock": 56,
+      "reserved": 87,
+      "result": -31
+    },
+    {
+      "good": 25,
+      "stock": 67,
+      "reserved": 26,
+      "result": 41
+    },
+    {
+      "good": 25,
+      "stock": 86,
+      "reserved": 43,
+      "result": 43
+    },
+    {
+      "good": 26,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 26,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 26,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 26,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 26,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 26,
+      "stock": 46,
+      "reserved": 78,
+      "result": -32
+    },
+    {
+      "good": 26,
+      "stock": 8,
+      "reserved": 47,
+      "result": -39
+    },
+    {
+      "good": 26,
+      "stock": 61,
+      "reserved": 12,
+      "result": 49
+    },
+    {
+      "good": 26,
+      "stock": 72,
+      "reserved": 10,
+      "result": 62
+    },
+    {
+      "good": 26,
+      "stock": 99,
+      "reserved": 8,
+      "result": 91
+    },
+    {
+      "good": 26,
+      "stock": 42,
+      "reserved": 70,
+      "result": -28
+    },
+    {
+      "good": 26,
+      "stock": 39,
+      "reserved": 12,
+      "result": 27
+    },
+    {
+      "good": 26,
+      "stock": 87,
+      "reserved": 75,
+      "result": 12
+    },
+    {
+      "good": 26,
+      "stock": 5,
+      "reserved": 64,
+      "result": -59
+    },
+    {
+      "good": 26,
+      "stock": 67,
+      "reserved": 62,
+      "result": 5
+    },
+    {
+      "good": 27,
+      "stock": 0,
+      "reserved": 0,
+      "result": 0
+    },
+    {
+      "good": 27,
+      "stock": 0,
+      "reserved": 5,
+      "result": -5
+    },
+    {
+      "good": 27,
+      "stock": 5,
+      "reserved": 5,
+      "result": 0
+    },
+    {
+      "good": 27,
+      "stock": 10,
+      "reserved": 3,
+      "result": 7
+    },
+    {
+      "good": 27,
+      "stock": 32767,
+      "reserved": 40000,
+      "result": -7233
+    },
+    {
+      "good": 27,
+      "stock": 74,
+      "reserved": 53,
+      "result": 21
+    },
+    {
+      "good": 27,
+      "stock": 49,
+      "reserved": 92,
+      "result": -43
+    },
+    {
+      "good": 27,
+      "stock": 55,
+      "reserved": 44,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "stock": 12,
+      "reserved": 51,
+      "result": -39
+    },
+    {
+      "good": 27,
+      "stock": 77,
+      "reserved": 14,
+      "result": 63
+    },
+    {
+      "good": 27,
+      "stock": 33,
+      "reserved": 89,
+      "result": -56
+    },
+    {
+      "good": 27,
+      "stock": 77,
+      "reserved": 73,
+      "result": 4
+    },
+    {
+      "good": 27,
+      "stock": 35,
+      "reserved": 92,
+      "result": -57
+    },
+    {
+      "good": 27,
+      "stock": 40,
+      "reserved": 27,
+      "result": 13
+    },
+    {
+      "good": 27,
+      "stock": 49,
+      "reserved": 8,
+      "result": 41
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "scope": "Native merchant war-support tail5a1aa8..5a1ad4.\nReal status gate, carrier lookup, event8 and adjustment; supplied cargo status\nand carrying country. Does not emulate preceding convoy combat in this fixture.\n",
+  "cases": [
+    {
+      "carrier": 0,
+      "status": "okay",
+      "support": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "carrier": 0,
+      "status": "lost",
+      "support": [
+        0.49000000953674316,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "carrier": 0,
+      "status": "canc",
+      "support": [
+        0.49000000953674316,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "carrier": 0,
+      "status": "none",
+      "support": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "carrier": 1,
+      "status": "okay",
+      "support": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "carrier": 1,
+      "status": "lost",
+      "support": [
+        0.5,
+        0.49000000953674316,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "carrier": 1,
+      "status": "canc",
+      "support": [
+        0.5,
+        0.49000000953674316,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "carrier": 1,
+      "status": "none",
+      "support": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "carrier": 2,
+      "status": "okay",
+      "support": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "carrier": 2,
+      "status": "lost",
+      "support": [
+        0.5,
+        0.5,
+        0.47999998927116394,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "carrier": 2,
+      "status": "canc",
+      "support": [
+        0.5,
+        0.5,
+        0.47999998927116394,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "carrier": 2,
+      "status": "none",
+      "support": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "carrier": 3,
+      "status": "okay",
+      "support": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "carrier": 3,
+      "status": "lost",
+      "support": [
+        0.5,
+        0.5,
+        0.5,
+        0.49000000953674316,
+        0.5
+      ]
+    },
+    {
+      "carrier": 3,
+      "status": "canc",
+      "support": [
+        0.5,
+        0.5,
+        0.5,
+        0.49000000953674316,
+        0.5
+      ]
+    },
+    {
+      "carrier": 3,
+      "status": "none",
+      "support": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "carrier": 4,
+      "status": "okay",
+      "support": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "carrier": 4,
+      "status": "lost",
+      "support": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.49000000953674316
+      ]
+    },
+    {
+      "carrier": 4,
+      "status": "canc",
+      "support": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.49000000953674316
+      ]
+    },
+    {
+      "carrier": 4,
+      "status": "none",
+      "support": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  ]
+}

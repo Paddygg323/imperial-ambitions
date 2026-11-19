@@ -1,0 +1,24 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {createGame,saveGame,loadGame} from '../engine.mjs';
+import {campaignTransportNetworks} from '../campaign-port-danger.mjs';
+import {campaignReinforcementForecast} from '../campaign-reinforcement-forecast.mjs';
+test('current hostile sea occupancy feeds recorded route danger and reinforcement forecasts',()=>{
+ let s=createGame(),n=s.nations.england,home=s.tiles.find(t=>t.id===n.capital);
+ const zone=s.seas.cellZones[home.transportSeaTile],ship=s.ships.find(u=>u.owner==='france');
+ s.wars=[['england','france']];
+ assert.deepEqual(campaignTransportNetworks(s,'england'),[{root:n.capital,flag:0}]);
+ ship.location=zone;
+ assert.deepEqual(campaignTransportNetworks(s,'england'),[{root:n.capital,flag:1}]);
+ s=loadGame(saveGame(s));
+ const planning={unused:Array(28).fill(0),undeveloped:Array(28).fill(0)},before=JSON.stringify(s);
+ const result=campaignReinforcementForecast(s,'england',{planning});
+ assert.equal(result.transport.networks[0].flag,1);
+ assert.equal(JSON.stringify(s),before);
+ s.ships.find(u=>u.id===ship.id).location='home';
+ assert.equal(campaignTransportNetworks(s,'england')[0].flag,0);
+ s.ships.find(u=>u.id===ship.id).location=zone;s.wars=[];
+ assert.equal(campaignTransportNetworks(s,'england')[0].flag,0);
+ delete s.tiles.find(t=>t.id===n.capital).transportSeaTile;
+ assert.throws(()=>campaignTransportNetworks(s,'england'),/Recorded port exit/);
+});

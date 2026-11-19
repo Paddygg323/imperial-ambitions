@@ -1,0 +1,2177 @@
+{
+  "function": "0x61c5d0",
+  "scope": "Fort crossing/target supplied, category/list/side effects stubbed. Captures troop loss and wall damage. Not target legality or geometry parity.",
+  "wallMultiplier": 0.10000000149011612,
+  "collateralMultiplier": 0.5,
+  "cases": [
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          0
+        ]
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          0
+        ]
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          0
+        ]
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          0
+        ]
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          0
+        ]
+      ]
+    },
+    {
+      "attacker": 4,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          0
+        ]
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        9,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          4
+        ]
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          4
+        ]
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        4,
+        8,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          4
+        ]
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          4
+        ]
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        3,
+        6,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          4
+        ]
+      ]
+    },
+    {
+      "attacker": 8,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          4
+        ]
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          0
+        ]
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          0
+        ]
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          0
+        ]
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          0
+        ]
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        0,
+        0,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          0
+        ]
+      ]
+    },
+    {
+      "attacker": 20,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          0
+        ]
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        9,
+        18,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          2
+        ]
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          4
+        ]
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          4
+        ]
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        8,
+        16,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          2
+        ]
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          4
+        ]
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          4
+        ]
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        6,
+        13,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          2
+        ]
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        13,
+        26,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          4
+        ]
+      ]
+    },
+    {
+      "attacker": 33,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          4
+        ]
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        15,
+        30,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          3
+        ]
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        43,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        43,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        43,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          7
+        ]
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          7
+        ]
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        12,
+        25,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          3
+        ]
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        43,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        43,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        43,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          7
+        ]
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          7
+        ]
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        10,
+        21,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          3
+        ]
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        43,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        43,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        21,
+        43,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          7
+        ]
+      ]
+    },
+    {
+      "attacker": 36,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          7
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        31,
+        63,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          8
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        45,
+        91,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        45,
+        91,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        45,
+        91,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          16
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 2,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          16
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        27,
+        54,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          8
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        45,
+        91,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        45,
+        91,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        45,
+        91,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          16
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 3,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          16
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        22,
+        45,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": [
+        [
+          98,
+          8
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 0,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        45,
+        91,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        45,
+        91,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": false,
+      "attackerSide": 1,
+      "breached": true,
+      "args": [
+        9572352,
+        9576448,
+        100,
+        45,
+        91,
+        1073741824,
+        0,
+        0
+      ],
+      "wallDamage": []
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": true,
+      "attackerSide": 0,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          16
+        ]
+      ]
+    },
+    {
+      "attacker": 39,
+      "defender": 4,
+      "hp": 80,
+      "medals": 2,
+      "fortCode": 4,
+      "wallTarget": true,
+      "attackerSide": 1,
+      "breached": false,
+      "args": [],
+      "wallDamage": [
+        [
+          98,
+          16
+        ]
+      ]
+    }
+  ]
+}

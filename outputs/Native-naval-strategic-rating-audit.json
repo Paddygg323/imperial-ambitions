@@ -1,0 +1,761 @@
+{
+  "scope": "Native50cbc0 naval strategic rating, actual598da0 cost rating and5993e0\ncategory lookup. Actual4da740 cost lookup with static ship cost base62 supplied.\nOnly fleet-list head query407766 supplied; linked list traversed by native code.\n",
+  "ratings": [
+    {
+      "type": "galleon",
+      "rating": 17
+    },
+    {
+      "type": "shipOfTheLine",
+      "rating": 29
+    },
+    {
+      "type": "ironclad",
+      "rating": 66
+    },
+    {
+      "type": "sloop",
+      "rating": 8
+    },
+    {
+      "type": "frigate",
+      "rating": 19
+    },
+    {
+      "type": "raider",
+      "rating": 34
+    },
+    {
+      "type": "fluyte",
+      "rating": 12
+    },
+    {
+      "type": "indiaman",
+      "rating": 21
+    },
+    {
+      "type": "merchantSteamship",
+      "rating": 48
+    },
+    {
+      "type": "carrack",
+      "rating": 10
+    },
+    {
+      "type": "trader",
+      "rating": 11
+    },
+    {
+      "type": "clipper",
+      "rating": 24
+    }
+  ],
+  "cases": [
+    {
+      "fleet": [],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "galleon",
+          "owner": 0
+        }
+      ],
+      "nation": 0,
+      "rating": 17
+    },
+    {
+      "fleet": [
+        {
+          "type": "galleon",
+          "owner": 0
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "galleon",
+          "owner": 1
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "galleon",
+          "owner": 1
+        }
+      ],
+      "nation": 1,
+      "rating": 17
+    },
+    {
+      "fleet": [
+        {
+          "type": "shipOfTheLine",
+          "owner": 0
+        }
+      ],
+      "nation": 0,
+      "rating": 29
+    },
+    {
+      "fleet": [
+        {
+          "type": "shipOfTheLine",
+          "owner": 0
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "shipOfTheLine",
+          "owner": 1
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "shipOfTheLine",
+          "owner": 1
+        }
+      ],
+      "nation": 1,
+      "rating": 29
+    },
+    {
+      "fleet": [
+        {
+          "type": "ironclad",
+          "owner": 0
+        }
+      ],
+      "nation": 0,
+      "rating": 66
+    },
+    {
+      "fleet": [
+        {
+          "type": "ironclad",
+          "owner": 0
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "ironclad",
+          "owner": 1
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "ironclad",
+          "owner": 1
+        }
+      ],
+      "nation": 1,
+      "rating": 66
+    },
+    {
+      "fleet": [
+        {
+          "type": "sloop",
+          "owner": 0
+        }
+      ],
+      "nation": 0,
+      "rating": 8
+    },
+    {
+      "fleet": [
+        {
+          "type": "sloop",
+          "owner": 0
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "sloop",
+          "owner": 1
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "sloop",
+          "owner": 1
+        }
+      ],
+      "nation": 1,
+      "rating": 8
+    },
+    {
+      "fleet": [
+        {
+          "type": "frigate",
+          "owner": 0
+        }
+      ],
+      "nation": 0,
+      "rating": 19
+    },
+    {
+      "fleet": [
+        {
+          "type": "frigate",
+          "owner": 0
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "frigate",
+          "owner": 1
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "frigate",
+          "owner": 1
+        }
+      ],
+      "nation": 1,
+      "rating": 19
+    },
+    {
+      "fleet": [
+        {
+          "type": "raider",
+          "owner": 0
+        }
+      ],
+      "nation": 0,
+      "rating": 34
+    },
+    {
+      "fleet": [
+        {
+          "type": "raider",
+          "owner": 0
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "raider",
+          "owner": 1
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "raider",
+          "owner": 1
+        }
+      ],
+      "nation": 1,
+      "rating": 34
+    },
+    {
+      "fleet": [
+        {
+          "type": "fluyte",
+          "owner": 0
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "fluyte",
+          "owner": 0
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "fluyte",
+          "owner": 1
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "fluyte",
+          "owner": 1
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "indiaman",
+          "owner": 0
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "indiaman",
+          "owner": 0
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "indiaman",
+          "owner": 1
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "indiaman",
+          "owner": 1
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "merchantSteamship",
+          "owner": 0
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "merchantSteamship",
+          "owner": 0
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "merchantSteamship",
+          "owner": 1
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "merchantSteamship",
+          "owner": 1
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "carrack",
+          "owner": 0
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "carrack",
+          "owner": 0
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "carrack",
+          "owner": 1
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "carrack",
+          "owner": 1
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "trader",
+          "owner": 0
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "trader",
+          "owner": 0
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "trader",
+          "owner": 1
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "trader",
+          "owner": 1
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "clipper",
+          "owner": 0
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "clipper",
+          "owner": 0
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "clipper",
+          "owner": 1
+        }
+      ],
+      "nation": 0,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "clipper",
+          "owner": 1
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    },
+    {
+      "fleet": [
+        {
+          "type": "galleon",
+          "owner": 0
+        },
+        {
+          "type": "shipOfTheLine",
+          "owner": 1
+        },
+        {
+          "type": "ironclad",
+          "owner": 0
+        },
+        {
+          "type": "sloop",
+          "owner": 1
+        },
+        {
+          "type": "frigate",
+          "owner": 0
+        },
+        {
+          "type": "raider",
+          "owner": 1
+        },
+        {
+          "type": "fluyte",
+          "owner": 0
+        },
+        {
+          "type": "indiaman",
+          "owner": 1
+        },
+        {
+          "type": "merchantSteamship",
+          "owner": 0
+        },
+        {
+          "type": "carrack",
+          "owner": 1
+        },
+        {
+          "type": "trader",
+          "owner": 0
+        },
+        {
+          "type": "clipper",
+          "owner": 1
+        }
+      ],
+      "nation": 0,
+      "rating": 102
+    },
+    {
+      "fleet": [
+        {
+          "type": "galleon",
+          "owner": 0
+        },
+        {
+          "type": "shipOfTheLine",
+          "owner": 1
+        },
+        {
+          "type": "ironclad",
+          "owner": 0
+        },
+        {
+          "type": "sloop",
+          "owner": 1
+        },
+        {
+          "type": "frigate",
+          "owner": 0
+        },
+        {
+          "type": "raider",
+          "owner": 1
+        },
+        {
+          "type": "fluyte",
+          "owner": 0
+        },
+        {
+          "type": "indiaman",
+          "owner": 1
+        },
+        {
+          "type": "merchantSteamship",
+          "owner": 0
+        },
+        {
+          "type": "carrack",
+          "owner": 1
+        },
+        {
+          "type": "trader",
+          "owner": 0
+        },
+        {
+          "type": "clipper",
+          "owner": 1
+        }
+      ],
+      "nation": 1,
+      "rating": 71
+    },
+    {
+      "fleet": [
+        {
+          "type": "galleon",
+          "owner": 0
+        },
+        {
+          "type": "shipOfTheLine",
+          "owner": 0
+        },
+        {
+          "type": "ironclad",
+          "owner": 0
+        },
+        {
+          "type": "sloop",
+          "owner": 0
+        },
+        {
+          "type": "frigate",
+          "owner": 0
+        },
+        {
+          "type": "raider",
+          "owner": 0
+        },
+        {
+          "type": "fluyte",
+          "owner": 0
+        },
+        {
+          "type": "indiaman",
+          "owner": 0
+        },
+        {
+          "type": "merchantSteamship",
+          "owner": 0
+        },
+        {
+          "type": "carrack",
+          "owner": 0
+        },
+        {
+          "type": "trader",
+          "owner": 0
+        },
+        {
+          "type": "clipper",
+          "owner": 0
+        }
+      ],
+      "nation": 0,
+      "rating": 173
+    },
+    {
+      "fleet": [
+        {
+          "type": "galleon",
+          "owner": 0
+        },
+        {
+          "type": "shipOfTheLine",
+          "owner": 0
+        },
+        {
+          "type": "ironclad",
+          "owner": 0
+        },
+        {
+          "type": "sloop",
+          "owner": 0
+        },
+        {
+          "type": "frigate",
+          "owner": 0
+        },
+        {
+          "type": "raider",
+          "owner": 0
+        },
+        {
+          "type": "fluyte",
+          "owner": 0
+        },
+        {
+          "type": "indiaman",
+          "owner": 0
+        },
+        {
+          "type": "merchantSteamship",
+          "owner": 0
+        },
+        {
+          "type": "carrack",
+          "owner": 0
+        },
+        {
+          "type": "trader",
+          "owner": 0
+        },
+        {
+          "type": "clipper",
+          "owner": 0
+        }
+      ],
+      "nation": 1,
+      "rating": 0
+    }
+  ]
+}

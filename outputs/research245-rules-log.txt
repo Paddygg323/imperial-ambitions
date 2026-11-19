@@ -1,0 +1,18 @@
+✔ research ETA matches500 original executions across slots and funding states (2.5779ms)
+✔ campaign ETA uses original float boundary and distinguishes known/inactive research (0.4958ms)
+✔ research progress and strict completion threshold match424 original executions (5.3591ms)
+✔ research gain matches all 59 isolated original-executable cases (0.6427ms)
+✔ original research funding steps scale with technology division (0.1128ms)
+✔ native prerequisites retain the links missing from manual transcription (0.4468ms)
+✔ foreign discoveries diffuse slowly; spying accelerates but caps at two sources (0.0942ms)
+✔ research never refunds money or removes investment when treasury is negative (476.3083ms)
+✔ funding can be reduced under debt even while other projects exceed available credit (94.6587ms)
+✔ research reports retain actual funding and investment, including completed and underfunded projects (166.2935ms)
+ℹ tests 10
+ℹ suites 0
+ℹ pass 10
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 884.5044

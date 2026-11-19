@@ -1,0 +1,7833 @@
+{
+  "scope": "Actual city GetFoodNeeded4db4a0, total population50d040 and Old World\nprovince count50cef0. Supplies army iterator, fleet head and province-list\naccessors; native ownership, worker counts, province categories, setting and\nfood split execute unchanged. This is planning demand, not actual diet feeding.\n",
+  "cases": [
+    {
+      "armyCount": 0,
+      "workerCounts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        0,
+        11,
+        12,
+        21
+      ],
+      "foraging": false,
+      "population": 0,
+      "oldWorld": 2,
+      "needs": [
+        0,
+        0
+      ]
+    },
+    {
+      "armyCount": 0,
+      "workerCounts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        0,
+        11,
+        12,
+        21
+      ],
+      "foraging": true,
+      "population": 0,
+      "oldWorld": 2,
+      "needs": [
+        0,
+        0
+      ]
+    },
+    {
+      "armyCount": 1,
+      "workerCounts": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "shipOwners": [
+        0,
+        1
+      ],
+      "provinceCategories": [
+        0,
+        11,
+        12,
+        21
+      ],
+      "foraging": false,
+      "population": 3,
+      "oldWorld": 2,
+      "needs": [
+        2,
+        1
+      ]
+    },
+    {
+      "armyCount": 1,
+      "workerCounts": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "shipOwners": [
+        0,
+        1
+      ],
+      "provinceCategories": [
+        0,
+        11,
+        12,
+        21
+      ],
+      "foraging": true,
+      "population": 3,
+      "oldWorld": 2,
+      "needs": [
+        1,
+        0
+      ]
+    },
+    {
+      "armyCount": 13,
+      "workerCounts": [
+        10,
+        13,
+        6,
+        14
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        0,
+        5,
+        21,
+        5,
+        0,
+        5,
+        11,
+        11,
+        12,
+        11,
+        5,
+        0,
+        21,
+        12
+      ],
+      "foraging": false,
+      "population": 57,
+      "oldWorld": 11,
+      "needs": [
+        29,
+        28
+      ]
+    },
+    {
+      "armyCount": 13,
+      "workerCounts": [
+        10,
+        13,
+        6,
+        14
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        0,
+        5,
+        21,
+        5,
+        0,
+        5,
+        11,
+        11,
+        12,
+        11,
+        5,
+        0,
+        21,
+        12
+      ],
+      "foraging": true,
+      "population": 57,
+      "oldWorld": 11,
+      "needs": [
+        23,
+        23
+      ]
+    },
+    {
+      "armyCount": 15,
+      "workerCounts": [
+        4,
+        11,
+        3,
+        14
+      ],
+      "shipOwners": [],
+      "provinceCategories": [],
+      "foraging": false,
+      "population": 47,
+      "oldWorld": 0,
+      "needs": [
+        24,
+        23
+      ]
+    },
+    {
+      "armyCount": 15,
+      "workerCounts": [
+        4,
+        11,
+        3,
+        14
+      ],
+      "shipOwners": [],
+      "provinceCategories": [],
+      "foraging": true,
+      "population": 47,
+      "oldWorld": 0,
+      "needs": [
+        24,
+        23
+      ]
+    },
+    {
+      "armyCount": 16,
+      "workerCounts": [
+        8,
+        11,
+        0,
+        7
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        12,
+        11,
+        5,
+        5
+      ],
+      "foraging": false,
+      "population": 45,
+      "oldWorld": 3,
+      "needs": [
+        23,
+        22
+      ]
+    },
+    {
+      "armyCount": 16,
+      "workerCounts": [
+        8,
+        11,
+        0,
+        7
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        12,
+        11,
+        5,
+        5
+      ],
+      "foraging": true,
+      "population": 45,
+      "oldWorld": 3,
+      "needs": [
+        21,
+        21
+      ]
+    },
+    {
+      "armyCount": 1,
+      "workerCounts": [
+        9,
+        10,
+        4,
+        2
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        12,
+        12,
+        12,
+        21,
+        5,
+        12,
+        5,
+        5,
+        5,
+        11
+      ],
+      "foraging": false,
+      "population": 28,
+      "oldWorld": 5,
+      "needs": [
+        14,
+        14
+      ]
+    },
+    {
+      "armyCount": 1,
+      "workerCounts": [
+        9,
+        10,
+        4,
+        2
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        12,
+        12,
+        12,
+        21,
+        5,
+        12,
+        5,
+        5,
+        5,
+        11
+      ],
+      "foraging": true,
+      "population": 28,
+      "oldWorld": 5,
+      "needs": [
+        12,
+        11
+      ]
+    },
+    {
+      "armyCount": 12,
+      "workerCounts": [
+        2,
+        6,
+        10,
+        2
+      ],
+      "shipOwners": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        0,
+        11,
+        21,
+        11
+      ],
+      "foraging": false,
+      "population": 37,
+      "oldWorld": 3,
+      "needs": [
+        19,
+        18
+      ]
+    },
+    {
+      "armyCount": 12,
+      "workerCounts": [
+        2,
+        6,
+        10,
+        2
+      ],
+      "shipOwners": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        0,
+        11,
+        21,
+        11
+      ],
+      "foraging": true,
+      "population": 37,
+      "oldWorld": 3,
+      "needs": [
+        17,
+        17
+      ]
+    },
+    {
+      "armyCount": 0,
+      "workerCounts": [
+        14,
+        3,
+        0,
+        12
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        12,
+        12,
+        21,
+        0,
+        0,
+        5
+      ],
+      "foraging": false,
+      "population": 34,
+      "oldWorld": 3,
+      "needs": [
+        17,
+        17
+      ]
+    },
+    {
+      "armyCount": 0,
+      "workerCounts": [
+        14,
+        3,
+        0,
+        12
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        12,
+        12,
+        21,
+        0,
+        0,
+        5
+      ],
+      "foraging": true,
+      "population": 34,
+      "oldWorld": 3,
+      "needs": [
+        16,
+        15
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        8,
+        5,
+        7,
+        10
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        5,
+        21,
+        0,
+        11,
+        0,
+        0,
+        12
+      ],
+      "foraging": false,
+      "population": 41,
+      "oldWorld": 5,
+      "needs": [
+        21,
+        20
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        8,
+        5,
+        7,
+        10
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        5,
+        21,
+        0,
+        11,
+        0,
+        0,
+        12
+      ],
+      "foraging": true,
+      "population": 41,
+      "oldWorld": 5,
+      "needs": [
+        18,
+        18
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        7,
+        13,
+        8,
+        7
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        0,
+        12,
+        5
+      ],
+      "foraging": false,
+      "population": 54,
+      "oldWorld": 2,
+      "needs": [
+        27,
+        27
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        7,
+        13,
+        8,
+        7
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        0,
+        12,
+        5
+      ],
+      "foraging": true,
+      "population": 54,
+      "oldWorld": 2,
+      "needs": [
+        26,
+        26
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        3,
+        7,
+        14,
+        10
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        0
+      ],
+      "foraging": false,
+      "population": 48,
+      "oldWorld": 2,
+      "needs": [
+        24,
+        24
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        3,
+        7,
+        14,
+        10
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        0
+      ],
+      "foraging": true,
+      "population": 48,
+      "oldWorld": 2,
+      "needs": [
+        23,
+        23
+      ]
+    },
+    {
+      "armyCount": 3,
+      "workerCounts": [
+        7,
+        4,
+        13,
+        3
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        0,
+        0,
+        21,
+        0,
+        21,
+        0,
+        21,
+        5,
+        5,
+        21,
+        0,
+        21,
+        5,
+        11
+      ],
+      "foraging": false,
+      "population": 35,
+      "oldWorld": 10,
+      "needs": [
+        18,
+        17
+      ]
+    },
+    {
+      "armyCount": 3,
+      "workerCounts": [
+        7,
+        4,
+        13,
+        3
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        0,
+        0,
+        21,
+        0,
+        21,
+        0,
+        21,
+        5,
+        5,
+        21,
+        0,
+        21,
+        5,
+        11
+      ],
+      "foraging": true,
+      "population": 35,
+      "oldWorld": 10,
+      "needs": [
+        13,
+        12
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        0,
+        2,
+        0,
+        9
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        0,
+        12,
+        0,
+        21,
+        5
+      ],
+      "foraging": false,
+      "population": 23,
+      "oldWorld": 3,
+      "needs": [
+        12,
+        11
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        0,
+        2,
+        0,
+        9
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        0,
+        12,
+        0,
+        21,
+        5
+      ],
+      "foraging": true,
+      "population": 23,
+      "oldWorld": 3,
+      "needs": [
+        10,
+        10
+      ]
+    },
+    {
+      "armyCount": 16,
+      "workerCounts": [
+        8,
+        11,
+        0,
+        11
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        11,
+        21,
+        0
+      ],
+      "foraging": false,
+      "population": 46,
+      "oldWorld": 2,
+      "needs": [
+        23,
+        23
+      ]
+    },
+    {
+      "armyCount": 16,
+      "workerCounts": [
+        8,
+        11,
+        0,
+        11
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        11,
+        21,
+        0
+      ],
+      "foraging": true,
+      "population": 46,
+      "oldWorld": 2,
+      "needs": [
+        22,
+        22
+      ]
+    },
+    {
+      "armyCount": 17,
+      "workerCounts": [
+        7,
+        2,
+        2,
+        8
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        12,
+        12,
+        0,
+        11,
+        11,
+        11,
+        0,
+        5,
+        12,
+        12,
+        5
+      ],
+      "foraging": false,
+      "population": 40,
+      "oldWorld": 8,
+      "needs": [
+        20,
+        20
+      ]
+    },
+    {
+      "armyCount": 17,
+      "workerCounts": [
+        7,
+        2,
+        2,
+        8
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        12,
+        12,
+        0,
+        11,
+        11,
+        11,
+        0,
+        5,
+        12,
+        12,
+        5
+      ],
+      "foraging": true,
+      "population": 40,
+      "oldWorld": 8,
+      "needs": [
+        16,
+        16
+      ]
+    },
+    {
+      "armyCount": 1,
+      "workerCounts": [
+        6,
+        10,
+        3,
+        8
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        21
+      ],
+      "foraging": false,
+      "population": 30,
+      "oldWorld": 0,
+      "needs": [
+        15,
+        15
+      ]
+    },
+    {
+      "armyCount": 1,
+      "workerCounts": [
+        6,
+        10,
+        3,
+        8
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        21
+      ],
+      "foraging": true,
+      "population": 30,
+      "oldWorld": 0,
+      "needs": [
+        15,
+        15
+      ]
+    },
+    {
+      "armyCount": 13,
+      "workerCounts": [
+        5,
+        11,
+        12,
+        12
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        12,
+        0,
+        0
+      ],
+      "foraging": false,
+      "population": 59,
+      "oldWorld": 2,
+      "needs": [
+        30,
+        29
+      ]
+    },
+    {
+      "armyCount": 13,
+      "workerCounts": [
+        5,
+        11,
+        12,
+        12
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        12,
+        0,
+        0
+      ],
+      "foraging": true,
+      "population": 59,
+      "oldWorld": 2,
+      "needs": [
+        29,
+        28
+      ]
+    },
+    {
+      "armyCount": 7,
+      "workerCounts": [
+        7,
+        2,
+        5,
+        10
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        5,
+        21,
+        5,
+        0,
+        21
+      ],
+      "foraging": false,
+      "population": 37,
+      "oldWorld": 3,
+      "needs": [
+        19,
+        18
+      ]
+    },
+    {
+      "armyCount": 7,
+      "workerCounts": [
+        7,
+        2,
+        5,
+        10
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        5,
+        21,
+        5,
+        0,
+        21
+      ],
+      "foraging": true,
+      "population": 37,
+      "oldWorld": 3,
+      "needs": [
+        17,
+        17
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        5,
+        6,
+        12,
+        4
+      ],
+      "shipOwners": [
+        1
+      ],
+      "provinceCategories": [
+        21,
+        11,
+        0,
+        11,
+        11,
+        5,
+        5,
+        12,
+        12,
+        11,
+        11,
+        21,
+        21,
+        5,
+        0
+      ],
+      "foraging": false,
+      "population": 46,
+      "oldWorld": 10,
+      "needs": [
+        23,
+        23
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        5,
+        6,
+        12,
+        4
+      ],
+      "shipOwners": [
+        1
+      ],
+      "provinceCategories": [
+        21,
+        11,
+        0,
+        11,
+        11,
+        5,
+        5,
+        12,
+        12,
+        11,
+        11,
+        21,
+        21,
+        5,
+        0
+      ],
+      "foraging": true,
+      "population": 46,
+      "oldWorld": 10,
+      "needs": [
+        18,
+        18
+      ]
+    },
+    {
+      "armyCount": 3,
+      "workerCounts": [
+        1,
+        5,
+        12,
+        13
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        11
+      ],
+      "foraging": false,
+      "population": 38,
+      "oldWorld": 1,
+      "needs": [
+        19,
+        19
+      ]
+    },
+    {
+      "armyCount": 3,
+      "workerCounts": [
+        1,
+        5,
+        12,
+        13
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        11
+      ],
+      "foraging": true,
+      "population": 38,
+      "oldWorld": 1,
+      "needs": [
+        19,
+        18
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        4,
+        11,
+        2,
+        14
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        0,
+        0,
+        21,
+        21,
+        5
+      ],
+      "foraging": false,
+      "population": 50,
+      "oldWorld": 3,
+      "needs": [
+        25,
+        25
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        4,
+        11,
+        2,
+        14
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        0,
+        0,
+        21,
+        21,
+        5
+      ],
+      "foraging": true,
+      "population": 50,
+      "oldWorld": 3,
+      "needs": [
+        24,
+        23
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        12,
+        7,
+        2,
+        12
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        11,
+        11
+      ],
+      "foraging": false,
+      "population": 44,
+      "oldWorld": 2,
+      "needs": [
+        22,
+        22
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        12,
+        7,
+        2,
+        12
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        11,
+        11
+      ],
+      "foraging": true,
+      "population": 44,
+      "oldWorld": 2,
+      "needs": [
+        21,
+        21
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        6,
+        7,
+        10,
+        8
+      ],
+      "shipOwners": [
+        1
+      ],
+      "provinceCategories": [
+        21,
+        12,
+        21
+      ],
+      "foraging": false,
+      "population": 50,
+      "oldWorld": 0,
+      "needs": [
+        25,
+        25
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        6,
+        7,
+        10,
+        8
+      ],
+      "shipOwners": [
+        1
+      ],
+      "provinceCategories": [
+        21,
+        12,
+        21
+      ],
+      "foraging": true,
+      "population": 50,
+      "oldWorld": 0,
+      "needs": [
+        25,
+        25
+      ]
+    },
+    {
+      "armyCount": 15,
+      "workerCounts": [
+        11,
+        8,
+        12,
+        6
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        12,
+        0,
+        12,
+        5
+      ],
+      "foraging": false,
+      "population": 56,
+      "oldWorld": 3,
+      "needs": [
+        28,
+        28
+      ]
+    },
+    {
+      "armyCount": 15,
+      "workerCounts": [
+        11,
+        8,
+        12,
+        6
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        12,
+        0,
+        12,
+        5
+      ],
+      "foraging": true,
+      "population": 56,
+      "oldWorld": 3,
+      "needs": [
+        27,
+        26
+      ]
+    },
+    {
+      "armyCount": 0,
+      "workerCounts": [
+        8,
+        11,
+        3,
+        1
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        5,
+        21,
+        12,
+        0,
+        12,
+        5,
+        12,
+        11,
+        21,
+        21,
+        0,
+        0,
+        21
+      ],
+      "foraging": false,
+      "population": 23,
+      "oldWorld": 6,
+      "needs": [
+        12,
+        11
+      ]
+    },
+    {
+      "armyCount": 0,
+      "workerCounts": [
+        8,
+        11,
+        3,
+        1
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        5,
+        21,
+        12,
+        0,
+        12,
+        5,
+        12,
+        11,
+        21,
+        21,
+        0,
+        0,
+        21
+      ],
+      "foraging": true,
+      "population": 23,
+      "oldWorld": 6,
+      "needs": [
+        9,
+        8
+      ]
+    },
+    {
+      "armyCount": 12,
+      "workerCounts": [
+        9,
+        4,
+        4,
+        14
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        0,
+        11,
+        12,
+        0,
+        0
+      ],
+      "foraging": false,
+      "population": 46,
+      "oldWorld": 4,
+      "needs": [
+        23,
+        23
+      ]
+    },
+    {
+      "armyCount": 12,
+      "workerCounts": [
+        9,
+        4,
+        4,
+        14
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        0,
+        11,
+        12,
+        0,
+        0
+      ],
+      "foraging": true,
+      "population": 46,
+      "oldWorld": 4,
+      "needs": [
+        21,
+        21
+      ]
+    },
+    {
+      "armyCount": 5,
+      "workerCounts": [
+        9,
+        11,
+        13,
+        7
+      ],
+      "shipOwners": [
+        1,
+        1
+      ],
+      "provinceCategories": [
+        0,
+        0,
+        11,
+        0,
+        5,
+        0,
+        21,
+        11,
+        12,
+        21
+      ],
+      "foraging": false,
+      "population": 45,
+      "oldWorld": 7,
+      "needs": [
+        23,
+        22
+      ]
+    },
+    {
+      "armyCount": 5,
+      "workerCounts": [
+        9,
+        11,
+        13,
+        7
+      ],
+      "shipOwners": [
+        1,
+        1
+      ],
+      "provinceCategories": [
+        0,
+        0,
+        11,
+        0,
+        5,
+        0,
+        21,
+        11,
+        12,
+        21
+      ],
+      "foraging": true,
+      "population": 45,
+      "oldWorld": 7,
+      "needs": [
+        19,
+        19
+      ]
+    },
+    {
+      "armyCount": 2,
+      "workerCounts": [
+        14,
+        0,
+        3,
+        5
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        12,
+        5,
+        11,
+        21,
+        12
+      ],
+      "foraging": false,
+      "population": 26,
+      "oldWorld": 3,
+      "needs": [
+        13,
+        13
+      ]
+    },
+    {
+      "armyCount": 2,
+      "workerCounts": [
+        14,
+        0,
+        3,
+        5
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        12,
+        5,
+        11,
+        21,
+        12
+      ],
+      "foraging": true,
+      "population": 26,
+      "oldWorld": 3,
+      "needs": [
+        12,
+        11
+      ]
+    },
+    {
+      "armyCount": 15,
+      "workerCounts": [
+        8,
+        3,
+        0,
+        2
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        11,
+        0,
+        0,
+        11,
+        5,
+        5,
+        21
+      ],
+      "foraging": false,
+      "population": 29,
+      "oldWorld": 6,
+      "needs": [
+        15,
+        14
+      ]
+    },
+    {
+      "armyCount": 15,
+      "workerCounts": [
+        8,
+        3,
+        0,
+        2
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        11,
+        0,
+        0,
+        11,
+        5,
+        5,
+        21
+      ],
+      "foraging": true,
+      "population": 29,
+      "oldWorld": 6,
+      "needs": [
+        12,
+        11
+      ]
+    },
+    {
+      "armyCount": 18,
+      "workerCounts": [
+        11,
+        9,
+        2,
+        4
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        21
+      ],
+      "foraging": false,
+      "population": 47,
+      "oldWorld": 1,
+      "needs": [
+        24,
+        23
+      ]
+    },
+    {
+      "armyCount": 18,
+      "workerCounts": [
+        11,
+        9,
+        2,
+        4
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        21
+      ],
+      "foraging": true,
+      "population": 47,
+      "oldWorld": 1,
+      "needs": [
+        23,
+        23
+      ]
+    },
+    {
+      "armyCount": 17,
+      "workerCounts": [
+        5,
+        10,
+        4,
+        9
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        12,
+        0,
+        11,
+        12,
+        5
+      ],
+      "foraging": false,
+      "population": 48,
+      "oldWorld": 5,
+      "needs": [
+        24,
+        24
+      ]
+    },
+    {
+      "armyCount": 17,
+      "workerCounts": [
+        5,
+        10,
+        4,
+        9
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        12,
+        0,
+        11,
+        12,
+        5
+      ],
+      "foraging": true,
+      "population": 48,
+      "oldWorld": 5,
+      "needs": [
+        22,
+        21
+      ]
+    },
+    {
+      "armyCount": 3,
+      "workerCounts": [
+        10,
+        10,
+        5,
+        4
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        0,
+        11,
+        0,
+        21,
+        21,
+        0,
+        21,
+        21,
+        11,
+        0,
+        0,
+        21,
+        5
+      ],
+      "foraging": false,
+      "population": 34,
+      "oldWorld": 8,
+      "needs": [
+        17,
+        17
+      ]
+    },
+    {
+      "armyCount": 3,
+      "workerCounts": [
+        10,
+        10,
+        5,
+        4
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        0,
+        11,
+        0,
+        21,
+        21,
+        0,
+        21,
+        21,
+        11,
+        0,
+        0,
+        21,
+        5
+      ],
+      "foraging": true,
+      "population": 34,
+      "oldWorld": 8,
+      "needs": [
+        13,
+        13
+      ]
+    },
+    {
+      "armyCount": 17,
+      "workerCounts": [
+        7,
+        6,
+        3,
+        12
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        11,
+        0,
+        21,
+        5,
+        0,
+        21,
+        0
+      ],
+      "foraging": false,
+      "population": 45,
+      "oldWorld": 5,
+      "needs": [
+        23,
+        22
+      ]
+    },
+    {
+      "armyCount": 17,
+      "workerCounts": [
+        7,
+        6,
+        3,
+        12
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        11,
+        0,
+        21,
+        5,
+        0,
+        21,
+        0
+      ],
+      "foraging": true,
+      "population": 45,
+      "oldWorld": 5,
+      "needs": [
+        20,
+        20
+      ]
+    },
+    {
+      "armyCount": 6,
+      "workerCounts": [
+        12,
+        13,
+        6,
+        2
+      ],
+      "shipOwners": [
+        0,
+        0
+      ],
+      "provinceCategories": [
+        0,
+        5,
+        21
+      ],
+      "foraging": false,
+      "population": 41,
+      "oldWorld": 2,
+      "needs": [
+        21,
+        20
+      ]
+    },
+    {
+      "armyCount": 6,
+      "workerCounts": [
+        12,
+        13,
+        6,
+        2
+      ],
+      "shipOwners": [
+        0,
+        0
+      ],
+      "provinceCategories": [
+        0,
+        5,
+        21
+      ],
+      "foraging": true,
+      "population": 41,
+      "oldWorld": 2,
+      "needs": [
+        20,
+        19
+      ]
+    },
+    {
+      "armyCount": 1,
+      "workerCounts": [
+        1,
+        11,
+        10,
+        14
+      ],
+      "shipOwners": [
+        1
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        11,
+        0,
+        12,
+        0,
+        12,
+        11,
+        21,
+        11,
+        11,
+        5,
+        5
+      ],
+      "foraging": false,
+      "population": 37,
+      "oldWorld": 8,
+      "needs": [
+        19,
+        18
+      ]
+    },
+    {
+      "armyCount": 1,
+      "workerCounts": [
+        1,
+        11,
+        10,
+        14
+      ],
+      "shipOwners": [
+        1
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        11,
+        0,
+        12,
+        0,
+        12,
+        11,
+        21,
+        11,
+        11,
+        5,
+        5
+      ],
+      "foraging": true,
+      "population": 37,
+      "oldWorld": 8,
+      "needs": [
+        15,
+        14
+      ]
+    },
+    {
+      "armyCount": 6,
+      "workerCounts": [
+        8,
+        0,
+        1,
+        13
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        11,
+        11
+      ],
+      "foraging": false,
+      "population": 28,
+      "oldWorld": 2,
+      "needs": [
+        14,
+        14
+      ]
+    },
+    {
+      "armyCount": 6,
+      "workerCounts": [
+        8,
+        0,
+        1,
+        13
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        11,
+        11
+      ],
+      "foraging": true,
+      "population": 28,
+      "oldWorld": 2,
+      "needs": [
+        13,
+        13
+      ]
+    },
+    {
+      "armyCount": 2,
+      "workerCounts": [
+        11,
+        6,
+        11,
+        3
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        5
+      ],
+      "foraging": false,
+      "population": 37,
+      "oldWorld": 1,
+      "needs": [
+        19,
+        18
+      ]
+    },
+    {
+      "armyCount": 2,
+      "workerCounts": [
+        11,
+        6,
+        11,
+        3
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        5
+      ],
+      "foraging": true,
+      "population": 37,
+      "oldWorld": 1,
+      "needs": [
+        18,
+        18
+      ]
+    },
+    {
+      "armyCount": 14,
+      "workerCounts": [
+        6,
+        0,
+        6,
+        4
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        0,
+        5,
+        5,
+        5,
+        0,
+        12,
+        21
+      ],
+      "foraging": false,
+      "population": 32,
+      "oldWorld": 6,
+      "needs": [
+        16,
+        16
+      ]
+    },
+    {
+      "armyCount": 14,
+      "workerCounts": [
+        6,
+        0,
+        6,
+        4
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        0,
+        5,
+        5,
+        5,
+        0,
+        12,
+        21
+      ],
+      "foraging": true,
+      "population": 32,
+      "oldWorld": 6,
+      "needs": [
+        13,
+        13
+      ]
+    },
+    {
+      "armyCount": 18,
+      "workerCounts": [
+        2,
+        6,
+        6,
+        8
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        12,
+        5,
+        11,
+        12,
+        11,
+        12,
+        21,
+        11
+      ],
+      "foraging": false,
+      "population": 43,
+      "oldWorld": 4,
+      "needs": [
+        22,
+        21
+      ]
+    },
+    {
+      "armyCount": 18,
+      "workerCounts": [
+        2,
+        6,
+        6,
+        8
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        12,
+        5,
+        11,
+        12,
+        11,
+        12,
+        21,
+        11
+      ],
+      "foraging": true,
+      "population": 43,
+      "oldWorld": 4,
+      "needs": [
+        20,
+        19
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        2,
+        14,
+        9,
+        5
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        21,
+        0,
+        21
+      ],
+      "foraging": false,
+      "population": 53,
+      "oldWorld": 2,
+      "needs": [
+        27,
+        26
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        2,
+        14,
+        9,
+        5
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        21,
+        0,
+        21
+      ],
+      "foraging": true,
+      "population": 53,
+      "oldWorld": 2,
+      "needs": [
+        26,
+        25
+      ]
+    },
+    {
+      "armyCount": 18,
+      "workerCounts": [
+        9,
+        14,
+        12,
+        8
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        21,
+        21,
+        21,
+        5,
+        11,
+        12,
+        0,
+        21,
+        21,
+        12,
+        11,
+        21,
+        11
+      ],
+      "foraging": false,
+      "population": 65,
+      "oldWorld": 5,
+      "needs": [
+        33,
+        32
+      ]
+    },
+    {
+      "armyCount": 18,
+      "workerCounts": [
+        9,
+        14,
+        12,
+        8
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        21,
+        21,
+        21,
+        5,
+        11,
+        12,
+        0,
+        21,
+        21,
+        12,
+        11,
+        21,
+        11
+      ],
+      "foraging": true,
+      "population": 65,
+      "oldWorld": 5,
+      "needs": [
+        30,
+        30
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        14,
+        0,
+        9,
+        11
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        21,
+        5,
+        12,
+        5,
+        11,
+        0,
+        11,
+        5,
+        21,
+        5,
+        11
+      ],
+      "foraging": false,
+      "population": 48,
+      "oldWorld": 9,
+      "needs": [
+        24,
+        24
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        14,
+        0,
+        9,
+        11
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        21,
+        5,
+        12,
+        5,
+        11,
+        0,
+        11,
+        5,
+        21,
+        5,
+        11
+      ],
+      "foraging": true,
+      "population": 48,
+      "oldWorld": 9,
+      "needs": [
+        20,
+        19
+      ]
+    },
+    {
+      "armyCount": 1,
+      "workerCounts": [
+        9,
+        14,
+        0,
+        5
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        5,
+        5,
+        21,
+        21,
+        11,
+        21,
+        5,
+        21,
+        5,
+        12,
+        0,
+        21
+      ],
+      "foraging": false,
+      "population": 33,
+      "oldWorld": 6,
+      "needs": [
+        17,
+        16
+      ]
+    },
+    {
+      "armyCount": 1,
+      "workerCounts": [
+        9,
+        14,
+        0,
+        5
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        5,
+        5,
+        21,
+        21,
+        11,
+        21,
+        5,
+        21,
+        5,
+        12,
+        0,
+        21
+      ],
+      "foraging": true,
+      "population": 33,
+      "oldWorld": 6,
+      "needs": [
+        14,
+        13
+      ]
+    },
+    {
+      "armyCount": 14,
+      "workerCounts": [
+        12,
+        5,
+        14,
+        13
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        0,
+        0,
+        11,
+        5,
+        12,
+        21,
+        12,
+        0,
+        5,
+        11,
+        21
+      ],
+      "foraging": false,
+      "population": 62,
+      "oldWorld": 8,
+      "needs": [
+        31,
+        31
+      ]
+    },
+    {
+      "armyCount": 14,
+      "workerCounts": [
+        12,
+        5,
+        14,
+        13
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        0,
+        0,
+        11,
+        5,
+        12,
+        21,
+        12,
+        0,
+        5,
+        11,
+        21
+      ],
+      "foraging": true,
+      "population": 62,
+      "oldWorld": 8,
+      "needs": [
+        27,
+        27
+      ]
+    },
+    {
+      "armyCount": 7,
+      "workerCounts": [
+        1,
+        0,
+        12,
+        14
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        21,
+        5,
+        5,
+        0,
+        21,
+        12,
+        21,
+        11,
+        0,
+        5,
+        12,
+        0,
+        12,
+        12,
+        0
+      ],
+      "foraging": false,
+      "population": 34,
+      "oldWorld": 8,
+      "needs": [
+        17,
+        17
+      ]
+    },
+    {
+      "armyCount": 7,
+      "workerCounts": [
+        1,
+        0,
+        12,
+        14
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        21,
+        5,
+        5,
+        0,
+        21,
+        12,
+        21,
+        11,
+        0,
+        5,
+        12,
+        0,
+        12,
+        12,
+        0
+      ],
+      "foraging": true,
+      "population": 34,
+      "oldWorld": 8,
+      "needs": [
+        13,
+        13
+      ]
+    },
+    {
+      "armyCount": 0,
+      "workerCounts": [
+        4,
+        9,
+        5,
+        9
+      ],
+      "shipOwners": [
+        0,
+        1,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        0,
+        5,
+        0,
+        21,
+        12
+      ],
+      "foraging": false,
+      "population": 29,
+      "oldWorld": 5,
+      "needs": [
+        15,
+        14
+      ]
+    },
+    {
+      "armyCount": 0,
+      "workerCounts": [
+        4,
+        9,
+        5,
+        9
+      ],
+      "shipOwners": [
+        0,
+        1,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        0,
+        5,
+        0,
+        21,
+        12
+      ],
+      "foraging": true,
+      "population": 29,
+      "oldWorld": 5,
+      "needs": [
+        12,
+        12
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        4,
+        0,
+        1,
+        8
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        12,
+        21,
+        0,
+        11,
+        12,
+        12,
+        12,
+        11,
+        12,
+        12,
+        5
+      ],
+      "foraging": false,
+      "population": 25,
+      "oldWorld": 4,
+      "needs": [
+        13,
+        12
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        4,
+        0,
+        1,
+        8
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        12,
+        21,
+        0,
+        11,
+        12,
+        12,
+        12,
+        11,
+        12,
+        12,
+        5
+      ],
+      "foraging": true,
+      "population": 25,
+      "oldWorld": 4,
+      "needs": [
+        11,
+        10
+      ]
+    },
+    {
+      "armyCount": 2,
+      "workerCounts": [
+        3,
+        10,
+        3,
+        6
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        11
+      ],
+      "foraging": false,
+      "population": 27,
+      "oldWorld": 1,
+      "needs": [
+        14,
+        13
+      ]
+    },
+    {
+      "armyCount": 2,
+      "workerCounts": [
+        3,
+        10,
+        3,
+        6
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        11
+      ],
+      "foraging": true,
+      "population": 27,
+      "oldWorld": 1,
+      "needs": [
+        13,
+        13
+      ]
+    },
+    {
+      "armyCount": 11,
+      "workerCounts": [
+        10,
+        8,
+        0,
+        14
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        21,
+        11,
+        21,
+        5,
+        11,
+        0,
+        0,
+        21,
+        11
+      ],
+      "foraging": false,
+      "population": 47,
+      "oldWorld": 6,
+      "needs": [
+        24,
+        23
+      ]
+    },
+    {
+      "armyCount": 11,
+      "workerCounts": [
+        10,
+        8,
+        0,
+        14
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        21,
+        11,
+        21,
+        5,
+        11,
+        0,
+        0,
+        21,
+        11
+      ],
+      "foraging": true,
+      "population": 47,
+      "oldWorld": 6,
+      "needs": [
+        21,
+        20
+      ]
+    },
+    {
+      "armyCount": 18,
+      "workerCounts": [
+        14,
+        9,
+        2,
+        0
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        12,
+        11
+      ],
+      "foraging": false,
+      "population": 43,
+      "oldWorld": 1,
+      "needs": [
+        22,
+        21
+      ]
+    },
+    {
+      "armyCount": 18,
+      "workerCounts": [
+        14,
+        9,
+        2,
+        0
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        12,
+        11
+      ],
+      "foraging": true,
+      "population": 43,
+      "oldWorld": 1,
+      "needs": [
+        21,
+        21
+      ]
+    },
+    {
+      "armyCount": 6,
+      "workerCounts": [
+        10,
+        2,
+        11,
+        7
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        12,
+        5,
+        21,
+        11,
+        12,
+        12,
+        11,
+        21,
+        12,
+        11,
+        12,
+        5
+      ],
+      "foraging": false,
+      "population": 38,
+      "oldWorld": 6,
+      "needs": [
+        19,
+        19
+      ]
+    },
+    {
+      "armyCount": 6,
+      "workerCounts": [
+        10,
+        2,
+        11,
+        7
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        12,
+        5,
+        21,
+        11,
+        12,
+        12,
+        11,
+        21,
+        12,
+        11,
+        12,
+        5
+      ],
+      "foraging": true,
+      "population": 38,
+      "oldWorld": 6,
+      "needs": [
+        16,
+        16
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        13,
+        6,
+        3,
+        5
+      ],
+      "shipOwners": [
+        0
+      ],
+      "provinceCategories": [
+        11,
+        12,
+        5,
+        12,
+        12,
+        5,
+        12,
+        11,
+        0,
+        0,
+        21
+      ],
+      "foraging": false,
+      "population": 37,
+      "oldWorld": 6,
+      "needs": [
+        19,
+        18
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        13,
+        6,
+        3,
+        5
+      ],
+      "shipOwners": [
+        0
+      ],
+      "provinceCategories": [
+        11,
+        12,
+        5,
+        12,
+        12,
+        5,
+        12,
+        11,
+        0,
+        0,
+        21
+      ],
+      "foraging": true,
+      "population": 37,
+      "oldWorld": 6,
+      "needs": [
+        16,
+        15
+      ]
+    },
+    {
+      "armyCount": 16,
+      "workerCounts": [
+        0,
+        9,
+        3,
+        5
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        21,
+        11,
+        21
+      ],
+      "foraging": false,
+      "population": 37,
+      "oldWorld": 1,
+      "needs": [
+        19,
+        18
+      ]
+    },
+    {
+      "armyCount": 16,
+      "workerCounts": [
+        0,
+        9,
+        3,
+        5
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        21,
+        11,
+        21
+      ],
+      "foraging": true,
+      "population": 37,
+      "oldWorld": 1,
+      "needs": [
+        18,
+        18
+      ]
+    },
+    {
+      "armyCount": 14,
+      "workerCounts": [
+        10,
+        13,
+        2,
+        7
+      ],
+      "shipOwners": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        11,
+        0,
+        11,
+        5
+      ],
+      "foraging": false,
+      "population": 51,
+      "oldWorld": 5,
+      "needs": [
+        26,
+        25
+      ]
+    },
+    {
+      "armyCount": 14,
+      "workerCounts": [
+        10,
+        13,
+        2,
+        7
+      ],
+      "shipOwners": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        11,
+        0,
+        11,
+        5
+      ],
+      "foraging": true,
+      "population": 51,
+      "oldWorld": 5,
+      "needs": [
+        23,
+        23
+      ]
+    },
+    {
+      "armyCount": 11,
+      "workerCounts": [
+        9,
+        11,
+        8,
+        14
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        12,
+        0,
+        21,
+        21,
+        11,
+        0,
+        5,
+        21
+      ],
+      "foraging": false,
+      "population": 57,
+      "oldWorld": 4,
+      "needs": [
+        29,
+        28
+      ]
+    },
+    {
+      "armyCount": 11,
+      "workerCounts": [
+        9,
+        11,
+        8,
+        14
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        12,
+        0,
+        21,
+        21,
+        11,
+        0,
+        5,
+        21
+      ],
+      "foraging": true,
+      "population": 57,
+      "oldWorld": 4,
+      "needs": [
+        27,
+        26
+      ]
+    },
+    {
+      "armyCount": 12,
+      "workerCounts": [
+        6,
+        14,
+        14,
+        2
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        0,
+        5
+      ],
+      "foraging": false,
+      "population": 54,
+      "oldWorld": 3,
+      "needs": [
+        27,
+        27
+      ]
+    },
+    {
+      "armyCount": 12,
+      "workerCounts": [
+        6,
+        14,
+        14,
+        2
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        0,
+        5
+      ],
+      "foraging": true,
+      "population": 54,
+      "oldWorld": 3,
+      "needs": [
+        26,
+        25
+      ]
+    },
+    {
+      "armyCount": 18,
+      "workerCounts": [
+        0,
+        0,
+        11,
+        3
+      ],
+      "shipOwners": [
+        0,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        11
+      ],
+      "foraging": false,
+      "population": 34,
+      "oldWorld": 1,
+      "needs": [
+        17,
+        17
+      ]
+    },
+    {
+      "armyCount": 18,
+      "workerCounts": [
+        0,
+        0,
+        11,
+        3
+      ],
+      "shipOwners": [
+        0,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        11
+      ],
+      "foraging": true,
+      "population": 34,
+      "oldWorld": 1,
+      "needs": [
+        17,
+        16
+      ]
+    },
+    {
+      "armyCount": 3,
+      "workerCounts": [
+        11,
+        6,
+        10,
+        9
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        5,
+        0,
+        5
+      ],
+      "foraging": false,
+      "population": 46,
+      "oldWorld": 4,
+      "needs": [
+        23,
+        23
+      ]
+    },
+    {
+      "armyCount": 3,
+      "workerCounts": [
+        11,
+        6,
+        10,
+        9
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        5,
+        0,
+        5
+      ],
+      "foraging": true,
+      "population": 46,
+      "oldWorld": 4,
+      "needs": [
+        21,
+        21
+      ]
+    },
+    {
+      "armyCount": 0,
+      "workerCounts": [
+        1,
+        9,
+        9,
+        10
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        0,
+        12,
+        21,
+        5,
+        5
+      ],
+      "foraging": false,
+      "population": 30,
+      "oldWorld": 3,
+      "needs": [
+        15,
+        15
+      ]
+    },
+    {
+      "armyCount": 0,
+      "workerCounts": [
+        1,
+        9,
+        9,
+        10
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        0,
+        12,
+        21,
+        5,
+        5
+      ],
+      "foraging": true,
+      "population": 30,
+      "oldWorld": 3,
+      "needs": [
+        14,
+        13
+      ]
+    },
+    {
+      "armyCount": 3,
+      "workerCounts": [
+        6,
+        2,
+        0,
+        7
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        12,
+        21,
+        21,
+        12,
+        5,
+        5
+      ],
+      "foraging": false,
+      "population": 22,
+      "oldWorld": 3,
+      "needs": [
+        11,
+        11
+      ]
+    },
+    {
+      "armyCount": 3,
+      "workerCounts": [
+        6,
+        2,
+        0,
+        7
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        12,
+        21,
+        21,
+        12,
+        5,
+        5
+      ],
+      "foraging": true,
+      "population": 22,
+      "oldWorld": 3,
+      "needs": [
+        10,
+        9
+      ]
+    },
+    {
+      "armyCount": 4,
+      "workerCounts": [
+        1,
+        11,
+        9,
+        14
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        21,
+        5,
+        0,
+        0
+      ],
+      "foraging": false,
+      "population": 41,
+      "oldWorld": 4,
+      "needs": [
+        21,
+        20
+      ]
+    },
+    {
+      "armyCount": 4,
+      "workerCounts": [
+        1,
+        11,
+        9,
+        14
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        21,
+        5,
+        0,
+        0
+      ],
+      "foraging": true,
+      "population": 41,
+      "oldWorld": 4,
+      "needs": [
+        19,
+        18
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        11,
+        12,
+        3,
+        5
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        21,
+        21,
+        11,
+        12,
+        5,
+        11,
+        21,
+        11
+      ],
+      "foraging": false,
+      "population": 41,
+      "oldWorld": 4,
+      "needs": [
+        21,
+        20
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        11,
+        12,
+        3,
+        5
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        21,
+        21,
+        11,
+        12,
+        5,
+        11,
+        21,
+        11
+      ],
+      "foraging": true,
+      "population": 41,
+      "oldWorld": 4,
+      "needs": [
+        19,
+        18
+      ]
+    },
+    {
+      "armyCount": 4,
+      "workerCounts": [
+        5,
+        4,
+        9,
+        10
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        12,
+        0,
+        5,
+        21
+      ],
+      "foraging": false,
+      "population": 32,
+      "oldWorld": 2,
+      "needs": [
+        16,
+        16
+      ]
+    },
+    {
+      "armyCount": 4,
+      "workerCounts": [
+        5,
+        4,
+        9,
+        10
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        12,
+        0,
+        5,
+        21
+      ],
+      "foraging": true,
+      "population": 32,
+      "oldWorld": 2,
+      "needs": [
+        15,
+        15
+      ]
+    },
+    {
+      "armyCount": 13,
+      "workerCounts": [
+        3,
+        7,
+        14,
+        8
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        5,
+        11,
+        12,
+        21,
+        5,
+        11,
+        12,
+        5,
+        5
+      ],
+      "foraging": false,
+      "population": 51,
+      "oldWorld": 7,
+      "needs": [
+        26,
+        25
+      ]
+    },
+    {
+      "armyCount": 13,
+      "workerCounts": [
+        3,
+        7,
+        14,
+        8
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        5,
+        11,
+        12,
+        21,
+        5,
+        11,
+        12,
+        5,
+        5
+      ],
+      "foraging": true,
+      "population": 51,
+      "oldWorld": 7,
+      "needs": [
+        22,
+        22
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        10,
+        5,
+        1,
+        0
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [],
+      "foraging": false,
+      "population": 36,
+      "oldWorld": 0,
+      "needs": [
+        18,
+        18
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        10,
+        5,
+        1,
+        0
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [],
+      "foraging": true,
+      "population": 36,
+      "oldWorld": 0,
+      "needs": [
+        18,
+        18
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        7,
+        8,
+        5,
+        2
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        21,
+        12,
+        21,
+        21,
+        0,
+        0,
+        5,
+        11,
+        12
+      ],
+      "foraging": false,
+      "population": 43,
+      "oldWorld": 5,
+      "needs": [
+        22,
+        21
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        7,
+        8,
+        5,
+        2
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        21,
+        12,
+        21,
+        21,
+        0,
+        0,
+        5,
+        11,
+        12
+      ],
+      "foraging": true,
+      "population": 43,
+      "oldWorld": 5,
+      "needs": [
+        19,
+        19
+      ]
+    },
+    {
+      "armyCount": 2,
+      "workerCounts": [
+        6,
+        14,
+        9,
+        7
+      ],
+      "shipOwners": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        12,
+        21,
+        11
+      ],
+      "foraging": false,
+      "population": 40,
+      "oldWorld": 2,
+      "needs": [
+        20,
+        20
+      ]
+    },
+    {
+      "armyCount": 2,
+      "workerCounts": [
+        6,
+        14,
+        9,
+        7
+      ],
+      "shipOwners": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        12,
+        21,
+        11
+      ],
+      "foraging": true,
+      "population": 40,
+      "oldWorld": 2,
+      "needs": [
+        19,
+        19
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        11,
+        6,
+        9,
+        5
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        5,
+        5,
+        11,
+        0,
+        21,
+        21,
+        11,
+        21,
+        12,
+        12,
+        0,
+        11,
+        5
+      ],
+      "foraging": false,
+      "population": 52,
+      "oldWorld": 9,
+      "needs": [
+        26,
+        26
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        11,
+        6,
+        9,
+        5
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        5,
+        5,
+        11,
+        0,
+        21,
+        21,
+        11,
+        21,
+        12,
+        12,
+        0,
+        11,
+        5
+      ],
+      "foraging": true,
+      "population": 52,
+      "oldWorld": 9,
+      "needs": [
+        22,
+        21
+      ]
+    },
+    {
+      "armyCount": 14,
+      "workerCounts": [
+        8,
+        8,
+        4,
+        11
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        12,
+        5,
+        11,
+        21,
+        0,
+        0,
+        11,
+        11,
+        11
+      ],
+      "foraging": false,
+      "population": 48,
+      "oldWorld": 7,
+      "needs": [
+        24,
+        24
+      ]
+    },
+    {
+      "armyCount": 14,
+      "workerCounts": [
+        8,
+        8,
+        4,
+        11
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        12,
+        5,
+        11,
+        21,
+        0,
+        0,
+        11,
+        11,
+        11
+      ],
+      "foraging": true,
+      "population": 48,
+      "oldWorld": 7,
+      "needs": [
+        21,
+        20
+      ]
+    },
+    {
+      "armyCount": 1,
+      "workerCounts": [
+        7,
+        9,
+        5,
+        14
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        21,
+        21,
+        5,
+        0,
+        21,
+        0,
+        11,
+        0
+      ],
+      "foraging": false,
+      "population": 39,
+      "oldWorld": 6,
+      "needs": [
+        20,
+        19
+      ]
+    },
+    {
+      "armyCount": 1,
+      "workerCounts": [
+        7,
+        9,
+        5,
+        14
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        21,
+        21,
+        5,
+        0,
+        21,
+        0,
+        11,
+        0
+      ],
+      "foraging": true,
+      "population": 39,
+      "oldWorld": 6,
+      "needs": [
+        17,
+        16
+      ]
+    },
+    {
+      "armyCount": 14,
+      "workerCounts": [
+        4,
+        7,
+        13,
+        9
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        11
+      ],
+      "foraging": false,
+      "population": 50,
+      "oldWorld": 1,
+      "needs": [
+        25,
+        25
+      ]
+    },
+    {
+      "armyCount": 14,
+      "workerCounts": [
+        4,
+        7,
+        13,
+        9
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        11
+      ],
+      "foraging": true,
+      "population": 50,
+      "oldWorld": 1,
+      "needs": [
+        25,
+        24
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        8,
+        3,
+        4,
+        9
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        12,
+        0,
+        5,
+        21,
+        21,
+        11,
+        12,
+        0,
+        11,
+        12,
+        11,
+        11,
+        12,
+        21
+      ],
+      "foraging": false,
+      "population": 36,
+      "oldWorld": 8,
+      "needs": [
+        18,
+        18
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        8,
+        3,
+        4,
+        9
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        12,
+        0,
+        5,
+        21,
+        21,
+        11,
+        12,
+        0,
+        11,
+        12,
+        11,
+        11,
+        12,
+        21
+      ],
+      "foraging": true,
+      "population": 36,
+      "oldWorld": 8,
+      "needs": [
+        14,
+        14
+      ]
+    },
+    {
+      "armyCount": 7,
+      "workerCounts": [
+        5,
+        11,
+        8,
+        3
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        21
+      ],
+      "foraging": false,
+      "population": 34,
+      "oldWorld": 0,
+      "needs": [
+        17,
+        17
+      ]
+    },
+    {
+      "armyCount": 7,
+      "workerCounts": [
+        5,
+        11,
+        8,
+        3
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        21
+      ],
+      "foraging": true,
+      "population": 34,
+      "oldWorld": 0,
+      "needs": [
+        17,
+        17
+      ]
+    },
+    {
+      "armyCount": 3,
+      "workerCounts": [
+        0,
+        4,
+        1,
+        13
+      ],
+      "shipOwners": [
+        0
+      ],
+      "provinceCategories": [
+        0,
+        0,
+        11,
+        0,
+        21,
+        12,
+        21
+      ],
+      "foraging": false,
+      "population": 22,
+      "oldWorld": 4,
+      "needs": [
+        11,
+        11
+      ]
+    },
+    {
+      "armyCount": 3,
+      "workerCounts": [
+        0,
+        4,
+        1,
+        13
+      ],
+      "shipOwners": [
+        0
+      ],
+      "provinceCategories": [
+        0,
+        0,
+        11,
+        0,
+        21,
+        12,
+        21
+      ],
+      "foraging": true,
+      "population": 22,
+      "oldWorld": 4,
+      "needs": [
+        9,
+        9
+      ]
+    },
+    {
+      "armyCount": 1,
+      "workerCounts": [
+        7,
+        6,
+        5,
+        4
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        21,
+        0,
+        5,
+        5,
+        5,
+        0,
+        11,
+        21
+      ],
+      "foraging": false,
+      "population": 25,
+      "oldWorld": 7,
+      "needs": [
+        13,
+        12
+      ]
+    },
+    {
+      "armyCount": 1,
+      "workerCounts": [
+        7,
+        6,
+        5,
+        4
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        21,
+        0,
+        5,
+        5,
+        5,
+        0,
+        11,
+        21
+      ],
+      "foraging": true,
+      "population": 25,
+      "oldWorld": 7,
+      "needs": [
+        9,
+        9
+      ]
+    },
+    {
+      "armyCount": 18,
+      "workerCounts": [
+        6,
+        6,
+        5,
+        13
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        0,
+        21,
+        0,
+        21,
+        11,
+        11,
+        12
+      ],
+      "foraging": false,
+      "population": 51,
+      "oldWorld": 6,
+      "needs": [
+        26,
+        25
+      ]
+    },
+    {
+      "armyCount": 18,
+      "workerCounts": [
+        6,
+        6,
+        5,
+        13
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        0,
+        21,
+        0,
+        21,
+        11,
+        11,
+        12
+      ],
+      "foraging": true,
+      "population": 51,
+      "oldWorld": 6,
+      "needs": [
+        23,
+        22
+      ]
+    },
+    {
+      "armyCount": 16,
+      "workerCounts": [
+        14,
+        13,
+        10,
+        11
+      ],
+      "shipOwners": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        12,
+        0
+      ],
+      "foraging": false,
+      "population": 70,
+      "oldWorld": 1,
+      "needs": [
+        35,
+        35
+      ]
+    },
+    {
+      "armyCount": 16,
+      "workerCounts": [
+        14,
+        13,
+        10,
+        11
+      ],
+      "shipOwners": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        12,
+        0
+      ],
+      "foraging": true,
+      "population": 70,
+      "oldWorld": 1,
+      "needs": [
+        35,
+        34
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        3,
+        6,
+        13,
+        8
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        12,
+        11,
+        5,
+        5,
+        12,
+        5,
+        12,
+        12,
+        5,
+        11,
+        12,
+        11,
+        11,
+        12
+      ],
+      "foraging": false,
+      "population": 43,
+      "oldWorld": 8,
+      "needs": [
+        22,
+        21
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        3,
+        6,
+        13,
+        8
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        12,
+        11,
+        5,
+        5,
+        12,
+        5,
+        12,
+        12,
+        5,
+        11,
+        12,
+        11,
+        11,
+        12
+      ],
+      "foraging": true,
+      "population": 43,
+      "oldWorld": 8,
+      "needs": [
+        18,
+        17
+      ]
+    },
+    {
+      "armyCount": 12,
+      "workerCounts": [
+        10,
+        0,
+        9,
+        2
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        21,
+        21,
+        5,
+        21,
+        0,
+        5
+      ],
+      "foraging": false,
+      "population": 37,
+      "oldWorld": 4,
+      "needs": [
+        19,
+        18
+      ]
+    },
+    {
+      "armyCount": 12,
+      "workerCounts": [
+        10,
+        0,
+        9,
+        2
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        21,
+        21,
+        5,
+        21,
+        0,
+        5
+      ],
+      "foraging": true,
+      "population": 37,
+      "oldWorld": 4,
+      "needs": [
+        17,
+        16
+      ]
+    },
+    {
+      "armyCount": 18,
+      "workerCounts": [
+        0,
+        6,
+        10,
+        6
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        11,
+        5,
+        21,
+        12
+      ],
+      "foraging": false,
+      "population": 41,
+      "oldWorld": 2,
+      "needs": [
+        21,
+        20
+      ]
+    },
+    {
+      "armyCount": 18,
+      "workerCounts": [
+        0,
+        6,
+        10,
+        6
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        11,
+        5,
+        21,
+        12
+      ],
+      "foraging": true,
+      "population": 41,
+      "oldWorld": 2,
+      "needs": [
+        20,
+        19
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        7,
+        3,
+        3,
+        5
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        0,
+        0,
+        21
+      ],
+      "foraging": false,
+      "population": 28,
+      "oldWorld": 4,
+      "needs": [
+        14,
+        14
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        7,
+        3,
+        3,
+        5
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        0,
+        0,
+        21
+      ],
+      "foraging": true,
+      "population": 28,
+      "oldWorld": 4,
+      "needs": [
+        12,
+        12
+      ]
+    },
+    {
+      "armyCount": 11,
+      "workerCounts": [
+        0,
+        5,
+        3,
+        9
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        12,
+        12,
+        0,
+        12,
+        11,
+        11
+      ],
+      "foraging": false,
+      "population": 30,
+      "oldWorld": 3,
+      "needs": [
+        15,
+        15
+      ]
+    },
+    {
+      "armyCount": 11,
+      "workerCounts": [
+        0,
+        5,
+        3,
+        9
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        12,
+        12,
+        0,
+        12,
+        11,
+        11
+      ],
+      "foraging": true,
+      "population": 30,
+      "oldWorld": 3,
+      "needs": [
+        14,
+        13
+      ]
+    },
+    {
+      "armyCount": 6,
+      "workerCounts": [
+        4,
+        6,
+        2,
+        14
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        12,
+        0,
+        5,
+        21,
+        21,
+        12,
+        21,
+        12,
+        21,
+        0
+      ],
+      "foraging": false,
+      "population": 33,
+      "oldWorld": 3,
+      "needs": [
+        17,
+        16
+      ]
+    },
+    {
+      "armyCount": 6,
+      "workerCounts": [
+        4,
+        6,
+        2,
+        14
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        12,
+        0,
+        5,
+        21,
+        21,
+        12,
+        21,
+        12,
+        21,
+        0
+      ],
+      "foraging": true,
+      "population": 33,
+      "oldWorld": 3,
+      "needs": [
+        15,
+        15
+      ]
+    },
+    {
+      "armyCount": 7,
+      "workerCounts": [
+        8,
+        10,
+        0,
+        9
+      ],
+      "shipOwners": [
+        0,
+        1
+      ],
+      "provinceCategories": [
+        0,
+        0,
+        21,
+        0,
+        5,
+        12,
+        5,
+        5,
+        21,
+        11,
+        5
+      ],
+      "foraging": false,
+      "population": 35,
+      "oldWorld": 8,
+      "needs": [
+        18,
+        17
+      ]
+    },
+    {
+      "armyCount": 7,
+      "workerCounts": [
+        8,
+        10,
+        0,
+        9
+      ],
+      "shipOwners": [
+        0,
+        1
+      ],
+      "provinceCategories": [
+        0,
+        0,
+        21,
+        0,
+        5,
+        12,
+        5,
+        5,
+        21,
+        11,
+        5
+      ],
+      "foraging": true,
+      "population": 35,
+      "oldWorld": 8,
+      "needs": [
+        14,
+        13
+      ]
+    },
+    {
+      "armyCount": 13,
+      "workerCounts": [
+        4,
+        4,
+        11,
+        10
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        0,
+        12,
+        0,
+        5
+      ],
+      "foraging": false,
+      "population": 47,
+      "oldWorld": 3,
+      "needs": [
+        24,
+        23
+      ]
+    },
+    {
+      "armyCount": 13,
+      "workerCounts": [
+        4,
+        4,
+        11,
+        10
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        0,
+        12,
+        0,
+        5
+      ],
+      "foraging": true,
+      "population": 47,
+      "oldWorld": 3,
+      "needs": [
+        22,
+        22
+      ]
+    },
+    {
+      "armyCount": 0,
+      "workerCounts": [
+        12,
+        8,
+        12,
+        11
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        0,
+        12,
+        11,
+        12
+      ],
+      "foraging": false,
+      "population": 48,
+      "oldWorld": 3,
+      "needs": [
+        24,
+        24
+      ]
+    },
+    {
+      "armyCount": 0,
+      "workerCounts": [
+        12,
+        8,
+        12,
+        11
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        0,
+        12,
+        11,
+        12
+      ],
+      "foraging": true,
+      "population": 48,
+      "oldWorld": 3,
+      "needs": [
+        23,
+        22
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        2,
+        6,
+        10,
+        0
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11
+      ],
+      "foraging": false,
+      "population": 31,
+      "oldWorld": 1,
+      "needs": [
+        16,
+        15
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        2,
+        6,
+        10,
+        0
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11
+      ],
+      "foraging": true,
+      "population": 31,
+      "oldWorld": 1,
+      "needs": [
+        15,
+        15
+      ]
+    },
+    {
+      "armyCount": 11,
+      "workerCounts": [
+        1,
+        10,
+        8,
+        9
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        12,
+        0,
+        11,
+        21,
+        21,
+        0,
+        5,
+        0,
+        5,
+        5
+      ],
+      "foraging": false,
+      "population": 44,
+      "oldWorld": 8,
+      "needs": [
+        22,
+        22
+      ]
+    },
+    {
+      "armyCount": 11,
+      "workerCounts": [
+        1,
+        10,
+        8,
+        9
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        12,
+        0,
+        11,
+        21,
+        21,
+        0,
+        5,
+        0,
+        5,
+        5
+      ],
+      "foraging": true,
+      "population": 44,
+      "oldWorld": 8,
+      "needs": [
+        18,
+        18
+      ]
+    },
+    {
+      "armyCount": 2,
+      "workerCounts": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        12,
+        0,
+        11,
+        11,
+        11,
+        12,
+        21,
+        0,
+        5,
+        21
+      ],
+      "foraging": false,
+      "population": 17,
+      "oldWorld": 6,
+      "needs": [
+        9,
+        8
+      ]
+    },
+    {
+      "armyCount": 2,
+      "workerCounts": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        12,
+        0,
+        11,
+        11,
+        11,
+        12,
+        21,
+        0,
+        5,
+        21
+      ],
+      "foraging": true,
+      "population": 17,
+      "oldWorld": 6,
+      "needs": [
+        6,
+        5
+      ]
+    },
+    {
+      "armyCount": 7,
+      "workerCounts": [
+        1,
+        1,
+        11,
+        12
+      ],
+      "shipOwners": [],
+      "provinceCategories": [],
+      "foraging": false,
+      "population": 32,
+      "oldWorld": 0,
+      "needs": [
+        16,
+        16
+      ]
+    },
+    {
+      "armyCount": 7,
+      "workerCounts": [
+        1,
+        1,
+        11,
+        12
+      ],
+      "shipOwners": [],
+      "provinceCategories": [],
+      "foraging": true,
+      "population": 32,
+      "oldWorld": 0,
+      "needs": [
+        16,
+        16
+      ]
+    },
+    {
+      "armyCount": 12,
+      "workerCounts": [
+        7,
+        6,
+        13,
+        13
+      ],
+      "shipOwners": [],
+      "provinceCategories": [],
+      "foraging": false,
+      "population": 51,
+      "oldWorld": 0,
+      "needs": [
+        26,
+        25
+      ]
+    },
+    {
+      "armyCount": 12,
+      "workerCounts": [
+        7,
+        6,
+        13,
+        13
+      ],
+      "shipOwners": [],
+      "provinceCategories": [],
+      "foraging": true,
+      "population": 51,
+      "oldWorld": 0,
+      "needs": [
+        26,
+        25
+      ]
+    },
+    {
+      "armyCount": 16,
+      "workerCounts": [
+        3,
+        4,
+        14,
+        1
+      ],
+      "shipOwners": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        21,
+        21,
+        21,
+        11,
+        0,
+        5,
+        5,
+        0
+      ],
+      "foraging": false,
+      "population": 44,
+      "oldWorld": 6,
+      "needs": [
+        22,
+        22
+      ]
+    },
+    {
+      "armyCount": 16,
+      "workerCounts": [
+        3,
+        4,
+        14,
+        1
+      ],
+      "shipOwners": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        21,
+        21,
+        21,
+        11,
+        0,
+        5,
+        5,
+        0
+      ],
+      "foraging": true,
+      "population": 44,
+      "oldWorld": 6,
+      "needs": [
+        19,
+        19
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        8,
+        0,
+        0,
+        5
+      ],
+      "shipOwners": [
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        12,
+        5,
+        11,
+        5,
+        5,
+        5
+      ],
+      "foraging": false,
+      "population": 22,
+      "oldWorld": 5,
+      "needs": [
+        11,
+        11
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        8,
+        0,
+        0,
+        5
+      ],
+      "shipOwners": [
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        12,
+        5,
+        11,
+        5,
+        5,
+        5
+      ],
+      "foraging": true,
+      "population": 22,
+      "oldWorld": 5,
+      "needs": [
+        9,
+        8
+      ]
+    },
+    {
+      "armyCount": 17,
+      "workerCounts": [
+        13,
+        7,
+        1,
+        10
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        11,
+        11,
+        12,
+        21,
+        0,
+        0,
+        12,
+        21,
+        21,
+        21,
+        12,
+        5,
+        5,
+        21
+      ],
+      "foraging": false,
+      "population": 48,
+      "oldWorld": 6,
+      "needs": [
+        24,
+        24
+      ]
+    },
+    {
+      "armyCount": 17,
+      "workerCounts": [
+        13,
+        7,
+        1,
+        10
+      ],
+      "shipOwners": [],
+      "provinceCategories": [
+        11,
+        11,
+        12,
+        21,
+        0,
+        0,
+        12,
+        21,
+        21,
+        21,
+        12,
+        5,
+        5,
+        21
+      ],
+      "foraging": true,
+      "population": 48,
+      "oldWorld": 6,
+      "needs": [
+        21,
+        21
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        6,
+        9,
+        2,
+        0
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        0,
+        11,
+        12
+      ],
+      "foraging": false,
+      "population": 34,
+      "oldWorld": 2,
+      "needs": [
+        17,
+        17
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        6,
+        9,
+        2,
+        0
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        0,
+        11,
+        12
+      ],
+      "foraging": true,
+      "population": 34,
+      "oldWorld": 2,
+      "needs": [
+        16,
+        16
+      ]
+    },
+    {
+      "armyCount": 5,
+      "workerCounts": [
+        0,
+        13,
+        14,
+        5
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        0,
+        0,
+        21,
+        21,
+        0,
+        5,
+        5,
+        12,
+        5,
+        12
+      ],
+      "foraging": false,
+      "population": 42,
+      "oldWorld": 6,
+      "needs": [
+        21,
+        21
+      ]
+    },
+    {
+      "armyCount": 5,
+      "workerCounts": [
+        0,
+        13,
+        14,
+        5
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        0,
+        0,
+        21,
+        21,
+        0,
+        5,
+        5,
+        12,
+        5,
+        12
+      ],
+      "foraging": true,
+      "population": 42,
+      "oldWorld": 6,
+      "needs": [
+        18,
+        18
+      ]
+    },
+    {
+      "armyCount": 15,
+      "workerCounts": [
+        14,
+        7,
+        11,
+        13
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        12,
+        11,
+        12,
+        21,
+        0,
+        5
+      ],
+      "foraging": false,
+      "population": 62,
+      "oldWorld": 4,
+      "needs": [
+        31,
+        31
+      ]
+    },
+    {
+      "armyCount": 15,
+      "workerCounts": [
+        14,
+        7,
+        11,
+        13
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        12,
+        11,
+        12,
+        21,
+        0,
+        5
+      ],
+      "foraging": true,
+      "population": 62,
+      "oldWorld": 4,
+      "needs": [
+        29,
+        29
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        13,
+        12,
+        5,
+        3
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        5
+      ],
+      "foraging": false,
+      "population": 50,
+      "oldWorld": 1,
+      "needs": [
+        25,
+        25
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        13,
+        12,
+        5,
+        3
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        5
+      ],
+      "foraging": true,
+      "population": 50,
+      "oldWorld": 1,
+      "needs": [
+        25,
+        24
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        6,
+        11,
+        5,
+        4
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        0,
+        11,
+        11,
+        12,
+        0,
+        12,
+        11
+      ],
+      "foraging": false,
+      "population": 36,
+      "oldWorld": 5,
+      "needs": [
+        18,
+        18
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        6,
+        11,
+        5,
+        4
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        21,
+        0,
+        11,
+        11,
+        12,
+        0,
+        12,
+        11
+      ],
+      "foraging": true,
+      "population": 36,
+      "oldWorld": 5,
+      "needs": [
+        16,
+        15
+      ]
+    },
+    {
+      "armyCount": 5,
+      "workerCounts": [
+        9,
+        10,
+        13,
+        10
+      ],
+      "shipOwners": [
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        21,
+        12,
+        11,
+        0,
+        12,
+        12,
+        21,
+        21,
+        5,
+        21,
+        0,
+        0
+      ],
+      "foraging": false,
+      "population": 47,
+      "oldWorld": 7,
+      "needs": [
+        24,
+        23
+      ]
+    },
+    {
+      "armyCount": 5,
+      "workerCounts": [
+        9,
+        10,
+        13,
+        10
+      ],
+      "shipOwners": [
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        21,
+        12,
+        11,
+        0,
+        12,
+        12,
+        21,
+        21,
+        5,
+        21,
+        0,
+        0
+      ],
+      "foraging": true,
+      "population": 47,
+      "oldWorld": 7,
+      "needs": [
+        20,
+        20
+      ]
+    },
+    {
+      "armyCount": 11,
+      "workerCounts": [
+        6,
+        6,
+        1,
+        5
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        0,
+        5,
+        0,
+        5,
+        5,
+        5
+      ],
+      "foraging": false,
+      "population": 31,
+      "oldWorld": 6,
+      "needs": [
+        16,
+        15
+      ]
+    },
+    {
+      "armyCount": 11,
+      "workerCounts": [
+        6,
+        6,
+        1,
+        5
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        0,
+        5,
+        0,
+        5,
+        5,
+        5
+      ],
+      "foraging": true,
+      "population": 31,
+      "oldWorld": 6,
+      "needs": [
+        13,
+        12
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        8,
+        11,
+        10,
+        5
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        11,
+        11
+      ],
+      "foraging": false,
+      "population": 57,
+      "oldWorld": 2,
+      "needs": [
+        29,
+        28
+      ]
+    },
+    {
+      "armyCount": 19,
+      "workerCounts": [
+        8,
+        11,
+        10,
+        5
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        21,
+        11,
+        11
+      ],
+      "foraging": true,
+      "population": 57,
+      "oldWorld": 2,
+      "needs": [
+        28,
+        27
+      ]
+    },
+    {
+      "armyCount": 7,
+      "workerCounts": [
+        14,
+        3,
+        9,
+        3
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        0,
+        0,
+        0,
+        11,
+        11,
+        21,
+        5,
+        12,
+        12
+      ],
+      "foraging": false,
+      "population": 37,
+      "oldWorld": 8,
+      "needs": [
+        19,
+        18
+      ]
+    },
+    {
+      "armyCount": 7,
+      "workerCounts": [
+        14,
+        3,
+        9,
+        3
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        0,
+        0,
+        0,
+        11,
+        11,
+        21,
+        5,
+        12,
+        12
+      ],
+      "foraging": true,
+      "population": 37,
+      "oldWorld": 8,
+      "needs": [
+        15,
+        14
+      ]
+    },
+    {
+      "armyCount": 2,
+      "workerCounts": [
+        7,
+        12,
+        7,
+        5
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        5,
+        12
+      ],
+      "foraging": false,
+      "population": 40,
+      "oldWorld": 3,
+      "needs": [
+        20,
+        20
+      ]
+    },
+    {
+      "armyCount": 2,
+      "workerCounts": [
+        7,
+        12,
+        7,
+        5
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        5,
+        12
+      ],
+      "foraging": true,
+      "population": 40,
+      "oldWorld": 3,
+      "needs": [
+        19,
+        18
+      ]
+    },
+    {
+      "armyCount": 3,
+      "workerCounts": [
+        6,
+        7,
+        7,
+        9
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        21,
+        0,
+        5,
+        0,
+        21,
+        12,
+        11,
+        0
+      ],
+      "foraging": false,
+      "population": 34,
+      "oldWorld": 5,
+      "needs": [
+        17,
+        17
+      ]
+    },
+    {
+      "armyCount": 3,
+      "workerCounts": [
+        6,
+        7,
+        7,
+        9
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        21,
+        0,
+        5,
+        0,
+        21,
+        12,
+        11,
+        0
+      ],
+      "foraging": true,
+      "population": 34,
+      "oldWorld": 5,
+      "needs": [
+        15,
+        14
+      ]
+    },
+    {
+      "armyCount": 8,
+      "workerCounts": [
+        9,
+        7,
+        1,
+        12
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        12
+      ],
+      "foraging": false,
+      "population": 39,
+      "oldWorld": 0,
+      "needs": [
+        20,
+        19
+      ]
+    },
+    {
+      "armyCount": 8,
+      "workerCounts": [
+        9,
+        7,
+        1,
+        12
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        12
+      ],
+      "foraging": true,
+      "population": 39,
+      "oldWorld": 0,
+      "needs": [
+        20,
+        19
+      ]
+    },
+    {
+      "armyCount": 12,
+      "workerCounts": [
+        0,
+        5,
+        14,
+        5
+      ],
+      "shipOwners": [
+        1,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        12,
+        21,
+        0,
+        11
+      ],
+      "foraging": false,
+      "population": 37,
+      "oldWorld": 3,
+      "needs": [
+        19,
+        18
+      ]
+    },
+    {
+      "armyCount": 12,
+      "workerCounts": [
+        0,
+        5,
+        14,
+        5
+      ],
+      "shipOwners": [
+        1,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        12,
+        21,
+        0,
+        11
+      ],
+      "foraging": true,
+      "population": 37,
+      "oldWorld": 3,
+      "needs": [
+        17,
+        17
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        9,
+        0,
+        2,
+        9
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [],
+      "foraging": false,
+      "population": 32,
+      "oldWorld": 0,
+      "needs": [
+        16,
+        16
+      ]
+    },
+    {
+      "armyCount": 10,
+      "workerCounts": [
+        9,
+        0,
+        2,
+        9
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0
+      ],
+      "provinceCategories": [],
+      "foraging": true,
+      "population": 32,
+      "oldWorld": 0,
+      "needs": [
+        16,
+        16
+      ]
+    },
+    {
+      "armyCount": 11,
+      "workerCounts": [
+        1,
+        8,
+        8,
+        6
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        12,
+        5,
+        11,
+        5,
+        0,
+        12,
+        5
+      ],
+      "foraging": false,
+      "population": 35,
+      "oldWorld": 7,
+      "needs": [
+        18,
+        17
+      ]
+    },
+    {
+      "armyCount": 11,
+      "workerCounts": [
+        1,
+        8,
+        8,
+        6
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        12,
+        5,
+        11,
+        5,
+        0,
+        12,
+        5
+      ],
+      "foraging": true,
+      "population": 35,
+      "oldWorld": 7,
+      "needs": [
+        14,
+        14
+      ]
+    },
+    {
+      "armyCount": 12,
+      "workerCounts": [
+        1,
+        4,
+        10,
+        11
+      ],
+      "shipOwners": [
+        0
+      ],
+      "provinceCategories": [
+        5
+      ],
+      "foraging": false,
+      "population": 39,
+      "oldWorld": 1,
+      "needs": [
+        20,
+        19
+      ]
+    },
+    {
+      "armyCount": 12,
+      "workerCounts": [
+        1,
+        4,
+        10,
+        11
+      ],
+      "shipOwners": [
+        0
+      ],
+      "provinceCategories": [
+        5
+      ],
+      "foraging": true,
+      "population": 39,
+      "oldWorld": 1,
+      "needs": [
+        19,
+        19
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        10,
+        7,
+        1,
+        13
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        0,
+        11,
+        21,
+        21,
+        0,
+        0,
+        5,
+        0,
+        21,
+        0,
+        5
+      ],
+      "foraging": false,
+      "population": 47,
+      "oldWorld": 8,
+      "needs": [
+        24,
+        23
+      ]
+    },
+    {
+      "armyCount": 9,
+      "workerCounts": [
+        10,
+        7,
+        1,
+        13
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        0,
+        11,
+        21,
+        21,
+        0,
+        0,
+        5,
+        0,
+        21,
+        0,
+        5
+      ],
+      "foraging": true,
+      "population": 47,
+      "oldWorld": 8,
+      "needs": [
+        20,
+        19
+      ]
+    },
+    {
+      "armyCount": 17,
+      "workerCounts": [
+        14,
+        2,
+        7,
+        12
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        21,
+        5,
+        11,
+        21,
+        12,
+        21,
+        11
+      ],
+      "foraging": false,
+      "population": 56,
+      "oldWorld": 4,
+      "needs": [
+        28,
+        28
+      ]
+    },
+    {
+      "armyCount": 17,
+      "workerCounts": [
+        14,
+        2,
+        7,
+        12
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        21,
+        5,
+        11,
+        21,
+        12,
+        21,
+        11
+      ],
+      "foraging": true,
+      "population": 56,
+      "oldWorld": 4,
+      "needs": [
+        26,
+        26
+      ]
+    },
+    {
+      "armyCount": 15,
+      "workerCounts": [
+        1,
+        3,
+        3,
+        14
+      ],
+      "shipOwners": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        0,
+        12,
+        21,
+        0,
+        11,
+        0,
+        12,
+        21,
+        12,
+        11,
+        0,
+        11,
+        12,
+        11
+      ],
+      "foraging": false,
+      "population": 38,
+      "oldWorld": 9,
+      "needs": [
+        19,
+        19
+      ]
+    },
+    {
+      "armyCount": 15,
+      "workerCounts": [
+        1,
+        3,
+        3,
+        14
+      ],
+      "shipOwners": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        5,
+        0,
+        12,
+        21,
+        0,
+        11,
+        0,
+        12,
+        21,
+        12,
+        11,
+        0,
+        11,
+        12,
+        11
+      ],
+      "foraging": true,
+      "population": 38,
+      "oldWorld": 9,
+      "needs": [
+        15,
+        14
+      ]
+    },
+    {
+      "armyCount": 11,
+      "workerCounts": [
+        12,
+        10,
+        11,
+        13
+      ],
+      "shipOwners": [
+        0,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        12,
+        0,
+        11,
+        0,
+        11,
+        5,
+        11,
+        12,
+        0,
+        5
+      ],
+      "foraging": false,
+      "population": 59,
+      "oldWorld": 9,
+      "needs": [
+        30,
+        29
+      ]
+    },
+    {
+      "armyCount": 11,
+      "workerCounts": [
+        12,
+        10,
+        11,
+        13
+      ],
+      "shipOwners": [
+        0,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        12,
+        0,
+        11,
+        0,
+        11,
+        5,
+        11,
+        12,
+        0,
+        5
+      ],
+      "foraging": true,
+      "population": 59,
+      "oldWorld": 9,
+      "needs": [
+        25,
+        25
+      ]
+    },
+    {
+      "armyCount": 17,
+      "workerCounts": [
+        13,
+        10,
+        0,
+        4
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        21,
+        5
+      ],
+      "foraging": false,
+      "population": 47,
+      "oldWorld": 2,
+      "needs": [
+        24,
+        23
+      ]
+    },
+    {
+      "armyCount": 17,
+      "workerCounts": [
+        13,
+        10,
+        0,
+        4
+      ],
+      "shipOwners": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        5,
+        21,
+        5
+      ],
+      "foraging": true,
+      "population": 47,
+      "oldWorld": 2,
+      "needs": [
+        23,
+        22
+      ]
+    },
+    {
+      "armyCount": 13,
+      "workerCounts": [
+        3,
+        6,
+        1,
+        1
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        12,
+        0,
+        21,
+        0,
+        5,
+        11,
+        5,
+        12,
+        21,
+        0,
+        5,
+        11,
+        12,
+        21
+      ],
+      "foraging": false,
+      "population": 26,
+      "oldWorld": 8,
+      "needs": [
+        13,
+        13
+      ]
+    },
+    {
+      "armyCount": 13,
+      "workerCounts": [
+        3,
+        6,
+        1,
+        1
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        12,
+        0,
+        21,
+        0,
+        5,
+        11,
+        5,
+        12,
+        21,
+        0,
+        5,
+        11,
+        12,
+        21
+      ],
+      "foraging": true,
+      "population": 26,
+      "oldWorld": 8,
+      "needs": [
+        9,
+        9
+      ]
+    },
+    {
+      "armyCount": 13,
+      "workerCounts": [
+        7,
+        2,
+        12,
+        3
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        5,
+        5,
+        12,
+        12,
+        21,
+        11
+      ],
+      "foraging": false,
+      "population": 39,
+      "oldWorld": 4,
+      "needs": [
+        20,
+        19
+      ]
+    },
+    {
+      "armyCount": 13,
+      "workerCounts": [
+        7,
+        2,
+        12,
+        3
+      ],
+      "shipOwners": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        11,
+        5,
+        5,
+        12,
+        12,
+        21,
+        11
+      ],
+      "foraging": true,
+      "population": 39,
+      "oldWorld": 4,
+      "needs": [
+        18,
+        17
+      ]
+    },
+    {
+      "armyCount": 15,
+      "workerCounts": [
+        6,
+        6,
+        0,
+        0
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        21,
+        5,
+        11,
+        0
+      ],
+      "foraging": false,
+      "population": 28,
+      "oldWorld": 4,
+      "needs": [
+        14,
+        14
+      ]
+    },
+    {
+      "armyCount": 15,
+      "workerCounts": [
+        6,
+        6,
+        0,
+        0
+      ],
+      "shipOwners": [
+        1,
+        0,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        21,
+        5,
+        11,
+        0
+      ],
+      "foraging": true,
+      "population": 28,
+      "oldWorld": 4,
+      "needs": [
+        12,
+        12
+      ]
+    },
+    {
+      "armyCount": 12,
+      "workerCounts": [
+        10,
+        12,
+        9,
+        10
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        0,
+        11,
+        11,
+        5,
+        11,
+        5,
+        21,
+        12,
+        5,
+        0,
+        21,
+        21
+      ],
+      "foraging": false,
+      "population": 56,
+      "oldWorld": 8,
+      "needs": [
+        28,
+        28
+      ]
+    },
+    {
+      "armyCount": 12,
+      "workerCounts": [
+        10,
+        12,
+        9,
+        10
+      ],
+      "shipOwners": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        0,
+        11,
+        11,
+        5,
+        11,
+        5,
+        21,
+        12,
+        5,
+        0,
+        21,
+        21
+      ],
+      "foraging": true,
+      "population": 56,
+      "oldWorld": 8,
+      "needs": [
+        24,
+        24
+      ]
+    },
+    {
+      "armyCount": 7,
+      "workerCounts": [
+        14,
+        14,
+        1,
+        12
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        21,
+        12,
+        21,
+        21,
+        12,
+        12,
+        12,
+        11,
+        0,
+        21,
+        12
+      ],
+      "foraging": false,
+      "population": 51,
+      "oldWorld": 2,
+      "needs": [
+        26,
+        25
+      ]
+    },
+    {
+      "armyCount": 7,
+      "workerCounts": [
+        14,
+        14,
+        1,
+        12
+      ],
+      "shipOwners": [
+        0,
+        0,
+        0
+      ],
+      "provinceCategories": [
+        21,
+        12,
+        21,
+        21,
+        12,
+        12,
+        12,
+        11,
+        0,
+        21,
+        12
+      ],
+      "foraging": true,
+      "population": 51,
+      "oldWorld": 2,
+      "needs": [
+        25,
+        24
+      ]
+    },
+    {
+      "armyCount": 1,
+      "workerCounts": [
+        11,
+        9,
+        13,
+        11
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        0,
+        21,
+        21
+      ],
+      "foraging": false,
+      "population": 47,
+      "oldWorld": 3,
+      "needs": [
+        24,
+        23
+      ]
+    },
+    {
+      "armyCount": 1,
+      "workerCounts": [
+        11,
+        9,
+        13,
+        11
+      ],
+      "shipOwners": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "provinceCategories": [
+        11,
+        11,
+        0,
+        21,
+        21
+      ],
+      "foraging": true,
+      "population": 47,
+      "oldWorld": 3,
+      "needs": [
+        22,
+        22
+      ]
+    },
+    {
+      "armyCount": 16,
+      "workerCounts": [
+        5,
+        10,
+        3,
+        5
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        12,
+        11,
+        21,
+        0
+      ],
+      "foraging": false,
+      "population": 41,
+      "oldWorld": 2,
+      "needs": [
+        21,
+        20
+      ]
+    },
+    {
+      "armyCount": 16,
+      "workerCounts": [
+        5,
+        10,
+        3,
+        5
+      ],
+      "shipOwners": [
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      "provinceCategories": [
+        12,
+        11,
+        21,
+        0
+      ],
+      "foraging": true,
+      "population": 41,
+      "oldWorld": 2,
+      "needs": [
+        20,
+        19
+      ]
+    }
+  ]
+}

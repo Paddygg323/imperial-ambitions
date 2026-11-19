@@ -1,0 +1,14 @@
+{
+  "checks": 12,
+  "turn": 104,
+  "year": 1704,
+  "startCash": 566,
+  "endCash": 3820,
+  "sales": 6937,
+  "researchPaid": 3000,
+  "scope": "Four actual campaign turns after export-policy correction",
+  "limits": [
+    "Short recovery, not proof of indefinitely sustainable finances",
+    "No game rules or stock grants changed"
+  ]
+}

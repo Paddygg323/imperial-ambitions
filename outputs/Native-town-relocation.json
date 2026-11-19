@@ -1,0 +1,197 @@
+{
+  "scope": "Complete553f40 town relocation, including unchanged native picture and\ntown-neighbor helper calls. Explicit synthetic provinces; no substitutions.\n",
+  "cases": [
+    {
+      "n": 0,
+      "id": 0,
+      "tile": 2289,
+      "noWrap": false,
+      "tilesHash": "11cf389185df27e34b9eb518e0d8dffae9f9bb8c28927440c0b2d7811433edd9",
+      "provincesHash": "1b388701644485b03811f98c58ee5e4d151de9fc7effca5aa75f79e29fbb849a"
+    },
+    {
+      "n": 1,
+      "id": 1,
+      "tile": 2294,
+      "noWrap": true,
+      "tilesHash": "a8a2d7114a95f808cd8d0e05edd0a137ea707cd67b81a40e952744b08a266508",
+      "provincesHash": "0933814401dfbe75a5427a10c513253a7f3b6964705c846339f7b79441d716e2"
+    },
+    {
+      "n": 2,
+      "id": 2,
+      "tile": 2299,
+      "noWrap": false,
+      "tilesHash": "2f1950a017cc20d30d5d2951f574813ed62faae0dc0e49106ebf9932eab305d6",
+      "provincesHash": "ff0ee359a11d33e1379fc19794cb5f425712aacebd464baf1d6dfa5cac05626a"
+    },
+    {
+      "n": 3,
+      "id": 3,
+      "tile": 2301,
+      "noWrap": true,
+      "tilesHash": "5ab9fb9c936257440cff25c5c6d7a5f86a610ab8de2a412d9694f975139bd80d",
+      "provincesHash": "b62e8f13ebbc63d08b37a54141421dbdd1f076ce0caef2325567e8b658a6d1f5"
+    },
+    {
+      "n": 4,
+      "id": 4,
+      "tile": 2722,
+      "noWrap": false,
+      "tilesHash": "d2ac48a4a4b0294aae570aaada0bce914384e50247f280a8e3075b10df4a7511",
+      "provincesHash": "4d0a5ecc3db2b378645b5c75f57793ecd6b6a79cc962c5b68c8251b896b6a505"
+    },
+    {
+      "n": 5,
+      "id": 5,
+      "tile": 2727,
+      "noWrap": true,
+      "tilesHash": "ab37794854160fb2c6592974564937f8b7d6159ce6354cdb5f35c71adc7e9758",
+      "provincesHash": "21e8e80124a91deff799368527c16006d0e4ab8e22ca2b8ba82e40fdeaae5cab"
+    },
+    {
+      "n": 6,
+      "id": 6,
+      "tile": 2729,
+      "noWrap": false,
+      "tilesHash": "376f503fd33557094b15c8d94cffa886e7c83d7b3ad8efca2336ced6c18bf981",
+      "provincesHash": "14d810145786c53ce5d285638d9c6bb265f6652b457843314610b8bffefbefd9"
+    },
+    {
+      "n": 7,
+      "id": 7,
+      "tile": 2734,
+      "noWrap": true,
+      "tilesHash": "549d04a50abc8febca362950910e71c63fb7b9cc00b9c70db60365eeb5ce44b6",
+      "provincesHash": "f8060b4732c752b29bcd2d733b3555c6a6a6f3195f1b523734f41a09ba145344"
+    },
+    {
+      "n": 8,
+      "id": 0,
+      "tile": 2291,
+      "noWrap": false,
+      "tilesHash": "21e11f631ee6171aa60416f77a4a324af26e77a12380a19a3b4eef1409359d88",
+      "provincesHash": "413c98e8670f354e21b3ad4112da5fafe517f89291584e309ef26739cd9a9870"
+    },
+    {
+      "n": 9,
+      "id": 1,
+      "tile": 2294,
+      "noWrap": true,
+      "tilesHash": "ea3fc2a864e05b8736266da610f02c1ffcdc8f6c75a12e37fafbccdc8144071c",
+      "provincesHash": "4a91712384387f6663bd81e4306b937d440190482169bf4054451566f2149638"
+    },
+    {
+      "n": 10,
+      "id": 2,
+      "tile": 2298,
+      "noWrap": false,
+      "tilesHash": "8aa4463ed92a867cb0c40f202ea3370c54885fbd41fe4e053f8d9de12490877d",
+      "provincesHash": "7fcc1eed031e182a5a23e19ff37a5609cb0ffb7e72d91c7e2180da06539ddcc8"
+    },
+    {
+      "n": 11,
+      "id": 3,
+      "tile": 2303,
+      "noWrap": true,
+      "tilesHash": "2d1d044bef56428d6044531df215d3760c70acfbdc52442b33810121463506c9",
+      "provincesHash": "ea6ff67be8a5fc5bfb8c8b661cde6662e276da58e70b5820e40d3ee138514914"
+    },
+    {
+      "n": 12,
+      "id": 4,
+      "tile": 2830,
+      "noWrap": false,
+      "tilesHash": "f27a4d4973b1b7dd1f22ae608258876e66ead1494d9c48a771f003a4586647a1",
+      "provincesHash": "7a9958bb13d48ee7c75e7fe7f7822cecbbdfe8c34aa00861c3adfa1a3eb354d6"
+    },
+    {
+      "n": 13,
+      "id": 5,
+      "tile": 2726,
+      "noWrap": true,
+      "tilesHash": "5521d93011aaa022392b660ac591236a55568f8c724271651d2bf31915d91e90",
+      "provincesHash": "25c7da87a9fc560ba2e9667e1dee11581c7e0fdbe175d471a644ad8e40290805"
+    },
+    {
+      "n": 14,
+      "id": 6,
+      "tile": 2731,
+      "noWrap": false,
+      "tilesHash": "fe88f1a00d228946a6114a42b83b10f0a30a84681a473853a60d414ca34295f8",
+      "provincesHash": "a672048f2168be326247549b7f0fddbfd69edfc6e96053f7daa1662a2c807928"
+    },
+    {
+      "n": 15,
+      "id": 7,
+      "tile": 2841,
+      "noWrap": true,
+      "tilesHash": "252245552c0186167562b51755de329c45e8b6a3d05fdf4ee412ca598154de00",
+      "provincesHash": "86df4060d9875a175e40ca4ab627387f3e989205e4a7a022ff46b6a9c73d3ab5"
+    },
+    {
+      "n": 16,
+      "id": 0,
+      "tile": 2290,
+      "noWrap": false,
+      "tilesHash": "c1bfd3d6cb2fc2fec155998f20df7b19308fb76ea58fdab5ed3e07fd1dbb6bbd",
+      "provincesHash": "e140183905a42dbd403645d348e157583f3af2c46ec9f15a3fc6b8ec8bdfa4a4"
+    },
+    {
+      "n": 17,
+      "id": 1,
+      "tile": 2295,
+      "noWrap": true,
+      "tilesHash": "d6858f91207e57aa0d5eb3184b4471b4d923194d6ce3a016534ff7b51afd502a",
+      "provincesHash": "4d8144656b61652638817983d517c91435d6aba8749aa543fb46b2a73f409217"
+    },
+    {
+      "n": 18,
+      "id": 2,
+      "tile": 2405,
+      "noWrap": false,
+      "tilesHash": "c6a7a8da14cc52b7bbaf7e5dfb2db680dd2ba94462765afd51197cb7a11003a5",
+      "provincesHash": "bce537ea20fb9421ffdb4382df5e7c2ea7b504a81d713050d31de08d2511b659"
+    },
+    {
+      "n": 19,
+      "id": 3,
+      "tile": 2302,
+      "noWrap": true,
+      "tilesHash": "a1e2b842462537e90765274995af1cf30a4d9503887d484386619f56353adee0",
+      "provincesHash": "cdbe8d0d614f2b2bbf30548b50804d5c343859510b4c274134cbad1a7bec97cd"
+    },
+    {
+      "n": 20,
+      "id": 4,
+      "tile": 2723,
+      "noWrap": false,
+      "tilesHash": "8b09c1fb6bb6ee4c0ee60371f373b7cf1e076e29c469b7ed48f7e860fc444535",
+      "provincesHash": "54ee70f9c0e50663c8491539a7edef46a37ce5a98a12446f4236648d47212751"
+    },
+    {
+      "n": 21,
+      "id": 5,
+      "tile": 2941,
+      "noWrap": true,
+      "tilesHash": "8d45c8a7eac4653c1dbe19b08d3a881033200ae21df0e41037fb3d3162357620",
+      "provincesHash": "da582342227d16aec654852316f8e92b5053421b057434375ad3218d0a7773de"
+    },
+    {
+      "n": 22,
+      "id": 6,
+      "tile": 2730,
+      "noWrap": false,
+      "tilesHash": "df336ecde98b05112d0ecb6cc05e6ba98d0564a8843344391fb77c1908df3176",
+      "provincesHash": "abcfcc1b1d7fc20bf6ea6d21b5dfb440f194087aca6e8254a3dec240daafa467"
+    },
+    {
+      "n": 23,
+      "id": 7,
+      "tile": 2735,
+      "noWrap": true,
+      "tilesHash": "b57d5a3d7625ca34d70f4a73640b9745304c13fb4946b2aa29fbf75808a74e10",
+      "provincesHash": "53f7ec474b6eb236850f250e79514029cb1cf4ba2fd0008427420dc037f3677a"
+    }
+  ]
+}

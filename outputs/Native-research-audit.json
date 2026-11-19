@@ -1,0 +1,1667 @@
+{
+  "source": "C:\\Program Files\\GOG Galaxy\\Games\\Imperialism II\\Imperialism II.exe",
+  "sha256": "63346490c488d2a4ef528e3c0884d823e60ac59f602fa82657b39aa040253279",
+  "initializer": "0x639150",
+  "sentinel": 0,
+  "technologies": [
+    {
+      "id": "0",
+      "packedId": 67329,
+      "prerequisitePackedIds": [
+        0,
+        0,
+        0
+      ],
+      "division": 0,
+      "requires": []
+    },
+    {
+      "id": "1",
+      "packedId": 67585,
+      "prerequisitePackedIds": [
+        0,
+        0,
+        0
+      ],
+      "division": 0,
+      "requires": []
+    },
+    {
+      "id": "2",
+      "packedId": 67841,
+      "prerequisitePackedIds": [
+        0,
+        0,
+        0
+      ],
+      "division": 0,
+      "requires": []
+    },
+    {
+      "id": "3",
+      "packedId": 71937,
+      "prerequisitePackedIds": [
+        0,
+        0,
+        0
+      ],
+      "division": 0,
+      "requires": []
+    },
+    {
+      "id": "4",
+      "packedId": 72193,
+      "prerequisitePackedIds": [
+        0,
+        0,
+        0
+      ],
+      "division": 0,
+      "requires": []
+    },
+    {
+      "id": "5",
+      "packedId": 67073,
+      "prerequisitePackedIds": [
+        0,
+        0,
+        0
+      ],
+      "division": 0,
+      "requires": []
+    },
+    {
+      "id": "6",
+      "packedId": 71425,
+      "prerequisitePackedIds": [
+        0,
+        0,
+        0
+      ],
+      "division": 0,
+      "requires": []
+    },
+    {
+      "id": "7",
+      "packedId": 259,
+      "prerequisitePackedIds": [
+        0,
+        0,
+        0
+      ],
+      "division": 1,
+      "requires": []
+    },
+    {
+      "id": "8",
+      "packedId": 136193,
+      "prerequisitePackedIds": [
+        0,
+        0,
+        0
+      ],
+      "division": 1,
+      "requires": []
+    },
+    {
+      "id": "9",
+      "packedId": 131329,
+      "prerequisitePackedIds": [
+        0,
+        0,
+        0
+      ],
+      "division": 1,
+      "requires": []
+    },
+    {
+      "id": "10",
+      "packedId": 459271,
+      "prerequisitePackedIds": [
+        0,
+        0,
+        0
+      ],
+      "division": 1,
+      "requires": []
+    },
+    {
+      "id": "11",
+      "packedId": 136705,
+      "prerequisitePackedIds": [
+        0,
+        0,
+        0
+      ],
+      "division": 1,
+      "requires": []
+    },
+    {
+      "id": "12",
+      "packedId": 269,
+      "prerequisitePackedIds": [
+        0,
+        0,
+        0
+      ],
+      "division": 1,
+      "requires": []
+    },
+    {
+      "id": "13",
+      "packedId": 4354,
+      "prerequisitePackedIds": [
+        67329,
+        0,
+        0
+      ],
+      "division": 1,
+      "requires": [
+        "0"
+      ]
+    },
+    {
+      "id": "14",
+      "packedId": 132865,
+      "prerequisitePackedIds": [
+        67329,
+        0,
+        0
+      ],
+      "division": 1,
+      "requires": [
+        "0"
+      ]
+    },
+    {
+      "id": "15",
+      "packedId": 4610,
+      "prerequisitePackedIds": [
+        67585,
+        0,
+        0
+      ],
+      "division": 1,
+      "requires": [
+        "1"
+      ]
+    },
+    {
+      "id": "16",
+      "packedId": 133121,
+      "prerequisitePackedIds": [
+        67585,
+        0,
+        0
+      ],
+      "division": 1,
+      "requires": [
+        "1"
+      ]
+    },
+    {
+      "id": "17",
+      "packedId": 4866,
+      "prerequisitePackedIds": [
+        67841,
+        0,
+        0
+      ],
+      "division": 1,
+      "requires": [
+        "2"
+      ]
+    },
+    {
+      "id": "18",
+      "packedId": 133377,
+      "prerequisitePackedIds": [
+        67841,
+        0,
+        0
+      ],
+      "division": 1,
+      "requires": [
+        "2"
+      ]
+    },
+    {
+      "id": "19",
+      "packedId": 136961,
+      "prerequisitePackedIds": [
+        71425,
+        0,
+        0
+      ],
+      "division": 1,
+      "requires": [
+        "6"
+      ]
+    },
+    {
+      "id": "20",
+      "packedId": 2818,
+      "prerequisitePackedIds": [
+        67073,
+        0,
+        0
+      ],
+      "division": 1,
+      "requires": [
+        "5"
+      ]
+    },
+    {
+      "id": "21",
+      "packedId": 132609,
+      "prerequisitePackedIds": [
+        67073,
+        0,
+        0
+      ],
+      "division": 1,
+      "requires": [
+        "5"
+      ]
+    },
+    {
+      "id": "22",
+      "packedId": 270,
+      "prerequisitePackedIds": [
+        0,
+        0,
+        0
+      ],
+      "division": 1,
+      "requires": []
+    },
+    {
+      "id": "23",
+      "packedId": 260,
+      "prerequisitePackedIds": [
+        136193,
+        4354,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "8",
+        "13"
+      ]
+    },
+    {
+      "id": "24",
+      "packedId": 198401,
+      "prerequisitePackedIds": [
+        132865,
+        0,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "14"
+      ]
+    },
+    {
+      "id": "25",
+      "packedId": 1541,
+      "prerequisitePackedIds": [
+        4354,
+        132865,
+        270
+      ],
+      "division": 2,
+      "requires": [
+        "13",
+        "14",
+        "22"
+      ]
+    },
+    {
+      "id": "26",
+      "packedId": 201729,
+      "prerequisitePackedIds": [
+        136193,
+        0,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "8"
+      ]
+    },
+    {
+      "id": "27",
+      "packedId": 1639944,
+      "prerequisitePackedIds": [
+        136193,
+        0,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "8"
+      ]
+    },
+    {
+      "id": "28",
+      "packedId": 198145,
+      "prerequisitePackedIds": [
+        132609,
+        0,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "21"
+      ]
+    },
+    {
+      "id": "29",
+      "packedId": 66817,
+      "prerequisitePackedIds": [
+        259,
+        0,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "7"
+      ]
+    },
+    {
+      "id": "30",
+      "packedId": 132097,
+      "prerequisitePackedIds": [
+        259,
+        0,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "7"
+      ]
+    },
+    {
+      "id": "31",
+      "packedId": 131841,
+      "prerequisitePackedIds": [
+        259,
+        0,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "7"
+      ]
+    },
+    {
+      "id": "32",
+      "packedId": 137473,
+      "prerequisitePackedIds": [
+        71937,
+        259,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "3",
+        "7"
+      ]
+    },
+    {
+      "id": "33",
+      "packedId": 137729,
+      "prerequisitePackedIds": [
+        72193,
+        259,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "4",
+        "7"
+      ]
+    },
+    {
+      "id": "34",
+      "packedId": 262407,
+      "prerequisitePackedIds": [
+        459271,
+        136961,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "10",
+        "19"
+      ]
+    },
+    {
+      "id": "35",
+      "packedId": 31241,
+      "prerequisitePackedIds": [
+        131329,
+        0,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "9"
+      ]
+    },
+    {
+      "id": "36",
+      "packedId": 196865,
+      "prerequisitePackedIds": [
+        131329,
+        0,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "9"
+      ]
+    },
+    {
+      "id": "37",
+      "packedId": 1377544,
+      "prerequisitePackedIds": [
+        136705,
+        0,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "11"
+      ]
+    },
+    {
+      "id": "38",
+      "packedId": 202241,
+      "prerequisitePackedIds": [
+        136705,
+        0,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "11"
+      ]
+    },
+    {
+      "id": "39",
+      "packedId": 131073,
+      "prerequisitePackedIds": [
+        136705,
+        0,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "11"
+      ]
+    },
+    {
+      "id": "40",
+      "packedId": 65543,
+      "prerequisitePackedIds": [
+        136961,
+        270,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "19",
+        "22"
+      ]
+    },
+    {
+      "id": "41",
+      "packedId": 262,
+      "prerequisitePackedIds": [
+        136193,
+        270,
+        0
+      ],
+      "division": 2,
+      "requires": [
+        "8",
+        "22"
+      ]
+    },
+    {
+      "id": "42",
+      "packedId": 516,
+      "prerequisitePackedIds": [
+        4610,
+        260,
+        31241
+      ],
+      "division": 3,
+      "requires": [
+        "15",
+        "23",
+        "35"
+      ]
+    },
+    {
+      "id": "43",
+      "packedId": 263937,
+      "prerequisitePackedIds": [
+        198401,
+        0,
+        0
+      ],
+      "division": 3,
+      "requires": [
+        "24"
+      ]
+    },
+    {
+      "id": "44",
+      "packedId": 198657,
+      "prerequisitePackedIds": [
+        133121,
+        201729,
+        0
+      ],
+      "division": 3,
+      "requires": [
+        "16",
+        "26"
+      ]
+    },
+    {
+      "id": "45",
+      "packedId": 12,
+      "prerequisitePackedIds": [
+        136193,
+        131329,
+        132097
+      ],
+      "division": 3,
+      "requires": [
+        "8",
+        "9",
+        "30"
+      ]
+    },
+    {
+      "id": "46",
+      "packedId": 267265,
+      "prerequisitePackedIds": [
+        201729,
+        0,
+        0
+      ],
+      "division": 3,
+      "requires": [
+        "26"
+      ]
+    },
+    {
+      "id": "47",
+      "packedId": 327944,
+      "prerequisitePackedIds": [
+        1639944,
+        132097,
+        0
+      ],
+      "division": 3,
+      "requires": [
+        "27",
+        "30"
+      ]
+    },
+    {
+      "id": "48",
+      "packedId": 590344,
+      "prerequisitePackedIds": [
+        1639944,
+        131841,
+        0
+      ],
+      "division": 3,
+      "requires": [
+        "27",
+        "31"
+      ]
+    },
+    {
+      "id": "49",
+      "packedId": 132353,
+      "prerequisitePackedIds": [
+        66817,
+        0,
+        0
+      ],
+      "division": 3,
+      "requires": [
+        "29"
+      ]
+    },
+    {
+      "id": "50",
+      "packedId": 65544,
+      "prerequisitePackedIds": [
+        1639944,
+        31241,
+        0
+      ],
+      "division": 3,
+      "requires": [
+        "27",
+        "35"
+      ]
+    },
+    {
+      "id": "51",
+      "packedId": 197633,
+      "prerequisitePackedIds": [
+        132097,
+        0,
+        0
+      ],
+      "division": 3,
+      "requires": [
+        "30"
+      ]
+    },
+    {
+      "id": "52",
+      "packedId": 197377,
+      "prerequisitePackedIds": [
+        131841,
+        0,
+        0
+      ],
+      "division": 3,
+      "requires": [
+        "31"
+      ]
+    },
+    {
+      "id": "53",
+      "packedId": 2427144,
+      "prerequisitePackedIds": [
+        131841,
+        31241,
+        0
+      ],
+      "division": 3,
+      "requires": [
+        "31",
+        "35"
+      ]
+    },
+    {
+      "id": "54",
+      "packedId": 16655,
+      "prerequisitePackedIds": [
+        269,
+        262407,
+        0
+      ],
+      "division": 3,
+      "requires": [
+        "12",
+        "34"
+      ]
+    },
+    {
+      "id": "55",
+      "packedId": 202497,
+      "prerequisitePackedIds": [
+        136961,
+        201729,
+        0
+      ],
+      "division": 3,
+      "requires": [
+        "19",
+        "26"
+      ]
+    },
+    {
+      "id": "56",
+      "packedId": 1034,
+      "prerequisitePackedIds": [
+        260,
+        31241,
+        262
+      ],
+      "division": 3,
+      "requires": [
+        "23",
+        "35",
+        "41"
+      ]
+    },
+    {
+      "id": "57",
+      "packedId": 1902344,
+      "prerequisitePackedIds": [
+        31241,
+        202241,
+        0
+      ],
+      "division": 3,
+      "requires": [
+        "35",
+        "38"
+      ]
+    },
+    {
+      "id": "58",
+      "packedId": 524807,
+      "prerequisitePackedIds": [
+        262407,
+        196865,
+        65543
+      ],
+      "division": 3,
+      "requires": [
+        "34",
+        "36",
+        "40"
+      ]
+    },
+    {
+      "id": "59",
+      "packedId": 2164744,
+      "prerequisitePackedIds": [
+        131841,
+        202241,
+        0
+      ],
+      "division": 3,
+      "requires": [
+        "31",
+        "38"
+      ]
+    },
+    {
+      "id": "60",
+      "packedId": 272,
+      "prerequisitePackedIds": [
+        269,
+        31241,
+        262
+      ],
+      "division": 3,
+      "requires": [
+        "12",
+        "35",
+        "41"
+      ]
+    },
+    {
+      "id": "61",
+      "packedId": 721671,
+      "prerequisitePackedIds": [
+        459271,
+        196865,
+        0
+      ],
+      "division": 3,
+      "requires": [
+        "10",
+        "36"
+      ]
+    },
+    {
+      "id": "62",
+      "packedId": 772,
+      "prerequisitePackedIds": [
+        4866,
+        516,
+        1034
+      ],
+      "division": 4,
+      "requires": [
+        "17",
+        "42",
+        "56"
+      ]
+    },
+    {
+      "id": "63",
+      "packedId": 263681,
+      "prerequisitePackedIds": [
+        198145,
+        516,
+        0
+      ],
+      "division": 4,
+      "requires": [
+        "28",
+        "42"
+      ]
+    },
+    {
+      "id": "64",
+      "packedId": 9745,
+      "prerequisitePackedIds": [
+        12,
+        2427144,
+        272
+      ],
+      "division": 4,
+      "requires": [
+        "45",
+        "53",
+        "60"
+      ]
+    },
+    {
+      "id": "65",
+      "packedId": 268,
+      "prerequisitePackedIds": [
+        12,
+        132353,
+        197633
+      ],
+      "division": 4,
+      "requires": [
+        "45",
+        "49",
+        "51"
+      ]
+    },
+    {
+      "id": "66",
+      "packedId": 4098,
+      "prerequisitePackedIds": [
+        132353,
+        197633,
+        0
+      ],
+      "division": 4,
+      "requires": [
+        "49",
+        "51"
+      ]
+    },
+    {
+      "id": "67",
+      "packedId": 197889,
+      "prerequisitePackedIds": [
+        132353,
+        197633,
+        0
+      ],
+      "division": 4,
+      "requires": [
+        "49",
+        "51"
+      ]
+    },
+    {
+      "id": "68",
+      "packedId": 515,
+      "prerequisitePackedIds": [
+        2427144,
+        1034,
+        0
+      ],
+      "division": 4,
+      "requires": [
+        "53",
+        "56"
+      ]
+    },
+    {
+      "id": "69",
+      "packedId": 131079,
+      "prerequisitePackedIds": [
+        197377,
+        524807,
+        0
+      ],
+      "division": 4,
+      "requires": [
+        "52",
+        "58"
+      ]
+    },
+    {
+      "id": "70",
+      "packedId": 203009,
+      "prerequisitePackedIds": [
+        137473,
+        1034,
+        0
+      ],
+      "division": 4,
+      "requires": [
+        "32",
+        "56"
+      ]
+    },
+    {
+      "id": "71",
+      "packedId": 203265,
+      "prerequisitePackedIds": [
+        137729,
+        1034,
+        0
+      ],
+      "division": 4,
+      "requires": [
+        "33",
+        "56"
+      ]
+    },
+    {
+      "id": "72",
+      "packedId": 262401,
+      "prerequisitePackedIds": [
+        196865,
+        1034,
+        0
+      ],
+      "division": 4,
+      "requires": [
+        "36",
+        "56"
+      ]
+    },
+    {
+      "id": "73",
+      "packedId": 32011,
+      "prerequisitePackedIds": [
+        516,
+        197633,
+        1034
+      ],
+      "division": 4,
+      "requires": [
+        "42",
+        "51",
+        "56"
+      ]
+    },
+    {
+      "id": "74",
+      "packedId": 1443080,
+      "prerequisitePackedIds": [
+        1377544,
+        1902344,
+        0
+      ],
+      "division": 4,
+      "requires": [
+        "37",
+        "57"
+      ]
+    },
+    {
+      "id": "75",
+      "packedId": 267777,
+      "prerequisitePackedIds": [
+        202241,
+        1034,
+        0
+      ],
+      "division": 4,
+      "requires": [
+        "38",
+        "56"
+      ]
+    },
+    {
+      "id": "76",
+      "packedId": 196609,
+      "prerequisitePackedIds": [
+        131073,
+        1034,
+        0
+      ],
+      "division": 4,
+      "requires": [
+        "39",
+        "56"
+      ]
+    },
+    {
+      "id": "77",
+      "packedId": 327943,
+      "prerequisitePackedIds": [
+        1034,
+        721671,
+        16655
+      ],
+      "division": 4,
+      "requires": [
+        "56",
+        "61",
+        "54"
+      ]
+    },
+    {
+      "id": "78",
+      "packedId": 525,
+      "prerequisitePackedIds": [
+        1034,
+        272,
+        0
+      ],
+      "division": 4,
+      "requires": [
+        "56",
+        "60"
+      ]
+    },
+    {
+      "id": "79",
+      "packedId": 518,
+      "prerequisitePackedIds": [
+        1541,
+        772,
+        272
+      ],
+      "division": 5,
+      "requires": [
+        "25",
+        "62",
+        "60"
+      ]
+    },
+    {
+      "id": "80",
+      "packedId": 198913,
+      "prerequisitePackedIds": [
+        133377,
+        268,
+        0
+      ],
+      "division": 5,
+      "requires": [
+        "18",
+        "65"
+      ]
+    },
+    {
+      "id": "81",
+      "packedId": 524,
+      "prerequisitePackedIds": [
+        268,
+        4098,
+        0
+      ],
+      "division": 5,
+      "requires": [
+        "65",
+        "66"
+      ]
+    },
+    {
+      "id": "82",
+      "packedId": 393480,
+      "prerequisitePackedIds": [
+        327944,
+        4098,
+        0
+      ],
+      "division": 5,
+      "requires": [
+        "47",
+        "66"
+      ]
+    },
+    {
+      "id": "83",
+      "packedId": 655880,
+      "prerequisitePackedIds": [
+        590344,
+        32011,
+        0
+      ],
+      "division": 5,
+      "requires": [
+        "48",
+        "73"
+      ]
+    },
+    {
+      "id": "84",
+      "packedId": 131080,
+      "prerequisitePackedIds": [
+        65544,
+        4098,
+        0
+      ],
+      "division": 5,
+      "requires": [
+        "50",
+        "66"
+      ]
+    },
+    {
+      "id": "85",
+      "packedId": 2492680,
+      "prerequisitePackedIds": [
+        4098,
+        515,
+        0
+      ],
+      "division": 5,
+      "requires": [
+        "66",
+        "68"
+      ]
+    },
+    {
+      "id": "86",
+      "packedId": 38409,
+      "prerequisitePackedIds": [
+        4098,
+        32011,
+        0
+      ],
+      "division": 5,
+      "requires": [
+        "66",
+        "73"
+      ]
+    },
+    {
+      "id": "87",
+      "packedId": 262913,
+      "prerequisitePackedIds": [
+        197377,
+        197889,
+        0
+      ],
+      "division": 5,
+      "requires": [
+        "52",
+        "67"
+      ]
+    },
+    {
+      "id": "88",
+      "packedId": 1967880,
+      "prerequisitePackedIds": [
+        1902344,
+        4098,
+        32011
+      ],
+      "division": 5,
+      "requires": [
+        "57",
+        "66",
+        "73"
+      ]
+    },
+    {
+      "id": "89",
+      "packedId": 268033,
+      "prerequisitePackedIds": [
+        202497,
+        32011,
+        0
+      ],
+      "division": 5,
+      "requires": [
+        "55",
+        "73"
+      ]
+    },
+    {
+      "id": "90",
+      "packedId": 2230280,
+      "prerequisitePackedIds": [
+        1034,
+        2164744,
+        4098
+      ],
+      "division": 5,
+      "requires": [
+        "56",
+        "59",
+        "66"
+      ]
+    },
+    {
+      "id": "91",
+      "packedId": 393479,
+      "prerequisitePackedIds": [
+        268,
+        327943,
+        0
+      ],
+      "division": 5,
+      "requires": [
+        "65",
+        "77"
+      ]
+    },
+    {
+      "id": "92",
+      "packedId": 262145,
+      "prerequisitePackedIds": [
+        32011,
+        196609,
+        0
+      ],
+      "division": 5,
+      "requires": [
+        "73",
+        "76"
+      ]
+    },
+    {
+      "id": "93",
+      "packedId": 264193,
+      "prerequisitePackedIds": [
+        198657,
+        268,
+        0
+      ],
+      "division": 5,
+      "requires": [
+        "44",
+        "65"
+      ]
+    },
+    {
+      "id": "94",
+      "packedId": 787207,
+      "prerequisitePackedIds": [
+        262401,
+        327943,
+        0
+      ],
+      "division": 5,
+      "requires": [
+        "72",
+        "77"
+      ]
+    },
+    {
+      "id": "95",
+      "packedId": 3090,
+      "prerequisitePackedIds": [
+        772,
+        515,
+        525
+      ],
+      "division": 5,
+      "requires": [
+        "62",
+        "68",
+        "78"
+      ]
+    },
+    {
+      "id": "96",
+      "packedId": 780,
+      "prerequisitePackedIds": [
+        518,
+        524,
+        655880
+      ],
+      "division": 6,
+      "requires": [
+        "79",
+        "81",
+        "83"
+      ]
+    },
+    {
+      "id": "97",
+      "packedId": 10001,
+      "prerequisitePackedIds": [
+        9745,
+        2492680,
+        0
+      ],
+      "division": 6,
+      "requires": [
+        "64",
+        "85"
+      ]
+    },
+    {
+      "id": "98",
+      "packedId": 590343,
+      "prerequisitePackedIds": [
+        198913,
+        393479,
+        0
+      ],
+      "division": 6,
+      "requires": [
+        "80",
+        "91"
+      ]
+    },
+    {
+      "id": "99",
+      "packedId": 264449,
+      "prerequisitePackedIds": [
+        198913,
+        524,
+        0
+      ],
+      "division": 6,
+      "requires": [
+        "80",
+        "81"
+      ]
+    },
+    {
+      "id": "100",
+      "packedId": 459016,
+      "prerequisitePackedIds": [
+        393480,
+        131080,
+        38409
+      ],
+      "division": 6,
+      "requires": [
+        "82",
+        "84",
+        "86"
+      ]
+    },
+    {
+      "id": "101",
+      "packedId": 38411,
+      "prerequisitePackedIds": [
+        515,
+        203265,
+        518
+      ],
+      "division": 6,
+      "requires": [
+        "68",
+        "71",
+        "79"
+      ]
+    },
+    {
+      "id": "102",
+      "packedId": 196615,
+      "prerequisitePackedIds": [
+        131079,
+        38409,
+        393479
+      ],
+      "division": 6,
+      "requires": [
+        "69",
+        "86",
+        "91"
+      ]
+    },
+    {
+      "id": "103",
+      "packedId": 1508616,
+      "prerequisitePackedIds": [
+        1443080,
+        131080,
+        0
+      ],
+      "division": 6,
+      "requires": [
+        "74",
+        "84"
+      ]
+    },
+    {
+      "id": "104",
+      "packedId": 2033416,
+      "prerequisitePackedIds": [
+        38409,
+        1967880,
+        0
+      ],
+      "division": 6,
+      "requires": [
+        "86",
+        "88"
+      ]
+    },
+    {
+      "id": "105",
+      "packedId": 781,
+      "prerequisitePackedIds": [
+        518,
+        3090,
+        0
+      ],
+      "division": 6,
+      "requires": [
+        "79",
+        "95"
+      ]
+    },
+    {
+      "id": "106",
+      "packedId": 721416,
+      "prerequisitePackedIds": [
+        655880,
+        459016,
+        38411
+      ],
+      "division": 7,
+      "requires": [
+        "83",
+        "100",
+        "101"
+      ]
+    },
+    {
+      "id": "107",
+      "packedId": 196616,
+      "prerequisitePackedIds": [
+        131080,
+        38411,
+        0
+      ],
+      "division": 7,
+      "requires": [
+        "84",
+        "101"
+      ]
+    },
+    {
+      "id": "108",
+      "packedId": 2558216,
+      "prerequisitePackedIds": [
+        2492680,
+        38409,
+        38411
+      ],
+      "division": 7,
+      "requires": [
+        "85",
+        "86",
+        "101"
+      ]
+    },
+    {
+      "id": "109",
+      "packedId": 2295816,
+      "prerequisitePackedIds": [
+        2230280,
+        38411,
+        0
+      ],
+      "division": 7,
+      "requires": [
+        "90",
+        "101"
+      ]
+    },
+    {
+      "id": "110",
+      "packedId": 263169,
+      "prerequisitePackedIds": [
+        197633,
+        780,
+        0
+      ],
+      "division": 7,
+      "requires": [
+        "51",
+        "96"
+      ]
+    },
+    {
+      "id": "111",
+      "packedId": 263425,
+      "prerequisitePackedIds": [
+        197889,
+        780,
+        0
+      ],
+      "division": 7,
+      "requires": [
+        "67",
+        "96"
+      ]
+    },
+    {
+      "id": "112",
+      "packedId": 268545,
+      "prerequisitePackedIds": [
+        203009,
+        780,
+        0
+      ],
+      "division": 7,
+      "requires": [
+        "70",
+        "96"
+      ]
+    },
+    {
+      "id": "113",
+      "packedId": 268801,
+      "prerequisitePackedIds": [
+        203265,
+        780,
+        0
+      ],
+      "division": 7,
+      "requires": [
+        "71",
+        "96"
+      ]
+    }
+  ],
+  "manualDifferences": [
+    {
+      "name": "Trade Fairs",
+      "manual": [
+        "22",
+        "13"
+      ],
+      "native": [
+        "13",
+        "14",
+        "22"
+      ]
+    },
+    {
+      "name": "Precious Stone Mining",
+      "manual": [
+        "4"
+      ],
+      "native": [
+        "4",
+        "7"
+      ]
+    },
+    {
+      "name": "Navigation",
+      "manual": [
+        "10"
+      ],
+      "native": [
+        "10",
+        "19"
+      ]
+    },
+    {
+      "name": "Convoying",
+      "manual": [
+        "22"
+      ],
+      "native": [
+        "19",
+        "22"
+      ]
+    },
+    {
+      "name": "Money Lending",
+      "manual": [
+        "8"
+      ],
+      "native": [
+        "8",
+        "22"
+      ]
+    },
+    {
+      "name": "Trained Journeymen",
+      "manual": [
+        "15",
+        "35"
+      ],
+      "native": [
+        "15",
+        "23",
+        "35"
+      ]
+    },
+    {
+      "name": "Banking",
+      "manual": [
+        "62",
+        "25"
+      ],
+      "native": [
+        "25",
+        "62",
+        "60"
+      ]
+    },
+    {
+      "name": "Improved Food Preservation",
+      "manual": [
+        "55"
+      ],
+      "native": [
+        "55",
+        "73"
+      ]
+    },
+    {
+      "name": "Long Range Rifles",
+      "manual": [
+        "84",
+        "66"
+      ],
+      "native": [
+        "84",
+        "101"
+      ]
+    },
+    {
+      "name": "Industrial Iron Mining",
+      "manual": [
+        "86",
+        "51"
+      ],
+      "native": [
+        "51",
+        "96"
+      ]
+    }
+  ]
+}

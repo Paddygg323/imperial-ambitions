@@ -1,0 +1,91 @@
+{
+  "scope": "Diagnose complete native province generation on standalone generated input.\nThis is not native whole-map generator parity. Resource population is omitted.\nRun the unchanged original province routine and report its first invalid access.\n",
+  "withResources": true,
+  "resourceOption": 0,
+  "results": [
+    {
+      "seed": 1,
+      "resourceTilesHash": "90fc16aa7067a35d507df0c02ede894f6149a8e1327fda6ff06abd0b0da631e3",
+      "resourceRandomState": 2225239292,
+      "invalidAddress": "0x1907204",
+      "instruction": "0x54ccba",
+      "access": 20,
+      "size": 2,
+      "complete": false,
+      "error": "Invalid memory write (UC_ERR_WRITE_UNMAPPED)"
+    },
+    {
+      "seed": 3,
+      "resourceTilesHash": "8ede6b61d58a9e7006b7eef96fa76b02fb2a770c96e73277905583f0099033e5",
+      "resourceRandomState": 4252517299,
+      "complete": true,
+      "tilesHash": "d8dece4da8282d6b8c960dd6c0e77f2c5f229399b265472aaabe7e38a547be5a",
+      "provincesHash": "061ccfbd3c65fa59fe827391dee2a601a56d56402343ee8f92d0a1229e5707da",
+      "randomState": 417533904
+    },
+    {
+      "seed": 4,
+      "resourceTilesHash": "b185f0263ea0aa896a53cfaedfb4d4f9530e6ed4c366e41023a1e1cbc43a0ffd",
+      "resourceRandomState": 4224208991,
+      "complete": true,
+      "tilesHash": "386ea52de30e1e5ccdca9c34f3d4aaae8983c1d3ffef8a29b6d8b98f8df970a6",
+      "provincesHash": "8022fc783b64103a9a89e4d48110092d48bd96cf7050e5f846fdb04d5d6d2811",
+      "randomState": 2274069356
+    },
+    {
+      "seed": 6,
+      "resourceTilesHash": "961a90e9d43af4ecfca6607aee5d27d199da93d95015d2616cb5b5c8e45ab41b",
+      "resourceRandomState": 4098163479,
+      "invalidAddress": "0x1906248",
+      "instruction": "0x54ccba",
+      "access": 20,
+      "size": 2,
+      "complete": false,
+      "error": "Invalid memory write (UC_ERR_WRITE_UNMAPPED)"
+    },
+    {
+      "seed": 8,
+      "resourceTilesHash": "571acffb40930edcec964668ece29a107608d06574c32aec710dd80c5d65f4cb",
+      "resourceRandomState": 872153776,
+      "invalidAddress": "0x1905ba8",
+      "instruction": "0x54ccba",
+      "access": 20,
+      "size": 2,
+      "complete": false,
+      "error": "Invalid memory write (UC_ERR_WRITE_UNMAPPED)"
+    },
+    {
+      "seed": 9,
+      "resourceTilesHash": "a277fd2b97c7ace0beb34c3d58d2a48dd185e1a9ef8cdaf1b7ab7af8bc327dd6",
+      "resourceRandomState": 1650840873,
+      "invalidAddress": "0x1906248",
+      "instruction": "0x54ccba",
+      "access": 20,
+      "size": 2,
+      "complete": false,
+      "error": "Invalid memory write (UC_ERR_WRITE_UNMAPPED)"
+    },
+    {
+      "seed": 11,
+      "resourceTilesHash": "2dff85997cfdb35db72d0ac4b9f5c215f77b171019946ac7e558b6f287303fb7",
+      "resourceRandomState": 535196394,
+      "invalidAddress": "0x1905ef8",
+      "instruction": "0x54ccba",
+      "access": 20,
+      "size": 2,
+      "complete": false,
+      "error": "Invalid memory write (UC_ERR_WRITE_UNMAPPED)"
+    },
+    {
+      "seed": 12,
+      "resourceTilesHash": "2a166572df4a31715d2882292486a36e19a34066f12d546364ed889f26eded92",
+      "resourceRandomState": 2391100512,
+      "invalidAddress": "0x190454c",
+      "instruction": "0x54ccba",
+      "access": 20,
+      "size": 2,
+      "complete": false,
+      "error": "Invalid memory write (UC_ERR_WRITE_UNMAPPED)"
+    }
+  ]
+}

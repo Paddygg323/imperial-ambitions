@@ -1,0 +1,41 @@
+## Code review
+
+**The four previously-reported issues are genuinely fixed**, verified by reading the actual files:
+
+1. **Canonical save policy** — `game/save-policy.mjs` defines `SAVE_SLOT`/`MAX_SAVE_BYTES`; `android/scripts/build.py:32-36` regex-extracts both constants from that file and writes `generated/SavePolicy.java`, which `MainActivity.java` references (`SavePolicy.SLOT`, `SavePolicy.MAX_BYTES`). Single source of truth confirmed.
+2. **UTF-8 byte-size enforcement** — `validateSaveSize` uses `TextEncoder().encode(value).byteLength`; `MainActivity.writeSave`/`exportSave` independently check `json.getBytes(UTF_8).length` against the same generated constant. Both sides agree.
+3. **Turn snapshot failures** — `app.mjs:475`: the `-previous` snapshot write is wrapped in try/catch that `toast`s *"The turn has not advanced: …"* and `break`s before `beginTurn` ever runs. Confirmed the turn literally cannot advance on a snapshot failure.
+4. **Archive-without-reading + honest cache export** — `MainActivity.archiveSave` only renames base/`.bak`/`.new` files (no read), rolls back partial renames on failure, and refuses to clobber an existing target. `save-recovery.mjs` separately relabels the export button to "Export cached copy" and states explicitly *"The original device file is unreadable… recovery will preserve the original device file separately before replacing it"* when `failure.raw===null`. This is correctly non-destructive and honestly labeled.
+
+### New blocking defect: Android Back is a dead end during two real in-game states
+
+`MainActivity.handleBack()` injects:
+```js
+if(d.dispatchEvent(e))d.close(); return true;
+```
+`return true` executes **unconditionally**, regardless of whether the dialog actually closed. On the Java side, `"true".equals(closed)` suppresses the "Leave the game?" confirmation whenever *any* `<dialog>` is open — even one whose `cancel` listener called `preventDefault()` specifically to stay open.
+
+Two live code paths do exactly that:
+- `save-recovery.mjs:52` — `dialog.addEventListener('cancel',e=>e.preventDefault())` on the recovery dialog.
+- `app.mjs:483` — the main `#panel` dialog prevents cancel whenever `state.market` is truthy (i.e., during the ordinary end-of-turn market/trade flow).
+
+In both states, pressing Android Back produces **no effect and no feedback**: the dialog stays open, and no "leave game" prompt appears either. This is worst during save-recovery — a user confused about a corrupted save gets a silently unresponsive Back button at exactly the moment they're most likely to reach for it. (Home/recents still work; this isn't a hard app lock, but the in-app Back affordance is broken in two reachable states.)
+
+### Evidence-trust gap on the "native storage test"
+
+`Android-emulator-storage.txt` (and the two sibling `.txt` logs) are bare `INSTRUMENTATION_RESULT` text claiming unreadable-file handling, UTF-8 rejection, and path-allowlist checks passed. I searched the entire mirror: **there is no `androidTest` source tree, no instrumentation test class, anywhere in this snapshot** — `android/` contains only `AndroidManifest.xml`, `build.py`, `bundle.py`, and `MainActivity.java`. I can't verify these logs correspond to any test code that actually exercises `archiveSave`'s rollback or `campaignFile`'s regex allowlist; they're unfalsifiable from what's shipped here. Treat them as unverified claims, not confirmed results.
+
+### Diplomacy Power/Trade bars — accurate as described
+
+`diplomacy-map.mjs:29-34`: `power` sums `strategicRegimentRating`/`strategicNavyRating` over live HP>0 units, gated by `s.nations[id]` so minors render `'—'` with the tooltip *"Minor-nation forces require scouting"* instead of a fabricated bar. `traded` sums `s.reports` filtered to `kind==='trade' && nation===s.player`. This matches the stated design exactly — no deception found here.
+
+## Visual review
+
+- **`diplomacy-desktop.png` vs `reference.png`**: structurally faithful — dual Political Control / Relations maps, portrait medallions, Relations/Treaty/Power/Trade/Office table. Coherent with the aspirational mockup's layout. Palette is noticeably more washed-out/khaki than the reference's saturated flag colors (blue/red/yellow/green read crisply in the mockup; the remake's relation-tint map in particular comes out mostly tan/olive gradients that are harder to read at a glance).
+- **`engineer-desktop.png` vs `parchment-reference.png`**: close structural match (navy header, gold-framed "Imperial atlas" panel, Engineer tool icons, materials/cost table). Compared to the actual original (`detail-0.jpg`), the hex tiles are visibly flatter — identical sheep/cattle/wheat sprite icons stamped repeatedly rather than the original's continuously painted terrain. That's an expected simplification for a lightweight rebuild, not a bug, but it is a real, specific fidelity gap, not something to gloss over.
+- **`research-412.png`**: functional, legible phone card-list. Notably **lacks the gold filigree panel border and parchment-grain edge texture** present in the diplomacy and engineer screens — it reads as a plainer, more generic mobile form next to those two. No reference mockup was supplied for this screen to judge against, so I can only flag the internal inconsistency.
+- **`map-915.png` — this is not a screenshot of the remake.** It's a multi-panel contact sheet (year labels 1320/1330/…/2160, "Armory/Shipyard/University," "Labor/Recruiting/Training" scrolls, pixelated fog-of-war) in the same genre as `outputs/video-review/contact-0.jpg` — i.e., **original-game footage**, not the standalone rebuild. Whatever this file was meant to demonstrate about the remake's map view, it doesn't: either it's a stale/misnamed artifact left over from the original-game capture pass, or the screenshot tooling pulled the wrong source. I'd flag this to whoever assembled the review set rather than treat it as passing visual evidence.
+
+## Bottom line
+
+No blocking regression in the four previously-fixed areas — they hold up under direct reading. The one real blocking-ish defect I found is new: the **Android Back button silently does nothing** during save-recovery and during the market/trade panel, which matters most exactly when a user is worried about their save. The native-storage test log is unverifiable from what's in this mirror (no test source present). Visual direction is a legitimate, coherent upgrade on the original's chrome for the two screens with real reference art (diplomacy, engineer), with named gaps (sprite repetition vs. painterly tiles, washed-out relation-map palette, research panel's lighter ornamentation); the fourth screenshot (`map-915.png`) isn't usable evidence at all since it isn't a capture of this app.

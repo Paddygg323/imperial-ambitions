@@ -1,0 +1,145 @@
+{
+  "exeSha256": "63346490c488d2a4ef528e3c0884d823e60ac59f602fa82657b39aa040253279",
+  "function": "0x61cec0",
+  "scope": "Execute original LaFireOn + ApplyDamage with capture bit toggled.\nNo Windows game launched. Rendering/network disabled; victory check stubbed.\nThis establishes this handler's behavior, not absence of every capture path.\n",
+  "cases": [
+    {
+      "side": 0,
+      "physicalLoss": 20,
+      "effectiveLoss": 40,
+      "withoutCapture": {
+        "hp": 80,
+        "effective": 60,
+        "state": 0,
+        "side": 0,
+        "tile": 100,
+        "occupied": true,
+        "attackerFireReady": false
+      },
+      "withCapture": {
+        "hp": 80,
+        "effective": 60,
+        "state": 0,
+        "side": 0,
+        "tile": 100,
+        "occupied": true,
+        "attackerFireReady": false
+      }
+    },
+    {
+      "side": 0,
+      "physicalLoss": 60,
+      "effectiveLoss": 120,
+      "withoutCapture": {
+        "hp": 40,
+        "effective": 0,
+        "state": 1,
+        "side": 0,
+        "tile": 100,
+        "occupied": true,
+        "attackerFireReady": false
+      },
+      "withCapture": {
+        "hp": 40,
+        "effective": 0,
+        "state": 1,
+        "side": 0,
+        "tile": 100,
+        "occupied": true,
+        "attackerFireReady": false
+      }
+    },
+    {
+      "side": 0,
+      "physicalLoss": 100,
+      "effectiveLoss": 200,
+      "withoutCapture": {
+        "hp": 0,
+        "effective": 0,
+        "state": 3,
+        "side": 0,
+        "tile": 4294967295,
+        "occupied": false,
+        "attackerFireReady": false
+      },
+      "withCapture": {
+        "hp": 0,
+        "effective": 0,
+        "state": 3,
+        "side": 0,
+        "tile": 4294967295,
+        "occupied": false,
+        "attackerFireReady": false
+      }
+    },
+    {
+      "side": 1,
+      "physicalLoss": 20,
+      "effectiveLoss": 40,
+      "withoutCapture": {
+        "hp": 80,
+        "effective": 60,
+        "state": 0,
+        "side": 1,
+        "tile": 100,
+        "occupied": true,
+        "attackerFireReady": false
+      },
+      "withCapture": {
+        "hp": 80,
+        "effective": 60,
+        "state": 0,
+        "side": 1,
+        "tile": 100,
+        "occupied": true,
+        "attackerFireReady": false
+      }
+    },
+    {
+      "side": 1,
+      "physicalLoss": 60,
+      "effectiveLoss": 120,
+      "withoutCapture": {
+        "hp": 40,
+        "effective": 0,
+        "state": 1,
+        "side": 1,
+        "tile": 100,
+        "occupied": true,
+        "attackerFireReady": false
+      },
+      "withCapture": {
+        "hp": 40,
+        "effective": 0,
+        "state": 1,
+        "side": 1,
+        "tile": 100,
+        "occupied": true,
+        "attackerFireReady": false
+      }
+    },
+    {
+      "side": 1,
+      "physicalLoss": 100,
+      "effectiveLoss": 200,
+      "withoutCapture": {
+        "hp": 0,
+        "effective": 0,
+        "state": 3,
+        "side": 1,
+        "tile": 4294967295,
+        "occupied": false,
+        "attackerFireReady": false
+      },
+      "withCapture": {
+        "hp": 0,
+        "effective": 0,
+        "state": 3,
+        "side": 1,
+        "tile": 4294967295,
+        "occupied": false,
+        "attackerFireReady": false
+      }
+    }
+  ]
+}

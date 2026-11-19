@@ -1,0 +1,1805 @@
+{
+  "scope": "Native neighboring resource allocation502a16..502ab7. Real development\ngetter551520; supplied network capacity, already allocated amount and good.\nRoad traversal, ownership gates, towns and fishing are outside this fixture.\n",
+  "cases": [
+    {
+      "good": 0,
+      "development": 0,
+      "capacity": 0,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 0,
+      "development": 0,
+      "capacity": 1,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 0,
+      "development": 0,
+      "capacity": 2,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 0,
+      "development": 0,
+      "capacity": 3,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 0,
+      "development": 0,
+      "capacity": 4,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 0,
+      "development": 1,
+      "capacity": 0,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 0,
+      "development": 1,
+      "capacity": 0,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 0,
+      "development": 1,
+      "capacity": 1,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 0,
+      "development": 1,
+      "capacity": 1,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 0,
+      "development": 1,
+      "capacity": 2,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 0,
+      "development": 1,
+      "capacity": 2,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 0,
+      "development": 1,
+      "capacity": 3,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 0,
+      "development": 1,
+      "capacity": 3,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 0,
+      "development": 1,
+      "capacity": 4,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 0,
+      "development": 1,
+      "capacity": 4,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 0,
+      "development": 2,
+      "capacity": 0,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 0,
+      "development": 2,
+      "capacity": 0,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 0,
+      "development": 2,
+      "capacity": 0,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 2,
+      "capacity": 1,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 0,
+      "development": 2,
+      "capacity": 1,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 2,
+      "capacity": 1,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 2,
+      "capacity": 2,
+      "used": 0,
+      "allocated": 2,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 2,
+      "capacity": 2,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 2,
+      "capacity": 2,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 2,
+      "capacity": 3,
+      "used": 0,
+      "allocated": 2,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 2,
+      "capacity": 3,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 2,
+      "capacity": 3,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 2,
+      "capacity": 4,
+      "used": 0,
+      "allocated": 2,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 2,
+      "capacity": 4,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 2,
+      "capacity": 4,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 0,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 0,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 0,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 0,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 1,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 1,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 1,
+      "used": 2,
+      "allocated": 1,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 1,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 2,
+      "used": 0,
+      "allocated": 2,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 2,
+      "used": 1,
+      "allocated": 2,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 2,
+      "used": 2,
+      "allocated": 1,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 2,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 3,
+      "used": 0,
+      "allocated": 3,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 3,
+      "used": 1,
+      "allocated": 2,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 3,
+      "used": 2,
+      "allocated": 1,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 3,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 4,
+      "used": 0,
+      "allocated": 3,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 4,
+      "used": 1,
+      "allocated": 2,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 4,
+      "used": 2,
+      "allocated": 1,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 3,
+      "capacity": 4,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 0,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 0,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 0,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 0,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 0,
+      "used": 4,
+      "allocated": 0,
+      "usedAfter": 4
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 1,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 1,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 1,
+      "used": 2,
+      "allocated": 1,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 1,
+      "used": 3,
+      "allocated": 1,
+      "usedAfter": 4
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 1,
+      "used": 4,
+      "allocated": 0,
+      "usedAfter": 4
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 2,
+      "used": 0,
+      "allocated": 2,
+      "usedAfter": 2
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 2,
+      "used": 1,
+      "allocated": 2,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 2,
+      "used": 2,
+      "allocated": 2,
+      "usedAfter": 4
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 2,
+      "used": 3,
+      "allocated": 1,
+      "usedAfter": 4
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 2,
+      "used": 4,
+      "allocated": 0,
+      "usedAfter": 4
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 3,
+      "used": 0,
+      "allocated": 3,
+      "usedAfter": 3
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 3,
+      "used": 1,
+      "allocated": 3,
+      "usedAfter": 4
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 3,
+      "used": 2,
+      "allocated": 2,
+      "usedAfter": 4
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 3,
+      "used": 3,
+      "allocated": 1,
+      "usedAfter": 4
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 3,
+      "used": 4,
+      "allocated": 0,
+      "usedAfter": 4
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 4,
+      "used": 0,
+      "allocated": 4,
+      "usedAfter": 4
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 4,
+      "used": 1,
+      "allocated": 3,
+      "usedAfter": 4
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 4,
+      "used": 2,
+      "allocated": 2,
+      "usedAfter": 4
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 4,
+      "used": 3,
+      "allocated": 1,
+      "usedAfter": 4
+    },
+    {
+      "good": 0,
+      "development": 4,
+      "capacity": 4,
+      "used": 4,
+      "allocated": 0,
+      "usedAfter": 4
+    },
+    {
+      "good": 20,
+      "development": 0,
+      "capacity": 0,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 20,
+      "development": 0,
+      "capacity": 1,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 20,
+      "development": 0,
+      "capacity": 2,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 20,
+      "development": 0,
+      "capacity": 3,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 20,
+      "development": 0,
+      "capacity": 4,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 20,
+      "development": 1,
+      "capacity": 0,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 20,
+      "development": 1,
+      "capacity": 0,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 20,
+      "development": 1,
+      "capacity": 1,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 20,
+      "development": 1,
+      "capacity": 1,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 20,
+      "development": 1,
+      "capacity": 2,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 20,
+      "development": 1,
+      "capacity": 2,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 20,
+      "development": 1,
+      "capacity": 3,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 20,
+      "development": 1,
+      "capacity": 3,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 20,
+      "development": 1,
+      "capacity": 4,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 20,
+      "development": 1,
+      "capacity": 4,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 20,
+      "development": 2,
+      "capacity": 0,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 20,
+      "development": 2,
+      "capacity": 0,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 20,
+      "development": 2,
+      "capacity": 0,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 2,
+      "capacity": 1,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 20,
+      "development": 2,
+      "capacity": 1,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 2,
+      "capacity": 1,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 2,
+      "capacity": 2,
+      "used": 0,
+      "allocated": 2,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 2,
+      "capacity": 2,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 2,
+      "capacity": 2,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 2,
+      "capacity": 3,
+      "used": 0,
+      "allocated": 2,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 2,
+      "capacity": 3,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 2,
+      "capacity": 3,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 2,
+      "capacity": 4,
+      "used": 0,
+      "allocated": 2,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 2,
+      "capacity": 4,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 2,
+      "capacity": 4,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 0,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 0,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 0,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 0,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 1,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 1,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 1,
+      "used": 2,
+      "allocated": 1,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 1,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 2,
+      "used": 0,
+      "allocated": 2,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 2,
+      "used": 1,
+      "allocated": 2,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 2,
+      "used": 2,
+      "allocated": 1,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 2,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 3,
+      "used": 0,
+      "allocated": 3,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 3,
+      "used": 1,
+      "allocated": 2,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 3,
+      "used": 2,
+      "allocated": 1,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 3,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 4,
+      "used": 0,
+      "allocated": 3,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 4,
+      "used": 1,
+      "allocated": 2,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 4,
+      "used": 2,
+      "allocated": 1,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 3,
+      "capacity": 4,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 0,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 0,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 0,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 0,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 0,
+      "used": 4,
+      "allocated": 0,
+      "usedAfter": 4
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 1,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 1,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 1,
+      "used": 2,
+      "allocated": 1,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 1,
+      "used": 3,
+      "allocated": 1,
+      "usedAfter": 4
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 1,
+      "used": 4,
+      "allocated": 0,
+      "usedAfter": 4
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 2,
+      "used": 0,
+      "allocated": 2,
+      "usedAfter": 2
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 2,
+      "used": 1,
+      "allocated": 2,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 2,
+      "used": 2,
+      "allocated": 2,
+      "usedAfter": 4
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 2,
+      "used": 3,
+      "allocated": 1,
+      "usedAfter": 4
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 2,
+      "used": 4,
+      "allocated": 0,
+      "usedAfter": 4
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 3,
+      "used": 0,
+      "allocated": 3,
+      "usedAfter": 3
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 3,
+      "used": 1,
+      "allocated": 3,
+      "usedAfter": 4
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 3,
+      "used": 2,
+      "allocated": 2,
+      "usedAfter": 4
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 3,
+      "used": 3,
+      "allocated": 1,
+      "usedAfter": 4
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 3,
+      "used": 4,
+      "allocated": 0,
+      "usedAfter": 4
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 4,
+      "used": 0,
+      "allocated": 4,
+      "usedAfter": 4
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 4,
+      "used": 1,
+      "allocated": 3,
+      "usedAfter": 4
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 4,
+      "used": 2,
+      "allocated": 2,
+      "usedAfter": 4
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 4,
+      "used": 3,
+      "allocated": 1,
+      "usedAfter": 4
+    },
+    {
+      "good": 20,
+      "development": 4,
+      "capacity": 4,
+      "used": 4,
+      "allocated": 0,
+      "usedAfter": 4
+    },
+    {
+      "good": 22,
+      "development": 0,
+      "capacity": 0,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 22,
+      "development": 0,
+      "capacity": 1,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 22,
+      "development": 0,
+      "capacity": 2,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 22,
+      "development": 0,
+      "capacity": 3,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 22,
+      "development": 0,
+      "capacity": 4,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 22,
+      "development": 1,
+      "capacity": 0,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 22,
+      "development": 1,
+      "capacity": 0,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 22,
+      "development": 1,
+      "capacity": 1,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 22,
+      "development": 1,
+      "capacity": 1,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 22,
+      "development": 1,
+      "capacity": 2,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 22,
+      "development": 1,
+      "capacity": 2,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 22,
+      "development": 1,
+      "capacity": 3,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 22,
+      "development": 1,
+      "capacity": 3,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 22,
+      "development": 1,
+      "capacity": 4,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 22,
+      "development": 1,
+      "capacity": 4,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 22,
+      "development": 2,
+      "capacity": 0,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 22,
+      "development": 2,
+      "capacity": 0,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 22,
+      "development": 2,
+      "capacity": 0,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 2,
+      "capacity": 1,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 22,
+      "development": 2,
+      "capacity": 1,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 2,
+      "capacity": 1,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 2,
+      "capacity": 2,
+      "used": 0,
+      "allocated": 2,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 2,
+      "capacity": 2,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 2,
+      "capacity": 2,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 2,
+      "capacity": 3,
+      "used": 0,
+      "allocated": 2,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 2,
+      "capacity": 3,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 2,
+      "capacity": 3,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 2,
+      "capacity": 4,
+      "used": 0,
+      "allocated": 2,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 2,
+      "capacity": 4,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 2,
+      "capacity": 4,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 0,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 0,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 0,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 0,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 1,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 1,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 1,
+      "used": 2,
+      "allocated": 1,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 1,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 2,
+      "used": 0,
+      "allocated": 2,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 2,
+      "used": 1,
+      "allocated": 2,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 2,
+      "used": 2,
+      "allocated": 1,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 2,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 3,
+      "used": 0,
+      "allocated": 3,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 3,
+      "used": 1,
+      "allocated": 2,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 3,
+      "used": 2,
+      "allocated": 1,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 3,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 4,
+      "used": 0,
+      "allocated": 3,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 4,
+      "used": 1,
+      "allocated": 2,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 4,
+      "used": 2,
+      "allocated": 1,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 3,
+      "capacity": 4,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 0,
+      "used": 0,
+      "allocated": 0,
+      "usedAfter": 0
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 0,
+      "used": 1,
+      "allocated": 0,
+      "usedAfter": 1
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 0,
+      "used": 2,
+      "allocated": 0,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 0,
+      "used": 3,
+      "allocated": 0,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 0,
+      "used": 4,
+      "allocated": 0,
+      "usedAfter": 4
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 1,
+      "used": 0,
+      "allocated": 1,
+      "usedAfter": 1
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 1,
+      "used": 1,
+      "allocated": 1,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 1,
+      "used": 2,
+      "allocated": 1,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 1,
+      "used": 3,
+      "allocated": 1,
+      "usedAfter": 4
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 1,
+      "used": 4,
+      "allocated": 0,
+      "usedAfter": 4
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 2,
+      "used": 0,
+      "allocated": 2,
+      "usedAfter": 2
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 2,
+      "used": 1,
+      "allocated": 2,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 2,
+      "used": 2,
+      "allocated": 2,
+      "usedAfter": 4
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 2,
+      "used": 3,
+      "allocated": 1,
+      "usedAfter": 4
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 2,
+      "used": 4,
+      "allocated": 0,
+      "usedAfter": 4
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 3,
+      "used": 0,
+      "allocated": 3,
+      "usedAfter": 3
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 3,
+      "used": 1,
+      "allocated": 3,
+      "usedAfter": 4
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 3,
+      "used": 2,
+      "allocated": 2,
+      "usedAfter": 4
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 3,
+      "used": 3,
+      "allocated": 1,
+      "usedAfter": 4
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 3,
+      "used": 4,
+      "allocated": 0,
+      "usedAfter": 4
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 4,
+      "used": 0,
+      "allocated": 4,
+      "usedAfter": 4
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 4,
+      "used": 1,
+      "allocated": 3,
+      "usedAfter": 4
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 4,
+      "used": 2,
+      "allocated": 2,
+      "usedAfter": 4
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 4,
+      "used": 3,
+      "allocated": 1,
+      "usedAfter": 4
+    },
+    {
+      "good": 22,
+      "development": 4,
+      "capacity": 4,
+      "used": 4,
+      "allocated": 0,
+      "usedAfter": 4
+    }
+  ]
+}

@@ -1,0 +1,3854 @@
+{
+  "scope": "Native Damage5a3800 with controlled RNG and skipped diagnostic string/log code.\nTarget selection, arithmetic, integer conversion and hull writes execute natively.\n",
+  "cases": [
+    {
+      "ships": [
+        {
+          "nativeId": 1,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 1,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 1,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 1,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 1,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 1,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 1,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -2
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 1,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 1,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -8
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 1,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -3
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 1,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -14
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 1,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -6
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 1,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -63
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 1,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -27
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 2,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 2,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 2,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 2,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 2,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 2,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 2,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -2
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 2,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 2,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -7
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 2,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -3
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 2,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -13
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 2,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -5
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 2,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -59
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 2,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -25
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 3,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 3,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 3,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 3,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 3,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 3,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 3,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 3,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 3,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -4
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 3,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 3,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -7
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 3,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -3
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 3,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -33
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 3,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -14
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 4,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 4,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 4,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 4,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 4,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 4,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 4,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -3
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 4,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 4,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -9
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 4,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -3
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 4,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -16
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 4,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -7
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 4,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -70
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 4,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -30
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 5,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 5,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 5,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 5,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 5,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 5,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 5,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -2
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 5,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 5,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -8
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 5,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -3
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 5,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -15
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 5,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -6
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 5,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -67
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 5,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -29
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 6,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 6,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 6,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 6,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 6,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 6,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 6,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -2
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 6,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 6,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -7
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 6,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -3
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 6,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -13
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 6,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -5
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 6,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -59
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 6,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -25
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 7,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 7,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 7,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 7,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 7,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 7,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 7,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -3
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 7,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 7,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -9
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 7,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -3
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 7,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -16
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 7,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -7
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 7,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -70
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 7,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -30
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 8,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 8,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 8,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 8,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 8,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 8,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 8,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -2
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 8,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 8,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -8
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 8,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -3
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 8,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -15
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 8,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -6
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 8,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -67
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 8,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -29
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 9,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 9,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 9,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 9,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 9,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 9,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 9,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -2
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 9,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 9,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -8
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 9,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -3
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 9,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -15
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 9,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -6
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 9,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -67
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 9,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -29
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -3
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -9
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -3
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -16
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -7
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -70
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -30
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 11,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 11,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 11,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 11,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 11,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 11,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 11,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -2
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 11,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 11,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -8
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 11,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -3
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 11,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -15
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 11,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -6
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 11,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -67
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 11,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -29
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 12,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 12,
+          "hp": 1
+        }
+      ],
+      "power": 0,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 12,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 12,
+          "hp": 1
+        }
+      ],
+      "power": 0.1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        1
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 12,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 12,
+          "hp": 1
+        }
+      ],
+      "power": 1,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 12,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -2
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 12,
+          "hp": 1
+        }
+      ],
+      "power": 2.5,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        0
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 12,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -8
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 12,
+          "hp": 1
+        }
+      ],
+      "power": 7,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -3
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 12,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -15
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 12,
+          "hp": 1
+        }
+      ],
+      "power": 12,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -6
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 12,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -67
+      ],
+      "draws": [
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 12,
+          "hp": 1
+        }
+      ],
+      "power": 50,
+      "hits": 1,
+      "rolls": [
+        1
+      ],
+      "after": [
+        -29
+      ],
+      "draws": [
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 0,
+      "rolls": [
+        0
+      ],
+      "after": [
+        25,
+        60,
+        50
+      ],
+      "draws": []
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 0,
+      "rolls": [
+        1,
+        2,
+        0,
+        1,
+        0
+      ],
+      "after": [
+        25,
+        60,
+        50
+      ],
+      "draws": []
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 0,
+      "rolls": [
+        4,
+        0,
+        1,
+        2,
+        0,
+        3
+      ],
+      "after": [
+        25,
+        60,
+        50
+      ],
+      "draws": []
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 1,
+      "rolls": [
+        0
+      ],
+      "after": [
+        15,
+        60,
+        50
+      ],
+      "draws": [
+        0,
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 1,
+      "rolls": [
+        1,
+        2,
+        0,
+        1,
+        0
+      ],
+      "after": [
+        25,
+        60,
+        46
+      ],
+      "draws": [
+        1,
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 1,
+      "rolls": [
+        4,
+        0,
+        1,
+        2,
+        0,
+        3
+      ],
+      "after": [
+        25,
+        58,
+        50
+      ],
+      "draws": [
+        4,
+        0,
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 2,
+      "rolls": [
+        0
+      ],
+      "after": [
+        15,
+        55,
+        50
+      ],
+      "draws": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 2,
+      "rolls": [
+        1,
+        2,
+        0,
+        1,
+        0
+      ],
+      "after": [
+        15,
+        58,
+        50
+      ],
+      "draws": [
+        1,
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 2,
+      "rolls": [
+        4,
+        0,
+        1,
+        2,
+        0,
+        3
+      ],
+      "after": [
+        15,
+        55,
+        50
+      ],
+      "draws": [
+        4,
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 3,
+      "rolls": [
+        0
+      ],
+      "after": [
+        15,
+        55,
+        41
+      ],
+      "draws": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 3,
+      "rolls": [
+        1,
+        2,
+        0,
+        1,
+        0
+      ],
+      "after": [
+        20,
+        55,
+        41
+      ],
+      "draws": [
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 3,
+      "rolls": [
+        4,
+        0,
+        1,
+        2,
+        0,
+        3
+      ],
+      "after": [
+        15,
+        55,
+        46
+      ],
+      "draws": [
+        4,
+        0,
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 4,
+      "rolls": [
+        0
+      ],
+      "after": [
+        5,
+        55,
+        41
+      ],
+      "draws": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 4,
+      "rolls": [
+        1,
+        2,
+        0,
+        1,
+        0
+      ],
+      "after": [
+        5,
+        58,
+        46
+      ],
+      "draws": [
+        1,
+        2,
+        0,
+        1,
+        0,
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 4,
+      "rolls": [
+        4,
+        0,
+        1,
+        2,
+        0,
+        3
+      ],
+      "after": [
+        5,
+        55,
+        46
+      ],
+      "draws": [
+        4,
+        0,
+        1,
+        2,
+        0,
+        3,
+        4,
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 8,
+      "rolls": [
+        0
+      ],
+      "after": [
+        -5,
+        45,
+        32
+      ],
+      "draws": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 8,
+      "rolls": [
+        1,
+        2,
+        0,
+        1,
+        0
+      ],
+      "after": [
+        0,
+        51,
+        37
+      ],
+      "draws": [
+        1,
+        2,
+        0,
+        1,
+        0,
+        1,
+        2,
+        0,
+        1,
+        0,
+        1,
+        2,
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "ships": [
+        {
+          "nativeId": 10,
+          "hp": 25
+        },
+        {
+          "nativeId": 3,
+          "hp": 60
+        },
+        {
+          "nativeId": 1,
+          "hp": 50
+        }
+      ],
+      "power": 7.3,
+      "hits": 8,
+      "rolls": [
+        4,
+        0,
+        1,
+        2,
+        0,
+        3
+      ],
+      "after": [
+        -5,
+        45,
+        42
+      ],
+      "draws": [
+        4,
+        0,
+        1,
+        2,
+        0,
+        3,
+        4,
+        0,
+        1,
+        2,
+        0,
+        3,
+        4,
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

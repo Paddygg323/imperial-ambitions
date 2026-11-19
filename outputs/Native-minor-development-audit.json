@@ -1,0 +1,4877 @@
+{
+  "scope": "Native557af0 adjacent-resource initialization. Town relocation/terrain rebuild\ncallbacks are stubbed; selected capital and six neighbors are supplied, not chosen.\n",
+  "cases": [
+    {
+      "owner": 6,
+      "resource": -1,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": -1,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 0,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 0,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 1,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 1,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 2,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 2,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        127,
+        127,
+        127,
+        127,
+        127,
+        127
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 3,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 3,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        127,
+        127,
+        127,
+        127,
+        127,
+        127
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 4,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 4,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        127,
+        127,
+        127,
+        127,
+        127,
+        127
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 5,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 5,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 6,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 6,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 7,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 7,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 8,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 8,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 9,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 9,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 10,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 10,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 11,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 11,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 12,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 12,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 13,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 13,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 14,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 14,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 15,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 15,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 16,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 16,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 17,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 17,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 18,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 18,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 19,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 19,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 20,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 20,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 21,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 21,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 22,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 22,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 23,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 23,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 24,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 24,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 25,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 25,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 26,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 26,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 27,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 6,
+      "resource": 27,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": -1,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": -1,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 0,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 0,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 1,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 1,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 2,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 2,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        127,
+        127,
+        127,
+        127,
+        127,
+        127
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 3,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 3,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        127,
+        127,
+        127,
+        127,
+        127,
+        127
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 4,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 4,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        127,
+        127,
+        127,
+        127,
+        127,
+        127
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 5,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 5,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 6,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 6,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 7,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 7,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 8,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 8,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 9,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 9,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 10,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 10,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 11,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 11,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 12,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 12,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 13,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 13,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 14,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 14,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 15,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 15,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 16,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 16,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 17,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 17,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 18,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 18,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 19,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 19,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 20,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 20,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 21,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 21,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 22,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 22,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 23,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 23,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 24,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 24,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 25,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 25,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 26,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 26,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 27,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 11,
+      "resource": 27,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": -1,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": -1,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 0,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 0,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 1,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 1,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 2,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 2,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 3,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 3,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 4,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 4,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 5,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 5,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 6,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 6,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 7,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 7,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 8,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 8,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 9,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 9,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 10,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 10,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 11,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 11,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 12,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 12,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 13,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 13,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 14,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 14,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 15,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 15,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 16,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 16,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 17,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 17,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 18,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 18,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 19,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 19,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 20,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 20,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 21,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 21,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 22,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 22,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 23,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 23,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 24,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 24,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 25,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 25,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 26,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 26,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 27,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 12,
+      "resource": 27,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": -1,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": -1,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 0,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 0,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 1,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 1,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 2,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 2,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 3,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 3,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 4,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 4,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 5,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 5,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 6,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 6,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 7,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 7,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 8,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 8,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 9,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 9,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 10,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 10,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 11,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 11,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 12,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 12,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 13,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 13,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 14,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 14,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 15,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 15,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 16,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 16,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 17,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 17,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 18,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 18,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 19,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 19,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 20,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 20,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 21,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 21,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 22,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 22,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 23,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 23,
+      "sameOwner": true,
+      "levels": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 24,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 24,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 25,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 25,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 26,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 26,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 27,
+      "sameOwner": false,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "owner": 21,
+      "resource": 27,
+      "sameOwner": true,
+      "levels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mineralFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

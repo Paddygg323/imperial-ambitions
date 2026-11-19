@@ -1,0 +1,40 @@
+{
+  "scope": "Native new AI minister construction fragment5154cb..515695.\nActual foreign/defence constructors and initializers execute; only allocation\nis supplied. Does not determine the upstream geographic defence selection.\n",
+  "cases": [
+    {
+      "selected": 0,
+      "foreign": 0,
+      "defence": 0,
+      "foreignVtable": "0x7045b0",
+      "defenceVtable": "0x6ff0d8"
+    },
+    {
+      "selected": 1,
+      "foreign": 0,
+      "defence": 1,
+      "foreignVtable": "0x7045b0",
+      "defenceVtable": "0x6ff120"
+    },
+    {
+      "selected": 2,
+      "foreign": 0,
+      "defence": 2,
+      "foreignVtable": "0x7045b0",
+      "defenceVtable": "0x6ff168"
+    },
+    {
+      "selected": 3,
+      "foreign": 0,
+      "defence": 3,
+      "foreignVtable": "0x7045b0",
+      "defenceVtable": "0x6ff1b0"
+    },
+    {
+      "selected": 4,
+      "foreign": 0,
+      "defence": 4,
+      "foreignVtable": "0x7045b0",
+      "defenceVtable": "0x6ff1f8"
+    }
+  ]
+}

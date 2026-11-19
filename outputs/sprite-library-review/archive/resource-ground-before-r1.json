@@ -1,0 +1,54 @@
+[
+  {
+    "id": "018",
+    "number": 18,
+    "name": "Fur-bearing Tundra",
+    "category": "Terrain & resource tiles",
+    "sheet": 2,
+    "image": "originals/02-resource-tiles.png",
+    "sheetWidth": 1448,
+    "sheetHeight": 1086,
+    "cell": [
+      483,
+      724,
+      482,
+      362
+    ],
+    "preview": [
+      485,
+      769,
+      478,
+      315
+    ],
+    "variant": false,
+    "relatedId": null,
+    "status": "Awaiting review",
+    "revision": 0
+  },
+  {
+    "id": "019",
+    "number": 19,
+    "name": "Tin in Swamp",
+    "category": "Terrain & resource tiles",
+    "sheet": 2,
+    "image": "originals/02-resource-tiles.png",
+    "sheetWidth": 1448,
+    "sheetHeight": 1086,
+    "cell": [
+      965,
+      724,
+      483,
+      362
+    ],
+    "preview": [
+      967,
+      769,
+      479,
+      315
+    ],
+    "variant": false,
+    "relatedId": null,
+    "status": "Awaiting review",
+    "revision": 0
+  }
+]

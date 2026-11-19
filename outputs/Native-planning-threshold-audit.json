@@ -1,0 +1,4906 @@
+{
+  "scope": "Native4e8fc0 planning distance threshold and actual50f810 scaled GDP.\nNo function stubs. Supplies city GDP and country resource-priority float fields;\ndoes not audit their producers. Actual executable constants and integer conversion.\n",
+  "fpuControlWord": 575,
+  "cases": [
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 0,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 0,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 1,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 1,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 2,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 2,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 6,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 6,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 7,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 7,
+      "present": true,
+      "result": 12
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 50,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 50,
+      "present": true,
+      "result": 19
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 93,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 93,
+      "present": true,
+      "result": 25
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 99,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 99,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 100,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 100,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 150,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": -2,
+      "gdp": 150,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 0,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 0,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 1,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 1,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 2,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 2,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 6,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 6,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 7,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 7,
+      "present": true,
+      "result": 12
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 50,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 50,
+      "present": true,
+      "result": 19
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 93,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 93,
+      "present": true,
+      "result": 25
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 99,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 99,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 100,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 100,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 150,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0,
+      "gdp": 150,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 0,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 0,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 1,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 1,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 2,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 2,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 6,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 6,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 7,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 7,
+      "present": true,
+      "result": 12
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 50,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 50,
+      "present": true,
+      "result": 19
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 93,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 93,
+      "present": true,
+      "result": 25
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 99,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 99,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 100,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 100,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 150,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.125,
+      "gdp": 150,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 0,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 0,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 1,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 1,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 2,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 2,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 6,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 6,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 7,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 7,
+      "present": true,
+      "result": 12
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 50,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 50,
+      "present": true,
+      "result": 19
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 93,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 93,
+      "present": true,
+      "result": 25
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 99,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 99,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 100,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 100,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 150,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 0.33333334,
+      "gdp": 150,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 0,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 0,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 1,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 1,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 2,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 2,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 6,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 6,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 7,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 7,
+      "present": true,
+      "result": 12
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 50,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 50,
+      "present": true,
+      "result": 19
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 93,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 93,
+      "present": true,
+      "result": 25
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 99,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 99,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 100,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 100,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 150,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 1,
+      "gdp": 150,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 0,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 0,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 1,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 1,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 2,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 2,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 6,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 6,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 7,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 7,
+      "present": true,
+      "result": 12
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 50,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 50,
+      "present": true,
+      "result": 19
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 93,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 93,
+      "present": true,
+      "result": 25
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 99,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 99,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 100,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 100,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 150,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 2.5,
+      "gdp": 150,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 0,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 0,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 1,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 1,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 2,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 2,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 6,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 6,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 7,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 7,
+      "present": true,
+      "result": 12
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 50,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 50,
+      "present": true,
+      "result": 19
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 93,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 93,
+      "present": true,
+      "result": 25
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 99,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 99,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 100,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 100,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 150,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": -1,
+      "priority": 7,
+      "gdp": 150,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 0,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 0,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 1,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 1,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 2,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 2,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 6,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 6,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 7,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 7,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 50,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 50,
+      "present": true,
+      "result": 16
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 93,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 93,
+      "present": true,
+      "result": 22
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 99,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 99,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 100,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 100,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 150,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": -2,
+      "gdp": 150,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 0,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 0,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 1,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 1,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 2,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 2,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 6,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 6,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 7,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 7,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 50,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 50,
+      "present": true,
+      "result": 16
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 93,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 93,
+      "present": true,
+      "result": 22
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 99,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 99,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 100,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 100,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 150,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0,
+      "gdp": 150,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 0,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 0,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 1,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 1,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 2,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 2,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 6,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 6,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 7,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 7,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 50,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 50,
+      "present": true,
+      "result": 16
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 93,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 93,
+      "present": true,
+      "result": 22
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 99,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 99,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 100,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 100,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 150,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 0,
+      "priority": 0.125,
+      "gdp": 150,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 0,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 0,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 1,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 1,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 2,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 2,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 6,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 6,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 7,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 7,
+      "present": true,
+      "result": 10
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 50,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 50,
+      "present": true,
+      "result": 17
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 93,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 93,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 99,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 99,
+      "present": true,
+      "result": 24
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 100,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 100,
+      "present": true,
+      "result": 24
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 150,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 0,
+      "priority": 0.33333334,
+      "gdp": 150,
+      "present": true,
+      "result": 24
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 0,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 0,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 1,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 1,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 2,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 2,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 6,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 6,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 7,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 7,
+      "present": true,
+      "result": 12
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 50,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 50,
+      "present": true,
+      "result": 19
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 93,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 93,
+      "present": true,
+      "result": 25
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 99,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 99,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 100,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 100,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 150,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 0,
+      "priority": 1,
+      "gdp": 150,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 0,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 0,
+      "present": true,
+      "result": 15
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 1,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 1,
+      "present": true,
+      "result": 15
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 2,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 2,
+      "present": true,
+      "result": 15
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 6,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 6,
+      "present": true,
+      "result": 15
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 7,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 7,
+      "present": true,
+      "result": 16
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 50,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 50,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 93,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 93,
+      "present": true,
+      "result": 29
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 99,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 99,
+      "present": true,
+      "result": 30
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 100,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 100,
+      "present": true,
+      "result": 30
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 150,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 0,
+      "priority": 2.5,
+      "gdp": 150,
+      "present": true,
+      "result": 30
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 0,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 0,
+      "present": true,
+      "result": 29
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 1,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 1,
+      "present": true,
+      "result": 29
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 2,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 2,
+      "present": true,
+      "result": 29
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 6,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 6,
+      "present": true,
+      "result": 29
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 7,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 7,
+      "present": true,
+      "result": 30
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 50,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 50,
+      "present": true,
+      "result": 37
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 93,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 93,
+      "present": true,
+      "result": 43
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 99,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 99,
+      "present": true,
+      "result": 44
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 100,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 100,
+      "present": true,
+      "result": 44
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 150,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 0,
+      "priority": 7,
+      "gdp": 150,
+      "present": true,
+      "result": 44
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 0,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 0,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 1,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 1,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 2,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 2,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 6,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 6,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 7,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 7,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 50,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 50,
+      "present": true,
+      "result": 16
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 93,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 93,
+      "present": true,
+      "result": 22
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 99,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 99,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 100,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 100,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 150,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": -2,
+      "gdp": 150,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 0,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 0,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 1,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 1,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 2,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 2,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 6,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 6,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 7,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 7,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 50,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 50,
+      "present": true,
+      "result": 16
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 93,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 93,
+      "present": true,
+      "result": 22
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 99,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 99,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 100,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 100,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 150,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0,
+      "gdp": 150,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 0,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 0,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 1,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 1,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 2,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 2,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 6,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 6,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 7,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 7,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 50,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 50,
+      "present": true,
+      "result": 16
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 93,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 93,
+      "present": true,
+      "result": 22
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 99,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 99,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 100,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 100,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 150,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 20,
+      "priority": 0.125,
+      "gdp": 150,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 0,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 0,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 1,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 1,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 2,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 2,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 6,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 6,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 7,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 7,
+      "present": true,
+      "result": 10
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 50,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 50,
+      "present": true,
+      "result": 17
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 93,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 93,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 99,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 99,
+      "present": true,
+      "result": 24
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 100,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 100,
+      "present": true,
+      "result": 24
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 150,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 20,
+      "priority": 0.33333334,
+      "gdp": 150,
+      "present": true,
+      "result": 24
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 0,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 0,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 1,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 1,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 2,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 2,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 6,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 6,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 7,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 7,
+      "present": true,
+      "result": 12
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 50,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 50,
+      "present": true,
+      "result": 19
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 93,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 93,
+      "present": true,
+      "result": 25
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 99,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 99,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 100,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 100,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 150,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 20,
+      "priority": 1,
+      "gdp": 150,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 0,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 0,
+      "present": true,
+      "result": 15
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 1,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 1,
+      "present": true,
+      "result": 15
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 2,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 2,
+      "present": true,
+      "result": 15
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 6,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 6,
+      "present": true,
+      "result": 15
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 7,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 7,
+      "present": true,
+      "result": 16
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 50,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 50,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 93,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 93,
+      "present": true,
+      "result": 29
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 99,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 99,
+      "present": true,
+      "result": 30
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 100,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 100,
+      "present": true,
+      "result": 30
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 150,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 20,
+      "priority": 2.5,
+      "gdp": 150,
+      "present": true,
+      "result": 30
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 0,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 0,
+      "present": true,
+      "result": 29
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 1,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 1,
+      "present": true,
+      "result": 29
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 2,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 2,
+      "present": true,
+      "result": 29
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 6,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 6,
+      "present": true,
+      "result": 29
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 7,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 7,
+      "present": true,
+      "result": 30
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 50,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 50,
+      "present": true,
+      "result": 37
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 93,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 93,
+      "present": true,
+      "result": 43
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 99,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 99,
+      "present": true,
+      "result": 44
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 100,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 100,
+      "present": true,
+      "result": 44
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 150,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 20,
+      "priority": 7,
+      "gdp": 150,
+      "present": true,
+      "result": 44
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 0,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 0,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 1,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 1,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 2,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 2,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 6,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 6,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 7,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 7,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 50,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 50,
+      "present": true,
+      "result": 16
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 93,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 93,
+      "present": true,
+      "result": 22
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 99,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 99,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 100,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 100,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 150,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": -2,
+      "gdp": 150,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 0,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 0,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 1,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 1,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 2,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 2,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 6,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 6,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 7,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 7,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 50,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 50,
+      "present": true,
+      "result": 16
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 93,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 93,
+      "present": true,
+      "result": 22
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 99,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 99,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 100,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 100,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 150,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0,
+      "gdp": 150,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 0,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 0,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 1,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 1,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 2,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 2,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 6,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 6,
+      "present": true,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 7,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 7,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 50,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 50,
+      "present": true,
+      "result": 16
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 93,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 93,
+      "present": true,
+      "result": 22
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 99,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 99,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 100,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 100,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 150,
+      "present": false,
+      "result": 8
+    },
+    {
+      "good": 26,
+      "priority": 0.125,
+      "gdp": 150,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 0,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 0,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 1,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 1,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 2,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 2,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 6,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 6,
+      "present": true,
+      "result": 9
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 7,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 7,
+      "present": true,
+      "result": 10
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 50,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 50,
+      "present": true,
+      "result": 17
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 93,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 93,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 99,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 99,
+      "present": true,
+      "result": 24
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 100,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 100,
+      "present": true,
+      "result": 24
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 150,
+      "present": false,
+      "result": 9
+    },
+    {
+      "good": 26,
+      "priority": 0.33333334,
+      "gdp": 150,
+      "present": true,
+      "result": 24
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 0,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 0,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 1,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 1,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 2,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 2,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 6,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 6,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 7,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 7,
+      "present": true,
+      "result": 12
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 50,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 50,
+      "present": true,
+      "result": 19
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 93,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 93,
+      "present": true,
+      "result": 25
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 99,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 99,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 100,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 100,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 150,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 26,
+      "priority": 1,
+      "gdp": 150,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 0,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 0,
+      "present": true,
+      "result": 15
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 1,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 1,
+      "present": true,
+      "result": 15
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 2,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 2,
+      "present": true,
+      "result": 15
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 6,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 6,
+      "present": true,
+      "result": 15
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 7,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 7,
+      "present": true,
+      "result": 16
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 50,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 50,
+      "present": true,
+      "result": 23
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 93,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 93,
+      "present": true,
+      "result": 29
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 99,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 99,
+      "present": true,
+      "result": 30
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 100,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 100,
+      "present": true,
+      "result": 30
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 150,
+      "present": false,
+      "result": 15
+    },
+    {
+      "good": 26,
+      "priority": 2.5,
+      "gdp": 150,
+      "present": true,
+      "result": 30
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 0,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 0,
+      "present": true,
+      "result": 29
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 1,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 1,
+      "present": true,
+      "result": 29
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 2,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 2,
+      "present": true,
+      "result": 29
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 6,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 6,
+      "present": true,
+      "result": 29
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 7,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 7,
+      "present": true,
+      "result": 30
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 50,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 50,
+      "present": true,
+      "result": 37
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 93,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 93,
+      "present": true,
+      "result": 43
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 99,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 99,
+      "present": true,
+      "result": 44
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 100,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 100,
+      "present": true,
+      "result": 44
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 150,
+      "present": false,
+      "result": 29
+    },
+    {
+      "good": 26,
+      "priority": 7,
+      "gdp": 150,
+      "present": true,
+      "result": 44
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 0,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 0,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 1,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 1,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 2,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 2,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 6,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 6,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 7,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 7,
+      "present": true,
+      "result": 12
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 50,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 50,
+      "present": true,
+      "result": 19
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 93,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 93,
+      "present": true,
+      "result": 25
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 99,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 99,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 100,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 100,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 150,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": -2,
+      "gdp": 150,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 0,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 0,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 1,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 1,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 2,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 2,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 6,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 6,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 7,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 7,
+      "present": true,
+      "result": 12
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 50,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 50,
+      "present": true,
+      "result": 19
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 93,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 93,
+      "present": true,
+      "result": 25
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 99,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 99,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 100,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 100,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 150,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0,
+      "gdp": 150,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 0,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 0,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 1,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 1,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 2,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 2,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 6,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 6,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 7,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 7,
+      "present": true,
+      "result": 12
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 50,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 50,
+      "present": true,
+      "result": 19
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 93,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 93,
+      "present": true,
+      "result": 25
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 99,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 99,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 100,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 100,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 150,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.125,
+      "gdp": 150,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 0,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 0,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 1,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 1,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 2,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 2,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 6,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 6,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 7,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 7,
+      "present": true,
+      "result": 12
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 50,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 50,
+      "present": true,
+      "result": 19
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 93,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 93,
+      "present": true,
+      "result": 25
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 99,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 99,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 100,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 100,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 150,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 0.33333334,
+      "gdp": 150,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 0,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 0,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 1,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 1,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 2,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 2,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 6,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 6,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 7,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 7,
+      "present": true,
+      "result": 12
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 50,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 50,
+      "present": true,
+      "result": 19
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 93,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 93,
+      "present": true,
+      "result": 25
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 99,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 99,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 100,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 100,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 150,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 1,
+      "gdp": 150,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 0,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 0,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 1,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 1,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 2,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 2,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 6,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 6,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 7,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 7,
+      "present": true,
+      "result": 12
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 50,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 50,
+      "present": true,
+      "result": 19
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 93,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 93,
+      "present": true,
+      "result": 25
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 99,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 99,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 100,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 100,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 150,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 2.5,
+      "gdp": 150,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 0,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 0,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 1,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 1,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 2,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 2,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 6,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 6,
+      "present": true,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 7,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 7,
+      "present": true,
+      "result": 12
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 50,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 50,
+      "present": true,
+      "result": 19
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 93,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 93,
+      "present": true,
+      "result": 25
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 99,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 99,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 100,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 100,
+      "present": true,
+      "result": 26
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 150,
+      "present": false,
+      "result": 11
+    },
+    {
+      "good": 27,
+      "priority": 7,
+      "gdp": 150,
+      "present": true,
+      "result": 26
+    }
+  ]
+}

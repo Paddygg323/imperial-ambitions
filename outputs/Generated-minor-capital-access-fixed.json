@@ -1,0 +1,707 @@
+{
+  "scope": "Live createGame with original capital selection and relocation. All 96 minor capitals have a generated sea exit. Native selection/setup parity independently checked in Native-minor-capital-worlds.json.",
+  "rows": [
+    {
+      "seed": 1500,
+      "minors": [
+        {
+          "nation": "ireland",
+          "capital": "70,20",
+          "seas": [
+            "sea59"
+          ]
+        },
+        {
+          "nation": "scotland",
+          "capital": "77,13",
+          "seas": [
+            "sea58"
+          ]
+        },
+        {
+          "nation": "denmark",
+          "capital": "102,14",
+          "seas": [
+            "sea72"
+          ]
+        },
+        {
+          "nation": "germany",
+          "capital": "100,18",
+          "seas": [
+            "sea69"
+          ]
+        },
+        {
+          "nation": "italy",
+          "capital": "106,37",
+          "seas": [
+            "sea62"
+          ]
+        },
+        {
+          "nation": "switzerland",
+          "capital": "100,29",
+          "seas": [
+            "sea69"
+          ]
+        },
+        {
+          "nation": "aztecs",
+          "capital": "28,17",
+          "seas": [
+            "sea13"
+          ]
+        },
+        {
+          "nation": "incas",
+          "capital": "28,8",
+          "seas": [
+            "sea19"
+          ]
+        },
+        {
+          "nation": "mayas",
+          "capital": "19,32",
+          "seas": [
+            "sea9"
+          ]
+        },
+        {
+          "nation": "taino",
+          "capital": "40,14",
+          "seas": [
+            "sea23"
+          ]
+        },
+        {
+          "nation": "iroquois",
+          "capital": "37,25",
+          "seas": [
+            "sea29"
+          ]
+        },
+        {
+          "nation": "sioux",
+          "capital": "16,26",
+          "seas": [
+            "sea8"
+          ]
+        },
+        {
+          "nation": "kwakiutl",
+          "capital": "28,39",
+          "seas": [
+            "sea20"
+          ]
+        },
+        {
+          "nation": "cherokee",
+          "capital": "40,30",
+          "seas": [
+            "sea24"
+          ]
+        },
+        {
+          "nation": "huron",
+          "capital": "21,50",
+          "seas": [
+            "sea16"
+          ]
+        },
+        {
+          "nation": "pueblo",
+          "capital": "12,51",
+          "seas": [
+            "sea74"
+          ]
+        }
+      ]
+    },
+    {
+      "seed": 1501,
+      "minors": [
+        {
+          "nation": "ireland",
+          "capital": "70,20",
+          "seas": [
+            "sea65"
+          ]
+        },
+        {
+          "nation": "scotland",
+          "capital": "77,13",
+          "seas": [
+            "sea36"
+          ]
+        },
+        {
+          "nation": "denmark",
+          "capital": "102,14",
+          "seas": [
+            "sea45"
+          ]
+        },
+        {
+          "nation": "germany",
+          "capital": "100,18",
+          "seas": [
+            "sea42"
+          ]
+        },
+        {
+          "nation": "italy",
+          "capital": "106,37",
+          "seas": [
+            "sea64"
+          ]
+        },
+        {
+          "nation": "switzerland",
+          "capital": "100,29",
+          "seas": [
+            "sea37"
+          ]
+        },
+        {
+          "nation": "aztecs",
+          "capital": "58,30",
+          "seas": [
+            "sea48"
+          ]
+        },
+        {
+          "nation": "incas",
+          "capital": "62,7",
+          "seas": [
+            "sea63"
+          ]
+        },
+        {
+          "nation": "mayas",
+          "capital": "53,14",
+          "seas": [
+            "sea47"
+          ]
+        },
+        {
+          "nation": "taino",
+          "capital": "34,17",
+          "seas": [
+            "sea19"
+          ]
+        },
+        {
+          "nation": "iroquois",
+          "capital": "27,25",
+          "seas": [
+            "sea26"
+          ]
+        },
+        {
+          "nation": "sioux",
+          "capital": "43,8",
+          "seas": [
+            "sea35"
+          ]
+        },
+        {
+          "nation": "kwakiutl",
+          "capital": "27,34",
+          "seas": [
+            "sea15"
+          ]
+        },
+        {
+          "nation": "cherokee",
+          "capital": "43,47",
+          "seas": [
+            "sea34"
+          ]
+        },
+        {
+          "nation": "huron",
+          "capital": "43,15",
+          "seas": [
+            "sea25"
+          ]
+        },
+        {
+          "nation": "pueblo",
+          "capital": "39,37",
+          "seas": [
+            "sea27"
+          ]
+        }
+      ]
+    },
+    {
+      "seed": 1502,
+      "minors": [
+        {
+          "nation": "ireland",
+          "capital": "70,20",
+          "seas": [
+            "sea52"
+          ]
+        },
+        {
+          "nation": "scotland",
+          "capital": "77,13",
+          "seas": [
+            "sea64"
+          ]
+        },
+        {
+          "nation": "denmark",
+          "capital": "102,14",
+          "seas": [
+            "sea33"
+          ]
+        },
+        {
+          "nation": "germany",
+          "capital": "100,18",
+          "seas": [
+            "sea25"
+          ]
+        },
+        {
+          "nation": "italy",
+          "capital": "106,37",
+          "seas": [
+            "sea34"
+          ]
+        },
+        {
+          "nation": "switzerland",
+          "capital": "100,29",
+          "seas": [
+            "sea25"
+          ]
+        },
+        {
+          "nation": "aztecs",
+          "capital": "52,21",
+          "seas": [
+            "sea53"
+          ]
+        },
+        {
+          "nation": "incas",
+          "capital": "39,23",
+          "seas": [
+            "sea35"
+          ]
+        },
+        {
+          "nation": "mayas",
+          "capital": "40,12",
+          "seas": [
+            "sea23"
+          ]
+        },
+        {
+          "nation": "taino",
+          "capital": "22,33",
+          "seas": [
+            "sea9"
+          ]
+        },
+        {
+          "nation": "iroquois",
+          "capital": "42,6",
+          "seas": [
+            "sea39"
+          ]
+        },
+        {
+          "nation": "sioux",
+          "capital": "36,28",
+          "seas": [
+            "sea35"
+          ]
+        },
+        {
+          "nation": "kwakiutl",
+          "capital": "36,53",
+          "seas": [
+            "sea28"
+          ]
+        },
+        {
+          "nation": "cherokee",
+          "capital": "30,50",
+          "seas": [
+            "sea22"
+          ]
+        },
+        {
+          "nation": "huron",
+          "capital": "40,35",
+          "seas": [
+            "sea31"
+          ]
+        },
+        {
+          "nation": "pueblo",
+          "capital": "20,28",
+          "seas": [
+            "sea14"
+          ]
+        }
+      ]
+    },
+    {
+      "seed": 1503,
+      "minors": [
+        {
+          "nation": "ireland",
+          "capital": "70,20",
+          "seas": [
+            "sea59"
+          ]
+        },
+        {
+          "nation": "scotland",
+          "capital": "77,13",
+          "seas": [
+            "sea64"
+          ]
+        },
+        {
+          "nation": "denmark",
+          "capital": "102,14",
+          "seas": [
+            "sea62"
+          ]
+        },
+        {
+          "nation": "germany",
+          "capital": "100,18",
+          "seas": [
+            "sea12"
+          ]
+        },
+        {
+          "nation": "italy",
+          "capital": "106,37",
+          "seas": [
+            "sea26"
+          ]
+        },
+        {
+          "nation": "switzerland",
+          "capital": "100,29",
+          "seas": [
+            "sea12"
+          ]
+        },
+        {
+          "nation": "aztecs",
+          "capital": "40,8",
+          "seas": [
+            "sea33"
+          ]
+        },
+        {
+          "nation": "incas",
+          "capital": "24,27",
+          "seas": [
+            "sea23"
+          ]
+        },
+        {
+          "nation": "mayas",
+          "capital": "24,16",
+          "seas": [
+            "sea10"
+          ]
+        },
+        {
+          "nation": "taino",
+          "capital": "12,12",
+          "seas": [
+            "sea5"
+          ]
+        },
+        {
+          "nation": "iroquois",
+          "capital": "26,8",
+          "seas": [
+            "sea10"
+          ]
+        },
+        {
+          "nation": "sioux",
+          "capital": "10,27",
+          "seas": [
+            "sea2"
+          ]
+        },
+        {
+          "nation": "kwakiutl",
+          "capital": "28,48",
+          "seas": [
+            "sea19"
+          ]
+        },
+        {
+          "nation": "cherokee",
+          "capital": "13,38",
+          "seas": [
+            "sea14"
+          ]
+        },
+        {
+          "nation": "huron",
+          "capital": "18,50",
+          "seas": [
+            "sea4"
+          ]
+        },
+        {
+          "nation": "pueblo",
+          "capital": "28,43",
+          "seas": [
+            "sea19"
+          ]
+        }
+      ]
+    },
+    {
+      "seed": 1504,
+      "minors": [
+        {
+          "nation": "ireland",
+          "capital": "70,20",
+          "seas": [
+            "sea64"
+          ]
+        },
+        {
+          "nation": "scotland",
+          "capital": "77,13",
+          "seas": [
+            "sea63"
+          ]
+        },
+        {
+          "nation": "denmark",
+          "capital": "102,14",
+          "seas": [
+            "sea72"
+          ]
+        },
+        {
+          "nation": "germany",
+          "capital": "100,18",
+          "seas": [
+            "sea74"
+          ]
+        },
+        {
+          "nation": "italy",
+          "capital": "106,37",
+          "seas": [
+            "sea39"
+          ]
+        },
+        {
+          "nation": "switzerland",
+          "capital": "100,29",
+          "seas": [
+            "sea19"
+          ]
+        },
+        {
+          "nation": "aztecs",
+          "capital": "22,13",
+          "seas": [
+            "sea23"
+          ]
+        },
+        {
+          "nation": "incas",
+          "capital": "47,14",
+          "seas": [
+            "sea40"
+          ]
+        },
+        {
+          "nation": "mayas",
+          "capital": "26,23",
+          "seas": [
+            "sea23"
+          ]
+        },
+        {
+          "nation": "taino",
+          "capital": "38,18",
+          "seas": [
+            "sea24"
+          ]
+        },
+        {
+          "nation": "iroquois",
+          "capital": "20,20",
+          "seas": [
+            "sea14"
+          ]
+        },
+        {
+          "nation": "sioux",
+          "capital": "21,30",
+          "seas": [
+            "sea9"
+          ]
+        },
+        {
+          "nation": "kwakiutl",
+          "capital": "47,54",
+          "seas": [
+            "sea38"
+          ]
+        },
+        {
+          "nation": "cherokee",
+          "capital": "30,42",
+          "seas": [
+            "sea31"
+          ]
+        },
+        {
+          "nation": "huron",
+          "capital": "51,45",
+          "seas": [
+            "sea54"
+          ]
+        },
+        {
+          "nation": "pueblo",
+          "capital": "38,32",
+          "seas": [
+            "sea35"
+          ]
+        }
+      ]
+    },
+    {
+      "seed": 1505,
+      "minors": [
+        {
+          "nation": "ireland",
+          "capital": "70,20",
+          "seas": [
+            "sea64"
+          ]
+        },
+        {
+          "nation": "scotland",
+          "capital": "77,13",
+          "seas": [
+            "sea69"
+          ]
+        },
+        {
+          "nation": "denmark",
+          "capital": "102,14",
+          "seas": [
+            "sea27"
+          ]
+        },
+        {
+          "nation": "germany",
+          "capital": "100,18",
+          "seas": [
+            "sea27"
+          ]
+        },
+        {
+          "nation": "italy",
+          "capital": "106,37",
+          "seas": [
+            "sea43"
+          ]
+        },
+        {
+          "nation": "switzerland",
+          "capital": "100,29",
+          "seas": [
+            "sea28"
+          ]
+        },
+        {
+          "nation": "aztecs",
+          "capital": "28,24",
+          "seas": [
+            "sea18"
+          ]
+        },
+        {
+          "nation": "incas",
+          "capital": "22,12",
+          "seas": [
+            "sea16"
+          ]
+        },
+        {
+          "nation": "mayas",
+          "capital": "39,24",
+          "seas": [
+            "sea18"
+          ]
+        },
+        {
+          "nation": "taino",
+          "capital": "24,32",
+          "seas": [
+            "sea18"
+          ]
+        },
+        {
+          "nation": "iroquois",
+          "capital": "14,13",
+          "seas": [
+            "sea7"
+          ]
+        },
+        {
+          "nation": "sioux",
+          "capital": "35,12",
+          "seas": [
+            "sea17"
+          ]
+        },
+        {
+          "nation": "kwakiutl",
+          "capital": "44,47",
+          "seas": [
+            "sea42"
+          ]
+        },
+        {
+          "nation": "cherokee",
+          "capital": "50,26",
+          "seas": [
+            "sea46"
+          ]
+        },
+        {
+          "nation": "huron",
+          "capital": "13,45",
+          "seas": [
+            "sea9"
+          ]
+        },
+        {
+          "nation": "pueblo",
+          "capital": "24,50",
+          "seas": [
+            "sea19"
+          ]
+        }
+      ]
+    }
+  ]
+}

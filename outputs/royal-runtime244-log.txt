@@ -1,0 +1,1 @@
+PASS: minimap pan; illustrated costs; eight desktop menus; 412/360 portrait and 915 landscape; map-only; save unchanged; no missing artwork or browser errors.

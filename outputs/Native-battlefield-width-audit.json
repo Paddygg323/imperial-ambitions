@@ -1,0 +1,190 @@
+{
+  "scope": "Native battlefield width6183b0, list iterator supplied; category native.\nOrdinary fresh campaign forces, plus fort emplacements. LoadMap620830 clears\nterrain to0 (base initialization61825c already clears all464 cells).\n",
+  "cases": [
+    {
+      "type": "levy",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "caliverman",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "skirmisher",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "sharpshooter",
+      "emplaced": false,
+      "width": 18
+    },
+    {
+      "type": "pikeman",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "halberdier",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "regular",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "rifleInfantry",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "arquebusier",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "musketeer",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "grenadier",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "guard",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "bowman",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "general",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "squire",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "cossack",
+      "emplaced": false,
+      "width": 19
+    },
+    {
+      "type": "hussar",
+      "emplaced": false,
+      "width": 22
+    },
+    {
+      "type": "scout",
+      "emplaced": false,
+      "width": 22
+    },
+    {
+      "type": "knight",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "lancer",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "harquebusier",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "cuirassier",
+      "emplaced": false,
+      "width": 20
+    },
+    {
+      "type": "carbineCavalry",
+      "emplaced": false,
+      "width": 20
+    },
+    {
+      "type": "horseArtillery",
+      "emplaced": false,
+      "width": 18
+    },
+    {
+      "type": "horseArtillery",
+      "emplaced": true,
+      "width": 19
+    },
+    {
+      "type": "lightArtillery",
+      "emplaced": false,
+      "width": 20
+    },
+    {
+      "type": "lightArtillery",
+      "emplaced": true,
+      "width": 21
+    },
+    {
+      "type": "fieldArtillery",
+      "emplaced": false,
+      "width": 22
+    },
+    {
+      "type": "fieldArtillery",
+      "emplaced": true,
+      "width": 23
+    },
+    {
+      "type": "culverin",
+      "emplaced": false,
+      "width": 17
+    },
+    {
+      "type": "culverin",
+      "emplaced": true,
+      "width": 17
+    },
+    {
+      "type": "royalArtillery",
+      "emplaced": false,
+      "width": 19
+    },
+    {
+      "type": "royalArtillery",
+      "emplaced": true,
+      "width": 20
+    },
+    {
+      "type": "heavyArtillery",
+      "emplaced": false,
+      "width": 21
+    },
+    {
+      "type": "heavyArtillery",
+      "emplaced": true,
+      "width": 22
+    },
+    {
+      "type": "siegeGun",
+      "emplaced": false,
+      "width": 23
+    },
+    {
+      "type": "siegeGun",
+      "emplaced": true,
+      "width": 24
+    }
+  ]
+}

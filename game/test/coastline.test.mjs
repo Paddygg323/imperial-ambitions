@@ -1,0 +1,5 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {coastlineGeometry} from '../coastline.mjs';import {createGame} from '../engine.mjs';
+const tiles=[{id:'10,10',x:10,y:10},{id:'11,10',x:11,y:10}];
+test('shorelines join across tiles, vary smoothly and remain deterministic',()=>{const both=new Set(tiles.map(t=>t.id)),g=coastlineGeometry(tiles,both);assert.equal(g.loops,1);assert.equal(g.edges,10);assert.equal((g.shore.match(/C/g)||[]).length,10);assert.ok(g.land.includes('Q'));assert.deepEqual(g,coastlineGeometry(tiles,both));});
+test('unexplored land edge is not painted as a coastline',()=>{const g=coastlineGeometry(tiles,new Set(['10,10']));assert.equal(g.edges,6);assert.equal((g.shore.match(/C/g)||[]).length,5);assert.ok(g.land.includes('L'));});
+test('complete historical/new-world map closes all contours without mutating tiles',()=>{const s=createGame({transportModel:'ports',preferenceSeed:123}),before=JSON.stringify(s.tiles);const g=coastlineGeometry(s.tiles,new Set(s.tiles.map(t=>t.id)));assert.ok(g.loops>1);assert.ok(g.shore.length>1000);assert.equal(JSON.stringify(s.tiles),before);});

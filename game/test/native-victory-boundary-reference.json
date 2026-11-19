@@ -1,0 +1,149 @@
+{
+  "scope": "Execute original CheckVictory decision block only, after unit iteration.\nPresence flags are supplied. No campaign or window side effects executed.\n",
+  "cases": [
+    {
+      "sideTurnCounter": 0,
+      "attackerPresent": false,
+      "defenderPresent": false,
+      "result": "defender"
+    },
+    {
+      "sideTurnCounter": 0,
+      "attackerPresent": false,
+      "defenderPresent": true,
+      "result": "defender"
+    },
+    {
+      "sideTurnCounter": 0,
+      "attackerPresent": true,
+      "defenderPresent": false,
+      "result": "attacker"
+    },
+    {
+      "sideTurnCounter": 0,
+      "attackerPresent": true,
+      "defenderPresent": true,
+      "result": "ongoing"
+    },
+    {
+      "sideTurnCounter": 1,
+      "attackerPresent": false,
+      "defenderPresent": false,
+      "result": "defender"
+    },
+    {
+      "sideTurnCounter": 1,
+      "attackerPresent": false,
+      "defenderPresent": true,
+      "result": "defender"
+    },
+    {
+      "sideTurnCounter": 1,
+      "attackerPresent": true,
+      "defenderPresent": false,
+      "result": "attacker"
+    },
+    {
+      "sideTurnCounter": 1,
+      "attackerPresent": true,
+      "defenderPresent": true,
+      "result": "ongoing"
+    },
+    {
+      "sideTurnCounter": 33,
+      "attackerPresent": false,
+      "defenderPresent": false,
+      "result": "defender"
+    },
+    {
+      "sideTurnCounter": 33,
+      "attackerPresent": false,
+      "defenderPresent": true,
+      "result": "defender"
+    },
+    {
+      "sideTurnCounter": 33,
+      "attackerPresent": true,
+      "defenderPresent": false,
+      "result": "attacker"
+    },
+    {
+      "sideTurnCounter": 33,
+      "attackerPresent": true,
+      "defenderPresent": true,
+      "result": "ongoing"
+    },
+    {
+      "sideTurnCounter": 34,
+      "attackerPresent": false,
+      "defenderPresent": false,
+      "result": "defender"
+    },
+    {
+      "sideTurnCounter": 34,
+      "attackerPresent": false,
+      "defenderPresent": true,
+      "result": "defender"
+    },
+    {
+      "sideTurnCounter": 34,
+      "attackerPresent": true,
+      "defenderPresent": false,
+      "result": "attacker"
+    },
+    {
+      "sideTurnCounter": 34,
+      "attackerPresent": true,
+      "defenderPresent": true,
+      "result": "ongoing"
+    },
+    {
+      "sideTurnCounter": 35,
+      "attackerPresent": false,
+      "defenderPresent": false,
+      "result": "defender"
+    },
+    {
+      "sideTurnCounter": 35,
+      "attackerPresent": false,
+      "defenderPresent": true,
+      "result": "defender"
+    },
+    {
+      "sideTurnCounter": 35,
+      "attackerPresent": true,
+      "defenderPresent": false,
+      "result": "defender"
+    },
+    {
+      "sideTurnCounter": 35,
+      "attackerPresent": true,
+      "defenderPresent": true,
+      "result": "defender"
+    },
+    {
+      "sideTurnCounter": 36,
+      "attackerPresent": false,
+      "defenderPresent": false,
+      "result": "defender"
+    },
+    {
+      "sideTurnCounter": 36,
+      "attackerPresent": false,
+      "defenderPresent": true,
+      "result": "defender"
+    },
+    {
+      "sideTurnCounter": 36,
+      "attackerPresent": true,
+      "defenderPresent": false,
+      "result": "defender"
+    },
+    {
+      "sideTurnCounter": 36,
+      "attackerPresent": true,
+      "defenderPresent": true,
+      "result": "defender"
+    }
+  ]
+}

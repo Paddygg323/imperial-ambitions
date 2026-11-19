@@ -1,0 +1,305 @@
+{
+  "scope": "Original good classifications645d60..645e90 and substitute645d10.\nNo dependency stubs. Names mapped to the already-extracted native goods order.\n",
+  "cases": [
+    {
+      "good": -1,
+      "manufactured": false,
+      "terrainResource": false,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 0,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": 6
+    },
+    {
+      "good": 1,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 2,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 3,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 4,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 5,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 6,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": 0
+    },
+    {
+      "good": 7,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": false,
+      "luxuryCrop": true,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 8,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": false,
+      "luxuryCrop": true,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 9,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": false,
+      "luxuryCrop": true,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 10,
+      "manufactured": false,
+      "terrainResource": false,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 11,
+      "manufactured": true,
+      "terrainResource": false,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 12,
+      "manufactured": true,
+      "terrainResource": false,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 13,
+      "manufactured": true,
+      "terrainResource": false,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 14,
+      "manufactured": true,
+      "terrainResource": false,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 15,
+      "manufactured": true,
+      "terrainResource": false,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 16,
+      "manufactured": true,
+      "terrainResource": false,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 17,
+      "manufactured": true,
+      "terrainResource": false,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": true,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 18,
+      "manufactured": true,
+      "terrainResource": false,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": true,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 19,
+      "manufactured": true,
+      "terrainResource": false,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": true,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 20,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": true,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    },
+    {
+      "good": 21,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": true,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": 22
+    },
+    {
+      "good": 22,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": true,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": 21
+    },
+    {
+      "good": 23,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": true,
+      "substitute": -1
+    },
+    {
+      "good": 24,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": true,
+      "substitute": -1
+    },
+    {
+      "good": 25,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": true,
+      "substitute": -1
+    },
+    {
+      "good": 26,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": true,
+      "substitute": -1
+    },
+    {
+      "good": 27,
+      "manufactured": false,
+      "terrainResource": true,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": true,
+      "substitute": -1
+    },
+    {
+      "good": 28,
+      "manufactured": false,
+      "terrainResource": false,
+      "food": false,
+      "luxuryCrop": false,
+      "manufacturedLuxury": false,
+      "riches": false,
+      "substitute": -1
+    }
+  ]
+}

@@ -1,0 +1,6485 @@
+{
+  "scope": "Native PriceCheck570ec0 through return. Technology-level query and RNG are\nsupplied; original order getter, available stock and order setter execute.\nFixtures isolate one resource. Not a complete market settlement simulation.\n",
+  "cases": [
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 100,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 200,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 2
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 201,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 2
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 2
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 250,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 2
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 2
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 299,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 2
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 2
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 2
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 1,
+      "price": 300,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 100,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 200,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 2
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 201,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 2
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 2
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 250,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 2
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 2
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 299,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 2
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 0,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 2
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 49,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 0,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 0,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 1,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": 0,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 1,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 4,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": 0,
+      "result": 2
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 4,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 10,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 10,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": 0,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 20,
+      "order": -1,
+      "tech": -1,
+      "result": -1
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": 0,
+      "result": 5
+    },
+    {
+      "good": 4,
+      "price": 300,
+      "random": 99,
+      "stock": 20,
+      "order": 0,
+      "tech": -1,
+      "result": 0
+    }
+  ]
+}

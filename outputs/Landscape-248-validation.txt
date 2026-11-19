@@ -1,0 +1,11 @@
+Landscape248 — 17 November2026
+
+Implemented: world-space weighted terrain colour AND texture sampling, with gentle deterministic boundary variation. Each visible tile samples the same field at shared edges; two-ring visible neighbours avoid discontinuities and do not reveal hidden terrain. Cached64px patches, faint default hex lines, stronger civilian-planning grid. Territory/province borders, hit tests and actual tile rules remain unchanged.
+
+Sea texture: monotonic zoom-dependent opacity, strong locally, faint regionally, zero below strategic threshold; strategic parchment retained.
+
+Town artwork: new small/large settlement atlas, built-in image_gen. Prompt specified two isolated historical European settlements: four-cottage small town and dense prosperous walled large town, overhead painterly style, upper-left light, transparent exterior, no text or frame. Asset game/assets/royal-towns.png. Crop bounds measured from generated layout. Large town classification uses existing townLevel or a nation's capital location. Confirmed new England campaign has only London large. Existing town upgrades change artwork and displayed label. No town/economy/save migration rules changed.
+
+Validation: 3 focused tests pass (shared boundary continuity, London-only initial England classification and upgrades, monotonic sea fade); isolated desktop/phone/nation showroom renderer leaves fixture state unchanged; existing zoom/pinch/anchored selection and sprite-label draw-order tests pass. Screenshots outputs/visual-review/landscape248. Synthetic showroom is not a modified player campaign. APK/AAB built, no physical Pixel install/test this revision. Original Windows/hotseat game untouched.
+
+Offline reload passed including town atlas. Published Site version5 succeeded; deployment appgdep_6afcd291483c8191a2b0571557698b02, commit cdd958fabcad1cfd6f3def153987e078c9274c83. URL https://imperial-ambitions-playtest-paddy.paddygarrettb.chatgpt.site

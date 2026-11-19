@@ -1,0 +1,49 @@
+{
+  "scope": "Actual continuing public-command campaign: exports finance imports and research; late cane delivery then refining restores labour",
+  "initialTurn": 152,
+  "initialCash": -2498,
+  "turns": [
+    {
+      "turn": 153,
+      "cash": -446,
+      "sales": 2458,
+      "purchases": 0,
+      "overseasProfits": 0,
+      "interest": 6,
+      "funding": 400,
+      "labour": 13,
+      "unfit": 1,
+      "cane": 0
+    },
+    {
+      "turn": 154,
+      "cash": -20,
+      "sales": 1066,
+      "purchases": 276,
+      "overseasProfits": 36,
+      "interest": 0,
+      "funding": 400,
+      "labour": 9,
+      "unfit": 2,
+      "cane": 6
+    },
+    {
+      "turn": 155,
+      "cash": 234,
+      "sales": 709,
+      "purchases": 92,
+      "overseasProfits": 37,
+      "interest": 0,
+      "funding": 400,
+      "labour": 17,
+      "unfit": 0,
+      "cane": 4
+    }
+  ],
+  "limits": [
+    "Three other research projects deliberately unfunded during recovery",
+    "No new workers recruited in these three turns",
+    "Not full-game or physical Pixel proof",
+    "AI purchasing still includes documented rebuild policies; this audit verifies accounting and observed results, not full AI parity"
+  ]
+}

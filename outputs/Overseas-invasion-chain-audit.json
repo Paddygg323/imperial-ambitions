@@ -1,0 +1,68 @@
+{
+  "turn": 88,
+  "year": 1676,
+  "province": "n139",
+  "ship": "s26",
+  "capacity": 3,
+  "homeTradeCapacity": 6,
+  "fourRegimentOrderRejected": true,
+  "army": [
+    {
+      "id": "a21",
+      "owner": "england",
+      "type": "arquebusier",
+      "province": "e1-0",
+      "hp": 100,
+      "experience": 0,
+      "defending": true,
+      "order": null
+    },
+    {
+      "id": "a22",
+      "owner": "england",
+      "type": "lancer",
+      "province": "n139",
+      "hp": 31,
+      "experience": 35,
+      "defending": false,
+      "order": null,
+      "medals": 0
+    },
+    {
+      "id": "a23",
+      "owner": "england",
+      "type": "halberdier",
+      "province": "e1-0",
+      "hp": 100,
+      "experience": 0,
+      "defending": true,
+      "order": null
+    },
+    {
+      "id": "a884",
+      "owner": "england",
+      "type": "halberdier",
+      "province": "n139",
+      "hp": 84,
+      "experience": 35,
+      "order": null,
+      "defending": false,
+      "medals": 0
+    },
+    {
+      "id": "a892",
+      "owner": "england",
+      "type": "culverin",
+      "province": "n139",
+      "hp": 100,
+      "experience": 35,
+      "order": null,
+      "defending": false,
+      "medals": 0
+    }
+  ],
+  "limits": [
+    "Tactical actions selected by rebuild policy for this integration run",
+    "Touch deployment tested separately; physical Pixel not yet tested"
+  ]
+}

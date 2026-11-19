@@ -1,0 +1,259 @@
+{
+  "scope": "Same initial seed and passive human economy driver; diverging simulation after recruitment policy correction. No army cap added.",
+  "beforeOutcome": {
+    "status": "defeat",
+    "reason": "capitalLost",
+    "nation": "england",
+    "attacker": "sweden",
+    "province": "e1-0",
+    "turn": 155
+  },
+  "afterOutcome": {
+    "status": "defeat",
+    "reason": "capitalLost",
+    "nation": "england",
+    "attacker": "sweden",
+    "province": "e1-0",
+    "turn": 162
+  },
+  "comparisons": [
+    {
+      "turn": 120,
+      "before": {
+        "france": {
+          "alive": true,
+          "workers": 24,
+          "fit": 24,
+          "cash": 1311,
+          "techs": 27,
+          "army": 14,
+          "provinces": 15
+        },
+        "england": {
+          "alive": true,
+          "workers": 47,
+          "fit": 47,
+          "cash": 500,
+          "techs": 16,
+          "army": 0,
+          "provinces": 8
+        },
+        "sweden": {
+          "alive": true,
+          "workers": 31,
+          "fit": 31,
+          "cash": 1316,
+          "techs": 33,
+          "army": 8,
+          "provinces": 11
+        },
+        "holland": {
+          "alive": true,
+          "workers": 10,
+          "fit": 10,
+          "cash": 1979,
+          "techs": 36,
+          "army": 22,
+          "provinces": 6
+        },
+        "portugal": {
+          "alive": false,
+          "workers": 7,
+          "fit": 7,
+          "cash": 2036,
+          "techs": 36,
+          "army": 6,
+          "provinces": 3
+        },
+        "spain": {
+          "alive": true,
+          "workers": 17,
+          "fit": 17,
+          "cash": 804,
+          "techs": 32,
+          "army": 23,
+          "provinces": 15
+        }
+      },
+      "after": {
+        "france": {
+          "alive": true,
+          "workers": 27,
+          "fit": 27,
+          "cash": 217,
+          "techs": 27,
+          "army": 11,
+          "provinces": 15
+        },
+        "england": {
+          "alive": true,
+          "workers": 47,
+          "fit": 47,
+          "cash": 500,
+          "techs": 16,
+          "army": 0,
+          "provinces": 8
+        },
+        "sweden": {
+          "alive": true,
+          "workers": 30,
+          "fit": 30,
+          "cash": 3890,
+          "techs": 34,
+          "army": 8,
+          "provinces": 11
+        },
+        "holland": {
+          "alive": true,
+          "workers": 17,
+          "fit": 17,
+          "cash": 2742,
+          "techs": 37,
+          "army": 12,
+          "provinces": 6
+        },
+        "portugal": {
+          "alive": true,
+          "workers": 6,
+          "fit": 6,
+          "cash": 1268,
+          "techs": 38,
+          "army": 9,
+          "provinces": 4
+        },
+        "spain": {
+          "alive": true,
+          "workers": 24,
+          "fit": 24,
+          "cash": -2048,
+          "techs": 34,
+          "army": 12,
+          "provinces": 14
+        }
+      }
+    },
+    {
+      "turn": 150,
+      "before": {
+        "france": {
+          "alive": true,
+          "workers": 24,
+          "fit": 24,
+          "cash": 2447,
+          "techs": 38,
+          "army": 26,
+          "provinces": 15
+        },
+        "england": {
+          "alive": true,
+          "workers": 47,
+          "fit": 47,
+          "cash": 500,
+          "techs": 17,
+          "army": 0,
+          "provinces": 8
+        },
+        "sweden": {
+          "alive": true,
+          "workers": 27,
+          "fit": 27,
+          "cash": 2009,
+          "techs": 47,
+          "army": 13,
+          "provinces": 14
+        },
+        "holland": {
+          "alive": true,
+          "workers": 6,
+          "fit": 6,
+          "cash": 1762,
+          "techs": 45,
+          "army": 26,
+          "provinces": 6
+        },
+        "portugal": {
+          "alive": false,
+          "workers": 7,
+          "fit": 7,
+          "cash": 2036,
+          "techs": 36,
+          "army": 6,
+          "provinces": 3
+        },
+        "spain": {
+          "alive": true,
+          "workers": 36,
+          "fit": 36,
+          "cash": -2383,
+          "techs": 41,
+          "army": 23,
+          "provinces": 15
+        }
+      },
+      "after": {
+        "france": {
+          "alive": true,
+          "workers": 42,
+          "fit": 42,
+          "cash": 344,
+          "techs": 38,
+          "army": 10,
+          "provinces": 15
+        },
+        "england": {
+          "alive": true,
+          "workers": 47,
+          "fit": 47,
+          "cash": 500,
+          "techs": 17,
+          "army": 0,
+          "provinces": 8
+        },
+        "sweden": {
+          "alive": true,
+          "workers": 28,
+          "fit": 28,
+          "cash": 677,
+          "techs": 48,
+          "army": 10,
+          "provinces": 12
+        },
+        "holland": {
+          "alive": true,
+          "workers": 22,
+          "fit": 22,
+          "cash": -1972,
+          "techs": 48,
+          "army": 13,
+          "provinces": 8
+        },
+        "portugal": {
+          "alive": false,
+          "workers": 6,
+          "fit": 6,
+          "cash": 1058,
+          "techs": 39,
+          "army": 5,
+          "provinces": 3
+        },
+        "spain": {
+          "alive": true,
+          "workers": 39,
+          "fit": 39,
+          "cash": -1865,
+          "techs": 45,
+          "army": 16,
+          "provinces": 15
+        }
+      }
+    }
+  ],
+  "afterStarved": {
+    "france": 0,
+    "england": 0,
+    "sweden": 0,
+    "holland": 0,
+    "portugal": 0,
+    "spain": 0
+  }
+}

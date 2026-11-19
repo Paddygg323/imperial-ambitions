@@ -1,0 +1,89 @@
+{
+  "scope": "Conquered resource discovery/development/port construction and assigned domestic sea delivery, alongside post-battle recovery",
+  "checks": 42,
+  "turn": 94,
+  "year": 1688,
+  "totalTobaccoDelivered": 3,
+  "sourceTile": {
+    "id": "9,51",
+    "x": 9,
+    "y": 51,
+    "owner": "england",
+    "province": "n139",
+    "terrain": 16,
+    "mineral": 0,
+    "resource": "tobacco",
+    "nativeResource": 8,
+    "baseTerrain": 7,
+    "river": false,
+    "riverCode": 0,
+    "prospected": false,
+    "level": 1,
+    "road": false,
+    "rail": false,
+    "port": true,
+    "townLevel": 0,
+    "transportSeaTile": "9,52"
+  },
+  "army": [
+    {
+      "id": "a21",
+      "owner": "england",
+      "type": "arquebusier",
+      "province": "e1-0",
+      "hp": 100,
+      "experience": 0,
+      "defending": true,
+      "order": null
+    },
+    {
+      "id": "a22",
+      "owner": "england",
+      "type": "lancer",
+      "province": "n139",
+      "hp": 100,
+      "experience": 35,
+      "defending": true,
+      "order": null,
+      "medals": 0
+    },
+    {
+      "id": "a23",
+      "owner": "england",
+      "type": "halberdier",
+      "province": "e1-0",
+      "hp": 100,
+      "experience": 0,
+      "defending": true,
+      "order": null
+    },
+    {
+      "id": "a884",
+      "owner": "england",
+      "type": "halberdier",
+      "province": "n139",
+      "hp": 100,
+      "experience": 35,
+      "order": null,
+      "defending": true,
+      "medals": 0
+    },
+    {
+      "id": "a892",
+      "owner": "england",
+      "type": "culverin",
+      "province": "n139",
+      "hp": 100,
+      "experience": 35,
+      "order": null,
+      "defending": true,
+      "medals": 0
+    }
+  ],
+  "freeTradeCargo": 5,
+  "limits": [
+    "No tobacco manufacturing yet",
+    "Headless commands, not Pixel touch",
+    "Complete campaign still unfinished"
+  ]
+}

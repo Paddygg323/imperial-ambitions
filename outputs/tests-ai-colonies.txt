@@ -1,0 +1,34 @@
+✔ prepared campaign queues a real declaration, persists it, and starts war only at diplomacy boundary (1216.4816ms)
+✔ campaign will not declare with weak guns, damaged force, empty treasury, or another unfinished war (262.4866ms)
+✔ peacetime target gathers a force through ordinary paid military recruitment without issuing attacks (93.4394ms)
+✔ sea-separated campaign requires charted passage and spare healthy transport before declaring (122.5987ms)
+✔ AI selects an enemy colony on its colonial border and issues a legal land attack after reload (223.8748ms)
+✔ AI crop acquisition does not treat own or neutral foreign colonies as independent tribes (78.4489ms)
+✔ changing colony parent invalidates the old AI land-front assumption (65.6463ms)
+✔ AI sails from home, establishes a beachhead, waits, and conquers through actual battle and saved turns (1520.7458ms)
+✔ AI does not discover hidden coast through invasion planning or seize the human fleet (73.106ms)
+✔ an invasion cargo shortage recruits a paid ship even without trade demand (83.5865ms)
+✔ uncharted invasion route does not disable exploration needed to reach it (74.2483ms)
+✔ zero-cash nation can recruit material-funded infantry and protects missing garrison supplies (136.4126ms)
+✔ military AI recruits through real costs and workers, then construction creates the garrison (148.7501ms)
+✔ AI redeploys surplus to its capital and respects existing orders without teleportation (78.9296ms)
+✔ AI does not recruit through labour, food or construction shortages, or control the human nation (195.4898ms)
+✔ war-front reinforcement keeps two regiments defending the capital (83.0191ms)
+✔ AI attacks one adjacent enemy with a concentrated force while retaining source garrisons (120.4918ms)
+✔ AI cannot attack nations at peace or initiate an unsupported siege (122.3186ms)
+✔ fortified frontier triggers paid artillery recruitment and reserves its materials (75.8545ms)
+✔ AI stages guns even behind an infantry-filled frontier and retains home defenders (57.813ms)
+✔ prepared AI siege resolves through tactical actions rather than immediate ownership change (1286.1109ms)
+ℹ {"target":"e5-1","winner":"france","steps":115,"attackers":6,"fortAfter":0}
+✔ siege readiness rejects short-range guns and an artillery-only assault (112.6942ms)
+✔ recruitment waits for actual casualties rather than replacing committed attackers (131.9117ms)
+✔ wooden fort preparation recruits three mobile guns with real horses and retains infantry (95.0164ms)
+✔ siege garrison relief arrives before a held gun moves and does not recruit a duplicate army (112.8241ms)
+ℹ tests 25
+ℹ suites 0
+ℹ pass 25
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 5214.1582
