@@ -2,6 +2,10 @@
 
 Standalone single-player strategy game for browsers and Android. **This repository is the main source of the game and sprite library**, starting from runtime **254**.
 
+The source repository is public. Designers can clone it and run the full game.
+If you do not have collaborator write access, fork the repository, work on a design
+branch in your fork and open a pull request against this repository's `main`.
+
 **The visual design is unfinished and the owner has rejected the current overall appearance.** This is a playable development build, not a store-ready release. The designer's task is to establish a coherent, professional sprite library and improve the presentation without changing the gameplay.
 
 - [Play the current browser build](https://imperial-ambitions-playtest-paddy.paddygarrettb.chatgpt.site/)

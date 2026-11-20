@@ -13,8 +13,11 @@ Remote: https://github.com/Paddygg323/imperial-ambitions
 - Run checks relevant to the change and inspect artwork in the real game. Keep
   gameplay unchanged for visual-only requests. The owner has not accepted the
   overall visual quality and this is not a store-ready game.
-- Only `npm run build:web` output may be published. Never publish the repository
-  root, designer references, campaign saves, SDKs, keys or private credentials.
+- The owner made the source repository public on 20 November 2026. Public source
+  access does not grant write access; outside contributors can fork and open PRs.
+- Only `npm run build:web` output may be deployed to the playable website. Never
+  serve the repository root or designer references as website files. Keep campaign
+  saves, SDKs, signing keys and private credentials out of Git and deployments.
 - Preserve the public play URL and browser save origin. Android updates are built
   from this checkout, with the existing local signing identity, and installed only
   when requested. Never uninstall the player's app to resolve a signing mismatch.

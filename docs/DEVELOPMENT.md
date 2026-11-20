@@ -30,10 +30,15 @@ publication boundary, then publishes it to `Paddygg323/imperial-ambitions-web`.
 Failed checks leave the previous public build in place. Branches and pull requests
 are checked but do not publish.
 
-The source repository stays private. The separate public repository contains only
-the playable files that browsers need, not the designer library, references, tests,
-SDKs, keys or development notes. Its deployment key has write access only to that
-mirror and is encrypted in the private repository's Actions secrets.
+The owner made the source repository public on 20 November 2026. Anyone can clone
+the full project. Contributors without collaborator write access should fork it,
+push a design branch to their own fork and open a pull request against this `main`.
+Public visibility does not give visitors permission to push to the owner's repo.
+
+The separate deployment repository still contains only the playable files that
+browsers need, not the designer library, references, tests, SDKs, keys or development
+notes. Its deployment key has write access only to that mirror and is encrypted in
+this source repository's Actions secrets. Fork pull requests do not publish.
 
 GitHub Pages serves the mirror. The existing public play URL uses the small
 `deploy/proxy-worker.mjs` adapter so users keep the same URL and saved campaigns.
