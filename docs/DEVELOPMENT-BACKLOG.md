@@ -38,6 +38,13 @@ improvement to something already present, rather than a wholly missing feature.
    review diplomacy first, then apply its parchment, frames, typography, buttons,
    icons and interaction conventions to the other menus. Diplomacy's primary
    action remains choosing a treaty and then its recipient on the map.
+   Version 0.2.59 introduces a diplomacy-only shared theme for review: parchment
+   and enamel materials, treaty seals, a map with a separate nation dossier,
+   responsive phone layout and a wrapping nation directory. Power rankings and
+   the separate favoured-partners tab were removed from diplomacy at Paddy's
+   direction. Partner details remain in the nation dossier. See
+   `MENU-DESIGN.md` and `outputs/visual-review/diplomacy259`. Owner visual review
+   and conversion of the other menus are still outstanding.
 8. [ ] **Images for trade and industry.** Provide consistent illustrations for
    resources, manufactured goods and production processes, alongside readable
    amounts, inputs, outputs and labour requirements.

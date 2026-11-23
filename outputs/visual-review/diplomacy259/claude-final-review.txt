@@ -1,0 +1,10 @@
+Reviewed the updated screenshots (`treaties-desktop.png`, `treaties-europe-desktop.png`, `treaties-412.png`, `information-412.png`, `treaties-map-360.png`) and the relevant source (`diplomacy-map.mjs`, `diplomacy-screen.mjs`, `menu-theme.css`).
+
+**All three prior issues confirmed fixed:**
+1. **Mobile country strip** — now a bounded 2-column vertical grid (`.atlas-key` → `grid-template-columns:repeat(2,...)` under the mobile breakpoint, `max-height:156px` with scroll). `treaties-412.png` and `information-412.png` show full chip labels/icons, nothing clipped.
+2. **Duplicated minor shield** — code confirms the emblem in `.envoy-seal` and the one in `.country-identity h4` are mutually exclusive (one renders only when a portrait is absent, the other only when present). Screenshots show Italy's shield once in the recipient card.
+3. **Desktop default wasted space** — `treaties-desktop.png` shows "Europe" pressed by default, not "World"; the map now opens scoped to the continent rather than a tiny cluster in a full-world view.
+
+**Remaining cosmetic issue (not a blocker):** the Europe view uses a hardcoded static viewBox (`'575 -8 515 540'` in `diplomacy-map.mjs`) rather than one fit to the actual landmass bounds. On desktop (`treaties-desktop.png`) this leaves a visibly uneven margin — roughly a third of the map panel's width on the right side, plus slack above Sweden/below Portugal — is empty cream background. It's better than the old world-view problem but the clip isn't tightly bounded to content, so the panel still doesn't fill efficiently at desktop width. Worth a follow-up pass on the viewBox numbers, but nothing is broken, overlapping, or unreadable.
+
+No other defects spotted — labels render legibly above territory fills in both the political and relations map views, and nation chip grids show no duplicates or truncation at either breakpoint. This is consistent with a presentation-ready state for owner review, not a claim of store readiness.

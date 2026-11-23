@@ -1,0 +1,26 @@
+Diplomacy presentation pass — 23 November 2026 — v0.2.59
+
+PASS: treaty-first recipient flow; offer cancellation; office refund; pact;
+grant reservation, reload and refund; subsidy selection disarms after dispatch;
+favoured partner dossier; keyboard country selection; four section tabs and no
+Power rankings button. Browser widths: 360, 412, 915 and 1448. No page errors or
+missing local resources. Phone and landscape screenshots inspected.
+
+PASS: isolated England 1538 saved-campaign copy opens diplomacy and leaves the
+saved bytes unchanged. The original private backup and live campaign were not
+modified. No private campaign fixture included here.
+
+PASS: 15 diplomacy, diplomatic-aid and office unit tests.
+PASS: 51 runtime sprite mappings and 121 library entries.
+PASS: web export and all five delivery-boundary/proxy tests. The local-server
+test required loopback access outside the network-restricted sandbox.
+PASS: JavaScript syntax and git diff whitespace checks.
+
+Claude independently reviewed the screenshots and source. Three concrete issues
+were corrected: mobile country-list clipping, duplicate minor-nation shield and
+World-first opening. The final review confirms these fixes. It noted remaining
+spare parchment around the desktop Europe map as a non-blocking cosmetic issue.
+
+This evidence covers the diplomacy changes. It does not certify the full game,
+physical Pixel usability, the other menus or store readiness. Owner visual review
+is still outstanding; backlog item 7 remains open.
