@@ -1,6 +1,6 @@
 # Diplomacy menu foundation
 
-23 November 2026 · version 0.2.61 · candidate for Paddy's visual review.
+23 November 2026 · version 0.2.62 · candidate for Paddy's visual review.
 
 Diplomacy is the first menu using the shared materials in `game/menu-theme.css`.
 The other menus have not yet been converted. This is not an overall art approval
@@ -27,12 +27,16 @@ The four sections are Treaties, Trade subsidies, Grants and Information. At
 Paddy's request, diplomacy has no Power rankings button or separate favoured
 partners tab. A minor nation's favoured partner is shown in its own dossier.
 The relation bar shows all six major-power shields against the selected nation's
-actual relationships. Exact ties form a compact group; nearby distinct values
-use separate rows with stems to the scale. Country names and qualitative
+actual relationships. Small 14-by-17px shields remain centred on the exact value,
+with no horizontal grouping or clamping. Collisions use vertical rows only,
+including exact ties; stems share the same scale. Country names and qualitative
 relationships are available as accessible labels/tooltips; raw scores stay hidden.
 
-Trade subsidies use a gold merchant-scales and coin illustration in the tab and
-the page. Grants have a labelled recurring switch: Off sends once, On sends every
+Trade subsidies use individual clickable enamel medallions instead of rectangular
+percentage boxes. Increasing coin stacks distinguish the five subsidy amounts;
+normal trade uses scales and boycott a crossed purse. Percentages remain readable
+below the images, and the selected choice has a bright rim and underlined caption.
+Grants have a labelled recurring switch: Off sends once, On sends every
 turn until cancelled. Entering Grants defaults to Off. Toggling only edits the
 draft; selecting a recipient sends it, with the existing refund/rescind rules.
 
@@ -89,3 +93,9 @@ provenance, hidden overseas nations and read-only state. The menu browser test
 also covers both grant modes, switch keyboard use, default-off behaviour, six
 nonoverlapping shields (tied and varied values), export images and subsidy art.
 Review evidence is in `outputs/visual-review/diplomacy261`.
+
+Version 0.2.62 corrects the owner-rejected horizontal marker clusters and the
+subsidy controls themselves. Browser checks now compare each shield centre to
+its exact relation position, including endpoints, ties and nearby values, and
+exercise the seven illustrated policy choices. Evidence is in
+`outputs/visual-review/diplomacy262`. Gameplay and save data are unchanged.

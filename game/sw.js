@@ -1,4 +1,4 @@
-const CACHE='imperialism-rebuild-3-261';
+const CACHE='imperialism-rebuild-3-262';
 // Province outlines are needed by the map even when the app is offline.
 const MAP_FILES=['map-borders.mjs'];
 const TRADE_FILES=['cartography.mjs','coastline.mjs','news-priority.mjs','native-saleable-amount.mjs','ai-native-exports.mjs','research-art.mjs','unit-attention.mjs','sea-knowledge.mjs','fleet-map-target.mjs','location-label.mjs','diplomacy-map.mjs','map-orders.mjs'];

@@ -1,0 +1,22 @@
+Diplomacy corrections — 23 November 2026 — v0.2.62
+
+Owner corrections:
+- Relation shields were too large and horizontal grouping misrepresented values.
+- Subsidy images must replace the percentage buttons themselves.
+
+Implemented:
+- 14x17px shields, down from 26x30px; exact horizontal score positions.
+- Only vertical spacing for collisions and ties. No horizontal clamping/grouping.
+- Seven individually clickable enamel medallions: normal trade, the five existing
+  subsidy amounts and boycott. Coin stacks increase with the subsidy; percentages
+  remain underneath. Selected state uses a bright rim and underlined caption.
+- Existing policy dispatch, grants, exports and save schema are unchanged.
+
+Verified:
+- Full diplomacy browser regression at 360/412/915/1448px passed, including
+  actual shield-centre/scale geometry, no overlap, tied and mixed relations,
+  illustrated policy selection and actual 25% order, grants/refunds and treaties.
+- 10 relation/export/diplomatic-aid tests passed.
+- Runtime-only web build and git diff --check passed.
+- Screenshots use disposable synthetic campaigns, not the player's save.
+No physical Pixel testing or overall art/store approval is claimed.

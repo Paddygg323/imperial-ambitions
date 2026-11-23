@@ -51,7 +51,10 @@ improvement to something already present, rather than a wholly missing feature.
    Version 0.2.61 adds all major-power shields to the relation scale, clearer
    subsidy artwork, an off/on recurring-grant switch and illustrated major
    exports in Information, following Paddy's review. Evidence:
-   `outputs/visual-review/diplomacy261`. Menu-wide conversion remains open.
+   `outputs/visual-review/diplomacy261`. Version 0.2.62 removes the rejected
+   horizontal flag clustering, reduces marker size and replaces the subsidy
+   percentage boxes with illustrated coin choices. Evidence:
+   `outputs/visual-review/diplomacy262`. Menu-wide conversion remains open.
 8. [ ] **Images for trade and industry.** Provide consistent illustrations for
    resources, manufactured goods and production processes, alongside readable
    amounts, inputs, outputs and labour requirements.
