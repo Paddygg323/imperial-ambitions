@@ -48,6 +48,10 @@ improvement to something already present, rather than a wholly missing feature.
    Version 0.2.60 follows Paddy's correction: one continuous, scrollable world
    map replaces the Europe/New World/World buttons. Dragging is kept separate
    from treaty selection. Evidence: `outputs/visual-review/diplomacy260`.
+   Version 0.2.61 adds all major-power shields to the relation scale, clearer
+   subsidy artwork, an off/on recurring-grant switch and illustrated major
+   exports in Information, following Paddy's review. Evidence:
+   `outputs/visual-review/diplomacy261`. Menu-wide conversion remains open.
 8. [ ] **Images for trade and industry.** Provide consistent illustrations for
    resources, manufactured goods and production processes, alongside readable
    amounts, inputs, outputs and labour requirements.

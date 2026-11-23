@@ -1,6 +1,6 @@
 # Diplomacy menu foundation
 
-23 November 2026 · version 0.2.60 · candidate for Paddy's visual review.
+23 November 2026 · version 0.2.61 · candidate for Paddy's visual review.
 
 Diplomacy is the first menu using the shared materials in `game/menu-theme.css`.
 The other menus have not yet been converted. This is not an overall art approval
@@ -26,7 +26,22 @@ alternative to selecting small countries on the map.
 The four sections are Treaties, Trade subsidies, Grants and Information. At
 Paddy's request, diplomacy has no Power rankings button or separate favoured
 partners tab. A minor nation's favoured partner is shown in its own dossier.
-Relationships use a bar and a qualitative description, not a precise power score.
+The relation bar shows all six major-power shields against the selected nation's
+actual relationships. Exact ties form a compact group; nearby distinct values
+use separate rows with stems to the scale. Country names and qualitative
+relationships are available as accessible labels/tooltips; raw scores stay hidden.
+
+Trade subsidies use a gold merchant-scales and coin illustration in the tab and
+the page. Grants have a labelled recurring switch: Off sends once, On sends every
+turn until cancelled. Entering Grants defaults to Off. Toggling only edits the
+draft; selecting a recipient sends it, with the existing refund/rescind rules.
+
+Information shows up to four major exports with commodity images. Minor nations
+use connected production or remaining current-market supply. Great Powers use
+actual sale offers capped by stock, commitments and cargo; if none are available,
+last turn's completed exports may be shown with that explicit label. Warehouses
+and undeveloped deposits alone are not treated as export supply. Viewing these
+figures never invokes AI planning or consumes random draws.
 
 Paddy requested one continuous world map instead of region tabs. Europe and the
 New World now share a single atlas. Narrow screens scroll horizontally by touch,
@@ -68,3 +83,9 @@ with an alliance armed, wheel/keyboard navigation, position retention, hidden an
 surveyed land, country centring and unchanged save bytes. Screenshots and notes
 are in `outputs/visual-review/diplomacy260`. No physical Pixel check was performed
 for this change.
+
+Version 0.2.61 adds `game/test/diplomacy-info.test.mjs` for relation and export
+provenance, hidden overseas nations and read-only state. The menu browser test
+also covers both grant modes, switch keyboard use, default-off behaviour, six
+nonoverlapping shields (tied and varied values), export images and subsidy art.
+Review evidence is in `outputs/visual-review/diplomacy261`.

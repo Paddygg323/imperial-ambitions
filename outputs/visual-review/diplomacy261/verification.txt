@@ -1,0 +1,24 @@
+Diplomacy refinements — 23 November 2026 — v0.2.61
+
+Requested: all major powers on the relation bar; better trade-subsidy image;
+default-off recurring-grant slider; major exports in each nation's Info.
+
+Implemented without changing simulation rules or save schema:
+- Six heraldic shields positioned from the selected nation's relationships.
+  Ties share a compact group; separate values have stems to the common scale.
+- Gold merchant-scales/coins illustration in the subsidy tab and page.
+- Accessible off/on recurring switch, default Off each time Grants is entered.
+  Clear send-once/send-every-turn captions and keyboard operation.
+- Up to four illustrated exports, from connected minor production/current market
+  supply, or actual Great Power sale offers. Last-turn exports are explicitly
+  labelled when used as a fallback. No offer is inferred from warehouse stock.
+
+Checks: read-only export/relation adapters; hidden overseas nations; stock and
+cargo caps; duplicate trade-report handling; existing diplomatic-aid settlement,
+refund, reload and repeated-grant tests. Browser checks cover both grant modes,
+default-off reset, switch keyboard use, six readable shields, exports and icon
+presence, treaty/refund regression and 360/412/915/1448-pixel layouts.
+
+Screenshots use disposable fixtures, including deliberately varied relationship
+values for layout verification. No player's save or original PC game was changed.
+This does not constitute physical Pixel testing or overall art/store approval.
