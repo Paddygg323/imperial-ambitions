@@ -18,10 +18,10 @@ try{
  const country=id=>page.locator(`svg [data-action=diplomacyCountry][data-args='{"id":"${id}"}']`);
  const clickCountry=async id=>{const g=country(id);await g.scrollIntoViewIfNeeded();const point=await g.evaluate(g=>{const p=g.querySelector('path'),v=p.getAttribute('d').split('Z')[0].match(/-?\d+(?:\.\d+)?/g).map(Number),q=new DOMPoint(v.filter((_,i)=>i%2===0).reduce((a,x)=>a+x,0)/6,v.filter((_,i)=>i%2===1).reduce((a,x)=>a+x,0)/6).matrixTransform(p.getScreenCTM());return {x:q.x,y:q.y};});await page.mouse.click(point.x,point.y);};
  const shot=async name=>{await page.waitForTimeout(150);await page.screenshot({path:`${output}/${name}.png`});};
- await open();const initial=await saved();assert.equal(await page.getByRole('button',{name:'Europe',exact:true}).getAttribute('aria-pressed'),'true');assert.equal(await page.locator('.political-map').count(),1);assert.equal(await page.locator('.relations-ledger').count(),0);
+ await open();const initial=await saved();assert.equal(await page.locator('[data-action=diplomacyRegion]').count(),0);assert.equal(await page.locator('.political-map').getAttribute('viewBox'),'-8 -8 1100 540');assert.equal(await page.locator('.political-map').count(),1);assert.equal(await page.locator('.relations-ledger').count(),0);
  await action('Alliance');assert.equal(await saved(),initial);await clickCountry('france');assert.ok((await state()).allianceOffers.some(o=>o.target==='france'));assert.match(await page.locator('.diplomatic-feedback').innerText(),/Response at turn end/);
  const pending=await saved();await clickCountry('portugal');assert.equal(await saved(),pending,'Sending an offer disarms subsequent country taps');
- await page.setViewportSize({width:360,height:800});await page.getByRole('button',{name:'Europe',exact:true}).click();
+ await page.setViewportSize({width:360,height:800});
  const marker=page.getByRole('button',{name:'Review pending orders for france',exact:true});
  await page.waitForFunction(()=>{const r=document.querySelector('.diplomatic-marker-hit').getBoundingClientRect();return r.width>=43.9&&r.height>=43.9;});
  await marker.locator('.diplomatic-marker-hit').click({position:{x:3,y:3}});assert.equal(await saved(),pending);
@@ -34,15 +34,15 @@ try{
  await clickCountry('italy');assert.equal((await state()).nations.england.cash,27000);assert.equal((await state()).diplomaticGrants[0].repeat,true);const sentGrant=await saved();await clickCountry('france');assert.equal(await saved(),sentGrant,'Grant sends only once per selected overture');await shot('grants-desktop');await page.reload();await page.locator('#startupStatus').waitFor({state:'detached'});await open();await mode('Information');await clickCountry('italy');await page.getByRole('button',{name:'Rescind grant',exact:true}).click();assert.equal((await state()).nations.england.cash,30000);
  await mode('Trade subsidies');await page.getByRole('button',{name:'25% subsidy',exact:true}).click();await clickCountry('italy');assert.equal((await state()).nations.england.tradePolicies.italy,75);const sentPolicy=await saved();await clickCountry('france');assert.equal(await saved(),sentPolicy,'Subsidy selection disarms after the recipient is set');
  await mode('Information');await clickCountry('italy');assert.match(await page.locator('.favoured-partner').innerText(),/Favoured trade partner:/i);await shot('partners-desktop');
- await mode('Treaties');await action('Embassy');await shot('treaties-desktop');await page.getByRole('button',{name:'Europe',exact:true}).click();await shot('treaties-europe-desktop');
+ await mode('Treaties');await action('Embassy');await shot('treaties-desktop');await shot('treaties-world-desktop');
  assert.equal(await page.getByRole('button',{name:'Power rankings',exact:true}).count(),0);assert.equal(await page.locator('.diplomacy-tools button').count(),4);await page.locator('#closePanel').click();
  for(const width of [412,360,915]){
-  await page.setViewportSize({width,height:width===915?412:915});await open();await page.getByRole('button',{name:'Europe',exact:true}).click();await action('Trade consulate');await shot('treaties-map-'+width);await panel().evaluate(e=>e.scrollTop=0);const before=await saved();await shot('treaties-'+width);
+  await page.setViewportSize({width,height:width===915?412:915});await open();await action('Trade consulate');await shot('treaties-map-'+width);await panel().evaluate(e=>e.scrollTop=0);const before=await saved();await shot('treaties-'+width);
   assert.ok(await panel().evaluate(e=>e.scrollWidth<=e.clientWidth+2));if(width<=412){assert.equal(await page.locator('.overture-picker').getAttribute('open'),null);assert.ok(await page.locator('.political-map').evaluate(e=>{const r=e.getBoundingClientRect();return r.top<innerHeight-200;}),'selected treaty leaves at least 200px of map visible');}assert.ok(await page.locator('.atlas-key').evaluate(e=>e.scrollWidth<=e.clientWidth+1));assert.ok(await page.locator('#panelBody').evaluate(e=>e.scrollWidth<=e.clientWidth+2));
   assert.ok(await page.locator('.diplomacy-tools button span').evaluateAll(spans=>spans.every(s=>{const r=s.getBoundingClientRect(),b=s.closest('button').getBoundingClientRect();return r.left>=b.left&&r.right<=b.right&&r.bottom<=b.bottom;})),'all four mode labels fit');
   for(const label of ['Grants','Information']){await mode(label);if(label!=='Grants'){await country('italy').focus();await page.keyboard.press('Enter');}await panel().evaluate(e=>e.scrollTop=0);assert.equal(await saved(),before);await shot(label.toLowerCase().replaceAll(' ','-')+'-'+width);}
   await page.locator('#closePanel').click();
  }
  assert.deepEqual(errors,[]);assert.deepEqual(missing,[]);
- console.log('PASS: treaty-first map offers/cancel, office refund, pact, grants/reload/refund, subsidy, favoured partners, four original-purpose modes, no ranking button, keyboard, 360/412/915/1448 layouts');
+ console.log('PASS: continuous world map, no region buttons, treaty-first map offers/cancel, office refund, pact, grants/reload/refund, subsidy, favoured partners, four original-purpose modes, no ranking button, keyboard, 360/412/915/1448 layouts');
 }finally{await browser.close();}

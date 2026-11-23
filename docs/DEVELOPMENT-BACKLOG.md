@@ -45,6 +45,9 @@ improvement to something already present, rather than a wholly missing feature.
    direction. Partner details remain in the nation dossier. See
    `MENU-DESIGN.md` and `outputs/visual-review/diplomacy259`. Owner visual review
    and conversion of the other menus are still outstanding.
+   Version 0.2.60 follows Paddy's correction: one continuous, scrollable world
+   map replaces the Europe/New World/World buttons. Dragging is kept separate
+   from treaty selection. Evidence: `outputs/visual-review/diplomacy260`.
 8. [ ] **Images for trade and industry.** Provide consistent illustrations for
    resources, manufactured goods and production processes, alongside readable
    amounts, inputs, outputs and labour requirements.

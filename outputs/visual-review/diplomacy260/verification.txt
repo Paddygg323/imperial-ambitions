@@ -1,0 +1,23 @@
+Continuous diplomacy atlas — 23 November 2026 — v0.2.60
+
+Owner direction: one large map to scroll across, with no separate Europe and
+New World maps or navigation buttons. Political/relations remain display modes
+of the same map. Map geography, discovery, diplomacy rules and saves unchanged.
+
+PASS diplomacy-pan-browser.mjs:
+- One world SVG and no region buttons.
+- Uncharted nations stay hidden; both continents coexist in a surveyed fixture.
+- Mouse drag beginning over France with Alliance armed issues no order.
+- Native Chromium touch swipe scrolls the map without changing save bytes.
+- Mouse wheel and keyboard Home/End scroll; presentation changes retain position.
+- Selecting a country from the directory centres it in the map viewport.
+- Disposable campaign save bytes stay unchanged while browsing.
+- Desktop and phone screenshots inspected; no page errors.
+
+PASS diplomacy-menu-browser.mjs: offers/cancellation, office refunds, pacts,
+grants/reload/refunds, subsidies, favoured partner details, keyboard input and
+360/412/915/1448 pixel layouts. Four main modes; no Power rankings button.
+
+This is browser/touch-emulation evidence, not a physical Pixel test or an overall
+visual/store approval. The screenshot with all territories revealed is a
+disposable test fixture, not a player's campaign or changed discovery behaviour.

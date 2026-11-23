@@ -1,6 +1,6 @@
 # Diplomacy menu foundation
 
-23 November 2026 · version 0.2.59 · candidate for Paddy's visual review.
+23 November 2026 · version 0.2.60 · candidate for Paddy's visual review.
 
 Diplomacy is the first menu using the shared materials in `game/menu-theme.css`.
 The other menus have not yet been converted. This is not an overall art approval
@@ -28,9 +28,16 @@ Paddy's request, diplomacy has no Power rankings button or separate favoured
 partners tab. A minor nation's favoured partner is shown in its own dossier.
 Relationships use a bar and a qualitative description, not a precise power score.
 
-Europe opens first; World and New World remain available. Region clipping keeps
-off-map labels and territory outside the selected atlas view. Country names draw
-above territory fills. Political and relationship views share the same controls.
+Paddy requested one continuous world map instead of region tabs. Europe and the
+New World now share a single atlas. Narrow screens scroll horizontally by touch,
+mouse drag, wheel or keyboard; wider screens can show both continents together.
+There are no Europe/New World/World navigation buttons. Political and relationship
+views share the same map and retain its scroll position. Selecting a nation in
+the directory brings it into view. Unexplored territory stays hidden.
+
+Dragging must never dispatch a treaty. The viewport handles scrolling separately
+from country taps and campaign data. Country names draw above territory fills;
+the atlas is bounded and does not wrap.
 
 On desktop the selected nation's dossier sits beside the atlas. On a narrow
 phone it follows the treaty map, and precedes the map in Information mode. The
@@ -54,3 +61,10 @@ Screenshots and release-check notes are in `outputs/visual-review/diplomacy259`.
 Claude's first review identified the country strip, duplicate minor shield and
 World-first view; each was corrected before publication. Broader menu conversion
 should follow Paddy's review of this screen.
+
+The subsequent owner-directed continuous-map change is covered by
+`game/test/diplomacy-pan-browser.mjs`: native browser touch swipes, mouse dragging
+with an alliance armed, wheel/keyboard navigation, position retention, hidden and
+surveyed land, country centring and unchanged save bytes. Screenshots and notes
+are in `outputs/visual-review/diplomacy260`. No physical Pixel check was performed
+for this change.
