@@ -3,8 +3,10 @@
 ## The actual brief
 
 Read [the current development backlog](DEVELOPMENT-BACKLOG.md) alongside this
-handover. It records the owner's ten priorities, ten additional suggestions for
-review, and the selected province-border style.
+handover. It records the owner's ten priorities, his decisions on the ten
+additional suggestions, and the selected province-border style. The builder's
+resource finder belongs in the contextual panel; extra economic overlays and
+forecasts were rejected in favour of a simpler end-turn screen.
 
 The owner wants a professional graphical overhaul, especially a coherent sprite library. The current game still looks poor to them. Do not polish individual sprites in isolation and assume the map is solved: judge complete landscapes at actual playing scale.
 

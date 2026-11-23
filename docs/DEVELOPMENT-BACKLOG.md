@@ -1,9 +1,12 @@
 # Imperial Ambitions development backlog
 
 Updated 23 November 2026. This is the shared work list for Paddy, Codex and the
-designer. Items 1–10 are Paddy's requested work; items 11–20 are additional
-suggestions for review. Keep the numbering stable so feedback can reference an
-item. Record implementation and verification evidence before marking work done.
+designer. Items 1–10 are Paddy's original requests. Items 11–20 now record his
+review of the additional suggestions: 11 and 14 have specific replacement briefs,
+12 and the original 13 are rejected, 13 now records the requested end-turn
+simplification, and 15–20 are approved. Keep the numbering stable. Approval is
+not completion; record implementation and verification evidence before marking
+work done.
 
 The existing game, saves and original gameplay relationships remain the starting
 point. Audit existing functionality before replacing it. A task below may be an
@@ -50,20 +53,31 @@ improvement to something already present, rather than a wholly missing feature.
     completed. Explain one thing at a time and omit filler text. Skip must be
     available throughout; allow the tutorial to be restarted from Help.
 
-## Additional suggestions for review
+## Reviewed additions and corrections
 
-11. [ ] **End-turn review.** One compact, actionable summary of idle research,
-    units awaiting orders, food shortages and production problems. Tap a warning
-    to reach the relevant screen; deliberately sleeping units should not nag.
-12. [ ] **Supply-network overlay.** Show which resources reach the home economy,
-    their road/port routes, actual deliveries and the point where a route is
-    disconnected or capacity is exhausted.
-13. [ ] **Next-turn economy forecast.** Show expected food, workforce support,
-    labour use, manufacturing and stock changes after current orders. Clearly
-    distinguish confirmed domestic output from uncertain trade purchases.
-14. [ ] **Resource and development overlay.** Make known deposits, undeveloped
-    resources, current development levels and eligible improvements easy to find
-    across a whole nation. Never reveal undiscovered resources.
+11. [ ] **Audit the existing warnings against the original rules.** Some
+    warnings already work; inspect them before changing them. The researchers
+    are idle warning belongs at the start of a turn after research was idle for
+    the previous turn. It is not a new pre-emptive end-turn warning. The food
+    warning appears only when the player can ship more food in AND will hit zero
+    food if they do not. Test both conditions independently and together. Do not
+    introduce the proposed generic end-turn review or expand the economic report.
+12. **Rejected: supply-network overlay.** Do not add the proposed economic
+    overlay as part of this work. Paddy wants less economic reporting, not more.
+13. [ ] **Simplify the existing end-turn screen.** The proposed next-turn
+    economy forecast is rejected. Remove the excessive economy breakdown already
+    on the end-turn screen instead of adding forecasts or further summaries.
+    Preserve necessary trading decisions, turn resolution and the specific
+    warnings in item 11. Keep detailed economy information in its relevant menu.
+14. [ ] **Builder resource finder in the bottom-right panel.** When a builder
+    is selected, fill the available bottom-right space with images of resource
+    types they can improve. Beside each image, show the number of eligible tiles
+    of that type in the player's kingdom. Clicking an image centres on an
+    improvable tile of that type; repeated clicks cycle through the other
+    eligible tiles. Keep the builder selected and do not issue an order merely
+    by browsing. Counts must reflect current improvement eligibility and update
+    as it changes. Never expose undiscovered resources. This replaces the
+    proposed general resource/development overlay.
 15. [ ] **Unified order feedback on the map.** Give civilians, armies and fleets
     consistent selection highlights, legal destination previews, planned routes
     and completion estimates. Make selecting and rescinding a pending order
@@ -93,12 +107,18 @@ theme into orders, contextual controls, trade and industry (2, 3, 8). Develop
 combat art and civilian animation in parallel with those interface improvements
 where the designer's work is independent (1, 4).
 
-Review the additional suggestions before scheduling them. Build the tutorial
-against the settled interfaces so its guidance does not immediately become
-outdated; test it with someone new to the game.
+Items 11–20 have been reviewed: use the corrected scope above and do not revive
+the rejected reports. Implement the builder finder (14) alongside the contextual
+side panel (3), and warning corrections/end-turn simplification (11, 13) together.
+Build the tutorial against the settled interfaces so its guidance does not
+immediately become outdated; test it with someone new to the game.
 
 ## Accepted design decisions
 
+- **Information belongs where the player acts.** Prefer contextual controls and
+  useful visual information over extra end-turn economy reporting. On 23 November
+  Paddy rejected the supply overlay and forecast, specified the warning rules
+  and builder finder above, and approved suggestions 15–20.
 - **Province borders:** Paddy selected **option 5, Colour band**, on 23 November
   2026. Use the controlling nation's colour for a crisp line with a dark keyline
   and a broader translucent band. National frontiers keep each country's colour

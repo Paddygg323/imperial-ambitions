@@ -26,5 +26,7 @@ Remote: https://github.com/Paddygg323/imperial-ambitions
 
 See README.md, docs/DESIGNER-HANDOVER.md and docs/DEVELOPMENT.md.
 Keep docs/DEVELOPMENT-BACKLOG.md current: items 1–10 are owner requests and
-items 11–20 are suggestions for review. Recording an item is not completing it;
-retain stable item numbers and attach implementation/verification evidence.
+items 11–20 record the owner's review, corrections and rejections. Respect those
+decisions; do not revive rejected economic overlays/forecasts. Recording or
+approving an item is not completing it; retain stable item numbers and attach
+implementation/verification evidence.
