@@ -1,0 +1,21 @@
+23 November 2026 — sparse forest 009 tree proportions
+
+Both the lower-left and middle plants now have visible trunks and branching
+under their canopies. Reviewed enlarged, at normal map scale, in the actual
+map renderer and in the 412px phone layout. The two small trees remain smaller
+than the four mature trees; the open forest arrangement is retained.
+
+Built-in image_gen performed two targeted edits. The final transparent PNG
+is used by both the sprite library and game. The previous version is preserved.
+No gameplay, map geometry, terrain or hardwood-forest changes.
+
+Validation:
+- 7 reviewed-sprite unit tests passed.
+- 51 runtime mappings and 121 library entries resolve.
+- 196 existing tile-edge checks passed at scales 26, 35, 78 and 110.
+- Actual desktop local/nation/world and phone views passed with no browser
+  errors, no horizontal phone overflow and unchanged fixture campaign state.
+- Inspected forest-close.png and phone-local.png for complete tree shapes.
+
+The automated edge checks verify rendering containment, not artistic quality.
+This correction does not constitute approval of the overall art direction.

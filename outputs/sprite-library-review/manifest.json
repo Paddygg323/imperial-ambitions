@@ -1215,7 +1215,7 @@
       "name": "Scrub Forest",
       "category": "Terrain & resource tiles",
       "sheet": 1,
-      "image": "revisions/2026-11-23-complete-forests/257-scrub.png",
+      "image": "revisions/2026-11-23-scrub-proportions/258-scrub.png",
       "sheetWidth": 1312,
       "sheetHeight": 1199,
       "cell": [
@@ -1232,8 +1232,8 @@
       ],
       "variant": false,
       "relatedId": null,
-      "status": "Clipping repair — in-game verification",
-      "revision": 1
+      "status": "Lower-left and middle tree proportions corrected",
+      "revision": 2
     },
     {
       "id": "010",

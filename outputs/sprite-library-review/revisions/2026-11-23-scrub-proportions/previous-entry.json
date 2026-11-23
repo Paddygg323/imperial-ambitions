@@ -1,0 +1,26 @@
+{
+  "id": "009",
+  "number": 9,
+  "name": "Scrub Forest",
+  "category": "Terrain & resource tiles",
+  "sheet": 1,
+  "image": "revisions/2026-11-23-complete-forests/257-scrub.png",
+  "sheetWidth": 1312,
+  "sheetHeight": 1199,
+  "cell": [
+    0,
+    0,
+    1312,
+    1199
+  ],
+  "preview": [
+    0,
+    0,
+    1312,
+    1199
+  ],
+  "variant": false,
+  "relatedId": null,
+  "status": "Clipping repair — in-game verification",
+  "revision": 1
+}

@@ -236,7 +236,7 @@
     ]
   },
   "009": {
-    "file": "assets/reviewed/257-scrub.png",
+    "file": "assets/reviewed/258-scrub.png",
     "rect": [
       0,
       0,
@@ -244,9 +244,9 @@
       1199
     ],
     "kind": "feature",
-    "runtimePath": "game/assets/reviewed/257-scrub.png",
+    "runtimePath": "game/assets/reviewed/258-scrub.png",
     "librarySources": [
-      "outputs/sprite-library-review/revisions/2026-11-23-complete-forests/257-scrub.png"
+      "outputs/sprite-library-review/revisions/2026-11-23-scrub-proportions/258-scrub.png"
     ]
   },
   "011": {
