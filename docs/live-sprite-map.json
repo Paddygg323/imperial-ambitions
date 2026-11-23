@@ -222,29 +222,31 @@
     ]
   },
   "008": {
-    "file": "assets/reviewed/c22de5988b.png",
+    "file": "assets/reviewed/257-hardwood.png",
     "rect": [
-      795,
-      446,
-      393,
-      345
+      0,
+      0,
+      1312,
+      1199
     ],
-    "runtimePath": "game/assets/reviewed/c22de5988b.png",
+    "kind": "feature",
+    "runtimePath": "game/assets/reviewed/257-hardwood.png",
     "librarySources": [
-      "outputs/sprite-library-review/originals/01-terrain.png"
+      "outputs/sprite-library-review/revisions/2026-11-23-complete-forests/257-hardwood.png"
     ]
   },
   "009": {
-    "file": "assets/reviewed/c22de5988b.png",
+    "file": "assets/reviewed/257-scrub.png",
     "rect": [
-      1192,
-      446,
-      392,
-      345
+      0,
+      0,
+      1312,
+      1199
     ],
-    "runtimePath": "game/assets/reviewed/c22de5988b.png",
+    "kind": "feature",
+    "runtimePath": "game/assets/reviewed/257-scrub.png",
     "librarySources": [
-      "outputs/sprite-library-review/originals/01-terrain.png"
+      "outputs/sprite-library-review/revisions/2026-11-23-complete-forests/257-scrub.png"
     ]
   },
   "011": {
@@ -255,6 +257,9 @@
       479,
       315
     ],
+    "blend": "contained",
+    "inset": 0.9,
+    "perimeter": 0.935,
     "runtimePath": "game/assets/reviewed/c5be6f5221.png",
     "librarySources": [
       "outputs/sprite-library-review/originals/02-resource-tiles.png"
@@ -268,6 +273,9 @@
       478,
       315
     ],
+    "blend": "contained",
+    "inset": 0.9,
+    "perimeter": 0.935,
     "runtimePath": "game/assets/reviewed/c5be6f5221.png",
     "librarySources": [
       "outputs/sprite-library-review/originals/02-resource-tiles.png"
@@ -281,6 +289,9 @@
       479,
       315
     ],
+    "blend": "contained",
+    "inset": 0.9,
+    "perimeter": 0.935,
     "runtimePath": "game/assets/reviewed/c5be6f5221.png",
     "librarySources": [
       "outputs/sprite-library-review/originals/02-resource-tiles.png"
@@ -294,6 +305,9 @@
       479,
       315
     ],
+    "blend": "contained",
+    "inset": 0.9,
+    "perimeter": 0.935,
     "runtimePath": "game/assets/reviewed/c5be6f5221.png",
     "librarySources": [
       "outputs/sprite-library-review/originals/02-resource-tiles.png"
@@ -307,6 +321,8 @@
       405,
       455
     ],
+    "blend": "contained",
+    "inset": 0.9,
     "runtimePath": "game/assets/reviewed/c660a1c389.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/015-low-bushes-r4/comparison.png"
@@ -320,6 +336,9 @@
       479,
       315
     ],
+    "blend": "contained",
+    "inset": 0.9,
+    "perimeter": 0.935,
     "runtimePath": "game/assets/reviewed/c5be6f5221.png",
     "librarySources": [
       "outputs/sprite-library-review/originals/02-resource-tiles.png"
@@ -333,6 +352,9 @@
       479,
       315
     ],
+    "blend": "contained",
+    "inset": 0.9,
+    "perimeter": 0.935,
     "runtimePath": "game/assets/reviewed/c5be6f5221.png",
     "librarySources": [
       "outputs/sprite-library-review/originals/02-resource-tiles.png"
@@ -372,6 +394,8 @@
       700,
       780
     ],
+    "blend": "contained",
+    "inset": 0.9,
     "runtimePath": "game/assets/reviewed/42b5377de1.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/010-structure-options/option-1.png"
@@ -385,6 +409,8 @@
       535,
       595
     ],
+    "blend": "contained",
+    "inset": 0.9,
     "runtimePath": "game/assets/reviewed/4d894218df.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/010-grass-r5/levels-1-4.png"
@@ -398,6 +424,8 @@
       535,
       595
     ],
+    "blend": "contained",
+    "inset": 0.9,
     "runtimePath": "game/assets/reviewed/4d894218df.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/010-grass-r5/levels-1-4.png"
@@ -411,6 +439,8 @@
       535,
       595
     ],
+    "blend": "contained",
+    "inset": 0.9,
     "runtimePath": "game/assets/reviewed/4d894218df.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/010-grass-r5/levels-1-4.png"
@@ -424,6 +454,8 @@
       535,
       595
     ],
+    "blend": "contained",
+    "inset": 0.9,
     "runtimePath": "game/assets/reviewed/4d894218df.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/010-grass-r5/levels-1-4.png"
@@ -438,6 +470,8 @@
       627
     ],
     "feather": 0.3,
+    "blend": "contained",
+    "inset": 0.9,
     "runtimePath": "game/assets/reviewed/80d4c3151d.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/019-mine-levels-r3/levels-1-4.png"
@@ -452,6 +486,8 @@
       627
     ],
     "feather": 0.3,
+    "blend": "contained",
+    "inset": 0.9,
     "runtimePath": "game/assets/reviewed/80d4c3151d.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/019-mine-levels-r3/levels-1-4.png"
@@ -466,6 +502,8 @@
       627
     ],
     "feather": 0.3,
+    "blend": "contained",
+    "inset": 0.9,
     "runtimePath": "game/assets/reviewed/80d4c3151d.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/019-mine-levels-r3/levels-1-4.png"
@@ -480,6 +518,8 @@
       627
     ],
     "feather": 0.3,
+    "blend": "contained",
+    "inset": 0.9,
     "runtimePath": "game/assets/reviewed/80d4c3151d.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/019-mine-levels-r3/levels-1-4.png"
@@ -493,6 +533,9 @@
       535,
       520
     ],
+    "blend": "contained",
+    "inset": 0.9,
+    "perimeter": 0.935,
     "runtimePath": "game/assets/reviewed/7b3eaf9469.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/014-cotton-progression/levels-1-4-proposal.png"
@@ -506,6 +549,9 @@
       535,
       520
     ],
+    "blend": "contained",
+    "inset": 0.9,
+    "perimeter": 0.935,
     "runtimePath": "game/assets/reviewed/7b3eaf9469.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/014-cotton-progression/levels-1-4-proposal.png"
@@ -519,6 +565,9 @@
       535,
       520
     ],
+    "blend": "contained",
+    "inset": 0.9,
+    "perimeter": 0.935,
     "runtimePath": "game/assets/reviewed/7b3eaf9469.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/014-cotton-progression/levels-1-4-proposal.png"
@@ -532,6 +581,9 @@
       535,
       520
     ],
+    "blend": "contained",
+    "inset": 0.9,
+    "perimeter": 0.935,
     "runtimePath": "game/assets/reviewed/7b3eaf9469.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/014-cotton-progression/levels-1-4-proposal.png"
@@ -545,6 +597,8 @@
       405,
       455
     ],
+    "blend": "contained",
+    "inset": 0.9,
     "runtimePath": "game/assets/reviewed/a9c66c0375.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/015-development-r1/levels-1-4.png"
@@ -558,6 +612,8 @@
       405,
       455
     ],
+    "blend": "contained",
+    "inset": 0.9,
     "runtimePath": "game/assets/reviewed/a9c66c0375.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/015-development-r1/levels-1-4.png"
@@ -571,6 +627,8 @@
       405,
       455
     ],
+    "blend": "contained",
+    "inset": 0.9,
     "runtimePath": "game/assets/reviewed/a9c66c0375.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/015-development-r1/levels-1-4.png"
@@ -584,6 +642,8 @@
       405,
       455
     ],
+    "blend": "contained",
+    "inset": 0.9,
     "runtimePath": "game/assets/reviewed/a9c66c0375.png",
     "librarySources": [
       "outputs/sprite-library-review/revisions/015-development-r1/levels-1-4.png"

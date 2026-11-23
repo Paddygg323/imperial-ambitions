@@ -1189,25 +1189,25 @@
       "name": "Hardwood Forest",
       "category": "Terrain & resource tiles",
       "sheet": 1,
-      "image": "originals/01-terrain.png",
-      "sheetWidth": 1983,
-      "sheetHeight": 793,
+      "image": "revisions/2026-11-23-complete-forests/257-hardwood.png",
+      "sheetWidth": 1312,
+      "sheetHeight": 1199,
       "cell": [
-        793,
-        396,
-        397,
-        397
+        0,
+        0,
+        1312,
+        1199
       ],
       "preview": [
-        795,
-        446,
-        393,
-        345
+        0,
+        0,
+        1312,
+        1199
       ],
       "variant": false,
       "relatedId": null,
-      "status": "Awaiting review",
-      "revision": 0
+      "status": "Clipping repair — in-game verification",
+      "revision": 1
     },
     {
       "id": "009",
@@ -1215,25 +1215,25 @@
       "name": "Scrub Forest",
       "category": "Terrain & resource tiles",
       "sheet": 1,
-      "image": "originals/01-terrain.png",
-      "sheetWidth": 1983,
-      "sheetHeight": 793,
+      "image": "revisions/2026-11-23-complete-forests/257-scrub.png",
+      "sheetWidth": 1312,
+      "sheetHeight": 1199,
       "cell": [
-        1190,
-        396,
-        396,
-        397
+        0,
+        0,
+        1312,
+        1199
       ],
       "preview": [
-        1192,
-        446,
-        392,
-        345
+        0,
+        0,
+        1312,
+        1199
       ],
       "variant": false,
       "relatedId": null,
-      "status": "Awaiting review",
-      "revision": 0
+      "status": "Clipping repair — in-game verification",
+      "revision": 1
     },
     {
       "id": "010",

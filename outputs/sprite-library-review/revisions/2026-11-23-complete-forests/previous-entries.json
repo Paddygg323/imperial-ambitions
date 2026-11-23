@@ -1,0 +1,54 @@
+[
+  {
+    "id": "008",
+    "number": 8,
+    "name": "Hardwood Forest",
+    "category": "Terrain & resource tiles",
+    "sheet": 1,
+    "image": "originals/01-terrain.png",
+    "sheetWidth": 1983,
+    "sheetHeight": 793,
+    "cell": [
+      793,
+      396,
+      397,
+      397
+    ],
+    "preview": [
+      795,
+      446,
+      393,
+      345
+    ],
+    "variant": false,
+    "relatedId": null,
+    "status": "Awaiting review",
+    "revision": 0
+  },
+  {
+    "id": "009",
+    "number": 9,
+    "name": "Scrub Forest",
+    "category": "Terrain & resource tiles",
+    "sheet": 1,
+    "image": "originals/01-terrain.png",
+    "sheetWidth": 1983,
+    "sheetHeight": 793,
+    "cell": [
+      1190,
+      396,
+      396,
+      397
+    ],
+    "preview": [
+      1192,
+      446,
+      392,
+      345
+    ],
+    "variant": false,
+    "relatedId": null,
+    "status": "Awaiting review",
+    "revision": 0
+  }
+]

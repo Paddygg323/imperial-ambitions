@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {reviewedSpriteKey,reviewedDepositKey,landBlendAlpha,DEPOSIT_SCALE,DEPOSIT_WIDTH,DEPOSIT_HEIGHT} from '../reviewed-sprites.mjs';
+import {reviewedSpriteKey,reviewedDepositKey,landBlendAlpha,containedSpriteAlpha,featureFrame,DEPOSIT_SCALE,DEPOSIT_WIDTH,DEPOSIT_HEIGHT} from '../reviewed-sprites.mjs';
 test('tin is hidden until prospecting and each development level selects its approved art',()=>{
  const t={terrain:9,resource:'tin',x:4,y:4,level:0};assert.equal(reviewedSpriteKey(t,null),'005');assert.equal(reviewedSpriteKey(t,'tin'),'005');
  assert.equal(reviewedDepositKey(t,null),null);assert.equal(reviewedDepositKey(t,'tin'),'ore-tin');
@@ -42,4 +42,26 @@ test('every land edge exposes shared grass while the terrain centre remains opaq
   }
  }
  assert.equal(landBlendAlpha(0,0),1);
+});
+
+test('transparent subjects fit every hex edge without losing their silhouettes',()=>{
+ const width=71,height=83,pixels=new Uint8ClampedArray(width*height*4);
+ const points=[[3,4],[66,17],[12,72],[64,76],[50,9],[22,40]];
+ for(const [x,y] of points)pixels[(y*width+x)*4+3]=255;
+ const before=pixels.slice(),frame=featureFrame(pixels,width,height);
+ for(const scale of [20,35,78,110])for(const [x,y] of points){
+  const size=scale*.88/frame.extent,dx=Math.abs((x+.5-frame.x)*size)+size/2,dy=Math.abs((y+.5-frame.y)*size)+size/2;
+  assert.ok(dx<scale/2,'complete pixel inside vertical sides');
+  assert.ok(dx+Math.sqrt(3)*dy<scale,'complete pixel inside diagonal sides');
+ }
+ assert.deepEqual(pixels,before,'measuring must never erase source pixels');
+ const empty=featureFrame(new Uint8ClampedArray(16),2,2);assert.ok(empty.extent>0);
+});
+
+test('resource masking preserves opaque subjects near the rim and removes sheet framing',()=>{
+ // These positions were partially erased by the former .045-wide fade.
+ for(const [u,v] of [[.93,0],[0,.93],[.5,.68]])assert.equal(containedSpriteAlpha(u,v),1);
+ assert.equal(containedSpriteAlpha(1,0),0);
+ assert.equal(containedSpriteAlpha(.94,0,.935),0,'gold presentation frame is excluded');
+ assert.equal(containedSpriteAlpha(.92,0,.935),1,'nearby plants and animals are retained');
 });

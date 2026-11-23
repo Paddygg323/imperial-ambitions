@@ -23,12 +23,19 @@ Paths in the table without `game/` are relative to that folder.
 
 The source library contains full images and contact sheets, including presentation borders. `reviewed-sprite-data.mjs` selects source regions. `prepareReviewedSprite` isolates their terrain content and feathers land edges into the continuous `grass-surface` texture. It is a runtime presentation transformation; original PNGs are preserved.
 
-Dense illustrations (hardwood/scrub forest, horses and all five grain levels) use
-`blend: 'contained'` and `inset: 0.9`. Their narrow perimeter mask preserves trees,
-animals and fields that the broad terrain feather previously erased. The inset
-keeps the artwork inside the map cell with shared grass around it. Keep these
-settings together; restoring a broad terrain feather cuts the silhouettes again.
-The source-library images and their crops remain unchanged.
+Hardwood and scrub forest now use transparent `kind: 'feature'` PNGs. Their alpha
+bounds are measured once at load time and the complete silhouette is fitted
+inside a hex with breathing room. Features are drawn after ground and roads;
+neither a tile mask nor coastline clipping may trim their canopies or trunks.
+Coastal towns and development structures are also drawn outside the ground clip.
+
+Dense resource illustrations (livestock, fields, plantations and tin workings)
+use `blend: 'contained'` and `inset: 0.9`. A very narrow perimeter mask removes
+the source sheet's presentation rim, retaining full-opacity subjects close to
+it. Gold-framed sheets have an explicit `perimeter` setting. Do not replace this
+with the broad ground feather: it erases animals and crops before the map even
+draws them. Ground-only tiles retain their continuous grass blending. Original
+source sheets are preserved; forest revisions and prompts are in the library.
 
 Province borders use the owner-approved colour-band design: a line in the
 controlling nation's colour over a dark keyline, surrounded by a translucent band
