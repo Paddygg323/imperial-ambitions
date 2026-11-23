@@ -30,8 +30,10 @@ keeps the artwork inside the map cell with shared grass around it. Keep these
 settings together; restoring a broad terrain feather cuts the silhouettes again.
 The source-library images and their crops remain unchanged.
 
-Province borders have a pale line over a dark keyline at local and strategic zoom.
-National frontiers remain wider, with each country's colour on its own side.
+Province borders use the owner-approved colour-band design: a line in the
+controlling nation's colour over a dark keyline, surrounded by a translucent band
+of the same colour. The band narrows at strategic zoom. National frontiers retain
+each country's colour on its own side.
 Only boundaries between two visible land tiles are rendered; neither hidden
 provinces nor the ordinary tile lattice should become political boundaries.
 

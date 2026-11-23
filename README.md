@@ -14,6 +14,7 @@ branch in your fork and open a pull request against this repository's `main`.
 - [Latest terrain comparison](outputs/visual-review/sprites254/terrain-sheep.png)
 - [Current live sprite-to-source mapping](docs/live-sprite-map.json)
 - [Known limits and verification](docs/STATUS.md)
+- [Development backlog and priorities](docs/DEVELOPMENT-BACKLOG.md)
 - [Main-source workflow and automatic publishing](docs/DEVELOPMENT.md)
 
 ## Run locally

@@ -2,6 +2,10 @@
 
 ## The actual brief
 
+Read [the current development backlog](DEVELOPMENT-BACKLOG.md) alongside this
+handover. It records the owner's ten priorities, ten additional suggestions for
+review, and the selected province-border style.
+
 The owner wants a professional graphical overhaul, especially a coherent sprite library. The current game still looks poor to them. Do not polish individual sprites in isolation and assume the map is solved: judge complete landscapes at actual playing scale.
 
 The primary direction is [this navy-and-gold strategy-game mock-up](design-references/main-style.png): rich but legible period UI, readable painted pixel-art terrain and resources, ornate frames, a minimap and contextual unit panel. [This diplomacy reference](design-references/diplomacy-direction.png) illustrates the parchment treatment. Original-game screenshots in this folder are references for composition and clarity, not assets to copy into production.

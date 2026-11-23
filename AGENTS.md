@@ -25,3 +25,6 @@ Remote: https://github.com/Paddygg323/imperial-ambitions
   migration scripts are not a normal build process.
 
 See README.md, docs/DESIGNER-HANDOVER.md and docs/DEVELOPMENT.md.
+Keep docs/DEVELOPMENT-BACKLOG.md current: items 1–10 are owner requests and
+items 11–20 are suggestions for review. Recording an item is not completing it;
+retain stable item numbers and attach implementation/verification evidence.
