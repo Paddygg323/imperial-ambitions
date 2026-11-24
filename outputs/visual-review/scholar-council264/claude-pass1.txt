@@ -1,0 +1,36 @@
+## Research — strongest of the three
+
+**desktop.png** — The two-page folio reads well: left "Research journal" page (goal, active project, funding stepper, quill-and-scroll illustration, expenditure footer) against the right "Technology register" page (icon category tabs, Available/Discovered/All, search, scrollable list). The tan highlight band around the top two rows correctly visualizes "Goal prerequisites first" — a nice bit of information design that didn't exist before. Icon set (mine, cattle, log stack, ship, sheaf) is consistently line-weighted and sits well on the parchment. This is a real step up from the 7/10 pass and closer to the ledger-book feel of the original Imperialism II tech screen.
+
+Concrete defect: on the **Superior Hull Design** row there's an unlabeled small blue rectangle sitting between "Unlocks Fluyte" and the Research button — it isn't present on any other row (compare Mine Engineering, Animal Husbandry, Saw Mill rows directly above/below it). It reads as a broken/unstyled icon or debug swatch, and it reappears identically in **catalogue-360.png**, so it's not a one-off capture glitch — it's tied to that tech's data. **This should be fixed before calling research polished.**
+
+Minor: the left "journal" page has a noticeably empty lower third below the quill illustration while the right page is fully packed — the spread feels unbalanced rather than deliberately composed. Not a blocker, just worth a glance.
+
+projects-360.png is clean and unremarkable in a good way — no complaints.
+
+## Diplomacy — good concept, one real bug
+
+**treaties-desktop.png** is the reference-quality state: toolbar (Treaties/Trade subsidies/Grants/Info) fully iconed and labeled, 7-card action grid with consistent circular badges and cost coloring, relation ladder with shields aligned on a rail, status line ("Office already established") correctly reflecting the Embassy already purchased. This is good, legible, and matches the owner's chosen Option B (map above, instruments below).
+
+**grants-desktop.png**, however, shows the same toolbar area as four blank, unlabeled bars with no icons or text — compare directly against the fully-rendered toolbar in treaties-desktop.png and grants-360.png (phone), which prove the component *can* render correctly. Below that, the panel is also inconsistent: the left side shows France's full relation detail while the right side simultaneously says "Select a nation to inspect its relationships" — the two panes are out of sync. Since this file is specifically named "grants," but no Grants panel content is actually visible in it at all (it shows the Relations map + an idle placeholder instead), I can't confirm Grants desktop actually looks right from this screenshot. **This needs a clean re-capture and, if the blank toolbar reproduces, a real fix** — right now it looks broken, not just mid-transition.
+
+grants-360.png is fine: toolbar renders correctly, Royal grants cards ($1,000/$3,000/$5,000/$10,000) with coin-stack icons and a recurring toggle match the Treaties card language.
+
+## Civilians — painting quality is good, motion is unproven from the stills given
+
+**engineer-map.png**: the sidebar portrait (gold-framed oval, "Working · Road" label, order icon row above) integrates well with the rest of the leather/parchment HUD, and the map-scale figures standing at the worksite near London read as distinct painted people rather than dots — a genuine improvement.
+
+**poses-0.png / poses-900.png**: painting quality itself is good — period-appropriate costuming, clear silhouettes, grounded footing with no visible skating between the two captures. That part supports the 7/10-plus assessment.
+
+But doing the actual math from `civilian-art.mjs` (`beat`/`sequence` per role), at t=0 all five roles are on frame 0, while at t=900ms they should be on: builder frame 3, engineer frame 1, explorer frame 2, merchant frame 1, and spy frame 0 again (spy's own beat of 450 makes frame 0→0 correct, not a bug). Comparing the two screenshots pixel-for-pixel, I can't see any visible pose change for builder, engineer, explorer, or merchant — they look like the same cel twice. Given `engineer` and `merchant` have near-zero pixel offsets (`[0,1,1,0]` and `[0,0,0,0]`), it's plausible those two roles' four "distinct" painted frames differ mainly in hand/pen detail that doesn't read at render size — which would reproduce exactly the "feels static" complaint from the earlier pass, just moved from a code-level problem to an art-level one. I did not open `work-cycles.webm`, so I can't confirm whether it actually shows motion in practice; from these two stills alone, the claim that work cycles visibly animate is not demonstrated. **Before calling this polished, somebody needs to actually watch the webm (or diff crops of all 4 frames per role) and confirm the swing/pose amplitude is visible at normal game scale, not just technically distinct in code.**
+
+## Priority to fix before "polished"
+
+1. **Diplomacy grants-desktop blank toolbar + left/right panel desync** — looks outright broken, highest priority.
+2. **Research: stray blue swatch on Superior Hull Design row** — visible on both desktop and 360, breaks row consistency.
+3. **Civilians: verify work-cycle motion is actually perceptible** — the math says frames should differ at t=900, the stills don't show it; confirm via the webm or per-frame crops before trusting the "animates convincingly" claim.
+4. Minor: unbalanced whitespace on the Research journal left page.
+
+## Overall
+
+Research and the diplomacy Treaties/Grants-on-360 states are genuinely better than the 7/10 pass and closer to the Imperialism II ledger-book register feel. But a visibly broken toolbar state in diplomacy and an unresolved icon glitch in research are concrete, easy-to-spot defects, and the civilian motion claim isn't actually backed up by the stills provided. I'd call this **still a 7/10** — real, legible progress in layout and painted-character fidelity, but not yet polished given an apparent UI bug and an unverified animation claim.

@@ -1,0 +1,27 @@
+24 November 2026 — research, civilian work and diplomacy B
+
+Direction
+Product: a touch-first historical strategy game with the original economic relationships.
+Character: scholarly, tactile, deliberate.
+World: a bound research journal, a diplomatic map table, and painted working people.
+Moments: the map and the civilian's period equipment; topic illustrations on quiet paper.
+Signature: manuscript rules and brass instruments rather than nested beige cards.
+
+Audit
+Research: repeated vacancy boxes, equal-weight category/status controls, catalogue far below phone fold, generic funding bar.
+Civilians: whole-body wobble and detached tool strokes; merchant and spy incomplete; no shared cabinet work cycle.
+Diplomacy: earlier composition had not incorporated the owner's newly accepted B preference.
+
+Passes
+Spacing: consistent catalogue rows, 44px action targets, tighter mobile catalogue, balanced workbench gutters.
+Colour: navy enamel instruments and quiet vellum; topic art carries detail, restrained sepia catalogue treatment.
+Icons: shared engraved subject instruments and identifiable nation shields for foreign knowledge.
+Copy: one vacancy message with the actual number of available research places; unchanged costs/prerequisites.
+Type: serif hierarchy, readable technology names, secondary funding and turn estimates.
+Layout: desktop folio; Projects/Technologies pages on phones; full-width diplomacy map and continuous command strip below.
+Details: exact relation markers, persistent toolbar, keyboard/touch targets, menu closure and reload checks.
+Visuals: five new painted four-pose work strips using the existing character identities.
+Motion: role-specific anchored work; quiet selection reveal; reduced-motion, covered-map and hidden-page handling.
+
+Workflow credit: Unslop by Damir Sokolovsky (@heydamir), https://github.com/heydamir/unslop, CC BY 4.0.
+The owner's period styling and explicit iterative Claude review take precedence over generic dashboard styling and the skill's three-render suggestion.

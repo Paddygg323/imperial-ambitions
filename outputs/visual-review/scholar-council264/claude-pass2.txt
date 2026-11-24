@@ -1,0 +1,26 @@
+Verified observations, area by area:
+
+**1–2. Diplomacy — Grants and Info states**
+- `diplomacy-grants-1448.png`: Grants tab is active, no confirmation/sent banner is shown, the $1,000 card has a default-selected check mark, and the footer reads "Choose a grant, then select a nation." This is consistent with a fresh, pre-send state.
+- `diplomacy-information-1448.png`: Info tab active, broad report area now shows "France · Relations & trade" with Major exports ("No exports currently offered"), Trade terms, Allies, At war with — a real content block, not a blank placeholder.
+- Toolbar (Treaties / Trade subsidies / Grants / Info) is fully labelled and unobstructed in both captures.
+- No blocker visible here.
+
+**3–4. Research — desktop and phone**
+- `desktop.png`: two-pane journal/technology layout, header unobstructed.
+- `research-360.png` (initial phone): header "Research" with close button, and the Projects/Technologies tab bar sit above the scrollable list.
+- `catalogue-360.png` (scrolled): header and the Projects/Technologies tabs remain pinned above the scrolled list — confirmed sticky, nothing is covering the close button.
+- The "heraldic shield" replacing a flat rectangle shows up as a small shield badge next to the "Superior Hull Design" row in both `desktop.png` and `catalogue-360.png` — present in both images, consistent with your description. I can't verify clickability/country-identity behavior from a still image; that's a functional claim I can't confirm visually.
+- No blocker visible here.
+
+**5. Civilian poses — four-poses-each.png**
+- Builder: the four poses are clearly distinct (hammer raised, hammer striking, chisel/plane work, reaching) — good, visible variation, not a 0/900ms duplicate pair.
+- Engineer: four poses are visually very close together (hand/pencil position over the drafting table shifts only slightly). You describe this as intentionally restrained pen movement, which is plausible, but on this still grid alone I can't distinguish it from a near-duplicate frame — it's a genuine still-image limit, not something I can confirm either way.
+- Explorer, Merchant, Spy: across all four poses per role, the silhouette is nearly identical frame-to-frame (telescope stays raised at the same angle, book held the same way, cloak unchanged). You said telescope/head-check motions are the *larger* movements by design, but this grid doesn't visibly show that — if the poses are meant to read as obviously different extremes, they currently don't in this static comparison.
+- This is a concrete, fixable note: for explorer/merchant/spy, consider widening the extreme poses (e.g., telescope lowered vs. raised, head turn range, cloak drift) so the role-specific "bigger" motions are visible in a still frame too, or accept that the distinction is only perceptible in motion and say so rather than calling them "larger" here.
+
+**6. Map-scale — engineer-map.png, poses-0.png**
+- `engineer-map.png`: engineer figure rendered at real hex-map scale beside London, correct order panel showing "Engineer working Road." Confirms genuine map-scale rendering, not a cabinet mockup.
+- `poses-0.png`: cabinet-scale portraits above, map-scale thumbnails below, for all five roles — map-scale confirmed for all.
+
+**Rating for this pass:** Diplomacy and research areas look solid — no visible blockers. Civilian poses are the one area with a real, visible gap: the explorer/merchant/spy static extremes don't visually back up the "larger movement" claim, even though four distinct production frames do exist. I'd call this pass good but not clean — one concrete note to address before calling it done, and worth being honest that animation smoothness/timing itself can't be judged from stills at all (motion quality, pause/resume behavior, frame-rate feel are unverified here). This is still not a whole-game or store-readiness assessment — scoped only to these three areas.

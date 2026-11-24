@@ -132,3 +132,33 @@ Design workflow adapted from **Unslop by Damir Sokolovsky (@heydamir)**,
 https://github.com/heydamir/unslop, licensed CC BY 4.0
 (https://creativecommons.org/licenses/by/4.0/). The period palette, serif type,
 painted assets and intentional ornament follow this game's brief.
+
+## Research folio, civilian work and diplomacy B — 0.2.64
+
+Paddy chose diplomacy B: a broad continuous world atlas above the command strip,
+with the selected nation's dossier alongside the diplomatic instruments. The
+tools remain visible during scrolling; Information uses the broad report area
+for exports, trade terms, alliances and wars. Grants retain the clear default-off
+recurring switch. Phone atlas height is 320px so countries remain large enough
+to target and the map remains meaningfully scrollable.
+
+Research is now a bound folio: goals, active projects and funding on the left;
+illustrated technologies on the right. Phone players switch between Projects
+and Technologies without scrolling past a large vacant workbench. Category
+icons, status tabs and search have distinct visual hierarchy. Foreign knowledge
+uses heraldic country shields with the existing country-details interaction.
+Funding, goals, prerequisites, project limits and save data are unchanged.
+
+Civilian productive work uses four painted poses per role, shared between the
+map and cabinet. Hammering, drafting, telescope surveying, bookkeeping and
+surveillance have separate timing and aligned feet. Idle/waiting units remain
+still. Reduced motion holds a complete pose; covered/hidden maps stop painting.
+See CIVILIAN-WORK-ART.md for provenance, prompts and the rendering contract.
+
+Claude's iterative review found the initial pose differences too subtle; three
+roles were redrawn. Its final scoped verdict was clear to ship, with two minor
+pose-spacing observations. Still-image review does not verify motion cadence.
+Functional browser tests cover actual work orders, cancellation, reduced motion,
+map pause/resume, research orders/funding/reload and diplomacy/map controls.
+Evidence: outputs/visual-review/scholar-council264/verification.txt.
+This closes this visual pass, not the entire artwork backlog or store readiness.

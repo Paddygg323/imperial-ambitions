@@ -26,6 +26,11 @@ improvement to something already present, rather than a wholly missing feature.
 4. [ ] **Improved civilian animations.** Give each role recognisable, appropriate
    work and idle animations: explorer surveying with a looking glass, builder
    hammering and engineer working on plans. Keep the established period style.
+   Version 0.2.64 supplies four painted productive-work poses per role, including
+   merchant and spy; shared map/cabinet rendering, fixed foot anchors, per-role
+   timing, cancellation and reduced-motion behavior are verified. Waiting and
+   ordinary movement still use standing art; idle animation and physical Pixel
+   comfort remain separate work. See CIVILIAN-WORK-ART.md and the evidence below.
 5. [ ] **Confirm nonproductive civilian movement.** Ask for confirmation when a
    click would move a civilian rather than issue a productive order. State the
    action and destination clearly; cancelling must preserve the civilian's
@@ -164,3 +169,19 @@ still requires gameplay or device verification.
   review, physical Pixel comfort and complete campaign/device validation are
   not completed by this presentation pass. Claude's independent visual review
   improved from 6.5 to 7/10; this is not an app-store-ready claim.
+
+- **0.2.64 — research folio, civilian productive-work cycles and diplomacy B.**
+  Owner-selected B now uses a continuous atlas above the command strip. Research
+  has a journal/catalogue composition, phone page switch, illustrated subjects,
+  country knowledge shields and restrained controls. Five roles have painted
+  work cycles; explorer/merchant/spy were redrawn after Claude's critical review.
+  Its final verdict cleared this scoped visual update with minor pose-spacing
+  notes, while explicitly excluding motion cadence and whole-game readiness.
+  Research orders/funding/reload, diplomatic orders/refunds, native map swipes,
+  animation/cancel/reduced motion and unchanged save bytes were checked in
+  isolated browsers. The complete 967-test gameplay suite passed.
+  Evidence: outputs/visual-review/scholar-council264/verification.txt.
+  Minor review notes: explorer's last pose can read as raising/lowering in
+  isolation; merchant's two writing poses remain the closest pair. Neither was
+  identified as a publishing blocker. Owner review and physical-device checks
+  remain open; these changes do not mark the full backlog complete.

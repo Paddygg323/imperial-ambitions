@@ -1,0 +1,63 @@
+Imperial Ambitions 0.2.64 — 24 November 2026
+
+Scope: complete the research-screen and civilian productive-work refinement;
+implement the owner's selected diplomacy B direction. Gameplay rules and saves
+are unchanged. No live player campaign, original PC installation or PC saves
+were used for testing.
+
+Implemented:
+- Bound research journal/catalogue, illustrated topics, subject/status hierarchy,
+  mobile Projects/Technologies pages, active-project funding and ETA, actual
+  prerequisites/goals, heraldic known-abroad markers, restrained reveal motion.
+- Continuous diplomacy world map above the command strip, persistent toolbar,
+  selected-nation report, illustrated grants and existing recurring toggle.
+  Phone atlas enlarged to 320px to preserve country readability and scrolling.
+- Five painted four-pose civilian work strips, shared map/cabinet renderer and
+  per-role timing. Builder hammers; engineer draws plans; explorer raises and
+  scans with a looking glass; merchant works a ledger; spy checks/conceals a
+  letter and watches. Rail builders reuse the engineer. Feet are aligned.
+- Static complete poses with reduced motion; covered/hidden map stops painting.
+  Only changing visible poses redraw the map; idle/move orders do not animate.
+
+Checks completed locally:
+- npm test: 967 passed, zero failed, skipped or cancelled.
+- npm run check:assets: 51 runtime mappings, 121 library entries.
+- research-folio-browser: category/search/goal, base funding, +/- funding,
+  reload persistence, known-abroad shields, 360/412/915/1448 layouts.
+- civilian-painted-browser: real road order, map/cabinet rendering, four distinct
+  poses for all five roles at map scale, menus pause/resume, cancellation,
+  reduced motion, no save mutation, no missing assets or JavaScript errors.
+- diplomacy-menu-browser: treaty-first map offers/cancel, office refund,
+  pact, grants/reload/refund, subsidy, favoured partners, exact relation-marker
+  positions, four intended modes, keyboard and 360/412/915/1448 layouts.
+- diplomacy-pan-browser after final phone-height correction: native touch swipe,
+  mouse drag and wheel, Home/End keyboard, position retained, hidden/surveyed
+  continents, nation centring, no accidental orders while dragging, unchanged
+  campaign bytes.
+- visual-craft-browser: 60 captures across main menus at four viewport sizes,
+  zero page errors, missing files or horizontal overflow; save bytes unchanged.
+- git diff --check passed. Release build and delivery checks gate publication.
+
+Claude review:
+Direction and three subsequent review exchanges are retained alongside this
+file. Earlier criticism identified repetitive research panels, weak knowledge
+markers, ambiguous Info/Grants content and nearly identical work poses. Those
+were corrected. Final scoped verdict: clear to ship, with two minor nonblocking
+pose-spacing observations. See claude-pass3.txt. Claude reviewed still images,
+not animation cadence or runtime behavior; those limits are stated explicitly.
+This was not a request to approve a predetermined numeric score.
+
+Evidence includes the actual research screens, diplomacy screens, map engineer,
+all key poses and a browser-recorded work-cycle video. These use production
+rendering and isolated fresh campaigns. CIVILIAN-WORK-ART.md records prompts.
+
+Limits:
+No physical Pixel check or Android installation in this pass. Waiting/moving
+civilians still use the established standing artwork. Owner visual acceptance,
+full idle animation, remaining graphical backlog and store readiness are not
+claimed. All main publication uses the existing GitHub workflow and public
+origin; the active player's page is not force-reloaded.
+
+Design workflow: Unslop by Damir Sokolovsky (@heydamir), CC BY 4.0,
+https://github.com/heydamir/unslop
+https://creativecommons.org/licenses/by/4.0/

@@ -1,0 +1,46 @@
+I read the code and the one screenshot that exists (`research-412.png`); `grants-1448.png` is not present in that folder, so I can't review the grants layout against design B directly — flag that before anyone claims it's done.
+
+## Research folio (`research-screen.mjs` / `visual-craft.css`)
+
+The screenshot still reads as a **settings panel**, not a folio. It's the same card-and-list dashboard pattern used everywhere else in the game, just in parchment colours. Concrete defects:
+
+1. **No "two-page" structure exists.** Markup is a flat `.research-desk` grid (sidebar + list), not spread/leaf geometry. There's no visual seam, gutter, or page-turn metaphor anywhere in the CSS — "folio" is currently just a word in the brief, not in the pixels. If the owner rejected "7/10 polish" before, a relabeled card grid will get rejected again.
+2. **The three "Available / Choose" vacancy boxes are redundant UI, not art.** They're identical dashed boxes repeating the same string three times (`research-412.png` shows this literally — three boxes reading "Available / Choose"). An empty research seat should look like an *empty seat at a desk* — an illustrated slot (inkwell, blank scroll, unlit lamp) that differs only when occupied, not a placeholder card tripled.
+3. **Category/view-switch rows are plain filled buttons in a grid**, no different from a settings form. There's no hierarchy between "what subject am I browsing" and "what state am I viewing" — both render as identical pill buttons. An art director's note: two different *questions* should not look like one repeated widget.
+4. **`.research-art` is 46–52px and uses the same `goodsPortrait`/`militaryPortrait`/`civilian-portrait` sprites used everywhere else in the game (industry, army, trade).** Nothing in this screen is bespoke to research — it's borrowed iconography stamped at a smaller size. For a "scholar's folio" the catalogue entries need their own illustrated language (e.g. a small marginal sketch/diagram per entry, consistent sepia linework), not recycled commodity icons.
+5. **Funding controls (`research-funding`) are plain +/- stepper buttons on a beige bar** — functionally fine, but visually identical to every other numeric stepper in the game (trade, transport). "Polished catalogue/funding controls" should mean a distinct, period-appropriate control (e.g. a sliding brass marker on a ruled scale, or stacked coin/ledger motif), not the shared `.numbers` widget reused yet again.
+6. **Zero animation.** No transition when switching catalogue view/group/search, no reveal when a project starts, no motion on the funding stepper. The brief explicitly calls for "meaningful animation" — right now this screen is as static as a spreadsheet.
+7. **Mobile (`@media max-width:750px`) only collapses the grid to one column** (`game/visual-craft.css:281-311`) — same cards, same list, just narrower. That's a reflow, not a mobile-considered layout. On a phone, a two-page folio idea could become a single-page-at-a-time flip (goal/projects page → catalogue page) with a tab or swipe, which would *also* solve problem #1 above instead of just squashing both panels vertically.
+
+**Concrete improvements to aim for:**
+- Give the folio an actual illustrated page/spread treatment (ruled margins, a bound gutter shadow down the middle on desktop, parchment edge wear) so it's recognizably a different artifact from the industry/trade panels, not reskinned chrome.
+- Replace the triple "Available/Choose" vacancy cards with a single illustrated idle-desk state that scales to N seats, only differing by count.
+- Give research entries their own small marginal illustration style (even simple ink-wash vignettes) distinct from the commodity/unit icon set used elsewhere.
+- Add restrained motion: catalogue entries ease in on filter/search change; starting a project animates it from the catalogue into the "current projects" rack; funding stepper gives a small tactile response (not a bounce for its own sake — matched to the scale/budget action).
+- On narrow screens, treat it as two pages of a folio (swipeable or tabbed), not one tall stacked form.
+
+## Civilian work poses (`map-markers.mjs`, `map.mjs`)
+
+This is the clearest concrete gap against the brief. `drawCivilianWork()` in `map-markers.mjs:33-49` only has branches for `builder`, `explorer`, and `engineer`/`railBuilder`. **Merchant and spy have no work pose at all** — when a merchant or spy civilian is working, the code draws the shared arm stroke up to `moveTo(2,-25)` and then nothing, because none of the `if`/`else if` conditions match. So today a working merchant or spy on the map looks like a figure with a stray floating line near its shoulder — not "merchant ledger" or "spy reconnaissance," just a rendering gap. The brief's request to add these two poses isn't a nice-to-have, it's fixing a silent bug in the existing animation set.
+
+Also note the base standing/walking figures (`sprite()` in `map.mjs`, atlas.png columns 0–5) already map `merchant:3` and `spy:4`, so the painted base figure exists — only the tool/work overlay is missing for those two, and the research screen's `civilian-portrait` icon reuses the same index (`research-art.mjs:13`), so fixing the map pose will also make the research catalogue's merchant/spy tech entries look intentional instead of like an afterthought the other three poses got and these didn't.
+
+**Concrete improvements:**
+- Merchant: ledger-and-quill pose — forearm bends to a small book/ledger held at chest height, a tiny stylus tick motion on the `sin(phase)` beat already used for the other three, same stroke weights/palette as builder/engineer so it doesn't look like a different artist did it.
+- Spy: reconnaissance pose — crouched/kneeling silhouette or a hand-shielded-eyes look-out gesture, something readably different from "walking villager" at the small map scale (this type is the one most likely to be confused with a generic figure if the pose is too subtle).
+- Reuse the existing `k=scale/52` scaling and `phase`/`reducedMotion` handling already in the function — don't introduce a second animation system for two more poses.
+
+## Diplomacy / grants screen
+
+`diplomacy-screen.mjs` as it stands does **not** match the design-B description from `explanation.txt` (map full-width at top, single parchment command strip below holding identity/amounts/toggle). The current markup still renders the instruction/choice scroll and the map+dossier as a two-column `diplomatic-workspace`, map alongside the dossier aside, not map-first-then-strip. Either design B hasn't been merged into the real screen yet, or it has and I can't tell because the preview screenshot is missing. Before this gets signed off as "done," regenerate `grants-1448.png` (or whatever the current output is named) and confirm the merged screen actually matches the selected composition — don't let the Treaties/Subsidies tabs keep the old side-by-side geometry while only Grants gets the new strip.
+
+## Acceptance criteria I'd hold final screenshots to
+
+- **Folio identity:** research screen is visually distinguishable from every other panel in the game within one glance — not just a recolor of the shared `.row`/`.card` system.
+- **No duplicated placeholder content:** empty states (vacant research seat, no goal, no projects) are singular illustrated states, not N identical boxes.
+- **Bespoke catalogue iconography:** research entries use art made for research, not re-stamped `goodsPortrait`/`militaryPortrait` icons at a smaller size.
+- **All five civilian types have a complete, equally finished work pose** — screenshot merchant and spy mid-task on the map and confirm a tool/gesture is visibly present, not just a floating stub line.
+- **At least one piece of state-change motion is visible** in the research screen (catalogue filter, starting a project, or funding change) — screenshot a before/middle/after or confirm via video, since a static screenshot alone won't show this.
+- **Mobile screenshot at ≤390px width** shows a layout that was designed for the phone (folio-as-pages or equivalent), not the desktop grid compressed into one column.
+- **Diplomacy screenshots show the same composition across Treaties/Subsidies/Grants tabs** — map-first-then-strip everywhere if that's the selected design, not only on the tab that was prototyped.
+- **No new invented metrics or gameplay numbers** anywhere in the above — confirm funding steps, turn estimates, and relation positions all still come from existing state (`fundingStep`, `estimatedResearchTurns`, `majorPowerRelations`), not new display-only math.

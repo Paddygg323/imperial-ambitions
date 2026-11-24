@@ -1,0 +1,19 @@
+## Verdict: scoped visual pass is clear to ship, with two minor polish notes (not blockers)
+
+**Previous concern — Explorer/Merchant/Spy pose similarity — is resolved.**
+
+- **Explorer**: clear, distinct arc — telescope lowered at side (pose 1) → raising to eye (pose 2) → fully raised, head tipped back, actively sighting (pose 3) → raised but head turning to profile (pose 4). All four are now readable at a glance even at map scale (poses-1500.png), where the telescope silhouette alone disambiguates the pose.
+- **Merchant**: ledger/quill business is now clearly staged — ledger held low, quill at side (pose 1) → ledger raised, writing with crossed-arm brace (pose 2) → similar writing angle but body square-on (pose 3) → ledger lowered again, quill raised to chin/thinking (pose 4). This reads as a believable bookkeeping cycle rather than four near-identical standing poses.
+- **Spy**: letter lowered and partly hidden in cloak (pose 1) → letter raised, reading (pose 2) → hand shielding eyes, scanning the horizon, letter tucked at belt (pose 3) → head down, hand near chest concealing the letter (pose 4). The "look around" beat is now unambiguous and the silhouette change (raised arm) is the most distinct of all five roles, which is good — it was the flattest-looking role before.
+
+All three redrawn strips hold up at cabinet scale and shrink cleanly to the 58px map-scale icons without the pose losing identity (telescope line, ledger rectangle, raised scanning arm are all still distinguishable at poses-1500.png). Builder and engineer are confirmed unchanged across all four size variants.
+
+**Consistency with research/diplomacy stills**: palette, parchment background, navy/gold command-strip framing all match what's in the research-1448/360 and diplomacy-grants/information-1448 references. Painting style (linework, lighting direction, costume rendering) between the civilian figures and the earlier-approved screens is consistent — no mismatch in illustration treatment.
+
+**Remaining observations (not blockers, worth a note for backlog):**
+1. In the four-poses-each.png sheet, the Explorer's pose 4 head-turn reads slightly ambiguous in isolation — it could be mistaken for "lowering" the glass rather than "turning while raised" if seen out of sequence. At full-cycle speed in-game this is unlikely to matter, but flagging since it's the one pose transition that's less self-evident than the other three in that strip.
+2. Merchant pose 2 and pose 3 are the closest pair of the whole set (similar ledger-raised/writing angle, differing mainly in arm-cross vs. square stance). This is a smaller gap than any other role's pose differentiation, though both are individually fine and distinct from poses 1 and 4.
+
+Neither is a defect that should hold up this scoped update — they're fine-grain notes about relative pose spacing, not visible errors, missing detail, or style breaks. I did not observe anything resembling anatomical errors, palette drift, or scale/anchor problems in the stills provided.
+
+**Explicitly out of scope / not something I verified here:** motion cadence, the described map/cabinet/menu-pause/reduced-motion interaction logic, and campaign/save integrity — those are runtime/automated-test facts I'm taking as given, not things visible in these stills.
