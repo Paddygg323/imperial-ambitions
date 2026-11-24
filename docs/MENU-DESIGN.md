@@ -162,3 +162,15 @@ Functional browser tests cover actual work orders, cancellation, reduced motion,
 map pause/resume, research orders/funding/reload and diplomacy/map controls.
 Evidence: outputs/visual-review/scholar-council264/verification.txt.
 This closes this visual pass, not the entire artwork backlog or store readiness.
+
+## 0.2.65 refinement
+
+Army and navy rosters use compact illustrated rows and enamel selection seals.
+Wide battle views gain a command cabinet beside the field; phones keep reachable
+controls below it. Research artwork retains its painted colour. The continuous
+diplomacy atlas uses quiet compass decoration in unknown water without revealing
+land. A full loading screen remains until the map is actually ready, including
+image decoding and fonts, with a safe retry state on failure.
+
+See LANDSCAPE-COMBAT-ART.md and outputs/visual-review/landscape-combat265 for the
+three Claude review rounds, artwork provenance, screenshots and test evidence.

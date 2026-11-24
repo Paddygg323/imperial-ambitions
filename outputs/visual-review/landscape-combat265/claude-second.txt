@@ -1,0 +1,30 @@
+## Art Director Review — Rendered Screens
+
+**Correcting the two flagged specifics first:** the phone-battle terrain (`phone-battle.png`) is sparse tree copses on open grass, not forest canopy — the earlier "forest" call was wrong, and it now reads correctly as rough/scrub ground. On shadows: the earlier "no formation ground shadows" claim was also too strong — the culverin in `phone-siege.png` has a clean, dark contact shadow under its wheels and trail. But the infantry hexes in `phone-battle.png` and `battle-915.png` show only a faint darkening under the pikemen's feet, nowhere near as defined as the artillery shadow. So shadows exist, but they're inconsistent in strength between unit types — not absent.
+
+### Top 5 concrete issues
+
+**1. Infantry contact shadows are weak next to artillery pieces (`phone-battle.png`, `battle-915.png`)**
+The culverin casts a crisp dark oval; the pikemen in the same battle set barely cast anything — their feet blend into the grass with only a slight tonal shift. Side by side, infantry formations look like they're floating a few millimeters above the turf while guns sit planted on it. Remedy: give infantry/cavalry formation sprites the same opacity/blur-radius contact shadow treatment already used on the culverin, scaled to formation footprint rather than single-figure footprint.
+
+**2. Diplomacy map canvas wastes half its frame on flat "UNCHARTED" void (`diplomacy-1448.png`)**
+The political map panel is large and ornately framed, but the actual painted nations occupy only the right third; the left ~55% is flat navy with a single centered "UNCHARTED" label — dead space in an otherwise dense, decorated screen. The Imperial Atlas minimap (top right of the main HUD) already auto-frames the surveyed region — this panel doesn't. Remedy: default-center/zoom the diplomacy map on explored territory like the atlas does, or texture the unexplored area (parchment fog-of-war treatment) instead of leaving flat color.
+
+**3. Research tech icons are flat glyphs, inconsistent with the painted style everywhere else (`research-1448.png`)**
+The castle, log stack, ship, paper stack, merchant figure and wheat-sheaf icons in the technology list are simple flat-shaded glyphs — no painted lighting, no texture — while literally every other screen (map resources, civilian portraits, army/navy unit art) is hand-painted with directional light. Next to the rest of this pass's quality bar, these read like placeholder icons. Remedy: re-render the ~10 tech icons in the same painted treatment as the resource silhouettes (which the brief confirms are approved and should be the reference).
+
+**4. Army/Navy rosters aren't actually "compact rows" (`army-1448.png`, `navy-1448.png`)**
+The change list specifically claims compact army/navy rows, but what's rendered is the opposite: each unit (Arquebusier, Knight, Pikeman; each Carrack) is a tall, full-width card with a large standalone portrait, stat lines, and its own buttons. Three units already fill the visible panel in the Army screenshot with no room to spare — a full stack or multi-regiment garrison will require heavy scrolling. Remedy: collapse each entry to a single row (small icon + name + key stats inline + one action button), reserving the large portrait only for a selected/expanded unit, so this matches the stated intent.
+
+**5. Siege fortification wall is a single repeated tile with no variation (`phone-siege.png`)**
+The castle wall running diagonally down the right edge is the same wall-and-tower segment repeated identically five times in a row — no corner bastion, gate, breach, or damage variant anywhere along the visible run. Against the brief's goal of "painted varying tactical cover and fort parts," this particular stretch reads as monotonous tiling rather than a fortified line with character. Remedy: add at least one gate/bastion variant and break up the repeat cadence (e.g., stagger tower spacing or add a corner piece) so the wall doesn't look like a copy-pasted strip.
+
+### What's holding up well
+- Province boundaries remain strong, consistent owner-colour red across both map zoom levels — no regression.
+- Resource silhouettes (iron, coal, tin, copper, sheep, cattle, trees) are consistent, well-lit, and legible at both the 1448 and 412 widths.
+- The six civilian work poses (`six-poses-each.png`) are genuinely good: each role's pose set reads as a believable work cycle with consistent lighting, palette, and silhouette — builder's hammer arc, engineer's head tilting over the drafting table, explorer raising/lowering the telescope, merchant's pen angle, spy's cloak gestures. No complaints here.
+- Navy/gold/vellum direction is intact across HUD chrome, dialogs, and panels.
+- The narrow (412px) map layout holds up — "Royal command" tile register is legible and the map canvas doesn't feel cramped despite the smaller frame.
+
+### Explicit limitation
+I can't judge combat movement or hit-feedback cadence, easing, or timing from static screenshots — that needs video or in-engine play, and I haven't claimed anything about it here.

@@ -1,0 +1,26 @@
+Reviewed the current files (not stale screenshots) and cross-checked the implementation code and test fixtures to separate real behavior from stills.
+
+**What I verified against code, not just pixels**
+
+- `game/campaign-polish.css:33-39` — ground/unit shadows: `.battle-formation` has a `drop-shadow` filter plus a `::before` pseudo-element shadow blob (`.formation-0::before` etc., blurred, `#28331d77`). This is a real, strengthened shadow, not cosmetic-only in a screenshot — confirms the stated fix.
+- `game/battle-art.mjs:12-24` + `campaign-polish.css:26-38` — fort rendering has four frames (`!health`→ruin, `gate`, `tower`, plain wall), level-dependent height (`fort-level-2/3` offsets), and a `damaged` sepia/brightness filter keyed to `health < threshold[level]`. The gate/tower/damage logic exists in code even though none of the `field-*` screenshots happen to show a fortified tile — consistent with your note not to read a cropped-out gate as "missing."
+- `campaign-polish.css:131` — `research-art/research-sketch {filter:none; mix-blend-mode:normal}` — confirms full-colour research art is a real rule, not a leftover sepia filter, matching `research-1448.png`.
+- `campaign-polish.css:104-144` — the army/fleet roster CSS now uses a `98px/76px minmax(0,1fr)` (desktop) and `62-68px` (mobile) grid with stats/actions split into columns — matches the compact row in `army-1448.png` and the responsive view in `transport-412.png`'s sibling panels.
+- `diplomacy-1448.png` — single continuous parchment map, unexplored side rendered as plain tan with a small restrained compass rose bottom-left and faint rhumb lines; no navy-blue "uncharted" fill anywhere. Matches your correction.
+
+Everything you described as fixed is actually implemented, not just re-screenshotted.
+
+**Critical pass over the rest of the UI**
+
+Industry, Trade, Transport, Navy, and the field battle view (`army-1448.png`, `navy-1448.png`, `industry-1448.png`, `transport-412.png`, `trade-412.png`, `field-1448.png`, `field-412.png`) are internally consistent: same parchment/ink palette, same button and header chrome, readable at both 1448 and 412 widths. The six civilian work poses per role are genuinely distinct (not a single frame tiled), and the loading/ready screens are clean.
+
+**No release blockers found.** Nothing I can point to as broken, missing, or inconsistent with the stated fixes.
+
+**Two minor, non-blocking observations (longer-term art-direction, not defects to fix before shipping):**
+
+1. The faction-affiliation markers over units in the field view (`field-1448.png`, `field-412.png`) are flat solid-colour squares (red/blue), which read as placeholder-style UI against the otherwise painted miniatures. They're functionally necessary for readability at a glance, so I wouldn't block on this — just flag it as a candidate for a more "painted" pennant/banner treatment later if you want full visual consistency.
+2. The regiment-selection checkbox in the Army panel (`army-1448.png`) is a plain unstyled browser checkbox, which stands out against the otherwise fully custom gold/parchment chrome used everywhere else in that same panel. Cosmetic only.
+
+Neither of these is a regression, and neither contradicts anything you asked us to fix — they're pre-existing minor seams I'd leave as backlog items rather than block this pass on.
+
+**Bottom line:** the three previously-flagged issues (shadows, roster density, research colour) and the two previously-contested claims (fort detail, diplomacy map colour) all check out against current code and current images. I'm not finding a fourth defect to force onto the list — the pass looks ready to publish, with the two small polish notes above as optional future work, not blockers.

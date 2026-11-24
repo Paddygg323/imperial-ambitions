@@ -1,0 +1,9 @@
+{
+  "committedMoveBeforeAnimation": true,
+  "noStateChangesFromEffects": true,
+  "terrainToggleNoStateChange": true,
+  "reducedMotion": true,
+  "actualShotFeedback": true,
+  "effectsCleanedUp": true,
+  "errors": []
+}

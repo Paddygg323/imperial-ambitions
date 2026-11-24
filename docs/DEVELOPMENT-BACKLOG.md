@@ -26,7 +26,7 @@ improvement to something already present, rather than a wholly missing feature.
 4. [ ] **Improved civilian animations.** Give each role recognisable, appropriate
    work and idle animations: explorer surveying with a looking glass, builder
    hammering and engineer working on plans. Keep the established period style.
-   Version 0.2.64 supplies four painted productive-work poses per role, including
+   Version 0.2.65 supplies six painted productive-work poses per role, including
    merchant and spy; shared map/cabinet rendering, fixed foot anchors, per-role
    timing, cancellation and reduced-motion behavior are verified. Waiting and
    ordinary movement still use standing art; idle animation and physical Pixel
@@ -185,3 +185,18 @@ still requires gameplay or device verification.
   isolation; merchant's two writing poses remain the closest pair. Neither was
   identified as a publishing blocker. Owner review and physical-device checks
   remain open; these changes do not mark the full backlog complete.
+
+- **0.2.65 — landscape, six-pose civilian work and battlefield refinement.**
+  Partial progress on 1, 2, 4, 7, 8 and 19: shared ground/water materials,
+  resource-base blending, distinct precious resources, consistent town lighting,
+  six work poses per role, painted cover and forts, movement/shot feedback,
+  cloth faction pennants, compact rosters, colour research art and continuous
+  atlas decoration. Startup now waits for a fully drawn map instead of showing
+  staged asset loading. Three Claude review rounds found no remaining publishing
+  blockers; owner acceptance is still required before calling the art finished.
+  970 unit tests, 60 screen captures, work-order/reduced-motion/cancellation,
+  research/diplomacy controls, real campaign battle save/load and deliberately
+  delayed/failed startup checks passed. Evidence and limits:
+  `outputs/visual-review/landscape-combat265/verification.txt` and
+  `docs/LANDSCAPE-COMBAT-ART.md`. Physical Pixel testing, civilian idle animations
+  and the other open gameplay/device items are not completed by this pass.

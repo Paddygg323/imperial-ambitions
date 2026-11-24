@@ -1,0 +1,58 @@
+Imperial Ambitions 0.2.65 — presentation verification, 24 November 2026
+
+All runs use disposable headless Chrome sessions and fixture saves; the player's
+browser, installed PC game and real campaign saves were not controlled or replaced.
+970 unit tests passed. Final 60-screen pass: zero page errors, missing assets or
+overflow at 1448x1080, 412x915, 915x412 and 360x800; saved bytes unchanged.
+The battle-feedback and 60-screen passes were rerun after the final cloth pennant
+and enamel selection-seal refinement, and passed again.
+
+The loading test holds the grass image response, verifies the application remains
+hidden, releases it and checks stable map pixels. A failed response leaves the
+retry screen and previous campaign intact. Six poses per civilian, actual work,
+cancellation, pause/resume and reduced motion are checked. Battle feedback follows
+real commands; state is unchanged after playback. Actual campaign battle tests
+cover deployment, save/reload, retreat and returning to the campaign.
+
+Claude reviewed three successive builds, checked fixes against rendered screens
+and code, and found no publishing blockers on the third pass. It mistook the CSS
+selection indicator for a native checkbox; its visual consistency point was valid
+and the indicator was changed to an enamel seal. The final two small cosmetic
+refinements were browser-verified after that review.
+
+No physical Pixel test was performed. Civilian idle/movement art remains standing
+art. This record does not claim owner acceptance, subjective perfection, complete
+campaign validation or app-store readiness. Gameplay rules and save formats remain
+unchanged. See docs/LANDSCAPE-COMBAT-ART.md for the design and provenance.
+
+Unslop: Damir Sokolovsky (@heydamir), CC BY 4.0, https://github.com/heydamir/unslop
+
+unit-tests
+✔ zone occupancy matches original clearing and complete ship-list traversal (3.7774ms)
+✔ ship movement removes old threat; duplicate ships do not duplicate country bits (0.3019ms)
+ℹ tests 970
+ℹ suites 0
+ℹ pass 970
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 163001.6315
+
+motion-test
+[{"role":"builder","distinct":6},{"role":"engineer","distinct":6},{"role":"explorer","distinct":6},{"role":"merchant","distinct":6},{"role":"spy","distinct":6}]
+{"rolePixels":[{"role":"builder","distinct":6},{"role":"engineer","distinct":6},{"role":"explorer","distinct":6},{"role":"merchant","distinct":6},{"role":"spy","distinct":6}],"realRoadOrder":true,"cancelStopsMotion":true,"reducedMotion":true,"saveUnchangedDuringAnimation":true,"errors":[],"missing":[]}
+PASS: delayed map art keeps the full-screen loader; complete reveal is stable; missing art keeps retry visible and does not replace saves.
+
+battle-final-test
+PASS: touch deployment/undeployment/movement, overview/local zoom, AI handover, 4 phone widths, siege bombardment, section damage and breaches, and cleanup
+
+campaign-test
+PASS: actual campaign battle deployment, saved tile/reload, three viewports, retreat/result/reload and return to campaign; no browser errors.
+
+field-test
+PASS: movement and shot feedback follow real commands, leave state untouched, honour reduced motion and clean up. Mixed-terrain formations captured at two sizes.
+
+menus-test
+PASS: single world map; hidden land stays hidden; mouse drag, wheel, native touch swipe and keyboard scrolling; no drag orders; position retained; both continents accessible; nation-directory centring; save bytes unchanged
+PASS: research categories/search/goal, base funding, increase/decrease, reload preservation, slots and desktop/360/412/915 layouts. Isolated Chromium campaign.

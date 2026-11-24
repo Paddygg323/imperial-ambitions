@@ -2,11 +2,11 @@
 
 Generated with the built-in image-generation tool on 24 November 2026, using the project's generated `game/assets/atlas.png` as the character/style reference.
 
-Runtime/source files: `game/assets/civilians/{builder,engineer,explorer,merchant,spy}-work.png`. Each is a transparent 2172 × 724 strip with four 543-pixel cells. Do not overwrite these with unaligned replacement cells: `game/civilian-art.mjs` records the foot anchors, crop bounds and role-specific timing. Rail builders use the engineer art.
+Current runtime/source files (0.2.65): `game/assets/civilians/{builder,engineer,explorer,merchant,spy}-work.png`. Each is a transparent 1536 × 1024 sheet with six poses in three columns and two rows. `game/civilian-frames.mjs` records measured crop bounds and foot anchors; `game/civilian-art.mjs` supplies role-specific timing. Each role uses a stable scale through its cycle. Rail builders use the engineer art. Current prompts and captured motion are in `outputs/visual-review/landscape-combat265/`.
 
 Only productive work animates. Waiting, resting and ordinary movement retain the existing standing art. Reduced motion holds a complete painted pose; hidden pages and covered maps stop painting. The same renderer supplies the map and the selected-unit cabinet. Art has no authority to advance a turn or change an order.
 
-First-pass prompts (builder and engineer retained; explorer, merchant and spy revised below):
+Historical 0.2.64 four-pose prompts follow. Those runtime sheets were superseded by the six-pose set; retain these prompts as provenance, not current atlas dimensions.
 
 ## Builder
 

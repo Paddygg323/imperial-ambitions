@@ -1,0 +1,54 @@
+## What's already working — preserve as-is
+
+- **Research folio** (`research-desktop.png`) and **Diplomacy relations/grants** (`diplomacy-grants-desktop.png`): coherent book/scroll motif, consistent iconography, good information density, map-above-command-strip layout intact. Don't touch.
+- **Civilian work-cycle paintings** (`civilian-poses.png`): five roles, distinct silhouettes and palettes, genuinely painted (not clip-art). Good base to extend, not replace.
+- **Reviewed sprite pipeline** (`reviewed-sprites.mjs`, `game/map.mjs:65-73`): the 0.2.64 "reviewed" hex-tile system (continuous painted patches, feathered edges via `landBlendAlpha`) is the right direction and already covers grass, several resources, and biomes. The problem is it's only *partially* rolled out — legacy fallbacks (`drawBiome`, `resourceSprite`, text-glyph resources) still render side-by-side with it on the same map, which is a visible source of inconsistency, not a finished look.
+- **Panel card system** (army/navy/industry/trade/transport): typography, portrait framing, and the enamel/parchment chrome are consistent and already feel "finished." The problem here is layout density, not art quality (see P3).
+
+## P0 — Battle terrain is the weakest visual surface in the game
+
+`phone-battle.png` shows the core failure: every open-ground cell uses the *same two* SVG paths (`battle-art.mjs:10-14`), mirrored by `tile%2`, tiled in a rigid alternating-offset grid. At battle scale this reads as wallpaper, not a battlefield — the opposite of the painted-miniature target, and the most "inherited, doesn't blend" surface in the whole game.
+
+- `battleTerrainArt()` for `terrain===3` (forest) draws one hard-coded tree-clump path; `terrain===4` draws one rock path. Mirroring isn't variation — it's the same silhouette flipped.
+- `terrain===0` ground gets a near-invisible scribble (`"m22 46 2-7..."`), so plain cells look blank and flat.
+- Walls (`battleWallArt`) are flat grey vector polygons — no shading, no raster texture — while every other painted asset in the game (army portraits, ships, civilians) is a full raster painting. The wall is visibly a *different medium*.
+- Units have no ground-contact shadow in battle (`.battle-formation` only gets a `drop-shadow` filter, no ellipse), unlike the overworld map which already draws proper grounding ellipses under civilians/fleets (`map.mjs:180`, `224`). Troops look pasted on top of the grid rather than standing on it.
+- `battleFormation()` (`military-art.mjs:35-39`) clones the *same* portrait image 1–3 times per regiment with no mirroring or offset variance — a squad reads as a stamped sticker, not individual figures.
+
+**Concrete spec:**
+1. New asset `assets/battle-ground-set.png` — 6–8 unique painted vignettes per terrain family (open ground, forest, rough/rock, scrub), same painterly weight as the overworld's vegetation art. Assign per-tile via a seeded pseudo-random pick (reuse the existing `t.x*31+t.y*17` jitter trick from `map.mjs:134/141`), never the literal tile index parity.
+2. New asset `assets/battle-wall-painted.png` atlas — pristine/damaged/breached states, 2 raster variants each (stone different from timber palisade if the fort level differs), plus a visually distinct gate (iron-studded double doors), replacing the flat SVG crenellation entirely. Reuse the existing `MILITARY_ATLAS`-style rect-lookup convention (`military-art.mjs:14-20`) so it's one shared atlas file, not per-tile generation.
+3. Add a shared `groundShadow(ctx,x,y,width)` ellipse under `battleFormation`/unit markers — literally port the existing map convention (`#10231b70` ellipse) into `battle-view` CSS/markup so battlefield and map use the same grounding language.
+4. In `battleFormation()`, alternate `scaleX(-1)` and a small per-slot rotation/offset on cloned figures so a 3-figure formation doesn't read as one copy-pasted sprite.
+5. Reduce the on-tile text clutter (`2 C`, cost numbers) — keep the data in the `aria-label`/`battle-detail` panel (already done for accessibility) and show the numeric overlay only on hover/selection, not permanently baked onto every cell, so the painted ground gets to breathe.
+
+## P1 — Overworld terrain: flat vector elements competing with painted ones
+
+From `engineer-map.png`:
+- Farmland patches are flat solid-color trapezoids (no texture/shading) sitting directly against the textured grass pattern and fully painted trees/sheep — three different rendering fidelities on one tile. **Spec:** repaint cropland as a textured raster patch (furrow shading, subtle tonal variation) added to the existing reviewed-sprite terrain set, not a programmatic fill.
+- Mountain/ore silhouettes (Iron, Coal, Tin icons) are flat single-tone rock shapes with a hard silhouette edge and no grounding blend into the grass beneath — inconsistent with the feathered-edge approach `reviewed-sprites.mjs` already uses for other tiles. **Spec:** run these through the same `landBlendAlpha` feathering pipeline so rock-to-grass transitions soften like everything else.
+- **Resource icon gap:** `map.mjs:61` maps gold/silver/gems/diamonds to the *same* `sites` atlas slot as iron/tin (`natural:6`) — precious resources currently reuse the plain ore-rock icon and are only distinguished by a text label. **Spec:** add 4 new painted icons (gold vein, silver vein, gem cluster, diamond cluster) to `resource-sites.png`, extending the existing 3×3 atlas grid rather than inventing a new system.
+- Ocean texture: the wave pattern tiles at a visibly short period in open sea (`seaPattern`/`paintedSea`, `map.mjs:89/119`), producing a faint repeating diagonal moiré that competes with the calmer grass pattern beside it. **Spec:** author a larger seamless ocean tile (2–3× current frequency) or blend two offset tile passes, matching the de-repetition technique already used for grass.
+
+## P2 — Inconsistent perceived scale between map tokens and terrain features
+
+The civilian figure and ship in `engineer-map.png` are rendered close to full hex height (`height=Math.min(58,scale*.84)` for civilians at `map.mjs:182`; ship at `max(35,scale*.94)`, `map.mjs:223`), while an entire garrisoned army is a small tent icon at `scale*.30` (`map.mjs:212`) and a whole town occupies roughly one hex too. The result: a single walking engineer looks almost as large as a fortified town, and bigger than a multi-regiment army icon. There's no consistent "scale ladder" distinguishing architecture (towns/forts: should dominate the hex, ~0.9–1.0) from vegetation/resources (~0.55–0.65) from mobile token figures (civilians/ships/army markers: should read as small counters, ~0.35–0.45, with a shared grounding shadow size). **Spec:** no new assets needed — this is a numeric pass over the existing draw calls in `map.mjs` to normalize the size multipliers against one documented scale table, keeping every current sprite.
+
+## P3 — Army/Navy/roster panels: healthy card design, wasted space at low unit counts
+
+`army-1448.png` and `navy-1448.png` are well-composed 2-column card grids, but with only 3 units the grid leaves a large dead parchment area below the cards (visible in both screenshots) before the fixed-position footer text. This isn't a quality problem with the cards themselves — it's a layout that doesn't degrade gracefully for small rosters. **Spec:** when the roster count is below the grid's natural row capacity (e.g. <4 cards), collapse to fewer, wider cards (already close to the existing single-column mobile breakpoint rule at `visual-craft.css:263`) rather than reserving two-column tracks that stay half-empty, and let the explanatory notice/`how-it-works` text expand to fill the remaining width instead of floating isolated at the bottom.
+
+## P4 — Civilian animation: four frames is a visible ceiling, not a bug
+
+`civilian-poses.png` confirms the 4-pose cycle (`CIVILIAN_WORK`, `civilian-art.mjs:2-8`) is well-painted but will read as a mechanical loop on longer dwell times, especially at the slow `beat` values (builder 180ms–spy 450ms) where the viewer has time to notice the snap between poses. **Spec:** no mechanic change needed — add 1–2 in-between frames per role (6 total) reusing the same sprite-sheet/offset convention already in place (`images/civilians/<role>-work.png`, frame-strip format), which meaningfully smooths perceived motion without touching timers, orders, or save data.
+
+---
+
+### Priority order for the next iteration
+1. Battle terrain variety + wall repaint + unit grounding (P0) — this is the single most visible weak spot the owner will notice immediately.
+2. Farmland/mountain texture pass + precious-resource icons + ocean tile re-period (P1).
+3. Map token scale normalization pass (P2) — cheap, no new art, big coherence win.
+4. Roster grid graceful-degradation for small armies/fleets (P3).
+5. Civilian in-between frames (P4) — lowest urgency, nice-to-have polish.
+
+All of the above are additive art/layout changes against existing rendering hooks (`reviewed-sprites.mjs`, `battle-art.mjs`, `military-art.mjs`, `map.mjs`, `visual-craft.css`) — no rule values, turn timing, save formats, or visibility logic need to change.
