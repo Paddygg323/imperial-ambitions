@@ -1,0 +1,367 @@
+{
+  "metrics": [
+    {
+      "name": "map-1448",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "civilians-1448",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "industry-1448",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "workers-1448",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "recruitment-1448",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "transport-1448",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "research-1448",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "trade-1448",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "diplomacy-1448",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "diplomacy-grants-1448",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "diplomacy-information-1448",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "army-1448",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "navy-1448",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "reports-1448",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "nation-1448",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "world-1448",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "map-412",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "civilians-412",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "industry-412",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "workers-412",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "recruitment-412",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "transport-412",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "research-412",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "trade-412",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "diplomacy-412",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "diplomacy-grants-412",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "diplomacy-information-412",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "army-412",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "navy-412",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "reports-412",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "nation-412",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "world-412",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "map-915",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "civilians-915",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "industry-915",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "transport-915",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "research-915",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "trade-915",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "diplomacy-915",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "army-915",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "navy-915",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "reports-915",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "nation-915",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "world-915",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "map-360",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "civilians-360",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "industry-360",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "workers-360",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "recruitment-360",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "transport-360",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "research-360",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "trade-360",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "diplomacy-360",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "diplomacy-grants-360",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "diplomacy-information-360",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "army-360",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "navy-360",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "reports-360",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "nation-360",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    },
+    {
+      "name": "world-360",
+      "overflow": false,
+      "modalOverflow": false,
+      "tinyText": 0
+    }
+  ],
+  "errors": [],
+  "missing": [],
+  "saveUnchanged": true
+}

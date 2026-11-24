@@ -1,17 +1,17 @@
 import {createRequire} from 'node:module';
 import assert from 'node:assert/strict';
-import {readFile} from 'node:fs/promises';
+import {readFile,mkdir} from 'node:fs/promises';
 import {resolve} from 'node:path';
-const require=createRequire(import.meta.url),{chromium}=require('C:/Users/paddy/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const require=createRequire(import.meta.url),{chromium}=require(process.env.PLAYWRIGHT_MODULE_PATH||'playwright');
 let browser;
 try{
- browser=await chromium.launch({executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe',headless:true});
+ browser=await chromium.launch({headless:true,...(process.env.CHROME_BIN?{executablePath:process.env.CHROME_BIN}:{})});
  const page=await browser.newPage({viewport:{width:412,height:915},isMobile:true,hasTouch:true}),errors=[];
  page.on('pageerror',e=>errors.push(e.message));
  await page.route('**/*',async route=>{
   const url=new URL(route.request().url());if(url.host!=='appassets.androidplatform.net'||!url.pathname.startsWith('/game/'))return route.abort();
   const relative=decodeURIComponent(url.pathname.slice(6));if(relative.includes('..'))return route.abort();
-  try{const body=await readFile(resolve('work/rebuild-android/assets/game',relative));await route.fulfill({body,contentType:relative.endsWith('.mjs')||relative.endsWith('.js')?'text/javascript':relative.endsWith('.css')?'text/css':relative.endsWith('.svg')?'image/svg+xml':'text/html'});}catch{await route.fulfill({status:404,body:''});}
+  try{const body=await readFile(resolve('game',relative));await route.fulfill({body,contentType:relative.endsWith('.mjs')||relative.endsWith('.js')?'text/javascript':relative.endsWith('.css')?'text/css':relative.endsWith('.svg')?'image/svg+xml':relative.endsWith('.png')?'image/png':'text/html'});}catch{await route.fulfill({status:404,body:''});}
  });
  await page.addInitScript(()=>{window.AndroidGame={exportSave:(json,name)=>{window.savedExport={json,name};}};});
 
@@ -33,9 +33,11 @@ try{
  assert.equal(await page.locator('#fleetAggression').inputValue(),'');
  await page.locator('#fleetAggression').selectOption('2');await page.getByRole('button',{name:/Set selected ships/}).tap();
  assert.equal(await page.locator('#fleetAggression').inputValue(),'2');
- assert.ok(await page.evaluate(()=>JSON.parse(localStorage.getItem('imp2-rebuild-v3')).ships.filter(u=>u.owner==='england').every(u=>u.aggression===2)));
+ const ships=await page.evaluate(()=>JSON.parse(localStorage.getItem('imp2-rebuild-v3')).ships.filter(u=>u.owner==='england'));
+ assert.ok(ships.filter(u=>u.name==='HMS <Resolute>'||u.id==='second').every(u=>u.aggression===2));
+ assert.ok(ships.filter(u=>u.name!=='HMS <Resolute>'&&u.id!=='second').every(u=>(u.aggression??1)===1),'Unselected ships keep their aggression');
  assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
- await page.screenshot({path:'work/rebuild-v2/phone-fleet-details.png'});
- assert.deepEqual(errors,[]);console.log('Packaged fleet naming/reload, combat details and mixed aggression selection pass at412x915; Chromium, not Pixel.');
+ await mkdir('work/visual-craft/regression',{recursive:true});await page.screenshot({path:'work/visual-craft/regression/phone-fleet-details.png'});
+ assert.deepEqual(errors,[]);console.log('Fleet naming/reload, combat details, selected-only mixed aggression and phone layout pass; Chromium, not Pixel.');
 }finally{await browser?.close();}
 

@@ -1,0 +1,79 @@
+Imperial Ambitions 0.2.63 — Unslop visual audit and implementation
+24 November 2026
+
+DIRECTION
+Period strategy, legible at action scale. Navy enamel holds instruments; warm
+parchment holds information; brass frames the page; painted subjects carry the
+identity. Preserve Paddy's chosen resource/terrain artwork and game systems.
+
+AUDITED
+Local/nation/world map, civilian cabinet, industry/workers/recruitment, transport,
+research, trade/order resolution, diplomacy/treaties/grants/information, armies,
+fleets, news and land battles. 60 baseline and final menu/view captures at
+1448x1080, 412x915, 915x412 and 360x800. Runtime sprite mappings and major terrain
+families checked; this does not claim every animation frame was repainted.
+
+IMPLEMENTED
+- Shared presentation layer for spacing, controls, readable type, focus and
+  selected states, quieter vellum, enamel and hierarchy. Gold reserved for
+  principal actions rather than every navigation tab.
+- Commodity images in trade cards and actual offers; clearly grouped buy/sell
+  controls, bid count, stock, prices and a browsable catalogue. Visible scroll
+  treatment. Order handlers and trade engine unchanged.
+- Correct source-atlas clipping: no neighbouring image fragments in stockpile
+  portraits. Matching mineral icons instead of tin borrowing the copper image.
+- Compact research vacancies, topic-specific illustrations, clearer funding and
+  catalogue layout. Existing goals, prerequisites and funding unchanged.
+- Illustrated grant denominations and a compact desktop header; treaty-first
+  map, exact relation-marker positions and grant modes preserved.
+- Larger army/fleet portraits, explicit selection, consistent rosters and
+  content-sized desktop navy window.
+- Calmer sea detail by zoom and a continuous land-colour wash beneath roads,
+  towns and units. Existing chosen sprites and ownership borders preserved.
+- Battle cover uses painted assets, local formations are larger, forts have
+  masonry/connected segments and breach gaps. Quiet overview without overlapping
+  labels; landscape height and roster/detail layout repaired. No terrain or
+  combat rules invented. Full battle screenshot is a synthetic visual fixture
+  using real battle objects and deployment, not a claim about campaign balance.
+- Phone minimap moved below the control row so it cannot intercept Map Only.
+
+VERIFIED
+- All 967 gameplay/unit tests pass; 51 runtime sprite mappings and 121 library
+  entries validate. Five publication/server-boundary checks pass.
+- Menu audit: no browser errors, missing files or document/modal overflow across
+  60 captures. Browsing menus and map views leaves the save byte-identical.
+- Research categories/search/goals, base funding, increases/decreases, reload,
+  project slots and desktop/phone layouts pass.
+- Industry/recruitment imagery, automatic-labour preference, resource-specific
+  production controls and real remote-port cargo allocation/reload pass.
+- Illustrated trade buy/cancel, sell amount and saved bid reload pass; acceptance
+  of a real minor-country timber offer is recorded by the trade engine.
+- Fleet naming/reload and selected-only aggression pass. An old test used an
+  archival Android copy and assumed every ship was selected; it now tests the
+  canonical source and verifies that unselected ships are unchanged.
+- Diplomacy treaty/map orders, cancellation/refunds, grants/recurring toggle,
+  subsidies, exact relation positions, exports and keyboard selection pass.
+- Minimap pan, map-only/restore and phone/landscape layouts pass without changing
+  the saved campaign.
+- Tactical deployment/undeployment, movement, overview/local zoom, AI handover,
+  firing, bombardment, wall damage/breaches, retreat and cleanup pass. Actual
+  campaign battle deployment/save/reload/result/return also passes.
+- Runtime export and publication-boundary checks pass; isolated desktop/phone
+  startup decodes all 51 sprite mappings without errors.
+
+REVIEW AND LIMITS
+Claude reviewed actual before/after screenshots twice: 6.5/10 then 7/10. It found
+the pass a material improvement and identified flat paper, sparse battle art,
+navy whitespace and weak trade scroll cues. Paper texture, battlefield cover,
+forts/overview, navy sizing and scroll cues were addressed. Research remains
+plainer than the other screens and deserves further owner/designer review.
+
+No Pixel was used this turn and no Android package was installed. This does not
+complete campaign validation, new civilian animations, battle effects, store
+requirements or every backlog item. Existing browser campaigns were not opened
+or overwritten; all interactive test campaigns used isolated browser storage.
+
+ATTRIBUTION
+Workflow adapted from Unslop by Damir Sokolovsky (@heydamir):
+https://github.com/heydamir/unslop — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/

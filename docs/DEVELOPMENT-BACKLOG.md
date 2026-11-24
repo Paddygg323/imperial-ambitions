@@ -1,6 +1,6 @@
 # Imperial Ambitions development backlog
 
-Updated 23 November 2026. This is the shared work list for Paddy, Codex and the
+Updated 24 November 2026. This is the shared work list for Paddy, Codex and the
 designer. Items 1–10 are Paddy's original requests. Items 11–20 now record his
 review of the additional suggestions: 11 and 14 have specific replacement briefs,
 12 and the original 13 are rejected, 13 now records the requested end-turn
@@ -54,7 +54,10 @@ improvement to something already present, rather than a wholly missing feature.
    `outputs/visual-review/diplomacy261`. Version 0.2.62 removes the rejected
    horizontal flag clustering, reduces marker size and replaces the subsidy
    percentage boxes with illustrated coin choices. Evidence:
-   `outputs/visual-review/diplomacy262`. Menu-wide conversion remains open.
+   `outputs/visual-review/diplomacy262`. Version 0.2.63 applies a shared visual
+   layer across the main menus, following the owner's broader Unslop request.
+   Owner acceptance and further research-screen art polish remain open. See the
+   completion record below.
 8. [ ] **Images for trade and industry.** Provide consistent illustrations for
    resources, manufactured goods and production processes, alongside readable
    amounts, inputs, outputs and labour requirements.
@@ -147,3 +150,17 @@ For each completed item, add its commit or pull request, screenshots where
 relevant, the checks performed and any remaining limitations. A visual preview,
 passing unit test or historical approval flag alone does not close a task that
 still requires gameplay or device verification.
+
+- **0.2.63 — broad visual pass, partial progress on 1, 2, 7, 8 and 19.** Shared
+  navy/vellum controls, spacing, typography and selected states; illustrated
+  trade and grants; corrected atlas clipping; compact research vacancies;
+  illustrated army/navy rosters; quieter map surfaces; painted battle cover,
+  clearer formations and connected fortifications. Phone minimap/control overlap
+  and landscape battle height corrected. Save data and rules are unchanged.
+  Evidence and limitations: `outputs/visual-review/visual-craft263/verification.txt`.
+  Browser interaction tests cover research, production, transport, trade,
+  diplomacy, fleet selection, map-only mode and tactical combat. These items
+  remain open: new battle effects/animation, broader order-view work, owner art
+  review, physical Pixel comfort and complete campaign/device validation are
+  not completed by this presentation pass. Claude's independent visual review
+  improved from 6.5 to 7/10; this is not an app-store-ready claim.

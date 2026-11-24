@@ -1,9 +1,10 @@
-const CACHE='imperialism-rebuild-3-262';
+const CACHE='imperialism-rebuild-3-263';
 // Province outlines are needed by the map even when the app is offline.
 const MAP_FILES=['map-borders.mjs'];
+const CRAFT_FILES=['visual-craft.css','battle-art.mjs','grant-art.mjs'];
 const TRADE_FILES=['cartography.mjs','coastline.mjs','news-priority.mjs','native-saleable-amount.mjs','ai-native-exports.mjs','research-art.mjs','unit-attention.mjs','sea-knowledge.mjs','fleet-map-target.mjs','location-label.mjs','diplomacy-map.mjs','map-orders.mjs'];
 const FILES=['assets/industry.png','industry-art.mjs','production-plan.mjs','assets/relief.png','assets/overseas-development.png','assets/resource-sites.png','development-art.mjs','assets/development.png','data/sea-name-words.mjs','map-markers.mjs','terrain-blend.mjs','military-art.mjs','assets/military.png','assets/terrain.png','assets/atlas.png','assets/resources.png','./','index.html','style.css','app.mjs','engine.mjs','economy.mjs','ai.mjs','research.mjs','trade.mjs','navy.mjs','army.mjs','overseas.mjs','world.mjs','rules.mjs','map.mjs','data/europe.mjs','data/technology.mjs','data/native-tables.mjs','icon.svg','manifest.webmanifest'];
-FILES.push(...MAP_FILES,'landscape-detail.mjs','map-art249.mjs','assets/towns-forts.png','assets/rural-landscape.png','landscape-art.mjs','assets/royal-towns.png','terrain-art.mjs','assets/royal-ground.png','assets/royal-biomes.png');
+FILES.push(...CRAFT_FILES,...MAP_FILES,'landscape-detail.mjs','map-art249.mjs','assets/towns-forts.png','assets/rural-landscape.png','landscape-art.mjs','assets/royal-towns.png','terrain-art.mjs','assets/royal-ground.png','assets/royal-biomes.png');
 FILES.push(...TRADE_FILES,'colony-first-refusal.mjs','assets/reviewed/254-sheep.png','assets/reviewed/254-grass.png',...['tin','copper','iron','coal','swamp'].map(name=>'assets/reviewed/253-'+name+'.png'));
 FILES.push('boot.js','save-recovery.mjs','save-policy.mjs','heraldry.mjs','assets/royal-regiments.png','assets/royal-desert.png','assets/royal-meadow.png','assets/royal-ocean.png');
 FILES.push('diplomacy-info.mjs','diplomacy-viewport.mjs','menu-theme.css','royal.css','royal-ui.mjs','royal-map-art.mjs','assets/royal-frame.png','assets/royal-brocade.png','assets/royal-parchment.png','assets/royal-relief.png','assets/royal-envoys.png','assets/royal-vellum.png');

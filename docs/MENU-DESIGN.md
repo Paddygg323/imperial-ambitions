@@ -99,3 +99,36 @@ subsidy controls themselves. Browser checks now compare each shield centre to
 its exact relation position, including endpoints, ties and nearby values, and
 exercise the seven illustrated policy choices. Evidence is in
 `outputs/visual-review/diplomacy262`. Gameplay and save data are unchanged.
+
+## Shared visual pass — 0.2.63
+
+At Paddy's request, the Unslop audit now covers the map, cabinet, every main menu
+and land battles. `game/visual-craft.css` is the final shared presentation layer.
+The direction is ceremonial but readable: navy enamel instruments, warm vellum
+ledgers, brass framing at screen boundaries and painted subjects. Gold identifies
+the principal action; nested rows no longer compete with the outer frame.
+
+Manufacturing, transport, research and trade share properly clipped commodity
+art. Trade cards and market offers are illustrated; their existing handlers and
+order rules are unchanged. Research uses effect-specific illustrations and three
+compact empty project seats. Army/fleet selection has explicit pressed states,
+larger portraits and a consistent roster. Grants use distinct purse/chest choices.
+The map retains the owner's terrain, towns and borders, with quieter water and
+ground texture. Battles use painted cover, larger local formations, connected
+fort walls and an overview that omits overlapping detail labels.
+
+Evidence: `outputs/visual-review/visual-craft263/verification.txt`. The new
+`game/test/visual-craft-browser.mjs` checks all main screens at four sizes and
+unchanged save bytes; `trade-visual-browser.mjs` exercises the redesigned trade
+controls with a real minor-country offer. Set `PLAYWRIGHT_MODULE_PATH` and
+`CHROME_BIN` if using tools outside the project's normal dependencies.
+
+Claude reviewed two passes, scoring the final reviewed pass 7/10, with remaining
+research-surface polish. This is a published development improvement, not owner
+acceptance of all artwork or app-store certification. Pixel validation and the
+full animation/art backlog remain separate work.
+
+Design workflow adapted from **Unslop by Damir Sokolovsky (@heydamir)**,
+https://github.com/heydamir/unslop, licensed CC BY 4.0
+(https://creativecommons.org/licenses/by/4.0/). The period palette, serif type,
+painted assets and intentional ornament follow this game's brief.

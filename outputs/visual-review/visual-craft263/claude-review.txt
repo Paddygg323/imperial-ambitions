@@ -1,0 +1,13 @@
+## Score: 7/10 — a real improvement over the prior build, not yet store-ready
+
+The fixes land. Paper grain is visibly back under the washes (trade/industry/navy cards have texture, not flat tan). The atlas thumbnail on the right rail is cleanly clipped with no stray map fragments. The Grants header is genuinely more compact — icons and copy fit without crowding. Battle is the biggest win: painted ground cover, larger legible regiment sprites, continuous wall/gate segments reading as a real fortified line, and the phone overview is quiet — no overlapping terrain/fort text, which was a legitimate prior complaint.
+
+### Remaining defects
+
+1. **Navy screen wastes roughly half the modal as dead whitespace** (navy-1448.png) — three ship cards occupy the top third, then ~400px of blank parchment below "Naval missions and supply." The modal isn't sizing to content. Cosmetic, not blocking, but looks unfinished next to Trade/Industry which fill their space properly.
+2. **Trade commodity list is cut off mid-card at the bottom** (Sugar/Cigars rows are sliced by the viewport with no visible scrollbar or "more below" affordance) — a usability gap, not a correctness bug; players may not realize more commodities exist.
+3. **Research panel (phone) still reads as the least-dressed screen** — flat tan rectangles for tech categories/search with none of the parchment grain or framing applied elsewhere. It's functional and not broken, just visually behind the rest of the pass.
+
+None of these three block publishing — they're not crashes, data errors, or regressions in gameplay-critical readability. They're finishing touches (modal sizing, scroll affordance, one screen's texture pass) appropriate for a follow-up polish ticket rather than a reason to hold this release.
+
+**Verdict:** safe to publish as a visual-only update; keep Navy/Research sizing and Trade scroll cues on the backlog for the next pass.
