@@ -1,0 +1,11 @@
+**Final scores: B 8, C 7, A 7 (up from 6).**
+
+**A** is now good enough to show as an alternative. Relations collapsed correctly, cabinet narrowed to a sensible width, map gets real room — the earlier inconsistency is resolved. It still trails B because the sidebar-plus-map split is inherently less space-efficient than B's stacked flow, but that's a legitimate stylistic tradeoff now, not a defect.
+
+**B** remains the strongest: bottom breathing room fixed, country selector stays visible, nothing crowds the parchment border.
+
+**C** (phone-relations) does what it claims — five shields sit at identical x with vertical-only separation, correctly showing the tied start without fake variation, and the sixth (expanded) reads clearly. This confirms the stacking logic works, which I couldn't verify last round.
+
+**Blockers for showing as previews: none.** All three are presentable as design alternatives with the understanding they're prototypes, not shipped UI.
+
+**Remaining non-blocking note:** B's "Relations with major powers" label wraps to two lines at 360px — cosmetic only, worth a tighter label or smaller type pass before this becomes a real candidate, but not a reason to withhold the preview.

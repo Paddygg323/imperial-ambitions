@@ -1,0 +1,16 @@
+**Overall: 7/10** — genuinely usable now, shown alongside with honest caveats, not 18/10. Previous rejection was earned; this round fixes hierarchy and commits to the period aesthetic properly.
+
+**Ranking: B > C > A**
+
+**B — 8/10.** Map-before-bar gives the political map room to breathe (biggest canvas of the three) while keeping the command strip compact and legible. Collapsed "Relations with major powers" behind a disclosure is the right compact default. Grant icons/amounts read clearly in one row. Best balance of map primacy and action density.
+
+**A — 6/10.** Cabinet-beside-map wastes horizontal space: the stacked relation sliders are shown expanded by default (contradicts the brief — B/C collapse, A should too, or the inconsistency needs justifying) and the sidebar leaves the map cramped into a narrower strip than B/C despite being the same viewport. Functionally fine but weakest use of space.
+
+**C — 7/10.** Dispatch-before-map reads well, command bar is tidy, but on desktop it pushes the map down and shortens its vertical real estate versus B. Phone layout (c-phone-viewport.png) is the standout among phone/narrow views — grant icons, toggle, and map all stack cleanly without crowding.
+
+**Material failures to fix before showing:**
+1. **A's relation ladder is expanded by default**, breaking the stated "collapse by default" rule for all three — inconsistent with B/C's disclosure triangle. Fix: collapse it behind "▸ Relations with major powers" like B/C, or state why A is deliberately the expanded-by-default variant.
+2. **b-narrow-viewport.png**: the parchment grant panel's bottom border/corner ornament is cut off tight against the viewport edge — needs a few px of breathing room or bottom margin.
+3. Relation markers aren't visible in any of these captures except A's own panel (stacked on top of each other, which is correct per tied-start rules) — can't verify collision/separation logic actually works in B/C since their relations panel is collapsed. Need one screenshot with "Relations" expanded in B or C to confirm the stacking renders correctly before sign-off.
+
+**Existing map limitation (not a grant defect):** the large "UNCHARTED" dead zone dominates each capture — that's pre-existing game-world state, not something this redesign should or did touch.
