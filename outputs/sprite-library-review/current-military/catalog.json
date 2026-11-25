@@ -1,0 +1,432 @@
+{
+  "version": "0.2.65",
+  "sha256": "dae91e1563d46baedd2d70987de8f9d63195f6c53baed28a44e094155e2505d0",
+  "atlas": {
+    "width": 1374,
+    "height": 1145,
+    "frame": 229,
+    "url": "./assets/royal-regiments.png"
+  },
+  "units": [
+    {
+      "type": "levy",
+      "name": "Levy",
+      "number": 1,
+      "category": "Light infantry",
+      "rect": [
+        66,
+        22,
+        114,
+        206
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:49.78165938864629%;height:89.95633187772926%;left:25.109170305676855%;top:5.0218340611353725%;background-size:1205.2631578947369% 555.8252427184466%;background-position:5.238095238095238% 2.3429179978700745%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-0\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:34%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:49.78165938864629%;height:89.95633187772926%;left:25.109170305676855%;top:5.0218340611353725%;background-size:1205.2631578947369% 555.8252427184466%;background-position:5.238095238095238% 2.3429179978700745%\"></span></span></span><span class=\"formation-figure\" style=\"left:66%;top:42%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:49.78165938864629%;height:89.95633187772926%;left:25.109170305676855%;top:5.0218340611353725%;background-size:1205.2631578947369% 555.8252427184466%;background-position:5.238095238095238% 2.3429179978700745%\"></span></span></span><span class=\"formation-figure\" style=\"left:48%;top:66%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:49.78165938864629%;height:89.95633187772926%;left:25.109170305676855%;top:5.0218340611353725%;background-size:1205.2631578947369% 555.8252427184466%;background-position:5.238095238095238% 2.3429179978700745%\"></span></span></span></span>"
+    },
+    {
+      "type": "caliverman",
+      "name": "Caliverman",
+      "number": 2,
+      "category": "Light infantry",
+      "rect": [
+        284,
+        42,
+        150,
+        186
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:65.50218340611353%;height:81.22270742358079%;left:17.248908296943235%;top:9.388646288209607%;background-size:916% 615.5913978494624%;background-position:23.202614379084967% 4.37956204379562%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-0\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:34%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:65.50218340611353%;height:81.22270742358079%;left:17.248908296943235%;top:9.388646288209607%;background-size:916% 615.5913978494624%;background-position:23.202614379084967% 4.37956204379562%\"></span></span></span><span class=\"formation-figure\" style=\"left:66%;top:42%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:65.50218340611353%;height:81.22270742358079%;left:17.248908296943235%;top:9.388646288209607%;background-size:916% 615.5913978494624%;background-position:23.202614379084967% 4.37956204379562%\"></span></span></span><span class=\"formation-figure\" style=\"left:48%;top:66%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:65.50218340611353%;height:81.22270742358079%;left:17.248908296943235%;top:9.388646288209607%;background-size:916% 615.5913978494624%;background-position:23.202614379084967% 4.37956204379562%\"></span></span></span></span>"
+    },
+    {
+      "type": "skirmisher",
+      "name": "Skirmisher",
+      "number": 3,
+      "category": "Light infantry",
+      "rect": [
+        500,
+        44,
+        149,
+        180
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:65.06550218340611%;height:78.60262008733623%;left:17.467248908296945%;top:10.698689956331883%;background-size:922.1476510067115% 636.1111111111111%;background-position:40.816326530612244% 4.5595854922279795%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-0\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:34%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:65.06550218340611%;height:78.60262008733623%;left:17.467248908296945%;top:10.698689956331883%;background-size:922.1476510067115% 636.1111111111111%;background-position:40.816326530612244% 4.5595854922279795%\"></span></span></span><span class=\"formation-figure\" style=\"left:66%;top:42%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:65.06550218340611%;height:78.60262008733623%;left:17.467248908296945%;top:10.698689956331883%;background-size:922.1476510067115% 636.1111111111111%;background-position:40.816326530612244% 4.5595854922279795%\"></span></span></span><span class=\"formation-figure\" style=\"left:48%;top:66%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:65.06550218340611%;height:78.60262008733623%;left:17.467248908296945%;top:10.698689956331883%;background-size:922.1476510067115% 636.1111111111111%;background-position:40.816326530612244% 4.5595854922279795%\"></span></span></span></span>"
+    },
+    {
+      "type": "sharpshooter",
+      "name": "Sharpshooter",
+      "number": 4,
+      "category": "Light infantry",
+      "rect": [
+        735,
+        32,
+        149,
+        196
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:65.06550218340611%;height:85.58951965065502%;left:17.467248908296945%;top:7.20524017467249%;background-size:922.1476510067115% 584.1836734693878%;background-position:60% 3.371970495258166%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-0\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:34%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:65.06550218340611%;height:85.58951965065502%;left:17.467248908296945%;top:7.20524017467249%;background-size:922.1476510067115% 584.1836734693878%;background-position:60% 3.371970495258166%\"></span></span></span><span class=\"formation-figure\" style=\"left:66%;top:42%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:65.06550218340611%;height:85.58951965065502%;left:17.467248908296945%;top:7.20524017467249%;background-size:922.1476510067115% 584.1836734693878%;background-position:60% 3.371970495258166%\"></span></span></span><span class=\"formation-figure\" style=\"left:48%;top:66%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:65.06550218340611%;height:85.58951965065502%;left:17.467248908296945%;top:7.20524017467249%;background-size:922.1476510067115% 584.1836734693878%;background-position:60% 3.371970495258166%\"></span></span></span></span>"
+    },
+    {
+      "type": "pikeman",
+      "name": "Pikeman",
+      "number": 5,
+      "category": "Heavy infantry",
+      "rect": [
+        971,
+        33,
+        99,
+        193
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:43.23144104803494%;height:84.27947598253274%;left:28.38427947598253%;top:7.860262008733628%;background-size:1387.878787878788% 593.2642487046631%;background-position:76.15686274509804% 3.466386554621849%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-1\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:34%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:43.23144104803494%;height:84.27947598253274%;left:28.38427947598253%;top:7.860262008733628%;background-size:1387.878787878788% 593.2642487046631%;background-position:76.15686274509804% 3.466386554621849%\"></span></span></span><span class=\"formation-figure\" style=\"left:66%;top:42%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:43.23144104803494%;height:84.27947598253274%;left:28.38427947598253%;top:7.860262008733628%;background-size:1387.878787878788% 593.2642487046631%;background-position:76.15686274509804% 3.466386554621849%\"></span></span></span><span class=\"formation-figure\" style=\"left:48%;top:66%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:43.23144104803494%;height:84.27947598253274%;left:28.38427947598253%;top:7.860262008733628%;background-size:1387.878787878788% 593.2642487046631%;background-position:76.15686274509804% 3.466386554621849%\"></span></span></span></span>"
+    },
+    {
+      "type": "halberdier",
+      "name": "Halberdier",
+      "number": 6,
+      "category": "Heavy infantry",
+      "rect": [
+        1203,
+        28,
+        119,
+        200
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:51.96506550218341%;height:87.33624454148472%;left:24.017467248908297%;top:6.331877729257641%;background-size:1154.6218487394958% 572.5%;background-position:95.85657370517929% 2.9629629629629632%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-1\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:34%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:51.96506550218341%;height:87.33624454148472%;left:24.017467248908297%;top:6.331877729257641%;background-size:1154.6218487394958% 572.5%;background-position:95.85657370517929% 2.9629629629629632%\"></span></span></span><span class=\"formation-figure\" style=\"left:66%;top:42%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:51.96506550218341%;height:87.33624454148472%;left:24.017467248908297%;top:6.331877729257641%;background-size:1154.6218487394958% 572.5%;background-position:95.85657370517929% 2.9629629629629632%\"></span></span></span><span class=\"formation-figure\" style=\"left:48%;top:66%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:51.96506550218341%;height:87.33624454148472%;left:24.017467248908297%;top:6.331877729257641%;background-size:1154.6218487394958% 572.5%;background-position:95.85657370517929% 2.9629629629629632%\"></span></span></span></span>"
+    },
+    {
+      "type": "regular",
+      "name": "Regular",
+      "number": 7,
+      "category": "Heavy infantry",
+      "rect": [
+        46,
+        269,
+        157,
+        190
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:68.5589519650655%;height:82.96943231441048%;left:15.720524017467248%;top:8.515283842794759%;background-size:875.1592356687897% 602.6315789473684%;background-position:3.779786359901397% 28.167539267015705%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-1\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:34%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:68.5589519650655%;height:82.96943231441048%;left:15.720524017467248%;top:8.515283842794759%;background-size:875.1592356687897% 602.6315789473684%;background-position:3.779786359901397% 28.167539267015705%\"></span></span></span><span class=\"formation-figure\" style=\"left:66%;top:42%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:68.5589519650655%;height:82.96943231441048%;left:15.720524017467248%;top:8.515283842794759%;background-size:875.1592356687897% 602.6315789473684%;background-position:3.779786359901397% 28.167539267015705%\"></span></span></span><span class=\"formation-figure\" style=\"left:48%;top:66%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:68.5589519650655%;height:82.96943231441048%;left:15.720524017467248%;top:8.515283842794759%;background-size:875.1592356687897% 602.6315789473684%;background-position:3.779786359901397% 28.167539267015705%\"></span></span></span></span>"
+    },
+    {
+      "type": "rifleInfantry",
+      "name": "Rifle Infantry",
+      "number": 8,
+      "category": "Heavy infantry",
+      "rect": [
+        275,
+        260,
+        151,
+        199
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:65.93886462882097%;height:86.8995633187773%;left:17.030567685589517%;top:6.550218340611352%;background-size:909.9337748344371% 575.3768844221105%;background-position:22.48569092395748% 27.48414376321353%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-1\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:34%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:65.93886462882097%;height:86.8995633187773%;left:17.030567685589517%;top:6.550218340611352%;background-size:909.9337748344371% 575.3768844221105%;background-position:22.48569092395748% 27.48414376321353%\"></span></span></span><span class=\"formation-figure\" style=\"left:66%;top:42%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:65.93886462882097%;height:86.8995633187773%;left:17.030567685589517%;top:6.550218340611352%;background-size:909.9337748344371% 575.3768844221105%;background-position:22.48569092395748% 27.48414376321353%\"></span></span></span><span class=\"formation-figure\" style=\"left:48%;top:66%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:65.93886462882097%;height:86.8995633187773%;left:17.030567685589517%;top:6.550218340611352%;background-size:909.9337748344371% 575.3768844221105%;background-position:22.48569092395748% 27.48414376321353%\"></span></span></span></span>"
+    },
+    {
+      "type": "arquebusier",
+      "name": "Arquebusier",
+      "number": 9,
+      "category": "Ranged infantry",
+      "rect": [
+        496,
+        270,
+        152,
+        191
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:66.37554585152839%;height:83.4061135371179%;left:16.812227074235807%;top:8.296943231441048%;background-size:903.9473684210526% 599.4764397905759%;background-position:40.58919803600654% 28.30188679245283%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-2\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:34%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:66.37554585152839%;height:83.4061135371179%;left:16.812227074235807%;top:8.296943231441048%;background-size:903.9473684210526% 599.4764397905759%;background-position:40.58919803600654% 28.30188679245283%\"></span></span></span><span class=\"formation-figure\" style=\"left:66%;top:42%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:66.37554585152839%;height:83.4061135371179%;left:16.812227074235807%;top:8.296943231441048%;background-size:903.9473684210526% 599.4764397905759%;background-position:40.58919803600654% 28.30188679245283%\"></span></span></span><span class=\"formation-figure\" style=\"left:48%;top:66%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:66.37554585152839%;height:83.4061135371179%;left:16.812227074235807%;top:8.296943231441048%;background-size:903.9473684210526% 599.4764397905759%;background-position:40.58919803600654% 28.30188679245283%\"></span></span></span></span>"
+    },
+    {
+      "type": "musketeer",
+      "name": "Musketeer",
+      "number": 10,
+      "category": "Ranged infantry",
+      "rect": [
+        712,
+        264,
+        170,
+        199
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:74.235807860262%;height:86.8995633187773%;left:12.882096069869%;top:6.550218340611352%;background-size:808.2352941176471% 575.3768844221105%;background-position:59.136212624584715% 27.906976744186046%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-2\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:34%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:74.235807860262%;height:86.8995633187773%;left:12.882096069869%;top:6.550218340611352%;background-size:808.2352941176471% 575.3768844221105%;background-position:59.136212624584715% 27.906976744186046%\"></span></span></span><span class=\"formation-figure\" style=\"left:66%;top:42%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:74.235807860262%;height:86.8995633187773%;left:12.882096069869%;top:6.550218340611352%;background-size:808.2352941176471% 575.3768844221105%;background-position:59.136212624584715% 27.906976744186046%\"></span></span></span><span class=\"formation-figure\" style=\"left:48%;top:66%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:74.235807860262%;height:86.8995633187773%;left:12.882096069869%;top:6.550218340611352%;background-size:808.2352941176471% 575.3768844221105%;background-position:59.136212624584715% 27.906976744186046%\"></span></span></span></span>"
+    },
+    {
+      "type": "grenadier",
+      "name": "Grenadier",
+      "number": 11,
+      "category": "Ranged infantry",
+      "rect": [
+        956,
+        256,
+        144,
+        205
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:62.882096069869%;height:89.51965065502183%;left:18.5589519650655%;top:5.240174672489083%;background-size:954.1666666666666% 558.5365853658536%;background-position:77.72357723577235% 27.23404255319149%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-2\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:34%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:62.882096069869%;height:89.51965065502183%;left:18.5589519650655%;top:5.240174672489083%;background-size:954.1666666666666% 558.5365853658536%;background-position:77.72357723577235% 27.23404255319149%\"></span></span></span><span class=\"formation-figure\" style=\"left:66%;top:42%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:62.882096069869%;height:89.51965065502183%;left:18.5589519650655%;top:5.240174672489083%;background-size:954.1666666666666% 558.5365853658536%;background-position:77.72357723577235% 27.23404255319149%\"></span></span></span><span class=\"formation-figure\" style=\"left:48%;top:66%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:62.882096069869%;height:89.51965065502183%;left:18.5589519650655%;top:5.240174672489083%;background-size:954.1666666666666% 558.5365853658536%;background-position:77.72357723577235% 27.23404255319149%\"></span></span></span></span>"
+    },
+    {
+      "type": "guard",
+      "name": "Guard",
+      "number": 12,
+      "category": "Ranged infantry",
+      "rect": [
+        1207,
+        258,
+        132,
+        204
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:57.64192139737992%;height:89.08296943231441%;left:21.17903930131004%;top:5.458515283842793%;background-size:1040.9090909090908% 561.2745098039215%;background-position:97.18196457326891% 27.417640807651434%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-2\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:34%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:57.64192139737992%;height:89.08296943231441%;left:21.17903930131004%;top:5.458515283842793%;background-size:1040.9090909090908% 561.2745098039215%;background-position:97.18196457326891% 27.417640807651434%\"></span></span></span><span class=\"formation-figure\" style=\"left:66%;top:42%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:57.64192139737992%;height:89.08296943231441%;left:21.17903930131004%;top:5.458515283842793%;background-size:1040.9090909090908% 561.2745098039215%;background-position:97.18196457326891% 27.417640807651434%\"></span></span></span><span class=\"formation-figure\" style=\"left:48%;top:66%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:57.64192139737992%;height:89.08296943231441%;left:21.17903930131004%;top:5.458515283842793%;background-size:1040.9090909090908% 561.2745098039215%;background-position:97.18196457326891% 27.417640807651434%\"></span></span></span></span>"
+    },
+    {
+      "type": "bowman",
+      "name": "Bowman",
+      "number": 13,
+      "category": "Archers",
+      "rect": [
+        48,
+        489,
+        131,
+        204
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:57.20524017467249%;height:89.08296943231441%;left:21.397379912663755%;top:5.458515283842793%;background-size:1048.8549618320612% 561.2745098039215%;background-position:3.8616251005631534% 51.965993623804465%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-3\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:34%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:57.20524017467249%;height:89.08296943231441%;left:21.397379912663755%;top:5.458515283842793%;background-size:1048.8549618320612% 561.2745098039215%;background-position:3.8616251005631534% 51.965993623804465%\"></span></span></span><span class=\"formation-figure\" style=\"left:66%;top:42%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:57.20524017467249%;height:89.08296943231441%;left:21.397379912663755%;top:5.458515283842793%;background-size:1048.8549618320612% 561.2745098039215%;background-position:3.8616251005631534% 51.965993623804465%\"></span></span></span><span class=\"formation-figure\" style=\"left:48%;top:66%;width:47%;height:47%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:57.20524017467249%;height:89.08296943231441%;left:21.397379912663755%;top:5.458515283842793%;background-size:1048.8549618320612% 561.2745098039215%;background-position:3.8616251005631534% 51.965993623804465%\"></span></span></span></span>"
+    },
+    {
+      "type": "general",
+      "name": "General",
+      "number": 14,
+      "category": "Command",
+      "rect": [
+        239,
+        495,
+        194,
+        196
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:84.71615720524017%;height:85.58951965065502%;left:7.641921397379917%;top:7.20524017467249%;background-size:708.2474226804123% 584.1836734693878%;background-position:20.25423728813559% 52.160168598524756%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-4\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:50%;top:52%;width:82%;height:82%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:84.71615720524017%;height:85.58951965065502%;left:7.641921397379917%;top:7.20524017467249%;background-size:708.2474226804123% 584.1836734693878%;background-position:20.25423728813559% 52.160168598524756%\"></span></span></span></span>"
+    },
+    {
+      "type": "squire",
+      "name": "Squire",
+      "number": 15,
+      "category": "Light cavalry",
+      "rect": [
+        474,
+        499,
+        175,
+        193
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:76.41921397379913%;height:84.27947598253274%;left:11.790393013100434%;top:7.860262008733628%;background-size:785.1428571428571% 593.2642487046631%;background-position:39.53294412010008% 52.41596638655462%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-5\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:39%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:76.41921397379913%;height:84.27947598253274%;left:11.790393013100434%;top:7.860262008733628%;background-size:785.1428571428571% 593.2642487046631%;background-position:39.53294412010008% 52.41596638655462%\"></span></span></span><span class=\"formation-figure\" style=\"left:65%;top:58%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:76.41921397379913%;height:84.27947598253274%;left:11.790393013100434%;top:7.860262008733628%;background-size:785.1428571428571% 593.2642487046631%;background-position:39.53294412010008% 52.41596638655462%\"></span></span></span></span>"
+    },
+    {
+      "type": "cossack",
+      "name": "Cossack",
+      "number": 16,
+      "category": "Light cavalry",
+      "rect": [
+        696,
+        505,
+        183,
+        186
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:79.91266375545851%;height:81.22270742358079%;left:10.043668122270745%;top:9.388646288209607%;background-size:750.8196721311475% 615.5913978494624%;background-position:58.43828715365239% 52.659019812304486%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-5\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:39%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:79.91266375545851%;height:81.22270742358079%;left:10.043668122270745%;top:9.388646288209607%;background-size:750.8196721311475% 615.5913978494624%;background-position:58.43828715365239% 52.659019812304486%\"></span></span></span><span class=\"formation-figure\" style=\"left:65%;top:58%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:79.91266375545851%;height:81.22270742358079%;left:10.043668122270745%;top:9.388646288209607%;background-size:750.8196721311475% 615.5913978494624%;background-position:58.43828715365239% 52.659019812304486%\"></span></span></span></span>"
+    },
+    {
+      "type": "hussar",
+      "name": "Hussar",
+      "number": 17,
+      "category": "Light cavalry",
+      "rect": [
+        929,
+        486,
+        189,
+        206
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:82.53275109170306%;height:89.95633187772926%;left:8.733624454148469%;top:5.0218340611353725%;background-size:726.984126984127% 555.8252427184466%;background-position:78.39662447257383% 51.75718849840255%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-5\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:39%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:82.53275109170306%;height:89.95633187772926%;left:8.733624454148469%;top:5.0218340611353725%;background-size:726.984126984127% 555.8252427184466%;background-position:78.39662447257383% 51.75718849840255%\"></span></span></span><span class=\"formation-figure\" style=\"left:65%;top:58%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:82.53275109170306%;height:89.95633187772926%;left:8.733624454148469%;top:5.0218340611353725%;background-size:726.984126984127% 555.8252427184466%;background-position:78.39662447257383% 51.75718849840255%\"></span></span></span></span>"
+    },
+    {
+      "type": "scout",
+      "name": "Scout",
+      "number": 18,
+      "category": "Light cavalry",
+      "rect": [
+        1172,
+        509,
+        171,
+        184
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:74.67248908296943%;height:80.34934497816593%;left:12.663755458515283%;top:9.825327510917035%;background-size:803.5087719298244% 622.2826086956521%;background-position:97.42310889443058% 52.96566077003122%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-5\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:39%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:74.67248908296943%;height:80.34934497816593%;left:12.663755458515283%;top:9.825327510917035%;background-size:803.5087719298244% 622.2826086956521%;background-position:97.42310889443058% 52.96566077003122%\"></span></span></span><span class=\"formation-figure\" style=\"left:65%;top:58%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:74.67248908296943%;height:80.34934497816593%;left:12.663755458515283%;top:9.825327510917035%;background-size:803.5087719298244% 622.2826086956521%;background-position:97.42310889443058% 52.96566077003122%\"></span></span></span></span>"
+    },
+    {
+      "type": "knight",
+      "name": "Knight",
+      "number": 19,
+      "category": "Heavy cavalry",
+      "rect": [
+        24,
+        726,
+        168,
+        197
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:73.36244541484717%;height:86.02620087336244%;left:13.318777292576414%;top:6.986899563318779%;background-size:817.8571428571429% 581.2182741116751%;background-position:1.9900497512437811% 76.58227848101265%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-6\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:39%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:73.36244541484717%;height:86.02620087336244%;left:13.318777292576414%;top:6.986899563318779%;background-size:817.8571428571429% 581.2182741116751%;background-position:1.9900497512437811% 76.58227848101265%\"></span></span></span><span class=\"formation-figure\" style=\"left:65%;top:58%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:73.36244541484717%;height:86.02620087336244%;left:13.318777292576414%;top:6.986899563318779%;background-size:817.8571428571429% 581.2182741116751%;background-position:1.9900497512437811% 76.58227848101265%\"></span></span></span></span>"
+    },
+    {
+      "type": "lancer",
+      "name": "Lancer",
+      "number": 20,
+      "category": "Heavy cavalry",
+      "rect": [
+        238,
+        730,
+        193,
+        192
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:84.27947598253274%;height:83.84279475982532%;left:7.860262008733628%;top:8.078602620087338%;background-size:711.9170984455959% 596.3541666666667%;background-position:20.152413209144793% 76.60020986358866%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-6\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:39%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:84.27947598253274%;height:83.84279475982532%;left:7.860262008733628%;top:8.078602620087338%;background-size:711.9170984455959% 596.3541666666667%;background-position:20.152413209144793% 76.60020986358866%\"></span></span></span><span class=\"formation-figure\" style=\"left:65%;top:58%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:84.27947598253274%;height:83.84279475982532%;left:7.860262008733628%;top:8.078602620087338%;background-size:711.9170984455959% 596.3541666666667%;background-position:20.152413209144793% 76.60020986358866%\"></span></span></span></span>"
+    },
+    {
+      "type": "harquebusier",
+      "name": "Harquebusier",
+      "number": 21,
+      "category": "Firearm cavalry",
+      "rect": [
+        468,
+        738,
+        185,
+        185
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:80.78602620087337%;height:80.78602620087337%;left:9.606986899563317%;top:9.606986899563317%;background-size:742.7027027027027% 618.918918918919%;background-position:39.36080740117746% 76.875%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-7\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:39%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:80.78602620087337%;height:80.78602620087337%;left:9.606986899563317%;top:9.606986899563317%;background-size:742.7027027027027% 618.918918918919%;background-position:39.36080740117746% 76.875%\"></span></span></span><span class=\"formation-figure\" style=\"left:65%;top:58%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:80.78602620087337%;height:80.78602620087337%;left:9.606986899563317%;top:9.606986899563317%;background-size:742.7027027027027% 618.918918918919%;background-position:39.36080740117746% 76.875%\"></span></span></span></span>"
+    },
+    {
+      "type": "cuirassier",
+      "name": "Cuirassier",
+      "number": 22,
+      "category": "Firearm cavalry",
+      "rect": [
+        688,
+        727,
+        180,
+        197
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:78.60262008733623%;height:86.02620087336244%;left:10.698689956331883%;top:6.986899563318779%;background-size:763.3333333333334% 581.2182741116751%;background-position:57.6214405360134% 76.68776371308017%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-7\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:39%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:78.60262008733623%;height:86.02620087336244%;left:10.698689956331883%;top:6.986899563318779%;background-size:763.3333333333334% 581.2182741116751%;background-position:57.6214405360134% 76.68776371308017%\"></span></span></span><span class=\"formation-figure\" style=\"left:65%;top:58%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:78.60262008733623%;height:86.02620087336244%;left:10.698689956331883%;top:6.986899563318779%;background-size:763.3333333333334% 581.2182741116751%;background-position:57.6214405360134% 76.68776371308017%\"></span></span></span></span>"
+    },
+    {
+      "type": "carbineCavalry",
+      "name": "Carbine Cavalry",
+      "number": 23,
+      "category": "Firearm cavalry",
+      "rect": [
+        919,
+        730,
+        172,
+        193
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:75.10917030567686%;height:84.27947598253274%;left:12.445414847161572%;top:7.860262008733628%;background-size:798.8372093023256% 593.2642487046631%;background-position:76.4559068219634% 76.68067226890757%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-7\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:35%;top:39%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:75.10917030567686%;height:84.27947598253274%;left:12.445414847161572%;top:7.860262008733628%;background-size:798.8372093023256% 593.2642487046631%;background-position:76.4559068219634% 76.68067226890757%\"></span></span></span><span class=\"formation-figure\" style=\"left:65%;top:58%;width:61%;height:61%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:75.10917030567686%;height:84.27947598253274%;left:12.445414847161572%;top:7.860262008733628%;background-size:798.8372093023256% 593.2642487046631%;background-position:76.4559068219634% 76.68067226890757%\"></span></span></span></span>"
+    },
+    {
+      "type": "horseArtillery",
+      "name": "Horse Artillery",
+      "number": 24,
+      "category": "Mobile artillery",
+      "rect": [
+        1147,
+        755,
+        205,
+        163
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:89.51965065502183%;height:71.17903930131004%;left:5.240174672489083%;top:14.41048034934498%;background-size:670.2439024390244% 702.4539877300614%;background-position:98.1180496150556% 76.88391038696538%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-8\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:50%;top:52%;width:82%;height:82%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:89.51965065502183%;height:71.17903930131004%;left:5.240174672489083%;top:14.41048034934498%;background-size:670.2439024390244% 702.4539877300614%;background-position:98.1180496150556% 76.88391038696538%\"></span></span></span></span>"
+    },
+    {
+      "type": "lightArtillery",
+      "name": "Light Artillery",
+      "number": 25,
+      "category": "Mobile artillery",
+      "rect": [
+        16,
+        974,
+        181,
+        143
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:79.03930131004367%;height:62.44541484716157%;left:10.480349344978166%;top:18.777292576419214%;background-size:759.1160220994476% 800.6993006993007%;background-position:1.341156747694887% 97.2055888223553%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-8\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:50%;top:52%;width:82%;height:82%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:79.03930131004367%;height:62.44541484716157%;left:10.480349344978166%;top:18.777292576419214%;background-size:759.1160220994476% 800.6993006993007%;background-position:1.341156747694887% 97.2055888223553%\"></span></span></span></span>"
+    },
+    {
+      "type": "fieldArtillery",
+      "name": "Field Artillery",
+      "number": 26,
+      "category": "Mobile artillery",
+      "rect": [
+        228,
+        975,
+        180,
+        142
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:78.60262008733623%;height:62.00873362445415%;left:10.698689956331883%;top:18.995633187772924%;background-size:763.3333333333334% 806.338028169014%;background-position:19.09547738693467% 97.20837487537388%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-8\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:50%;top:52%;width:82%;height:82%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:78.60262008733623%;height:62.00873362445415%;left:10.698689956331883%;top:18.995633187772924%;background-size:763.3333333333334% 806.338028169014%;background-position:19.09547738693467% 97.20837487537388%\"></span></span></span></span>"
+    },
+    {
+      "type": "culverin",
+      "name": "Culverin",
+      "number": 27,
+      "category": "Siege artillery",
+      "rect": [
+        437,
+        973,
+        202,
+        144
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:88.20960698689956%;height:62.882096069869%;left:5.895196506550221%;top:18.5589519650655%;background-size:680.1980198019802% 795.1388888888889%;background-position:37.28668941979522% 97.2027972027972%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-9\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:50%;top:52%;width:82%;height:82%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:88.20960698689956%;height:62.882096069869%;left:5.895196506550221%;top:18.5589519650655%;background-size:680.1980198019802% 795.1388888888889%;background-position:37.28668941979522% 97.2027972027972%\"></span></span></span></span>"
+    },
+    {
+      "type": "royalArtillery",
+      "name": "Royal Artillery",
+      "number": 28,
+      "category": "Siege artillery",
+      "rect": [
+        665,
+        974,
+        194,
+        144
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:84.71615720524017%;height:62.882096069869%;left:7.641921397379917%;top:18.5589519650655%;background-size:708.2474226804123% 795.1388888888889%;background-position:56.355932203389834% 97.30269730269731%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-9\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:50%;top:52%;width:82%;height:82%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:84.71615720524017%;height:62.882096069869%;left:7.641921397379917%;top:18.5589519650655%;background-size:708.2474226804123% 795.1388888888889%;background-position:56.355932203389834% 97.30269730269731%\"></span></span></span></span>"
+    },
+    {
+      "type": "heavyArtillery",
+      "name": "Heavy Artillery",
+      "number": 29,
+      "category": "Siege artillery",
+      "rect": [
+        892,
+        974,
+        211,
+        143
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:92.13973799126637%;height:62.44541484716157%;left:3.930131004366814%;top:18.777292576419214%;background-size:651.1848341232228% 800.6993006993007%;background-position:76.69819432502149% 97.2055888223553%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-9\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:50%;top:52%;width:82%;height:82%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:92.13973799126637%;height:62.44541484716157%;left:3.930131004366814%;top:18.777292576419214%;background-size:651.1848341232228% 800.6993006993007%;background-position:76.69819432502149% 97.2055888223553%\"></span></span></span></span>"
+    },
+    {
+      "type": "siegeGun",
+      "name": "Siege Gun",
+      "number": 30,
+      "category": "Siege artillery",
+      "rect": [
+        1127,
+        968,
+        227,
+        150
+      ],
+      "portrait": "<span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:99.12663755458514%;height:65.50218340611353%;left:0.4366812227074277%;top:17.248908296943235%;background-size:605.2863436123348% 763.3333333333334%;background-position:98.256320836966% 97.28643216080401%\"></span></span>",
+      "formation": "<span class=\"battle-formation formation-9\" aria-hidden=\"true\"><span class=\"formation-figure\" style=\"left:50%;top:52%;width:82%;height:82%\"><span class=\"military-portrait\" aria-hidden=\"true\"><span class=\"military-paint\" style=\"width:99.12663755458514%;height:65.50218340611353%;left:0.4366812227074277%;top:17.248908296943235%;background-size:605.2863436123348% 763.3333333333334%;background-position:98.256320836966% 97.28643216080401%\"></span></span></span></span>"
+    }
+  ]
+}
