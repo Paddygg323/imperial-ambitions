@@ -1,0 +1,15 @@
+{
+  "approvalHashes": 7,
+  "approvalDefaults": 7,
+  "reviewOverridesPreserved": true,
+  "export": true,
+  "shipSourceTiles": 12,
+  "sourceTileWidths": [
+    120,
+    73,
+    50,
+    35
+  ],
+  "runtimeChanged": false,
+  "errors": []
+}

@@ -20,6 +20,11 @@ improvement to something already present, rather than a wholly missing feature.
 2. [ ] **Army and navy orders view overhaul.** Make selecting units, inspecting
    their situation, issuing orders and reviewing or cancelling orders clear and
    consistent with the original game's direct interaction.
+   The 26 November naval art audit found that the map and fleet/shipbuilding
+   portraits reuse one generic ship despite twelve library concepts. The
+   role/silhouette brief and integration acceptance checks are in
+   `VISUAL_DESIGN.md`. Audit only; new ship artwork and runtime integration remain
+   outstanding. This does not complete the orders-view work.
 3. [ ] **Contextual side-panel buttons.** Show the actual orders available to the
    selected unit. Explain unavailable orders and their requirements; keep the
    currently selected unit and its order obvious.
