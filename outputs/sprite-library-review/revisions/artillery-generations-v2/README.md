@@ -1,6 +1,8 @@
-# Artillery generations — draft 2
+# Artillery generations — approved set 2
 
-Library-only replacement proposals for all seven artillery units. Awaiting owner review.
+All seven designs approved by Paddy on 26 November 2026: "The new designs are all good".
+Approval covers Horse, Light, Field, Culverin, Royal, Heavy and Siege artillery.
+These approved source designs are saved in the library; runtime integration is pending.
 No runtime mappings, rules, costs, technology, saves, or live game artwork changed.
 
 The owner rejected the first pass because it reused the same cannon shape. Both upgrade
@@ -22,7 +24,8 @@ Critical original observations:
 
 Generation: built-in image_gen, one original PNG per unit, with true alpha.
 Full prompt set: prompts.json. Crop rectangles in catalog.json are preview-only.
-View artillery.html for both chains, actual-size previews, background comparison,
+The comparison.png and prompts.json preserve the original draft-stage record.
+View artillery.html for the current approval status, both chains, actual-size previews, background comparison,
 the current-game comparison toggle and separate persistent review notes.
 
 Known limits: static concept poses only; not animation-ready atlases. Source art

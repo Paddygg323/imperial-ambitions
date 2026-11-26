@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-26",
+  "quote": "The new designs are all good",
+  "scope": "Visual designs approved; static sprite library assets, not runtime integration or animation approval",
+  "units": [
+    {
+      "type": "horseArtillery",
+      "file": "horseArtillery.png",
+      "sha256": "81bfcf457d088481680eb2d227785a950d79284de179c3c6be4800b3829c18d0"
+    },
+    {
+      "type": "lightArtillery",
+      "file": "lightArtillery.png",
+      "sha256": "9755085b34c60a8a87e37b1801ae8c1ea85f54a844fc2a812c2b07dd7b68aefd"
+    },
+    {
+      "type": "fieldArtillery",
+      "file": "fieldArtillery.png",
+      "sha256": "8b2c67638927af807a48fa6716a777c8f3eabfe5819ea9626aaf4d4933213787"
+    },
+    {
+      "type": "culverin",
+      "file": "culverin.png",
+      "sha256": "a27624450f8d469139df795790fa01d45356ea0a548723ed14ba8658e08c8287"
+    },
+    {
+      "type": "royalArtillery",
+      "file": "royalArtillery.png",
+      "sha256": "22211e28eb6947fff618bfc4930c69ab89de254da01c34ea77e45ef81015c18f"
+    },
+    {
+      "type": "heavyArtillery",
+      "file": "heavyArtillery.png",
+      "sha256": "b5860bc497446adef9955a50dd7442152ff871634c4fa8ad8a4b1247095a1ba0"
+    },
+    {
+      "type": "siegeGun",
+      "file": "siegeGun.png",
+      "sha256": "06752f27249d22d06b73ec587ca6d9e15597a78d38b3407c85093d4f8dc62242"
+    }
+  ]
+}

@@ -1,6 +1,9 @@
 {
-  "revision": "Artillery generations · draft 2",
-  "status": "Awaiting owner review",
+  "revision": "Artillery generations · approved set 2",
+  "status": "Approved by owner",
+  "approvedDate": "2026-11-26",
+  "approvalQuote": "The new designs are all good",
+  "integration": "Sprite library only; runtime integration pending",
   "units": [
     {
       "type": "horseArtillery",
