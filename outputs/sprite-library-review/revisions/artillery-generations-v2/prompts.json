@@ -1,0 +1,57 @@
+{
+  "status": "Draft — awaiting owner review",
+  "mode": "Built-in image_gen",
+  "base": "Use case: stylized-concept. Asset: ONE new hand-painted pixel-art strategy game artillery sprite, true transparent background. Image 1 is the original game's animation strip: use ONLY its first idle gun/crew as a structural silhouette reference; do not redraw a strip, do not copy pixels. Image 2 is our CURRENT game atlas: match its painterly rendering, dark readable contours, warm upper-left light, restrained navy/cream/red clothing and 3/4 slightly overhead camera; ignore its incorrect repeated artillery designs. Create ONE complete isolated artillery piece with ONE gunner, pointed to screen-right, all wheels/barrel/crew inside generous 12% transparent margins. Strong silhouette readable at 80px, broad deliberate painted shapes, fine details subordinate, no glossy photorealism. The gun must dominate, crew small enough to show scale. No labels, no letters, no panels, no coloured background, no terrain tile, no opaque ground, no horizon, no smoke, no wide glow or diffuse haze; only a small contact shadow. This is a technological progression: construction and silhouette must match the unit-specific instruction.",
+  "units": [
+    {
+      "type": "horseArtillery",
+      "id": 3233,
+      "name": "Horse artillery",
+      "era": 2,
+      "detail": "EARLY MOBILE GUN. Short, small bright bronze smoothbore tube on a LOW slender reddish-brown timber carriage with two modest open wooden wheels and a thin single trail. Low nimble compact profile, no mechanical housing. Gunner in early wide-brim felt hat, russet buff jerkin and cream trousers crouched at the back, linstock held safely clear. No horse in this deployed battle pose, no modern uniform shako, no ornate heavy siege machinery. Relatively small gun."
+    },
+    {
+      "type": "lightArtillery",
+      "id": 3234,
+      "name": "Light artillery",
+      "era": 3,
+      "detail": "INTERMEDIATE LIGHT GUN, distinctly later than compact bronze horse artillery. Long straight DARK STEEL tube with restrained steel edge highlights, raised on TWO VERY TALL thin open spoked wheels, visibly airy beneath its axle. Navy-painted narrow carriage, a long narrow trailing timber beam behind. Barrel much slimmer and flatter than heavy artillery, and taller wheel silhouette than field artillery. Standing upright navy-coat gunner, cream breeches, tall black early military cap, holding a rammer vertically. Controlled straight engineering lines, no brass barrel, no blocky siege platform."
+    },
+    {
+      "type": "fieldArtillery",
+      "id": 3235,
+      "name": "Field artillery",
+      "era": 4,
+      "detail": "LATEST MOBILE FIELD GUN. Clearly industrial steel construction, a very long slim stepped gunmetal barrel with visible chunky breech behind the trunnions, on a LOW ANGULAR metal box-trail carriage. Two medium iron-rim open spoked wheels, compact geared elevation handwheel, squared metal cheeks instead of curving wooden cannon carriage. Metallic grey with restrained navy chassis. Low efficient long profile, noticeably more modern than the tall timber light gun. Short dark military cap, navy short tunic and grey trousers on the aiming gunner leaning over the breech. No Napoleonic bronze cannon, no huge decorative wheel, no horse, no modern rubber tyres, no tank. A plausible advanced industrial gun within the original game's stylised final technology era, not constrained to the calendar 1800."
+    },
+    {
+      "type": "culverin",
+      "id": 3236,
+      "name": "Culverin",
+      "era": 1,
+      "detail": "EARLIEST HEAVY GUN. Primitive LONG bronze tube angled upward about25 degrees, strongly banded and tapered, seated in a crude heavy solid timber trough/rectangular sled bed. Almost no visible wheels: very small low wooden rollers only. Thick exposed wood beams and primitive wedges; squat low solid bed with raised muzzle and tall solitary gunner. Gunner in simple padded russet Renaissance clothes and soft cap, long linstock, no military shako. Clearly medieval/early Renaissance primitive engineering. No elegant wheeled field carriage, no metal gearing, no modern machinery."
+    },
+    {
+      "type": "royalArtillery",
+      "id": 3237,
+      "name": "Royal artillery",
+      "era": 2,
+      "detail": "SECOND HEAVY GENERATION. Long substantial GOLDEN BRONZE cannon barrel almost horizontal, decorative raised bronze bands, mounted HIGH on a tall massive oxblood timber two-cheek carriage with TWO LARGE open oak spoked wheels and a broad rear trail. Bold tall square wooden siege-gun silhouette, barrel extends well beyond wheels. One royal gunner in wide-brim hat and blue long coat, buff trousers, at rear. Visually opposite of the primitive low sled and later low steel cradle; the largest traditional wood-wheel siege carriage in the chain. No steel or industrial gear housing."
+    },
+    {
+      "type": "heavyArtillery",
+      "id": 3238,
+      "name": "Heavy artillery",
+      "era": 3,
+      "detail": "THIRD HEAVY GENERATION, model strongly on first reference sprite: SHORT VERY THICK STEEL TUBE angled steeply upward about40 degrees on a LOW SHORT metal cradle, four SMALL travelling wheels mostly tucked under the bed. Very pronounced compact triangular silhouette: raised muzzle on top right, short low flat dark chassis beneath, circular trunnion pivot. Metallic grey, smooth steel broad collar and dark bore, riveted iron cheeks. This is an industrial high-angle heavy howitzer-looking piece, NOT another long horizontal wooden-wheel field cannon. Gunner in navy tunic, black military cap, grey trousers, operating elevation at left. No large wooden wagon wheels, no bronze, no ornate timber."
+    },
+    {
+      "type": "siegeGun",
+      "id": 3239,
+      "name": "Siege gun",
+      "era": 4,
+      "detail": "FINAL HEAVY TECHNOLOGY. Most modern looking of all: a MASSIVE LONG STEPPED GREY STEEL BARREL carried almost horizontally on a BROAD LOW RIVETED RECTANGULAR STEEL GIRDER/PLATFORM BASE with small partly hidden travelling rollers. Follow first reference: LARGE CLEAR CIRCULAR SIDE ELEVATION GEAR/trunnion housing at the centre, angled metal bracing, heavy blocky breech, long stepped muzzle right. The base looks like engineered industrial machinery, not a wooden cart. High steel highlights, dark navy-grey recesses, small brass gear accents. One small dark-uniform late-era capped operator left, bent into the controls. The modern gun machinery must dominate the silhouette, large disk at centre, long horizontal barrel over squat angular base. No large wooden wheels, no Napoleonic gun carriage, no bronze muzzle-loader decoration, no horse, no rubber tyres, no tank or WW2 truck."
+    }
+  ],
+  "referenceNote": "Original game sprites inspected read-only from Tactical.rsrc (3233–3239), kept only in ignored work/artillery-original-reference. They are silhouette references, not production artwork. Runtime and gameplay unchanged."
+}

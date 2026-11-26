@@ -1,0 +1,104 @@
+{
+  "revision": "Artillery generations · draft 2",
+  "status": "Awaiting owner review",
+  "units": [
+    {
+      "type": "horseArtillery",
+      "name": "Horse artillery",
+      "era": 2,
+      "branch": "mobile",
+      "file": "horseArtillery.png",
+      "crop": [
+        202,
+        220,
+        1305,
+        864
+      ],
+      "description": "Compact bronze tube · low timber carriage"
+    },
+    {
+      "type": "lightArtillery",
+      "name": "Light artillery",
+      "era": 3,
+      "branch": "mobile",
+      "file": "lightArtillery.png",
+      "crop": [
+        103,
+        117,
+        1429,
+        920
+      ],
+      "description": "Steel tube · tall open wheels · standing crew"
+    },
+    {
+      "type": "fieldArtillery",
+      "name": "Field artillery",
+      "era": 4,
+      "branch": "mobile",
+      "file": "fieldArtillery.png",
+      "crop": [
+        127,
+        185,
+        1687,
+        799
+      ],
+      "description": "Long steel barrel · breech · angular metal trail"
+    },
+    {
+      "type": "culverin",
+      "name": "Culverin",
+      "era": 1,
+      "branch": "heavy",
+      "file": "culverin.png",
+      "crop": [
+        131,
+        172,
+        1429,
+        894
+      ],
+      "description": "Banded bronze tube · primitive timber bed"
+    },
+    {
+      "type": "royalArtillery",
+      "name": "Royal artillery",
+      "era": 2,
+      "branch": "heavy",
+      "file": "royalArtillery.png",
+      "crop": [
+        99,
+        172,
+        1468,
+        924
+      ],
+      "description": "High bronze gun · tall wooden siege carriage"
+    },
+    {
+      "type": "heavyArtillery",
+      "name": "Heavy artillery",
+      "era": 3,
+      "branch": "heavy",
+      "file": "heavyArtillery.png",
+      "crop": [
+        184,
+        247,
+        1125,
+        1013
+      ],
+      "description": "Elevated steel tube · low compact cradle"
+    },
+    {
+      "type": "siegeGun",
+      "name": "Siege gun",
+      "era": 4,
+      "branch": "heavy",
+      "file": "siegeGun.png",
+      "crop": [
+        67,
+        317,
+        1512,
+        904
+      ],
+      "description": "Stepped steel barrel · gear housing · girder platform"
+    }
+  ]
+}
