@@ -136,6 +136,30 @@ Do not change movement, cargo, mission rules, costs, combat, discovery or saves.
 These are presentation constraints on existing events, not authorisation to
 change order behaviour or introduce new effects in this audit.
 
+### 27 November: main-map integration, version 0.2.66
+
+Paddy requested a distinct Fluyte, a stronger Galleon still subordinate to the
+Ship-of-the-Line, and matching main-map art. The current index is
+`outputs/sprite-library-review/revisions/ships-v2/catalog.json`; the other ten
+designs retain their version-one PNGs. Neither source set was overwritten.
+`scripts/pack-ships.py` creates the 1.35 MB transparent runtime atlas and source
+geometry in `game/ship-atlas.mjs`. Class IDs are explicit, rotation is disabled,
+and proportional scaling preserves complete rigs and waterline anchors.
+
+Mixed fleets display the selected ship class; with multiple selected ships (or
+none), the highest native firepower wins, followed by hull size, then stable
+fleet order. This is a display choice only. Counts, sea/port placement, pending
+destinations, strategic dots and simulation data retain their existing behavior.
+The ship owner's pennant is drawn separately. Click targets include the whole
+sprite as well as the previous minimum touch area.
+
+Headless checks render all twelve classes through the real map, assert the
+expected atlas regions and unchanged state, and inspect desktop, phone-sized
+and strategic views. Review notes survive reload; changed designs have their
+approval status reset without deleting old text. No physical Pixel check or
+owner acceptance is implied. Fleet-list, building/research/cabinet portraits
+and animations are not integrated by this change.
+
 ### 7.4 Composition and Gaze Guidance
 - Initial focal point: hull/rig silhouette, then nation marker, then fleet count.
 - Visual flow: ship, selected destination, contextual orders.

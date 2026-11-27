@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-27",
+  "designs": 12,
+  "hashesVerified": 12,
+  "previewCanvases": 48,
+  "notesPersistAndExport": true,
+  "colourGreyscaleSilhouette": true,
+  "backgrounds": [
+    "sea",
+    "parchment",
+    "dark"
+  ],
+  "responsiveWidths": [
+    1448,
+    915,
+    412,
+    360,
+    320
+  ],
+  "mainLibraryShipEntries": 26,
+  "gameFilesChanged": true,
+  "errors": [],
+  "failed": []
+}

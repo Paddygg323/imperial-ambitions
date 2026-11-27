@@ -1,0 +1,260 @@
+{
+  "revision": "Ships \u2014 Fluyte and Galleon refinement",
+  "date": "2026-11-27",
+  "status": "Awaiting owner review",
+  "integration": "Matching artwork used by main-map fleets",
+  "units": [
+    {
+      "type": "carrack",
+      "name": "Carrack",
+      "id": 49,
+      "family": "traders",
+      "stage": 1,
+      "scale": 0.78,
+      "description": "Rounded early hull, high castles at both ends and unequal sail heights.",
+      "file": "../ships-v1/carrack.png",
+      "width": 1536,
+      "height": 1024,
+      "crop": [
+        159,
+        0,
+        1412,
+        1024
+      ],
+      "sha256": "2192e375809b9f24613976a2b19bc07b59a719419dab06045b8d8f6a25a5a716",
+      "status": "Awaiting review",
+      "artRevision": 1
+    },
+    {
+      "type": "trader",
+      "name": "Trader",
+      "id": 53,
+      "family": "traders",
+      "stage": 2,
+      "scale": 0.82,
+      "description": "Low decks, two-masted working rig and open cargo space.",
+      "file": "../ships-v1/trader.png",
+      "width": 1536,
+      "height": 1024,
+      "crop": [
+        45,
+        35,
+        1491,
+        984
+      ],
+      "sha256": "d792cf70c1a55855cf26ccfd05d5ce88f46f723624c8e10de78c5d203e97e822",
+      "status": "Awaiting review",
+      "artRevision": 1
+    },
+    {
+      "type": "clipper",
+      "name": "Clipper",
+      "id": 57,
+      "family": "traders",
+      "stage": 3,
+      "scale": 1,
+      "description": "Long, slender hull below towering tiers of canvas.",
+      "file": "../ships-v1/clipper.png",
+      "width": 1774,
+      "height": 887,
+      "crop": [
+        48,
+        3,
+        1746,
+        869
+      ],
+      "sha256": "285f8994bdfad94744a55722ff0953e1607452994932a5bd404ef69052a3fe31",
+      "status": "Awaiting review",
+      "artRevision": 1
+    },
+    {
+      "type": "fluyte",
+      "name": "Fluyte",
+      "id": 50,
+      "family": "cargo",
+      "stage": 1,
+      "scale": 0.8,
+      "description": "Long low cargo hull, narrow working deck, modest sails and a high rounded stern.",
+      "file": "fluyte.png",
+      "width": 1774,
+      "height": 887,
+      "crop": [
+        46,
+        28,
+        1728,
+        870
+      ],
+      "sha256": "df43836e3a8e11aca527c6c4549a03ccaa44c41833535e56227c966233759069",
+      "status": "Awaiting review",
+      "artRevision": 2
+    },
+    {
+      "type": "indiaman",
+      "name": "Indiaman",
+      "id": 54,
+      "family": "cargo",
+      "stage": 2,
+      "scale": 1,
+      "description": "Substantial merchant hull with deckhouses, cargo hatches and a loading crane.",
+      "file": "../ships-v1/indiaman.png",
+      "width": 1536,
+      "height": 1024,
+      "crop": [
+        34,
+        0,
+        1509,
+        1006
+      ],
+      "sha256": "a09a43cc2dd100ce2d7900998463d51558961f57b959c16d7fe9f66417a87f31",
+      "status": "Awaiting review",
+      "artRevision": 1
+    },
+    {
+      "type": "merchantSteamship",
+      "name": "Merchant Steamship",
+      "id": 58,
+      "family": "cargo",
+      "stage": 3,
+      "scale": 1.05,
+      "description": "Broad paddle steamer with large cargo hatches and loading derricks.",
+      "file": "../ships-v1/merchantSteamship.png",
+      "width": 1774,
+      "height": 887,
+      "crop": [
+        36,
+        63,
+        1743,
+        804
+      ],
+      "sha256": "e50d75a5e585c67b5a2a747abf5daf68633b72924bf835379945b360075eee79",
+      "status": "Awaiting review",
+      "artRevision": 1
+    },
+    {
+      "type": "sloop",
+      "name": "Sloop",
+      "id": 51,
+      "family": "fast-war",
+      "stage": 1,
+      "scale": 0.55,
+      "description": "Compact single-masted warship with a triangular sail silhouette.",
+      "file": "../ships-v1/sloop.png",
+      "width": 1536,
+      "height": 1024,
+      "crop": [
+        145,
+        12,
+        1413,
+        1004
+      ],
+      "sha256": "42d6fa867516835c096d8647209fdb1de1b1ace8a6d5d600d7a520aa24568844",
+      "status": "Awaiting review",
+      "artRevision": 1
+    },
+    {
+      "type": "frigate",
+      "name": "Frigate",
+      "id": 55,
+      "family": "fast-war",
+      "stage": 2,
+      "scale": 0.94,
+      "description": "Long, lean fighting hull with one continuous gun-deck band.",
+      "file": "../ships-v1/frigate.png",
+      "width": 1774,
+      "height": 887,
+      "crop": [
+        43,
+        14,
+        1739,
+        872
+      ],
+      "sha256": "cc9cb50a1282b4595568ee62725c69c929831b8c26149cebe252ac2eeb8daa06",
+      "status": "Awaiting review",
+      "artRevision": 1
+    },
+    {
+      "type": "raider",
+      "name": "Raider",
+      "id": 59,
+      "family": "fast-war",
+      "stage": 3,
+      "scale": 0.94,
+      "description": "Low steam warship with a raked funnel, paddle machinery and forward pivot gun.",
+      "file": "../ships-v1/raider.png",
+      "width": 2172,
+      "height": 724,
+      "crop": [
+        57,
+        22,
+        2143,
+        693
+      ],
+      "sha256": "7dd9d7ffd96d984d5ff7674bf562e68c01bd58ab8114b489f118a8071608f3ba",
+      "status": "Awaiting review",
+      "artRevision": 1
+    },
+    {
+      "type": "galleon",
+      "name": "Galleon",
+      "id": 52,
+      "family": "battle",
+      "stage": 1,
+      "scale": 0.95,
+      "description": "Broad cream sails, substantial stepped stern and a single full broadside battery; lighter than the Ship-of-the-Line.",
+      "file": "galleon.png",
+      "width": 1536,
+      "height": 1024,
+      "crop": [
+        4,
+        11,
+        1536,
+        1014
+      ],
+      "sha256": "758a7360bb494c84e443ac34696ad815160ec3b4eb269483667bd96f199affb6",
+      "status": "Awaiting review",
+      "artRevision": 2
+    },
+    {
+      "type": "shipOfTheLine",
+      "name": "Ship-of-the-Line",
+      "id": 56,
+      "family": "battle",
+      "stage": 2,
+      "scale": 1.12,
+      "description": "Imposing hull with three stacked gun decks under a heavy square rig.",
+      "file": "../ships-v1/shipOfTheLine.png",
+      "width": 1536,
+      "height": 1024,
+      "crop": [
+        50,
+        0,
+        1520,
+        1024
+      ],
+      "sha256": "7e10d602edd510a0bd437725d973f10a3784e4e6f7c4e4b06cbe681adcbc6430",
+      "status": "Awaiting review",
+      "artRevision": 1
+    },
+    {
+      "type": "ironclad",
+      "name": "Ironclad",
+      "id": 60,
+      "family": "battle",
+      "stage": 3,
+      "scale": 1.08,
+      "description": "Riveted armoured battery, twin funnels and auxiliary masts with furled canvas.",
+      "file": "../ships-v1/ironclad.png",
+      "width": 1536,
+      "height": 1024,
+      "crop": [
+        0,
+        41,
+        1527,
+        938
+      ],
+      "sha256": "f8706e1799ed2c44f65a0f78066a1af1b9259f8af0638d9936ed738a674a5870",
+      "status": "Awaiting review",
+      "artRevision": 1
+    }
+  ]
+}

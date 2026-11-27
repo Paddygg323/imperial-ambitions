@@ -1,0 +1,23 @@
+{
+  "mode": "Built-in image_gen",
+  "date": "2026-11-27",
+  "status": "Requested refinements; awaiting review",
+  "jobs": [
+    {
+      "type": "fluyte",
+      "prompt": "Create ONE complete isolated hand-painted historical strategy-game ship sprite on true TRANSPARENT background, matching our supplied ship art exactly in rendering style: warm upper-left light, matte painted wood and ivory canvas, confident dark edges, visible brush texture, slightly elevated three-quarter side view with stern LEFT and bow RIGHT. Above-water hull only with flat waterline. Entire masts and bowsprit must fit with 8% transparent padding. NO water, hexagon, scene, glow, opaque background, flags, text, symbols, crew, ground shadow or photoreal 3D. This is a structural redesign; preserve painting language and camera, not the old silhouette. Image 1 is the current Fluyte to REDESIGN. Image 2 is the Carrack it must NOT resemble. Make a distinctly DUTCH-STYLE LONG BULK CARGO FLUYTE: an elongated light honey-oak hull with strongly inward-curving sides above a broad low belly, an extremely narrow open upper deck, NO FRONT CASTLE AT ALL, and a single conspicuous smoothly rounded PEAR/TEARDROP STERN left rising behind the deck. Low plain bow right with short thin bowsprit. The hull should be much longer and lower than the squat Carrack, while the tall rounded stern is narrow and distinctive, no rectangular fort towers. Three thin masts with modest NARROW rectangular square sails in two short tiers on the main and fore masts, small dark-cream triangular aft sail; avoid one enormous central sail. Sparse uncomplicated rigging, minimal one tiny gun port; cargo hatch on low open deck. NO rounded soup-bowl hull, no symmetrical castles, no ornate galleon transom. Make the elegant curved high stern plus long low working cargo deck the dominant silhouette.",
+      "refs": [
+        "C:/Users/paddy/Documents/Codex/2026-11-19/imperial-ambitions/outputs/sprite-library-review/revisions/ships-v1/fluyte.png",
+        "C:/Users/paddy/Documents/Codex/2026-11-19/imperial-ambitions/outputs/sprite-library-review/revisions/ships-v1/carrack.png"
+      ]
+    },
+    {
+      "type": "galleon",
+      "prompt": "Create ONE complete isolated hand-painted historical strategy-game ship sprite on true TRANSPARENT background, matching our supplied ship art exactly in rendering style: warm upper-left light, matte painted wood and ivory canvas, confident dark edges, visible brush texture, slightly elevated three-quarter side view with stern LEFT and bow RIGHT. Above-water hull only with flat waterline. Entire masts and bowsprit must fit with 8% transparent padding. NO water, hexagon, scene, glow, opaque background, flags, text, symbols, crew, ground shadow or photoreal 3D. This is a structural redesign; preserve painting language and camera, not the old silhouette. Image 1 is the Galleon to improve; image 2 is the heavier Ship-of-the-Line which must REMAIN visibly more powerful. Make the Galleon distinctly more impressive: a longer purposeful angular walnut hull, an elegant sweeping pointed beakhead right, THREE powerful masts with TWO broad billowing cream square sail tiers on fore/main and a smaller lateen mizzen aft. Strong stepped THREE-LEVEL sterncastle left with restrained aged-brass rail trim and a few carved timber details, replacing the awkward very skinny tower feel with a substantial integrated stern. ONE FULL long row of clearly visible broadside cannons, plus only a SHORT upper battery toward the stern. Increase sail coverage and hull presence over image 1 but keep the hull noticeably shallower and fewer gun rows than image 2. The Ship-of-the-Line's three uninterrupted gun decks and heavier broad hull must still dominate over this Galleon. Match same crisp painted sprite style; no fantasy gilding, no three full gun decks, no steam machinery.",
+      "refs": [
+        "C:/Users/paddy/Documents/Codex/2026-11-19/imperial-ambitions/outputs/sprite-library-review/revisions/ships-v1/galleon.png",
+        "C:/Users/paddy/Documents/Codex/2026-11-19/imperial-ambitions/outputs/sprite-library-review/revisions/ships-v1/shipOfTheLine.png"
+      ]
+    }
+  ]
+}

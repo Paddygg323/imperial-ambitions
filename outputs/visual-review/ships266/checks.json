@@ -1,0 +1,25 @@
+{
+  "version": "0.2.66",
+  "classesRendered": [
+    "carrack",
+    "trader",
+    "clipper",
+    "fluyte",
+    "indiaman",
+    "merchantSteamship",
+    "sloop",
+    "frigate",
+    "raider",
+    "galleon",
+    "shipOfTheLine",
+    "ironclad"
+  ],
+  "mainMapAtlasVerified": true,
+  "stateUnchanged": true,
+  "viewports": [
+    "1100x850 @2x",
+    "412x915 @2x"
+  ],
+  "errors": [],
+  "failed": []
+}

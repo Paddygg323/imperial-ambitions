@@ -1,6 +1,6 @@
 {
   "name": "imperial-ambitions",
-  "version": "0.2.65",
+  "version": "0.2.66",
   "private": true,
   "description": "Standalone strategy game and complete sprite-design handover",
   "type": "module",

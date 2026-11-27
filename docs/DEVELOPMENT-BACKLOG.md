@@ -25,7 +25,12 @@ improvement to something already present, rather than a wholly missing feature.
    role/silhouette brief and integration acceptance checks are in
    `VISUAL_DESIGN.md`. On 27 November twelve painted ship drafts were added to
    `outputs/sprite-library-review/ships.html`, with small-size comparisons and
-   per-ship review notes. Owner review and runtime integration remain outstanding.
+   per-ship review notes. Version 0.2.66 refines the Fluyte/Galleon at Paddy's
+   request and integrates all twelve painted classes into the main map, with
+   selected-class precedence in mixed fleets, owner pennants, full-sail click
+   targets and unchanged fleet orders. Evidence: `outputs/visual-review/ships266`.
+   The complete set still awaits owner acceptance; fleet-list, shipbuilding and
+   cabinet portraits, plus animations, remain separate work.
    This does not complete the orders-view work; gameplay is unchanged.
 3. [ ] **Contextual side-panel buttons.** Show the actual orders available to the
    selected unit. Explain unavailable orders and their requirements; keep the

@@ -765,6 +765,24 @@
       "height": 1024,
       "spriteCount": 1,
       "sha256": "f8706e1799ed2c44f65a0f78066a1af1b9259f8af0638d9936ed738a674a5870"
+    },
+    {
+      "id": 81,
+      "title": "Fluyte — revised painted review",
+      "path": "revisions/ships-v2/fluyte.png",
+      "width": 1774,
+      "height": 887,
+      "spriteCount": 1,
+      "sha256": "df43836e3a8e11aca527c6c4549a03ccaa44c41833535e56227c966233759069"
+    },
+    {
+      "id": 82,
+      "title": "Galleon — revised painted review",
+      "path": "revisions/ships-v2/galleon.png",
+      "width": 1536,
+      "height": 1024,
+      "spriteCount": 1,
+      "sha256": "758a7360bb494c84e443ac34696ad815160ec3b4eb269483667bd96f199affb6"
     }
   ],
   "sprites": [
@@ -4431,6 +4449,58 @@
       "relatedId": "060",
       "status": "Awaiting review",
       "revision": 1
+    },
+    {
+      "id": "050-ships-v2",
+      "number": 50,
+      "name": "Fluyte — revised painted review",
+      "category": "Ships",
+      "sheet": 81,
+      "image": "revisions/ships-v2/fluyte.png",
+      "sheetWidth": 1774,
+      "sheetHeight": 887,
+      "cell": [
+        0,
+        0,
+        1774,
+        887
+      ],
+      "preview": [
+        46,
+        28,
+        1682,
+        842
+      ],
+      "variant": true,
+      "relatedId": "050",
+      "status": "Awaiting review",
+      "revision": 2
+    },
+    {
+      "id": "052-ships-v2",
+      "number": 52,
+      "name": "Galleon — revised painted review",
+      "category": "Ships",
+      "sheet": 82,
+      "image": "revisions/ships-v2/galleon.png",
+      "sheetWidth": 1536,
+      "sheetHeight": 1024,
+      "cell": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "preview": [
+        4,
+        11,
+        1532,
+        1003
+      ],
+      "variant": true,
+      "relatedId": "052",
+      "status": "Awaiting review",
+      "revision": 2
     }
   ],
   "plainsPlacement": {
@@ -4457,7 +4527,7 @@
   },
   "shipReview": {
     "page": "ships.html",
-    "catalog": "revisions/ships-v1/catalog.json",
-    "scope": "12 new designs, awaiting review; not integrated into the game"
+    "catalog": "revisions/ships-v2/catalog.json",
+    "scope": "12 painted designs; refined Fluyte/Galleon; matching main-map fleet artwork"
   }
 }
