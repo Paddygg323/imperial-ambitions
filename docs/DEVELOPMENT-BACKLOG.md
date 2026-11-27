@@ -23,8 +23,10 @@ improvement to something already present, rather than a wholly missing feature.
    The 26 November naval art audit found that the map and fleet/shipbuilding
    portraits reuse one generic ship despite twelve library concepts. The
    role/silhouette brief and integration acceptance checks are in
-   `VISUAL_DESIGN.md`. Audit only; new ship artwork and runtime integration remain
-   outstanding. This does not complete the orders-view work.
+   `VISUAL_DESIGN.md`. On 27 November twelve painted ship drafts were added to
+   `outputs/sprite-library-review/ships.html`, with small-size comparisons and
+   per-ship review notes. Owner review and runtime integration remain outstanding.
+   This does not complete the orders-view work; gameplay is unchanged.
 3. [ ] **Contextual side-panel buttons.** Show the actual orders available to the
    selected unit. Explain unavailable orders and their requirements; keep the
    currently selected unit and its order obvious.

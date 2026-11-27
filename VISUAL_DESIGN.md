@@ -1,6 +1,6 @@
 # Naval visual direction
 
-26 November 2026. Scope: ship-library audit and next-artwork brief. No gameplay
+Updated 27 November 2026. Scope: ship-library audit and artwork review. No gameplay
 or runtime artwork is changed by this document. The existing menu, terrain and
 civilian design documents remain authoritative for their respective areas.
 
@@ -47,7 +47,9 @@ acceptance checks below.
 
 ## 3. Twelve distinct identities
 
-These are design targets, not approved replacement artwork. Families describe
+These are design targets, not approved replacement artwork. The twelve drafts
+now live in `outputs/sprite-library-review/revisions/ships-v1`, with a dedicated
+`ships.html` review page. Every design awaits owner review. Families describe
 roles and successive technology, not a new in-place upgrade mechanic.
 
 | Family | Ship | Structural identity required |
@@ -104,7 +106,9 @@ Do not change movement, cargo, mission rules, costs, combat, discovery or saves.
    layout, including selected/unselected and mixed-fleet states. Check no crop,
    anchor jump, unreadable hit target or baked water rectangle.
 6. Owner approval of concepts is separate from animation, runtime integration
-   and gameplay-regression verification. All three remain outstanding for ships.
+   and gameplay-regression verification. Those steps remain outstanding for
+   ships. The review page provides the small-size, greyscale and silhouette
+   comparisons; its availability is not a passed blind-recognition test.
 
 ## 7. AI-Generated Look Suppression Rules
 

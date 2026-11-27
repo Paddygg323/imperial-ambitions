@@ -657,6 +657,114 @@
       "height": 1254,
       "spriteCount": 4,
       "sha256": "2b6e81c7faef191e528b84604fc2093b895a024159effbb5d9acf7408d6860a8"
+    },
+    {
+      "id": 69,
+      "title": "Carrack — painted review",
+      "path": "revisions/ships-v1/carrack.png",
+      "width": 1536,
+      "height": 1024,
+      "spriteCount": 1,
+      "sha256": "2192e375809b9f24613976a2b19bc07b59a719419dab06045b8d8f6a25a5a716"
+    },
+    {
+      "id": 70,
+      "title": "Trader — painted review",
+      "path": "revisions/ships-v1/trader.png",
+      "width": 1536,
+      "height": 1024,
+      "spriteCount": 1,
+      "sha256": "d792cf70c1a55855cf26ccfd05d5ce88f46f723624c8e10de78c5d203e97e822"
+    },
+    {
+      "id": 71,
+      "title": "Clipper — painted review",
+      "path": "revisions/ships-v1/clipper.png",
+      "width": 1774,
+      "height": 887,
+      "spriteCount": 1,
+      "sha256": "285f8994bdfad94744a55722ff0953e1607452994932a5bd404ef69052a3fe31"
+    },
+    {
+      "id": 72,
+      "title": "Fluyte — painted review",
+      "path": "revisions/ships-v1/fluyte.png",
+      "width": 1536,
+      "height": 1024,
+      "spriteCount": 1,
+      "sha256": "ceed076243dff4c939b28adab7cc53dc29effdbde25ea5fcb4d5337bc7fa39c9"
+    },
+    {
+      "id": 73,
+      "title": "Indiaman — painted review",
+      "path": "revisions/ships-v1/indiaman.png",
+      "width": 1536,
+      "height": 1024,
+      "spriteCount": 1,
+      "sha256": "a09a43cc2dd100ce2d7900998463d51558961f57b959c16d7fe9f66417a87f31"
+    },
+    {
+      "id": 74,
+      "title": "Merchant Steamship — painted review",
+      "path": "revisions/ships-v1/merchantSteamship.png",
+      "width": 1774,
+      "height": 887,
+      "spriteCount": 1,
+      "sha256": "e50d75a5e585c67b5a2a747abf5daf68633b72924bf835379945b360075eee79"
+    },
+    {
+      "id": 75,
+      "title": "Sloop — painted review",
+      "path": "revisions/ships-v1/sloop.png",
+      "width": 1536,
+      "height": 1024,
+      "spriteCount": 1,
+      "sha256": "42d6fa867516835c096d8647209fdb1de1b1ace8a6d5d600d7a520aa24568844"
+    },
+    {
+      "id": 76,
+      "title": "Frigate — painted review",
+      "path": "revisions/ships-v1/frigate.png",
+      "width": 1774,
+      "height": 887,
+      "spriteCount": 1,
+      "sha256": "cc9cb50a1282b4595568ee62725c69c929831b8c26149cebe252ac2eeb8daa06"
+    },
+    {
+      "id": 77,
+      "title": "Raider — painted review",
+      "path": "revisions/ships-v1/raider.png",
+      "width": 2172,
+      "height": 724,
+      "spriteCount": 1,
+      "sha256": "7dd9d7ffd96d984d5ff7674bf562e68c01bd58ab8114b489f118a8071608f3ba"
+    },
+    {
+      "id": 78,
+      "title": "Galleon — painted review",
+      "path": "revisions/ships-v1/galleon.png",
+      "width": 1536,
+      "height": 1024,
+      "spriteCount": 1,
+      "sha256": "c38e9020b0ec9ff021475435cef12e9d3962dba945b999e9fa0c497b8c330271"
+    },
+    {
+      "id": 79,
+      "title": "Ship-of-the-Line — painted review",
+      "path": "revisions/ships-v1/shipOfTheLine.png",
+      "width": 1536,
+      "height": 1024,
+      "spriteCount": 1,
+      "sha256": "7e10d602edd510a0bd437725d973f10a3784e4e6f7c4e4b06cbe681adcbc6430"
+    },
+    {
+      "id": 80,
+      "title": "Ironclad — painted review",
+      "path": "revisions/ships-v1/ironclad.png",
+      "width": 1536,
+      "height": 1024,
+      "spriteCount": 1,
+      "sha256": "f8706e1799ed2c44f65a0f78066a1af1b9259f8af0638d9936ed738a674a5870"
     }
   ],
   "sprites": [
@@ -4011,6 +4119,318 @@
       "relatedId": null,
       "status": "Awaiting review",
       "revision": 0
+    },
+    {
+      "id": "049-ships-v1",
+      "number": 49,
+      "name": "Carrack — painted review",
+      "category": "Ships",
+      "sheet": 69,
+      "image": "revisions/ships-v1/carrack.png",
+      "sheetWidth": 1536,
+      "sheetHeight": 1024,
+      "cell": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "preview": [
+        159,
+        0,
+        1253,
+        1024
+      ],
+      "variant": true,
+      "relatedId": "049",
+      "status": "Awaiting review",
+      "revision": 1
+    },
+    {
+      "id": "053-ships-v1",
+      "number": 53,
+      "name": "Trader — painted review",
+      "category": "Ships",
+      "sheet": 70,
+      "image": "revisions/ships-v1/trader.png",
+      "sheetWidth": 1536,
+      "sheetHeight": 1024,
+      "cell": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "preview": [
+        45,
+        35,
+        1446,
+        949
+      ],
+      "variant": true,
+      "relatedId": "053",
+      "status": "Awaiting review",
+      "revision": 1
+    },
+    {
+      "id": "057-ships-v1",
+      "number": 57,
+      "name": "Clipper — painted review",
+      "category": "Ships",
+      "sheet": 71,
+      "image": "revisions/ships-v1/clipper.png",
+      "sheetWidth": 1774,
+      "sheetHeight": 887,
+      "cell": [
+        0,
+        0,
+        1774,
+        887
+      ],
+      "preview": [
+        48,
+        3,
+        1698,
+        866
+      ],
+      "variant": true,
+      "relatedId": "057",
+      "status": "Awaiting review",
+      "revision": 1
+    },
+    {
+      "id": "050-ships-v1",
+      "number": 50,
+      "name": "Fluyte — painted review",
+      "category": "Ships",
+      "sheet": 72,
+      "image": "revisions/ships-v1/fluyte.png",
+      "sheetWidth": 1536,
+      "sheetHeight": 1024,
+      "cell": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "preview": [
+        153,
+        3,
+        1277,
+        1015
+      ],
+      "variant": true,
+      "relatedId": "050",
+      "status": "Awaiting review",
+      "revision": 1
+    },
+    {
+      "id": "054-ships-v1",
+      "number": 54,
+      "name": "Indiaman — painted review",
+      "category": "Ships",
+      "sheet": 73,
+      "image": "revisions/ships-v1/indiaman.png",
+      "sheetWidth": 1536,
+      "sheetHeight": 1024,
+      "cell": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "preview": [
+        34,
+        0,
+        1475,
+        1006
+      ],
+      "variant": true,
+      "relatedId": "054",
+      "status": "Awaiting review",
+      "revision": 1
+    },
+    {
+      "id": "058-ships-v1",
+      "number": 58,
+      "name": "Merchant Steamship — painted review",
+      "category": "Ships",
+      "sheet": 74,
+      "image": "revisions/ships-v1/merchantSteamship.png",
+      "sheetWidth": 1774,
+      "sheetHeight": 887,
+      "cell": [
+        0,
+        0,
+        1774,
+        887
+      ],
+      "preview": [
+        36,
+        63,
+        1707,
+        741
+      ],
+      "variant": true,
+      "relatedId": "058",
+      "status": "Awaiting review",
+      "revision": 1
+    },
+    {
+      "id": "051-ships-v1",
+      "number": 51,
+      "name": "Sloop — painted review",
+      "category": "Ships",
+      "sheet": 75,
+      "image": "revisions/ships-v1/sloop.png",
+      "sheetWidth": 1536,
+      "sheetHeight": 1024,
+      "cell": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "preview": [
+        145,
+        12,
+        1268,
+        992
+      ],
+      "variant": true,
+      "relatedId": "051",
+      "status": "Awaiting review",
+      "revision": 1
+    },
+    {
+      "id": "055-ships-v1",
+      "number": 55,
+      "name": "Frigate — painted review",
+      "category": "Ships",
+      "sheet": 76,
+      "image": "revisions/ships-v1/frigate.png",
+      "sheetWidth": 1774,
+      "sheetHeight": 887,
+      "cell": [
+        0,
+        0,
+        1774,
+        887
+      ],
+      "preview": [
+        43,
+        14,
+        1696,
+        858
+      ],
+      "variant": true,
+      "relatedId": "055",
+      "status": "Awaiting review",
+      "revision": 1
+    },
+    {
+      "id": "059-ships-v1",
+      "number": 59,
+      "name": "Raider — painted review",
+      "category": "Ships",
+      "sheet": 77,
+      "image": "revisions/ships-v1/raider.png",
+      "sheetWidth": 2172,
+      "sheetHeight": 724,
+      "cell": [
+        0,
+        0,
+        2172,
+        724
+      ],
+      "preview": [
+        57,
+        22,
+        2086,
+        671
+      ],
+      "variant": true,
+      "relatedId": "059",
+      "status": "Awaiting review",
+      "revision": 1
+    },
+    {
+      "id": "052-ships-v1",
+      "number": 52,
+      "name": "Galleon — painted review",
+      "category": "Ships",
+      "sheet": 78,
+      "image": "revisions/ships-v1/galleon.png",
+      "sheetWidth": 1536,
+      "sheetHeight": 1024,
+      "cell": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "preview": [
+        38,
+        31,
+        1476,
+        954
+      ],
+      "variant": true,
+      "relatedId": "052",
+      "status": "Awaiting review",
+      "revision": 1
+    },
+    {
+      "id": "056-ships-v1",
+      "number": 56,
+      "name": "Ship-of-the-Line — painted review",
+      "category": "Ships",
+      "sheet": 79,
+      "image": "revisions/ships-v1/shipOfTheLine.png",
+      "sheetWidth": 1536,
+      "sheetHeight": 1024,
+      "cell": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "preview": [
+        50,
+        0,
+        1470,
+        1024
+      ],
+      "variant": true,
+      "relatedId": "056",
+      "status": "Awaiting review",
+      "revision": 1
+    },
+    {
+      "id": "060-ships-v1",
+      "number": 60,
+      "name": "Ironclad — painted review",
+      "category": "Ships",
+      "sheet": 80,
+      "image": "revisions/ships-v1/ironclad.png",
+      "sheetWidth": 1536,
+      "sheetHeight": 1024,
+      "cell": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "preview": [
+        0,
+        41,
+        1527,
+        897
+      ],
+      "variant": true,
+      "relatedId": "060",
+      "status": "Awaiting review",
+      "revision": 1
     }
   ],
   "plainsPlacement": {
@@ -4034,5 +4454,10 @@
     "developmentProposal": "revisions/015-development-r1/levels-1-4.png",
     "developmentStatus": "Awaiting review",
     "scope": "Sprite library only"
+  },
+  "shipReview": {
+    "page": "ships.html",
+    "catalog": "revisions/ships-v1/catalog.json",
+    "scope": "12 new designs, awaiting review; not integrated into the game"
   }
 }

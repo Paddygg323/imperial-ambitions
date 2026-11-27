@@ -1,0 +1,143 @@
+{
+  "mode": "Built-in image_gen",
+  "date": "2026-11-27",
+  "status": "Awaiting owner review; library only",
+  "base": "Use case: stylized-concept. Asset: ONE complete isolated ship sprite for Imperial Ambitions, a hand-painted historical strategy game. Reference image 1 is approved ART STYLE only: match its warm upper-left lighting, matte painted wood and metal, strong dark contours and broad readable shapes. Draw a ship, no gunner or land artillery. If reference image 2 is present it is our approved CAMERA/RENDERING anchor for this naval set, not a ship silhouette to copy. Camera: elevated three-quarter SIDE view, stern left and bow pointed screen-right, see broad near hull side and deck from above; waterline roughly horizontal. Entire ship, masts, sails, bowsprit inside generous 8% transparent margins on ALL four sides, nothing cut off. Cohesive polished painted sprite, neither photo nor smooth 3D model nor vector icon. Cream canvas, warm oak, cool charcoal iron, subtle muted brass; readable at small game sizes. Genuine transparent background, no scenery, sea, hexagon, base, border, labels, lettering, sail symbols, national flags, crew figures, smoke clouds, glow or drop-shadow halo. Show the above-water hull only with flat waterline, no underwater keel. No modern motor yacht or twentieth-century weapons. Distinguish the ship through hull, sail plan and machinery. Main request: ",
+  "referenceStyle": "../artillery-generations-v2/horseArtillery.png",
+  "referenceCamera": "carrack.png",
+  "units": [
+    {
+      "type": "carrack",
+      "name": "Carrack",
+      "id": 49,
+      "family": "traders",
+      "stage": 1,
+      "scale": 0.78,
+      "source": "exec-d8628705-f932-4934-b0ee-08eb3d48ee47.png",
+      "description": "Rounded early hull, high castles at both ends and unequal sail heights.",
+      "detail": "EARLY EXPLORATION MERCHANT. A SHORT deep round-bellied chestnut wooden hull with conspicuously HIGH CASTLES AT BOTH ENDS, blunt rounded bow on the right, compact short bowsprit, rising stern deck left. Three unequal masts: very tall central square sail, smaller square foresail right, small triangular lateen mizzen left. The high end castles and bowl-shaped hull are its unmistakable outline; few tiny defensive ports only. Simple early timber railings, no ornate gold carving. Not an elongated war galleon."
+    },
+    {
+      "type": "trader",
+      "name": "Trader",
+      "id": 53,
+      "family": "traders",
+      "stage": 2,
+      "scale": 0.82,
+      "source": "exec-0380f0c1-694f-4b23-97ca-bd4863590e90.png",
+      "description": "Low decks, two-masted working rig and open cargo space.",
+      "detail": "PRACTICAL SAILING TRADER. Medium long shallow warm-oak hull with very LOW FORE AND AFT DECKS, two moderately tall masts, simple cream square topsails combined with broad fore-and-aft canvas. A conspicuous OPEN CARGO DECK between masts with two dark hatch gratings and modest stacked covered cargo. Flat low stern, short modest bowsprit. No castle towers, no continuous cannon row, no third mast, no towering clipper rig. A broad practical merchant hull, clearly bigger than a tiny sloop."
+    },
+    {
+      "type": "clipper",
+      "name": "Clipper",
+      "id": 57,
+      "family": "traders",
+      "stage": 3,
+      "scale": 1,
+      "source": "exec-8a5339aa-6b3f-49b1-859e-22dd5899524c.png",
+      "description": "Long, slender hull below towering tiers of canvas.",
+      "detail": "LATE FAST CLIPPER. Exceptionally LONG NARROW razor-bowed dark walnut hull, very low freeboard, long elegant bowsprit thrust to right. THREE extremely tall slender masts with MULTIPLE NARROW TIERS of ivory square sails tapering upward, plus forward jibs. Distinct tall triangular overall canvas mass above an exceptionally slim hull. Plain merchant rail, tiny cargo hatches; no gun batteries, no towers, no steam machinery. Fast, elegant and visibly much sleeker than a broad Indiaman."
+    },
+    {
+      "type": "fluyte",
+      "name": "Fluyte",
+      "id": 50,
+      "family": "cargo",
+      "stage": 1,
+      "scale": 0.8,
+      "source": "exec-9708f29d-1f1f-4b2f-8e2b-e5c05c4b31cc.png",
+      "description": "Bulging cargo belly, narrow upper deck and rounded stern.",
+      "detail": "EARLY BULK CARGO FLUYTE. Distinctive PEAR-SHAPED BULGING oak hull wider below than at deck, very NARROW UPPER DECK from strong tumblehome, tall smoothly ROUNDED spoon-shaped stern on LEFT, modest low bow right. Three slim masts with restrained small square cream sails and a small lateen aft sail. Rig noticeably modest above the visibly massive round cargo belly. One or two small ports only, no battle gun deck, no front castle, no ornate gilding. Compact heavy-bellied merchant silhouette."
+    },
+    {
+      "type": "indiaman",
+      "name": "Indiaman",
+      "id": 54,
+      "family": "cargo",
+      "stage": 2,
+      "scale": 1,
+      "source": "exec-f79794bc-0a3a-4741-b917-01f68442d195.png",
+      "description": "Substantial merchant hull with deckhouses, cargo hatches and a loading crane.",
+      "detail": "LARGE OCEAN CARGO INDIAMAN. BIG broad full-bodied reddish oak hull with moderately high stern, three substantial masts with broad full cream canvas. Wide visible working deck with raised hatch covers, cargo handling beams and a low substantial deckhouse. Deep cargo belly, only a sparse short row of small defensive gunports; NO multiple stacked gun batteries. Broad merchant superstructure and cargo hatches must distinguish it from a ship-of-the-line. No crests, no VOC lettering, no company markings."
+    },
+    {
+      "type": "merchantSteamship",
+      "name": "Merchant Steamship",
+      "id": 58,
+      "family": "cargo",
+      "stage": 3,
+      "scale": 1.05,
+      "source": "exec-972c3038-23b1-4261-b29c-e92f14a6e98f.png",
+      "description": "Broad paddle steamer with large cargo hatches and loading derricks.",
+      "detail": "LATE BULK CARGO PADDLE STEAMSHIP. Long BROAD high-sided dark iron and warm timber merchant hull, ONE large central black funnel with muted ochre collar, prominent ROUND SIDE PADDLE-WHEEL HOUSING amidships with visible radial paddle edges. Two small auxiliary masts, one small simple cream sail aft, vast OPEN CARGO FOREDECK with large rectangular hatch covers and two loading derricks, raised stern cargo deckhouse. Stubby broad paddle boxes and cargo volume dominate. No guns, no fancy passenger decks, no ornate gold, no smoke plume. Clearly broad working freighter, not narrow combat raider."
+    },
+    {
+      "type": "sloop",
+      "name": "Sloop",
+      "id": 51,
+      "family": "fast-war",
+      "stage": 1,
+      "scale": 0.55,
+      "source": "exec-67b6691f-686d-46cd-947c-5d9e16588f4d.png",
+      "description": "Compact single-masted warship with a triangular sail silhouette.",
+      "detail": "SMALL EARLY NAVAL SLOOP. One SINGLE dominant mast, ONE large triangular gaff/lateen-like cream mainsail and a small triangular jib forward, compact low walnut hull with short pointed bowsprit right and low stern left. Two or three tiny cannon openings only on one side. Light nimble simple vessel, no elevated castles, no cargo house, no extra masts, no multiple tiers of square sails. Its ONE MAST and triangular sails must make it instantly distinct from every bigger ship."
+    },
+    {
+      "type": "frigate",
+      "name": "Frigate",
+      "id": 55,
+      "family": "fast-war",
+      "stage": 2,
+      "scale": 0.94,
+      "description": "Long, lean fighting hull with one continuous gun-deck band.",
+      "detail": "FAST SAILING FRIGATE. LONG LEAN low black-brown wooden hull with exactly ONE crisp continuous warm-ochre GUN-DECK BAND across the near side and a clear row of dark cannon ports. Three slender masts with airy separated square cream sails, moderate rig height, pointed long bow right, low practical stern left. Exposed upper fighting deck, no cargo crates or raised hatch buildings. Sleek horizontal hull and single battery distinguish from massive high-sided line-of-battle ship; sails less towering and hull deeper than clipper.",
+      "source": "exec-7c7f46ca-b02a-4fe9-9560-0ba0e73d24fc.png"
+    },
+    {
+      "type": "raider",
+      "name": "Raider",
+      "id": 59,
+      "family": "fast-war",
+      "stage": 3,
+      "scale": 0.94,
+      "source": "exec-d1df36d8-5eb0-478f-8a05-1bc64e003a90.png",
+      "description": "Low steam warship with a raked funnel, paddle machinery and forward pivot gun.",
+      "detail": "FAST EARLY STEAM WAR RAIDER. Very LONG LEAN LOW dark navy-grey hull, a prominent narrow raked funnel, a visible compact SIDE PADDLE WHEEL and low rounded paddlebox amidships. Two modest raked auxiliary masts with two sparse small triangular cream sails, not a full square rig. Low open fighting foredeck, one conspicuous long pivot gun pointing toward bow and small broadside ports. Minimal deckhouse aft, no cargo hatches or crates. Funnel and slim hull drive a severe fast-warship outline; clearly leaner and lower than the bulky cargo steamer. No smoke cloud, no modern destroyer."
+    },
+    {
+      "type": "galleon",
+      "name": "Galleon",
+      "id": 52,
+      "family": "battle",
+      "stage": 1,
+      "scale": 0.95,
+      "source": "exec-05207af8-5566-4f5a-9833-9087247e28af.png",
+      "description": "High stepped stern, long beakhead and a substantial early gun battery.",
+      "detail": "EARLY HEAVY WAR GALLEON. Long substantial angular oak hull with a VERY LONG pointed BEAKHEAD/BOWSPRIT right, low bow castle, and a TALL THREE-STEP RISING STERNCASTLE left. Three masts with uneven cream square sail heights and small lateen aft sail. One strong long broadside gun-deck row plus a short upper stern battery. Modest aged gold edge accents only. The asymmetry of high stair-step stern and long low beakhead is essential. Do not make a short round Carrack with matching high castles at both ends."
+    },
+    {
+      "type": "shipOfTheLine",
+      "name": "Ship-of-the-Line",
+      "id": 56,
+      "family": "battle",
+      "stage": 2,
+      "scale": 1.12,
+      "description": "Imposing hull with three stacked gun decks under a heavy square rig.",
+      "detail": "HEAVY LINE-OF-BATTLE SHIP. Massive WIDE DEEP TALL black-and-oak hull with THREE STRONGLY SEPARATED HORIZONTAL GUN-DECK BANDS and many dark cannon ports. Tall broad squared transom stern left, sturdy bow and bowsprit right, three powerful masts carrying a full broad cream square rig. Ship has imposing vertical hull mass underneath its sails; multiple battery rows are the focal feature. No cargo boxes, no merchant hatch-house, no tiny single battery. Restrained brass rails, no excessive gold fantasy ornament.",
+      "source": "exec-122b16f9-5c12-41b0-92c4-3b098d984bd0.png"
+    },
+    {
+      "type": "ironclad",
+      "name": "Ironclad",
+      "id": 60,
+      "family": "battle",
+      "stage": 3,
+      "scale": 1.08,
+      "description": "Riveted armoured battery, twin funnels and auxiliary masts with furled canvas.",
+      "detail": "FINAL INDUSTRIAL ARMOURED WARSHIP. Long broad powerful EARLY BROADSIDE IRONCLAD, charcoal riveted iron armour belt and faceted low central armoured battery housing, horizontal dark gunports and heavy projecting guns. Two thick plain black funnels amidships, two bare auxiliary masts with simplified cross-yards and furled cream canvas, no full billowing sail wall. Sharp reinforced ram bow right, broad squared armoured stern left. Low severe iron superstructure and broad armour plates dominate. Historically inspired early industrial armoured steam warship with auxiliary rig, NOT a tiny American monitor, NOT a twentieth-century battleship, no giant modern rotating turret. Matte painted steel facets, restrained highlights, not shiny silver.",
+      "source": "exec-1ace6490-ba88-4ff1-bf34-370daae364e9.png"
+    }
+  ],
+  "firstAssetPromptNote": "Carrack used referenceStyle alone and 'generous transparent margins' instead of the later explicit 8% margin wording. It established the camera/rendering anchor; it is not owner-approved yet."
+}
